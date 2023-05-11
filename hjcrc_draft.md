@@ -1,4 +1,5 @@
 # The History of the Judeo-Christian Religion and How It Effects Civilization---Part 1 
+
 ![](media/image1.png){width="1.5in" height="1.42in"}Civilization began
 as a natural order. All this changed when the religions of Judaism and
 Christianity started. Civilization moved from group-evolution and
@@ -36,6 +37,7 @@ get protection. (Note: a number of Christians appear mostly ignorant of
 it). I have yet to find anyone who has any lasting knowledge or overview
 on what is happening. These systems have altered the natural order all
 around the planet.
+
 ## Why I May Be Listened Of
 
 I am one of the people that lacked knowing what these systems were doing
