@@ -1,0 +1,1 @@
+pandoc.exe -f markdown -t docx --reference-doc=reference.docx .\hjcrc_draft.md -o .\hjcrc_draft.docx
