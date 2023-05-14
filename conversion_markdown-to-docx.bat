@@ -8,7 +8,7 @@
 :: --variable=indent
 :: markdown to docx convert blank lines to paragraph
 
-pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --wrap=none --indent=2 -o .\hjcrc.docx
+pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --wrap=none --variable indent=2 -o .\hjcrc.docx
 :: --reference-doc=template.docx    : template of styles (allowed) to import
 ::                                  : (File > Options > Ribbon > Developer;Dev > DocTemplt > Organizer...)
 :: --wrap=none                      : editor should wrap lines
