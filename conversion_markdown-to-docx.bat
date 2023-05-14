@@ -9,7 +9,7 @@
 
 :::: Template building (original style of hjcrc.docx import to template)
 ::::    > Generate allowable style template:
-::::      pandoc --print-default-data-file reference.docx --variable indent2 -o template.docx 
+::::      pandoc --print-default-data-file reference.docx --variable indent2m -o template.docx 
 ::::    > Word-and-hjcrc.docx: File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > 
 ::::        Organizer > Copy allowable styles to right and save
 ::::    > Word-and-tmple.docx: Organizer > copy styles to left.
