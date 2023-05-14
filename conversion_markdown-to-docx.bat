@@ -6,10 +6,9 @@
 :: Blank lines convert to paragraphs with indents
 :: FAIL: docx+empty_paragraphs      : paragraph with indents---erroneous tip
 :: --variable=indent
-:: oops?!: --variable indent=
 :: markdown to docx convert blank lines to paragraph
 
-pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --wrap=none --variable=indent -o .\hjcrc.docx
+pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --wrap=none --indent=2 -o .\hjcrc.docx
 :: --reference-doc=template.docx    : template of styles (allowed) to import
 ::                                  : (File > Options > Ribbon > Developer;Dev > DocTemplt > Organizer...)
 :: --wrap=none                      : editor should wrap lines
