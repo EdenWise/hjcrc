@@ -11,8 +11,9 @@
 ::::    > Generate allowable style template:
 ::::      -V KEY[=VAL],           --variable=KEY[:VAL]
 ::::      -V KEY[:SUBKEY][=VAL],  --variable=KEY[:SUBKEY][:=VAL]  :: -V geometry:margin=1in
-::::      pandoc --print-default-data-file reference.docx -V indent=2m -o template.docx 
-::::      pandoc --print-default-data-file reference.docx --variable=indent:2m -o template.docx 
+:: -V indent appears to be failing... diffed normal output and one with variable.
+::::      pandoc -o template.docx -V indent=2m          --print-default-data-file reference.docx   
+::::      pandoc -o template.docx --variable=indent:2m  --print-default-data-file reference.docx  
 ::::    > Word-and-hjcrc.docx: File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > 
 ::::        Organizer > Copy allowable styles to right and save
 ::::    > Word-and-tmple.docx: Organizer > copy styles to left.
