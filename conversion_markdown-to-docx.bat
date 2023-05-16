@@ -20,10 +20,11 @@
 ::::        Organizer > Copy allowable styles to right and save
 ::::      > Word-and-tmple.docx: Organizer > copy styles to left.
 
-.\pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --wrap=none --output .\hjcrc.docx
+.\pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --dpi=220 --wrap=none --output .\hjcrc.docx
 :: FAIL:  --variable=indent:2m    .\pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --variable=indent:2m --wrap=none --output .\hjcrc.docx
 ::        --wrap=none                      : editor should wrap lines
-::        svgs require librsvg
+::        svgs require librsvg. Converts to png!? Something like?
+::            rsvg-convert --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
 
 :: docx with paragraph indents
 :: FAIL :: docx-md :: --preserve-tabs                   : fails because docx is paragraphs with indents.
