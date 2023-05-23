@@ -19,7 +19,7 @@ The Bible is more instructions of how to execute their religion than it is a his
 
 The "secret of Heaven" comes from before the Bible was written. The beginning of the Bible is a steep ledge absent knowing the secret. It is also important because the secret makes the Bible and society progressively drift over time.
 
-Judaism started because of an environmental threat. The area the religion started in was the Tigris-Euphrates rivers of present-day Iraq---this is where Abraham was from (Gen 11:28-31). The area is surrounded by a lot of desert. Because living in the area was risky (droughts, etc.) it sometimes created desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection (the first rewardee given to by the first Hebrew). The desperate man took care of him well. The Hebrew highly valued the protection. The rewarding grew to be periodic (possibly whenever able) for continued protection. A desperate man being constantly rewarded allows him the luxury of always being able to use his sexual hormone for answers. This turns out to be very powerful it creates an immobility of feeling. The protection the Hebrew and desperate person got formed a discrete and symbiotic relationship that came to be known as the "secret of Heaven". Both are well rewarded and protected to this day.
+Judaism started because of an environmental threat. The area the religion started in was the Tigris-Euphrates rivers of present-day Iraq---this is where Abraham was from (Gen 11:28-31). The area is surrounded by a lot of desert. Because living in the area was risky (droughts, etc.) it sometimes created desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection (the first rewardee given to by the first Hebrew). The desperate man took care of him well. The Hebrew highly valued the protection. The rewarding grew to be periodic (possibly whenever able) for continued protection. ~~A desperate man being constantly rewarded allows him the luxury of always being able to use his sexual hormone for answers.~~ A desperate man being constantly rewarded makes it harder for people to give guilt to, a social conscience; absent of guilt the reward becomes pleasure. It gives these guys immobility of feeling—this turns out to be very powerful. The protection the Hebrew and desperate person got formed a discrete and symbiotic relationship that came to be known as the "secret of Heaven". Both are well rewarded and protected to this day.
 
 ## Heaven Creation: A Male-Ruled, Discrete, Inclusion
 
@@ -234,13 +234,15 @@ Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. 
 
 • Saved-people/gods... your perspective is going to give you divisiveness simply by position; by default we want to feel righteous/good-with-nature so a higher perspective will overlook feeling guilty.
 
+• mortal/immortal
+
 • Deperates, How Did They Become So?
 
--   They lose faith in people and subordinate the less fortunate to feel stronger
+-   > They lose faith in people and subordinate the less fortunate to feel stronger
 
--   They need confidence in themselves so they use powerful tools if available.
+-   > They need confidence in themselves so they use powerful tools if available.
 
--   They need confidence and focus entirely on themselves (narcissism), others needs they fail to realize as part of something that they may work with (and becoming less necessary as heavenly people progressively reward desperates to get protection).
+-   > They need confidence and focus entirely on themselves (narcissism), others needs they fail to realize as part of something that they may work with (and becoming less necessary as heavenly people progressively reward desperates to get protection).
 
 • Heaven become too obvious.
 
