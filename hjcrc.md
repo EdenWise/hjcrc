@@ -254,7 +254,11 @@ Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. 
 
 • Bible: Ruth *her* story, Samuel *his* story?!
 
-• Curse God—done by Harry Reid with Jesus and "Why hast though forsaken me?", also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")
+• Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?", also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")
+
+• By default we want to be righteous, good with nature and others—only an equal perspective can accomplish that. To help perspectives like "beauty" and "being saved" should be left behind.
+
+• If we do a thing that hurts another, societies/groups make us feel guilty—survival requires us to move together as one. If we fail to provide that feeling, guilt becomes reward/pleasure.
 
 ## Politics of the Right and how it has Influenced Me
 
