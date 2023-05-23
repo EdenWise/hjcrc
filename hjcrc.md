@@ -230,9 +230,7 @@ Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. 
 
 • We have to go through evolution all together else we will become ignorant of the people left behind.
 
-• Hardness and softness are hardly male and female attributes! Hardness comes from people who are safe/protected because they have a history of having used the flood (1). The second group is soft from timidity/conservativeness created by being on a lower perspective from saved people (somewhat some people of the right and certainly the people of Eden).
-
-• Hardness and softness are hardly male and female attributes! They are because the first group (the Jews) got to exercise the secret of heaven (and flood) and felt its production-protection. The second group, starting with the wives are submissive/conservative because they inherited the protection, got to "rest" when they ruled (a "golden age"—were they got (a luxury) to be passionate. (The gret two,  the flooders had to rest)
+• Hardness and softness are hardly male and female attributes! They are because the first group (the Jews) got to exercise the secret of heaven (and flood) and felt its production and got audacious. The second group, starting with the wives, inherited the protection, and learned submissiveness/conservativeness as a way to survive. (Softness/submissiveness... becomes passion during their allowed/fooled rule—the great Jewish two, the flooders had to rest)
 
 • Saved-people/gods... your perspective is going to give you divisiveness simply by position; by default we want to feel righteous/good-with-nature so a higher perspective will overlook feeling guilty.
 
