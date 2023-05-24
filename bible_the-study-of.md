@@ -1,15 +1,17 @@
 # Bible—The Study Of
 
-*Note: The Bible mars history sometimes for the purpose of placing newer rules in and also to make it sound spiritual/righteous.*
-*Note: The Hebrews being so protected by their desperates develop further protections like this. They have become very cerebral \[SB\]. They love their religion.*
+*Note:* The Bible mars history for the purpose of having newer rules consistent throughtout (backwriting) and also to make it sound spiritual/righteous.
+*Note:* The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their [manipulations] and secrets.
 
 ## Genesis
 
+1     **♂ generally, divining-dividing, productive, instructed, included**
 1     Demonstrates the duality, the heavenly secret, all the way through.
-1:1   Audacious: heaven/earth
+1:1   Audacious: heaven/earth; more duality: day/night, sea/sky, land/sea, sun/moon
 1:5   (x6) "And there was evening, and there was morning"---dawn to dusk?
 (In their artificial world they *make* these things happen.)
 1:28  godspeak: mankind will have dominion over all the animals. *Yikes, twoish over nature.*
+2:2   audacious
 3:1   serpent=Satan=head desperate=testosterone-y=organizer-of-flood; godly, stubborn, selfish
 3:5   sexual-hormone need/selfishness\>sin\>divinity\
 3:9   naked=natural
