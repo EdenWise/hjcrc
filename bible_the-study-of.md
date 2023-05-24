@@ -1,4 +1,4 @@
-# The Bible—The Study Of
+# Bible—The Study Of
 
 *Note: The Bible mars history sometimes for the purpose of placing newer rules in and also to make it sound spiritual/righteous.*
 *Note: The Hebrews being so protected by their desperates develop further protections like this. They have become very cerebral \[SB\]. They love their religion.*
