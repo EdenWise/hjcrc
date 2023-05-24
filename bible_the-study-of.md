@@ -1,7 +1,7 @@
 # Bible—The Study Of
 
 *Note:* The Bible mars history for the purpose of having newer rules consistent throughtout (backwriting) and also to make it sound spiritual/righteous.
-*Note:* The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their [manipulations] and secrets.
+*Note:* The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their artifice and secrets.
 
 ## Genesis
 
