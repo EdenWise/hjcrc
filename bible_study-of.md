@@ -1,12 +1,11 @@
-# Study of Bible
+# The Bible—Study Of
 
 ### Genesis
 
-1:1 Audacious: heaven/earth
-
-1 Demonstrates the duality, the heavenly secret, all the way through.
-
-1:5 (x6) "And there was evening, and there was morning"---dawn to dusk? (In their artificial world they *make* these things happen.)
+1     Demonstrates the duality, the heavenly secret, all the way through.
+1:1   Audacious: heaven/earth
+1:5   (x6) "And there was evening, and there was morning"---dawn to dusk?
+(In their artificial world they *make* these things happen.)
 
 1:28 godspeak: mankind will have dominion over all the animals. *Yikes, twoish over nature.*
 
