@@ -27,5 +27,5 @@
   15  "seven": female domain (Eve proof)
   17  Cain "made love": Enoch/Irad/Mehujael/Methushael/Lamach + Adah (planned corruption, an ode-to/protection-for Adam) & Zillah
   20 Jabal and Jubal: historical alteration to promote Hebrew code as always being the same.
-  Jabal: father=son of Abel?
-  Jubal as musician (corruption of Cain?)
+    Jabal: father=son of Abel?
+    Jubal as musician (corruption of Cain?)
