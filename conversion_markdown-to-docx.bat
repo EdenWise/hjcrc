@@ -1,7 +1,7 @@
-:: Conversion: Markdown to Microsoft-Word.
-
 :: Print everything: off
 @echo off
+
+:: About: Convert text from Markdown to Microsoft-Word.
 
 :::: Conversion: Microsoft-Word to Markdown.
 :::: .\pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md
