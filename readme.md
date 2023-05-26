@@ -56,6 +56,9 @@ Import matching styles from existing document to `template.docx`:
 			• Indentation: 	Special: First Line; By: 0.2"
 			• Spacing:			Before and After: 0pt; Line spacing: single
 	+ Headings require this to?
+			• Yes, but minor... leaving for now:
+					* they are: Paragraph > Spacing > Before: 2 pt
+					*																	Line spacing: Multiple: 1.08
 
 ##### To Do
 
