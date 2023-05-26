@@ -265,7 +265,7 @@ Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. 
 
 • Zero people go back to Eden, the Bible states as-if fact (Gen 3:24).
 
-![](jewish-code.svg)
+![](images/jewish-code.svg)
 
 ## Politics of the Right and how it has Influenced Me
 
