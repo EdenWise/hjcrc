@@ -14,12 +14,12 @@ I started originally with a Microsoft-Word document and I converted it to Markdo
 
 Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still looks pretty good. (*Note: I may be able to do more with:* [Pandoc User's Guide/Input](https://pandoc.org/MANUAL.html#input)).
 
-	I first generated a template then I imported the matching styles from my existing `docx` document.
+I first generated a template then I imported the matching styles from my existing `docx` document.
 
 Template generate of default settings:
 
 >     .\pandoc.exe --output template.docx --print-default-data-file reference.docx
->			mv reference.docx template.docx
+> mv reference.docx template.docx
 
 *Variable setting failed (FYI: variables only work on templates)*
 
@@ -28,7 +28,7 @@ Template generate of default settings:
     .\pandoc.exe --output template.docx -V indent=2m           --print-default-data-file reference.docx   
     .\pandoc.exe --output template.docx --variable=indent:2in  --print-default-data-file reference.docx
 
-`template.docx` import existing styles from existing document:
+Import existing styles from existing document to `template.docx`:
 
   Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > Organizer > Copy allowable styles to right and save.
 
