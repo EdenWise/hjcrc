@@ -41,7 +41,7 @@ Import matching styles from existing document to `template.docx`:
 ##### Things to do after conversion:
 
 * Images: 
-	! *Must be manually aligned, even basic {align=right} fails.*
+	* *Must be manually aligned, even basic {align=right} fails.*
 	+ Right-Click > Size and Position >
 	+ Tab---Text Wrapping
 		• Wrapping style:			Tight
