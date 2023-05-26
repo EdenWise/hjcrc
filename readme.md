@@ -36,7 +36,7 @@ Import matching styles from existing document to `template.docx`:
 
 ##### Things to do before conversion:
 
-* SVG: fonts: Object to Path. (rsvg-convert makes fonts off skew)
+* SVG: fonts: Object to Path. (rsvg-convert renders them poorly)
 
 ##### Things to do after conversion:
 

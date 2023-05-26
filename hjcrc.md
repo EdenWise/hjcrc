@@ -315,6 +315,6 @@ Harry Reid things that happen to me after he is here.
 
 Erasing instinct
 
-[^1]: #  <http://tinyurl.com/HJCR1> \| [Git](https://github.com/EdenWise/hjcrc) \| [@](mailto:toddpartridge@outlook.com)
+[^1]: <http://tinyurl.com/HJCR1> \| [Git](https://github.com/EdenWise/hjcrc) \| [@](mailto:toddpartridge@outlook.com)
 
 [^2]: John 3:16 describes the messiahs well, "\[a\] begotten Son, that whosoever believeth in Him should not perish, but have *everlasting life*."
