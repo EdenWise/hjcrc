@@ -3,8 +3,8 @@
 
 <svg
    width="1.5in"
-   height="1.3126801in"
-   viewBox="0 0 38.100002 33.342072"
+   height="1.4229826in"
+   viewBox="0 0 38.100002 36.143754"
    version="1.1"
    id="svg532"
    inkscape:version="1.3-alpha (4127b5831, 2023-04-12)"
@@ -34,15 +34,15 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
-     inkscape:zoom="1.1516964"
-     inkscape:cx="58.609194"
-     inkscape:cy="-34.297232"
+     inkscape:zoom="6.0099705"
+     inkscape:cx="71.963747"
+     inkscape:cy="68.303164"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="g1665"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -51,56 +51,56 @@
      width="8in"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="20.705499,207.25238"
+       position="20.705499,276.60963"
        orientation="-1,0"
        id="guide1529"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-63.793514,185.69261"
+       position="-63.793511,255.04986"
        orientation="0,1"
        id="guide903"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-88.439056,141.35057"
+       position="-88.439052,210.70783"
        orientation="0,1"
        id="guide905"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-70.583612,97.008514"
+       position="-70.583609,166.36578"
        orientation="0,1"
        id="guide907"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-108.30638,74.838122"
+       position="-108.30638,144.19539"
        orientation="0,1"
        id="guide2201"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-101.01331,119.18297"
+       position="-101.01331,188.54023"
        orientation="0,1"
        id="guide2203"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-62.284603,163.52222"
+       position="-62.2846,232.87948"
        orientation="0,1"
        id="guide2205"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="-95.983613,207.86377"
+       position="-95.983609,277.22102"
        orientation="0,1"
        id="guide2207"
        inkscape:label=""
@@ -1463,7 +1463,7 @@
      id="layer23"
      inkscape:label="scrap; and notes: bgs: 23%,"
      style="display:none"
-     transform="translate(-80.894593,-25.761903)">
+     transform="translate(-80.894593,-92.449097)">
     <g
        inkscape:groupmode="layer"
        id="layer12"
@@ -1620,8 +1620,8 @@
      inkscape:groupmode="layer"
      id="g1665"
      inkscape:label="era—eden"
-     style="display:none;opacity:1"
-     transform="translate(-80.894508,-31.402169)">
+     style="display:inline;opacity:1"
+     transform="translate(-80.894508,-98.089363)">
     <path
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1.2192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 97.607366,8.5251754 49.413136,92.207532 1.2189376,175.88969 a 4.6245299,4.6245299 59.969243 0 0 4.0074405,6.93249 h 96.3735519 96.37353 a 4.6245294,4.6245294 120.03075 0 0 4.00744,-6.93249 L 153.78668,92.207512 105.59247,8.5251758 a 4.6073486,4.6073486 2.9632203e-6 0 0 -7.985104,-4e-7 z"
@@ -1648,86 +1648,100 @@
     <text
        xml:space="preserve"
        style="font-size:2.96333px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
-       x="93.90065"
-       y="129.41316"
+       x="93.900642"
+       y="129.51216"
        id="text39019"
        inkscape:label="workers"><tspan
          sodipodi:role="line"
          id="tspan39017"
          style="font-size:2.96333px;stroke-width:0.0496066"
-         x="93.90065"
-         y="129.41316"
+         x="93.900642"
+         y="129.51216"
          dy="1.1249388">workers...</tspan></text>
     <text
        xml:space="preserve"
+       style="display:inline;opacity:1;font-size:2.96333px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.254;fill:#f9f9f9;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none"
+       x="95.299835"
+       y="121.30428"
+       id="text4"
+       inkscape:label="experts (outline)"
+       transform="translate(7.3810405e-7)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:2.96333px;stroke-width:0.254;fill:#f9f9f9;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none"
+         x="95.299835"
+         y="121.30428"
+         dy="1.1249388">experts</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-size:2.96333px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
-       x="95.299828"
-       y="120.71553"
+       x="95.299835"
+       y="121.30428"
        id="text35011"
        inkscape:label="experts"><tspan
          sodipodi:role="line"
          id="tspan35009"
          style="font-size:2.96333px;stroke-width:0.0496066"
-         x="95.299828"
-         y="120.71553"
+         x="95.299835"
+         y="121.30428"
          dy="1.1249388">experts</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.96333px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
        x="96.092758"
-       y="112.98419"
+       y="112.99242"
        id="text32981"
        inkscape:label="elders"><tspan
          sodipodi:role="line"
          id="tspan32979"
          style="font-size:2.96333px;stroke-width:0.0496066"
          x="96.092758"
-         y="112.98419"
+         y="112.99242"
          dy="1.1249388">elders</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.96333px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
        x="99.734703"
-       y="103.26169"
+       y="103.17881"
        id="text24881"
        inkscape:label="chief"><tspan
          sodipodi:role="line"
          id="tspan24879"
          style="font-size:2.96333px;text-align:center;text-anchor:middle;stroke-width:0.0496066"
          x="99.734703"
-         y="103.26169"
+         y="103.17881"
          dy="2.6248572">chief</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.96333px;line-height:1.05;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#a6a6a6;fill-opacity:1;stroke:#000000;stroke-width:0.0496066;stroke-opacity:1"
+       style="font-size:2.96333px;line-height:1.05;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:#000000;stroke-width:0.0496066;stroke-opacity:1"
        x="99.896027"
-       y="134.04942"
+       y="134.18103"
        id="text151"
        inkscape:label="caption—Civilization's natural order"><tspan
          sodipodi:role="line"
-         style="font-size:2.96333px;text-align:center;text-anchor:middle;fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:0.0496066;stroke-opacity:1"
+         style="font-size:2.96333px;text-align:center;text-anchor:middle;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0.0496066;stroke-opacity:1"
          x="99.896027"
-         y="134.04942"
+         y="134.18103"
          id="tspan1">Civilization's natural order</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.96333px;line-height:1.05;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:0.0496066;stroke-opacity:1"
-       x="99.944511"
-       y="117.88259"
+       x="99.859863"
+       y="118.16549"
        id="text2"
        inkscape:label="caption—Eden originally"><tspan
          sodipodi:role="line"
          style="font-size:2.96333px;text-align:center;text-anchor:middle;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.0496066;stroke-opacity:1"
-         x="99.944511"
-         y="117.88259"
-         id="tspan2">(Eden originally)</tspan></text>
+         x="99.859863"
+         y="118.16549"
+         id="tspan2">Eden originally</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g32353"
      inkscape:label="era—heaven"
      style="display:none;opacity:1"
-     transform="translate(-80.894593,-25.761903)">
+     transform="translate(-80.894593,-92.449097)">
     <g
        inkscape:groupmode="layer"
        id="g21"
@@ -1989,8 +2003,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="era—gold"
-     style="display:inline"
-     transform="translate(-80.894593,-25.761903)">
+     style="display:none"
+     transform="translate(-80.894593,-92.449097)">
     <g
        inkscape:groupmode="layer"
        id="layer29"
@@ -2207,8 +2221,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="era—new heaven (error: clean up)"
-     style="display:inline"
-     transform="translate(-80.894591,-75.503584)">
+     style="display:none"
+     transform="translate(-80.894591,-142.19078)">
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -2404,8 +2418,8 @@
      inkscape:groupmode="layer"
      id="g1940"
      inkscape:label="new heaven (left and right)"
-     style="display:inline"
-     transform="matrix(0.46223011,0,0,0.46223011,-106.78284,-14.770119)">
+     style="display:none"
+     transform="matrix(0.46223011,0,0,0.46223011,-106.78284,-81.457313)">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.517469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 268.22986,156.98684 -18.16635,31.46503 -18.16633,31.46495 a 4.6187986,4.6187986 60.000019 0 0 4,6.9282 h 36.33268 36.33267 a 4.6187975,4.6187975 119.99998 0 0 3.99999,-6.9282 l -18.16633,-31.46495 -18.16633,-31.46503 a 4.6188018,4.6188018 1.1192556e-5 0 0 -8,0 z"
@@ -2474,7 +2488,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="arrows">
+     inkscape:label="arrows"
+     style="display:none"
+     transform="translate(8.0449428e-7,-66.687194)">
     <g
        id="g1"
        inkscape:label="arrows"
@@ -2496,8 +2512,8 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="era—Jews"
-     style="display:inline"
-     transform="translate(-80.894593,-25.761903)">
+     style="display:none"
+     transform="translate(-80.894593,-92.449097)">
     <g
        id="layer3"
        inkscape:label="domain jews"
