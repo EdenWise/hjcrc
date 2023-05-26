@@ -6,7 +6,9 @@ Things to do before conversion:
 
 Things to do after conversion:
 
-* Images: Right-Click > Size and Position
+* Images: 
+	! *Must be manually aligned, even basic {align=right} fails.*
+	+ Right-Click > Size and Position >
 	+ Tab---Text Wrapping
 		• Wrapping style:			Tight
 		• Wrap text:					Left only
