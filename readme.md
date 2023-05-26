@@ -30,9 +30,9 @@ Template generate of default settings:
 
 Import matching styles from existing document to `template.docx`:
 
-	Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > Organizer > Copy allowable styles to right and save.
+* Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > Organizer > Copy allowable styles to right and save.
 
-	Microsoft Word open `template.docx`  > Word-and-tmple.docx: Organizer > copy styles to left.
+* Microsoft Word open `template.docx`  > Word-and-tmple.docx: Organizer > copy styles to left.
 
 ##### Things to do before conversion:
 
