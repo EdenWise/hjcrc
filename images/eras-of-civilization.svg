@@ -34,15 +34,15 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
-     inkscape:zoom="6.5149785"
-     inkscape:cx="72.064704"
-     inkscape:cy="63.00865"
+     inkscape:zoom="6.5149783"
+     inkscape:cx="72.064706"
+     inkscape:cy="63.008652"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g32353"
+     inkscape:current-layer="layer19"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -127,120 +127,6 @@
        only_selected="false"
        hide_knots="false"
        nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <rect
-       x="-70.043503"
-       y="-11.340377"
-       width="264.83115"
-       height="157.43111"
-       id="rect2" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect22"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect10"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect13"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect32402"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect32361"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect32357"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect1944"
@@ -279,42 +165,6 @@
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect373"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect267"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
        id="path-effect1677"
        is_visible="true"
        lpeversion="1"
@@ -331,60 +181,6 @@
        only_selected="false"
        hide_knots="false"
        nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1669"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2694"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2056"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
     <marker
        style="overflow:visible"
        id="TriangleOutL"
@@ -392,390 +188,16 @@
        refY="0"
        orient="auto"
        inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker543"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path541" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker547"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path545" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker551"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
        inkscape:isstock="true"
-       viewBox="0 0 8.519053 9.8486161"
-       markerWidth="8.5190525"
-       markerHeight="9.8486156"
+       viewBox="0 0 8.51905296 9.84861614"
+       markerWidth="8.51905251"
+       markerHeight="9.84861561"
        preserveAspectRatio="xMidYMid">
       <path
          transform="scale(0.8)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path549" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker555"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path553" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker559"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path557" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker22815"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
-         id="path22813" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Lend"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
-         id="path7011" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path6993" />
-    </marker>
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect373-6"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect267-0"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1677-8"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1669-2"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2694-0"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2056-1"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-55" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28855"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28853" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28859"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28857" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28855-1"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28853-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28859-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28857-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29508"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29506" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29512"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29510" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-4-6"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-1-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29653"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29651" />
+         id="path28414" />
     </marker>
     <marker
        style="overflow:visible"
@@ -793,338 +215,6 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="marker22815-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
-         id="path22813-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Lend-8"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
-         id="path7011-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend-9"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path6993-3" />
-    </marker>
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect373-5"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect267-9"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1677-0"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1669-8"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2694-2"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2056-6"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-43"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28855-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28853-7" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28859-71"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28857-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-0-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-5-3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28855-1-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28853-0-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28859-7-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28857-5-8" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-4-2"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-1-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29508-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29506-8" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29512-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29510-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-4-6-6"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-1-0-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29653-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29651-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29657-8"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29655-9" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker22815-9"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
-         id="path22813-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="Arrow2Lend-1"
        refX="0"
        refY="0"
@@ -1136,20 +226,6 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
          id="path7011-3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path6993-1" />
     </marker>
     <inkscape:path-effect
        effect="fillet_chamfer"
@@ -1189,42 +265,6 @@
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect1677-7"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1669-4"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
        id="path-effect2694-4"
        is_visible="true"
        lpeversion="1"
@@ -1241,150 +281,6 @@
        only_selected="false"
        hide_knots="false"
        nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2056-3"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-2"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-6" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28855-6"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28853-73" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28859-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28857-8" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-0-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-5-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28855-1-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28853-0-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker28859-7-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28857-5-3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="TriangleOutL-4-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path28414-1-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29508-49"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29506-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29512-1"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29510-1" />
-    </marker>
     <marker
        style="overflow:visible"
        id="TriangleOutL-4-6-2"
@@ -1399,70 +295,6 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path28414-1-0-4" />
     </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29653-1"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29651-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker29657-9"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutL"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path29655-7" />
-    </marker>
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect267-4-5"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1677-81"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect1677-2"
@@ -2244,20 +1076,24 @@
        transform="translate(2.791344e-5,-1.8339912e-5)"
        style="display:inline">
       <path
-         style="fill:none;stroke:#404040;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-4-6-2)"
-         d="m 108.81255,49.513963 1.32099,-2.288021"
-         id="path28270-4"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92;marker-end:url(#TriangleOutL-4-6-2)"
+         style="fill:none;fill-opacity:1;stroke:#bfbfbf;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92000002;marker-end:url(#TriangleOutL)"
          d="m 105.93368,54.50031 1.32099,-2.288019"
          id="path28765-5"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:label="bottom" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-4-6-2)"
+         style="display:inline;fill:none;stroke:#808080;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+         d="m 108.81255,49.513963 1.32099,-2.288021"
+         id="path28270-4"
+         sodipodi:nodetypes="cc"
+         inkscape:label="middle"
+         transform="translate(1.2727558e-6)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
          d="m 111.69142,44.527616 1.32099,-2.288008"
          id="path28771-6"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="cc"
+         inkscape:label="top" />
     </g>
     <text
        xml:space="preserve"
@@ -2563,61 +1399,74 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer13"
-     inkscape:label="era—Jews"
-     style="display:none"
-     transform="translate(-80.894593,-25.761903)">
-    <g
-       id="layer3"
-       inkscape:label="domain jews"
-       style="display:inline"
-       transform="matrix(0.2451196,0,0,0.2451196,75.060484,-7.0888214)">
-      <text
-         xml:space="preserve"
-         style="font-size:14.1111px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.9906;stroke-miterlimit:4;stroke-dasharray:none"
-         x="99.357292"
-         y="-25.152121"
-         id="text4881"><tspan
-           sodipodi:role="line"
-           id="tspan4879"
-           style="font-size:14.1111px;stroke-width:0.9906;stroke-miterlimit:4;stroke-dasharray:none"
-           x="99.357292"
-           y="-25.152121">1</tspan></text>
-      <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.2192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-1)"
-         d="m 114.27635,-28.507638 c 0,0 40.07055,-0.258635 63.27015,18.6028845"
-         id="path6955"
-         sodipodi:nodetypes="cc" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:1.2192;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:2.4384, 2.4384;stroke-dashoffset:1.70688;stroke-opacity:1"
-         id="path9684"
-         cx="101.59293"
-         cy="-28.380173"
-         r="7.6200004" />
-      <text
-         xml:space="preserve"
-         style="font-size:10.5833px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
-         id="text15237"
-         transform="translate(3.1750002,-3.7041669)"><textPath
-           xlink:href="#path6955"
-           id="textPath19873"><tspan
-             id="tspan15235"
-             style="stroke-width:0.264583">50 years-$</tspan></textPath></text>
-      <path
-         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.2192;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-1)"
-         d="m 88.733024,-28.656036 c 0,0 -40.07055,-0.258635 -63.27015,18.602885"
-         id="path27230"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-size:10.5833px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
-         id="text27254"
-         transform="rotate(-21.31956,92.037827,172.15288)"><textPath
-           xlink:href="#path6955"
-           id="textPath27252"><tspan
-             id="tspan27250"
-             style="stroke-width:0.264583">50 years-$</tspan></textPath></text>
-    </g>
+     id="g7"
+     style="display:inline"
+     transform="translate(-80.894593,-25.761903)"
+     inkscape:label="era—Jews">
+    <text
+       xml:space="preserve"
+       style="font-size:3.45891px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.242815;stroke-miterlimit:4;stroke-dasharray:none"
+       x="99.391533"
+       y="-13.252752"
+       id="text4881"
+       inkscape:label="1"><tspan
+         sodipodi:role="line"
+         id="tspan4879"
+         style="font-size:3.45891px;stroke-width:0.242815;stroke-miterlimit:4;stroke-dasharray:none"
+         x="99.391533"
+         y="-13.252752">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.29885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-1)"
+       d="m 103.07186,-14.076602 c 0,0 9.82207,-0.0634 15.50875,4.5599314"
+       id="path6955"
+       sodipodi:nodetypes="cc"
+       inkscape:label="arrow (right)" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.29885;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:0.5977, 0.5977;stroke-dashoffset:0.41839;stroke-opacity:1"
+       id="path9684"
+       cx="99.941322"
+       cy="-14.045358"
+       r="1.8678114"
+       inkscape:label="circle" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.59417px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.0648545"
+       id="text15237"
+       transform="rotate(1.2442606,149.97556,32.402588)"
+       inkscape:label="50 years (right)"><textPath
+         xlink:href="#path6955"
+         id="textPath19873"
+         style="stroke-width:0.0648545"><tspan
+           id="tspan15235"
+           style="stroke-width:0.0648545">50 years-$</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.29885;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-1)"
+       d="m 96.810687,-14.112977 c 0,0 -9.822077,-0.0634 -15.508754,4.5599312"
+       id="path27230"
+       sodipodi:nodetypes="cc"
+       inkscape:label="arrow (left)" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.59417px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.0648545"
+       id="text27254"
+       transform="rotate(-22.343228,97.463238,32.76175)"
+       inkscape:label="50 years (left)"><textPath
+         xlink:href="#path6955"
+         id="textPath27252"
+         style="stroke-width:0.0648545"><tspan
+           id="tspan27250"
+           style="stroke-width:0.0648545">50 years-$</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.59417px;display:inline;fill:#b3b3b3;stroke-width:0.264583"
+       x="86.43145"
+       y="-10.009379"
+       id="text4"
+       inkscape:label="1970-2020, 2020-2070"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.59417px;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#b3b3b3;stroke-width:0.264583"
+         x="86.43145"
+         y="-10.009379"
+         id="tspan6">1970-2020       2020-2070</tspan></text>
   </g>
 </svg>
