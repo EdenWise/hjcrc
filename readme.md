@@ -2,7 +2,7 @@
 
 This is a life work for me...
 
-I decided to write this document in markdown for easy editing and for collaboration (if anybody wants to help). These are the steps needed to build the Microsoft Word document.
+I decided to write this document in markdown for collaboration (if anybody wants to help). These are the steps needed to build the Microsoft Word document.
 
 ##### Original Conversion
 
