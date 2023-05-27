@@ -40,8 +40,8 @@ Import matching styles from existing document to `template.docx`:
 
 ##### Things to do after conversion:
 
-* Images: 
-	* *Must be manually aligned, even basic {align=right} fails.*
+* Images:
+	* *markdown image attributes (width, align, others?) fail recognition, must be manually aligned.*
 	+ Right-Click > Size and Position >
 	+ Tab---Text Wrapping
 		• Wrapping style:			Tight
