@@ -87,6 +87,8 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • Section: Beauty Myth—right built from beauty methodology: vain, superficial, guilt avoiding.
 
+• Section: Misnomers/relabeling (6,3)--- errors by both heavens. Attributing heavens actions as Eden's: huge sin.
+
 • The two shapes put together form the Star of David... a physical representation about how these societies formed.
 
 • The war of the right has become combative and scares the people left behind
@@ -95,35 +97,31 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • The Jews behavior appears?! to represents their angel (another's behavior). This removal helps them being amused at being called evil.
 
-\+ Saved feel it is more about avoiding Jews that listening to poor.
+\+ The saved, the right, feel it is more about fighting or avoiding the Jews than listening to the poor, or getting an overview, or getting back to Eden.
 
 \+ Christians are about getting "saved", Grand Mistresses/Masters say "It hardly matters how you get here."
 
-\+ Those that follow the great two-ism live rich lives---an algorithm invested in heavily by both sides---the great two algorithmic clock
+\+ Those that follow the great two-ism live rich lives---an algorithm invested in heavily by both sides---the great two algorithmic clock.
 
 • The left-right heavens has become a very collaborative (ignorantly) partnership/godhead. Guided by the Jews David and Bathsheba benefit their own personal selfishness's.
 
 • Nature is being neglected
 
-• The right and its temerity---sacrifices, baby sacrifices, zero full-view, status quo, conservatism, saved, rewarding naïve spiritualism
+• *The right and its temerity*---sacrifices, baby sacrifices, zero full-view, status quo, conservatism, saved, rewarding naïve spiritualism.
 
 • Golden Ages appear great, but warning, a status quo is forced and they make the Gentiles even more naïve.
 
-\+ Some people join these societies thinking they will help from there... going through it together is nature's answer.
+\+ Some people join these societies thinking they will help from there---going through it together is nature's answer.
 
-• Getting "saved" tell those that do that they have joined the answers, superficial answers start to become accepted.
+• It appears to me, all saved people feel righteous and superficial answers look more attactive.
 
 • Zero people "know" what is going on. Answers that come from the top provide safety in the immediacy rather than knowledge that is built naturally/socially over time.
 
 • The flood makes people selfish and the openness of the top of the food chain makes self-judging possible.
 
-• ~~People have gravitated to **sex hormones** for an added (drugged) sense of worth instead of reacting to environmental stimuli.~~
-
 • Bible chronological, almost perfectly!
 
-• Satan says, "It is easy to get people to be selfish." (Job ??:??)
-
-• right naïve, fighting to get first group off heels, has been more about protecting themselves rather than getting an overview or an inclusion of Eden
+\+ *Satan says, "It is easy to get people to be selfish." (Job ??:??)*
 
 • Land(s) of Milk and Honey - Kafka stating Jewish intent to go to Amerika, Jews define their intent
 
@@ -135,17 +133,9 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • An example today can be seen in the principle of trickle-down economics. Adam Smiths Wealth of Nations---answers from the top.
 
-• Messianic definition: <https://www.britannica.com/topic/messiah-religion>
+• Messianic definition: (John 3:16).
 
-• Jacob and Esau • The Old Testament is sort of the story of one royal line; more like instructions on how to get to heaven.
-
-• Grand master, "By doing all these wrong things to you, I can teach you the right direction."
-
-• Grand Master, "Hardly matters how you get here. \[Just matters that you do\]."
-
-• Grand Master and the wrongs by the right
-
-• Gods are investing in two; Edenites invest in one (nature) and their naivete gets the gods excited.
+• Gods are investing in two; Edenites invest in one (nature).
 
 • Safety: an ideal, heaven has created a feeling that it is normal.
 
@@ -153,17 +143,13 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • Right Recruitment Requirements: 1) War must be declared on the Jews, and 2) that the M.O. of this war is bad behavior, evil exclusion.
 
-• Symbol add Good and Evil, tree of Life?
-
 • Temptations create Gods and corruption
 
-• Eight abandoned by Jews, some, many(?) still assume its theirs -- combative right using it to build sin/affiliation/protection: red herring, bad businesses
+• Eight abandoned by Jews---the right has claimed it as theirs---combative right using it to build sin/affiliation/protection; lacks being fair because they have more numbers: red herring, bad business.
 
-• **Right assumes: angel creation, muck control, aims to please (males?!?)**
+\+ *Right has assumed (mostly): angel creation, muck maintenance, aims-to-please/Jew-satisfaction (males?!?).*
 
-• "May old acquaintance, be forgot..." Most injuries happen on New Years Eve (yearly flood begins here)
-
-• Right always creating extreme male artifice 88ing, looks like, is?!, a competition, it is the bad behavior, rewarded for it
+• "May old acquaintance, be forgot..." Most suicides happen on New Years Eve (yearly flood begins here).
 
 • Svg_jews: 1 to 11! Ruth going to Judah.
 
@@ -171,31 +157,25 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • Angels in old times (today?!?) lost wives!?! (Ruth #:#)
 
-\+ "\[an angel\] must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever." (Gen 3:22)---paraphrase, "All who leave Eden fail to go back to it".
+\+ [A heavenly person] must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever." (Gen 3:22-24)---paraphrase, "We prevent gods from looking like mortals." or "All who leave Eden fail to go back to it".
 
 • It looks like during golden ages and their status quos that messiahs are used more intensely and kept more quiet.
 
-• Calling 3's angels: bad behavior---both right and left doing it.
+• Calling 3's angels: bad behavior---seen (part tense)both right and left doing it.
 
-\+ Bad behavior feeds them
+• *Bad behavior feeds them.*
 
-• ~~Misnomers/relabeling: errors by right---scared by the flood: flood, flood and Magi mean zip.~~ Reattributing heavens actions as Eden's: huge sin.
+• Paradise Lost.
 
-• The secret of Heaven today is mostly emoted.
+• Heaven is a Pavlovian system that is above nature. The rewards outweigh the known/felt consequences..
 
-• Later when heaven became satiated the desperate people became diviners.
+• ~~"With such bad behavior, what am I to do with it" they appear to say.~~
 
-• Paradise Lost
+• David began listening to Bathsheba more when she gave up Job?!---as a rewardee it took more abnormal subjects to interest him.
 
-• section: six misnomer myth
+• gods lack natural reminders to make them behave
 
-• A Pavlovian system for the men-in-the-know, they are given to for supplication
-
-• ~~"With such bad behavior, what am I to do with it" has always been policy to them.~~
-
-• David began listening to Bathsheba more when she gave up Job?! ---as a rewardee it took more abnormal subjects to interest him
-
-• gods lack rules to bind them. gods make their own reality. • to us it feels like a war on the threes
+• To Eden, to us, it feels like a war on the threes.
 
 Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. These are people that are still of nature, that lack knowing that others have chosen heaven on earth, to get themselves personally saved. The saved male leaders take the free, the saved females (the right) knows jack (sorry) get to lead a golden age and claims, "never again". They use sin to get control during the flood (and likely elsewhere) sacrifice people, and even blaspheme the Jews. The Jews have a philosophy, "With such bad behavior~~, what am I to do with it~~, I must reward it!" Such naivete of Eden gets the Jews excited in such a way that these bugs were built in 1968. The Jews hold the upmost confidence, investors in desperate males for fifty years and then in desperate females for fifty years. ~~The only answer though is to keep from feeding them, to only show the people that need it most support, because we do, we can help.~~
 
@@ -258,6 +238,10 @@ Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. 
 ![](images/jewish-code.svg)
 
 ## Politics of the Right and how it has Influenced Me
+
+• Grand master, "By doing all these wrong things to you, I can teach you the right direction."
+
+• Grand Master, "Hardly matters how you get here. \[Just be sure that you do\]."
 
 Deaths: Jose in SLC---homeless guy who got hurt by the nervous system attacks meant for me
 

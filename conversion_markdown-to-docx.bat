@@ -3,6 +3,9 @@
 
 :: About: Text convert from Markdown to Microsoft-Word.
 
+:: Path: Add executables to path.
+set PATH=D:\;%PATH%
+
 .\pandoc.exe .\hjcrc.md --from markdown --to docx --reference-doc=template.docx --dpi=220 --wrap=none --output .\hjcrc.docx
 ::        --wrap=none                      : editor should wrap lines
 ::        svgs require librsvg. Converts to png!? Something like?:
