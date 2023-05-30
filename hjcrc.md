@@ -177,57 +177,39 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • To Eden, to us, it feels like a war on the threes.
 
-• Seeing Edenites, naive people, gets the angels/Jews excited, a feeling of free. Edenites have closer ties to nature and are kept from knowing that others have chosen "heaven on earth" (whether right or left) to get themselves personally "saved". The first gods divine and put Edenites in a lower class during the flood, the second gods largely ignore them or sin against the Edenites as an offering to regain control after the flood (oops). Lacking knowing the great two-ism they put us Edenites in increasingly worse danger. Such naivete...
+• Seeing Edenites, naive people, gets the angels/Jews excited, a feeling of free. Edenites have closer ties to nature and are kept from knowing that others have chosen "heaven on earth" (whether right or left) to get themselves personally "saved". The first gods divine and put Edenites in a lower class during the flood, the second gods largely ignore them or sin against the Edenites as an offering to regain control after the flood (oops). Lacking knowing the great two-ism they put us Edenites in increasingly worse danger. Such naivete of the Edenites got the Jews exicted in such a way that these bugs were built in 1968! The Jews have become very Pavlonian, guided by the rewards. The only answer is to keep from feeding them. The people that need the most support, us Edenites, would really appreciate it <3.
 
-Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. These are people that are still of nature, that lack knowing that others have chosen heaven on earth, to get themselves personally saved. The saved male leaders take the free, the saved females (the right) knows jack (sorry) get to lead a golden age and claims, "never again". They use sin to get control during the flood (and likely elsewhere) sacrifice people, and even blaspheme the Jews. The Jews have a philosophy, "With such bad behavior~~, what am I to do with it~~, I must reward it!" Such naivete of Eden gets the Jews excited in such a way that these bugs were built in 1968. The Jews hold the upmost confidence, investors in desperate males for fifty years and then in desperate females for fifty years. ~~The only answer though is to keep from feeding them, to only show the people that need it most support, because we do, we can help.~~
+\- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride, importance to the community; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
 
-![](images/hear-see-speak-zero-evil.svg)*In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride, importance to the community; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.*
+• The games the gods play, healthy people reproduce.
 
-*The Jews only see the system entailing the most desperate people. Because it is male-led (?) they usually choose male desperates. Originally (today?) the existence of 7's, 2's is rewarded because of the bad-doings surrounding it.*
+• Lacking knowing what was going on Bathsheba started off pretty bad. Desperate she used beauty as an "in". Being separated by her husbands safety/being-a-rewardee she helped Job as an a confirmation of her aptitude.
 
-• The games the gods play, the naivete get them to become extremely sexual.
-
-• Lacking knowing what was going on Bathsheba started off pretty bad. Desperate she used beauty as an "in". Being separated by her husbands safety/being-a-rewardee she helped Job as an affrontation(?), self-affirmation(?).
-
-• Do I need your civil war?\...
-
-• The desperate people are willing to separate.
-
-• All animals want to believe that what is good for themselves are the right actions.
+• Do I need your civil war?...
 
 • Empathy: sharing a similar feeling because of a similar threat.
 
 • We have to go through evolution all together else we will become ignorant of the people left behind.
 
-• Hardness and softness are hardly male and female attributes! They are because the first group (the Jews) got to exercise the secret of heaven (and flood) and felt its production and got audacious. The second group, starting with the wives, inherited the protection, and learned submissiveness/conservativeness as a way to survive. (Softness/submissiveness... becomes passion during their allowed/fooled rule—the great Jewish two, the flooders had to rest)
-
-• Saved-people/gods... your perspective is going to give you divisiveness simply by position; by default we want to feel righteous/good-with-nature so a higher perspective will overlook feeling guilty.
+• Hardness and softness are hardly male and female attributes! They are because the first group (the Jews) got to exercise the secret of heaven (and flood) and felt its production and got audacious. The second group, starting with the wives, inherited the protection, and learned submissiveness/conservativeness as a way to survive.
 
 • mortal/immortal
 
 • Deperates, How Did They Become So?
 
--   > They lose faith in people and subordinate the less fortunate to feel stronger
-
--   > They need confidence in themselves so they use powerful tools if available.
-
--   > They need confidence and focus entirely on themselves (narcissism/self-absorbed), others needs they fail to realize as part of something that they may work with (and becoming less necessary as heavenly people progressively reward desperates to get protection).
+#) They lose faith in people and subordinate the less fortunate to feel stronger~~
+#) They need confidence in themselves so they use powerful tools if available.~~
+#) They need confidence and focus entirely on themselves (narcissistic/self-absorbed)---other needs they fail to realize as necessary.
 
 • Heaven become too obvious.
 
-• Jealously was created in the women/second-group---only Adam got out of Eden.
+• Jealously was created in the women/second-group?---only Adam got out of Eden.
 
-• The right makes it look like a war with the Jews but it is more of a pretense for those that feel safer. The safety they have makes them more able to live in artifice; the war is a front to "getting saved" or avoid feeling guilty.
+• The right makes it look like a war with the Jews but it is more of a pretense for those that feel safer. The safety they have makes them more able to live in artifice; the war is a front to "getting saved" or avoid *feeling guilty*.
 
-• The Bible says salvationists/gods always stay in heaven (Gen 3:22-24)
+• Saved-people/gods... your perspective is going to give you divisiveness simply by position. By default we want to be righteous, good with nature and others—--only an equal perspective can accomplish that. To help perspectives like "beauty" and "being saved" should be left behind.
 
-• Bible: Ruth *her* story, Samuel *his* story?!
-
-• Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?", also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")
-
-• By default we want to be righteous, good with nature and others—only an equal perspective can accomplish that. To help perspectives like "beauty" and "being saved" should be left behind.
-
-• If we do a thing that hurts another, societies/groups make us feel guilty---survival requires us to move together as one. If we fail to provide that feeling, guilt becomes reward/pleasure.
+• If we do a thing that is selfish, societies/groups make us feel guilty---survival requires us to move together as one. If we fail to provide that feeling selfishness becomes reward, unbounded.
 
 • The second group---ignorance is bliss, people that are enticed.
 
@@ -237,9 +219,12 @@ Seeing fools, ignorant people gets the angels/Jews excited---a feeling of free. 
 
 • Zero people go back to Eden, the Bible states as-if fact (Gen 3:24).
 
+![](images/hear-see-speak-zero-evil.svg)
 ![](images/jewish-code.svg)
 
 ## Politics of the Right and how it has Influenced Me
+
+• Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?", also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")
 
 • Grand master, "By doing all these wrong things to you, I can teach you the right direction."
 
