@@ -1,6 +1,6 @@
 # The History of the Judeo-Christian Religion and How It Effects Civilization---Part 1 [^1]
 
-![](images/eras-of-civilization_01_eden.svg) Civilization began as a natural order. All this changed when the religions of Judaism and Christianity started. Civilization moved from group-evolution and natural whims to safety belonging to individualists/salvationists who develop an artificial society. This selfishness is a result of the Jewish religion who have used the "secret of heaven" to get profitable lives for themselves. The "secret of heaven" tells them to force on civilization a dualistic formula (good and evil, male and female, rich and poor...). They impose this formula by rewarding a single side solely for a span of fifty years---then alternating. This discrete partisanship/patronage/inclusion arrests them influence in that society. With the rich lives they get from it they sustain it like a vital job and their definition of it is literally "heaven". The Jews keep all this patronizing/rewarding a secret, through all time, which this leads to both **sides** fighting for inclusion. Today there is a huge battle between both sides. For the first fifty years, the first group, men mainly, the Jews, reward those who implement "secret of heaven" tasks (*rewardees*). For the following fifty years, the second group, the female-led group, the less knowledgeable but still protected group (their wives and other self-deserving people), are allowed the rule and they reward resting and guess at how to implement "secret of heaven" tasks (even get misdirected) while the Jews try to keep a status quo. The result of the second group fifty-year rule ends up making laypeople who have little heavenly knowledge, are naïve, and are exploitable/susceptible. Then the whole cycle is restarted again where the first group *rewardees* are excited by the naïveté of the laypeople who are often taken advantage of and used as tools in this battle. I am older and have seen a large number of poor people being used as them---the prescribed fix is desultory and ultimately selfish. The more a person uses this dualistic formula (and a fair number of people do these days besides the Jews) the likelier they are to have good lives and the likelier they are to keep heaven secret. The Christians are a [refinement] of the second group whose leadership have bought inclusion into this system; the most important are: fealty (MT 1); and by people of influence providing sacrifices (*note:* a number of Christians may be mostly ignorant of these tasks). I have yet to find anyone who has any lasting knowledge or overview on what is happening. These systems have altered the natural order all around the planet.
+![](images/eras-of-civilization_01_eden.svg) Civilization began as a natural order. All this changed when the religions of Judaism and Christianity started. Civilization moved from group-evolution and natural whims to safety belonging to individualists/salvationists who develop an artificial society. This selfishness is a result of the Jewish religion who have used the "secret of heaven" to get advantageous lives for themselves. The "secret of heaven" tells them to force on civilization a dualistic formula (good and evil, male and female, rich and poor...). They impose this formula by rewarding a single side solely for a span of fifty years---then alternating. This discrete partisanship/patronage/inclusion arrests them influence in that society. With the rich lives they get from it they sustain it like a vital job and their definition of it is literally "heaven". The Jews keep all this patronizing/rewarding a secret, through all time, which this leads to both **sides** fighting for inclusion. Today there is a huge battle between both sides. For the first fifty years, the first group, men mainly, the Jews, reward those who implement "secret of heaven" tasks (*rewardees*). For the following fifty years, the second group, the female-led group, the less knowledgeable but still protected group (their wives and other self-deserving people), are allowed the rule and they reward resting and guess at how to implement "secret of heaven" tasks (even get misdirected) while the Jews try to keep a status quo. The result of the second group fifty-year rule ends up making laypeople who have little heavenly knowledge, are naïve, and are exploitable/susceptible. Then the whole cycle is restarted again where the first group *rewardees* are excited by the naïveté of the laypeople who are often taken advantage of and used as tools in this battle. I am older and have seen a large number of poor people being used as them---the prescribed fix is desultory and ultimately selfish. The more a person uses this dualistic formula (and a fair number of people do these days besides the Jews) the likelier they are to have good lives and the likelier they are to keep heaven secret. The Christians are a [refinement] of the second group whose leadership have bought inclusion into this system; the most important are: fealty (MT 1); and by people of influence providing sacrifices (*note:* a number of Christians may be mostly ignorant of these tasks). I have yet to find anyone who has any lasting knowledge or overview on what is happening. These systems have altered the natural order all around the planet.
 
 ## Why I May Be Listened Of
 
@@ -12,6 +12,8 @@ Any lasting operation requires a *feeling* (at least) of "fair disclosure". The 
 
 The Bible is more instructions of how to execute their religion than it is a history...
 
+The primary source I use is the Bible. Though the Bible is largly instructions for the Judeo-Christians on how to implement their religion, it does contain basics on how the religion was formed. The Bible does contain [backwriting] to make newer rules apply throughout.
+
 ## The Secret of Heaven
 
 The "secret of Heaven" comes from before the Bible was written. The beginning of the Bible is a steep ledge absent knowing the secret. It is also important because the secret makes the Bible and society progressively drift over time.
@@ -20,7 +22,11 @@ Judaism started because of an environmental threat. The area the religion starte
 
 ## Heaven Creation: A Male-Ruled, Discrete, Inclusion
 
-![](images/eras-of-civilization_02_heaven.svg)These religions are about getting to heaven (heaven on earth). Both religions get to heaven (the Christians mostly ignorantly) by rewarding a desperate man (man originally). The first person rewarded a desperate man and got to heaven, the second person listened to the first person and rewarded a desperate man. The Hebrews rewarded the desperate men so much that the beginning of the Bible refers to a desperate man as a "*God*", "God created the Heavens and the Earth (Gen 1:1)". To a desperate man building "Heaven on Earth" is such an attraction that it is what Adam and Noah did. Adam took the "forbidden fruit" to get out of Eden (Eden = Earth) and Noah rewarded a large number of desperate men (in synchronicity) to flood the Earth (when people became suspicious of heaven). This is why the Hebrew said to "Fear God". With floods the Hebrews learned they could encourage many people to be *selfish* and hide heaven. Rule became male-based and encouraged a general hardness. The reacting to a natural environment began to be lost/forgotten.
+![](images/eras-of-civilization_02_heaven.svg) These religions are about getting to heaven (heaven on earth). Both religions get to heaven (the Christians mostly ignorantly) by rewarding a desperate man (man originally). The first person rewarded a desperate man and got to heaven, the second person listened to the first person and rewarded a desperate man. The Hebrews rewarded the desperate men so much that the beginning of the Bible refers to a desperate man as a "*God*", "God created the Heavens and the Earth (Gen 1:1)". To a desperate man building "Heaven on Earth" is such an attraction that it is what Adam and Noah did. Adam took the "forbidden fruit" to get out of Eden (Eden = Earth) and Noah rewarded a large number of desperate men (in synchronicity) to flood the Earth (when people became suspicious of heaven). This is why the Hebrew said to "Fear God". With floods the Hebrews learned they could encourage many people to be *selfish* and hide heaven. Rule became male-based and encouraged a general hardness. The reacting to a natural environment began to be lost/forgotten.
+
+• A desperate man eventually became a diviner (always willing to take more; worried about competition?).
+
+> Because you simply came before me, oh god, I will give to you so that I may be like you and get higher from it.
 
 ## The Lands of Milk and Honey---Part 1 (Conquerors, The Empire Strikes Back, and Abdication/Making-Room-For-Number-One)
 
@@ -73,39 +79,21 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 ## Notes
 
-• Angels work on people's misunderstanding.
-
 • Introduction: • g*od games---define all as a game? Playing? Using pawns? Zero-sum game? • heaven has evolved to: following the free, a gravity pulling everybody ~~These religions are about getting "saved"---a fixed, synthetic, perspective-based, ignorant-of-fairness comfort. All people are~~ **gravitating toward this safety**~~, few can see it~~ **clearly**. The people that fail to understand "heaven" get the Jewish rewardees excited. What is heaven? It has graduated to following free. Following the free---the gravity all are being pulled to • godhead*
-
-• "Cause you simply came before me (oh god), I will give to you so that I may be like you and get higher from it.
 
 • Desperate females were finally given their own rule, part of the great Jewish TWO system.
 
-~~Male desperate when met a desperate female said:~~
-
--   ~~Women can hardly rule.~~
-
--   ~~Are pushovers.~~
-
-> ~~• This spurned:~~
-
--   ~~Obstinate, female god wanted it her own way (tried to make her own rules, and largely did) but had to take what was left~~
-
--   ~~Was rewarded for being misdirected by Jews/male-desperate. (Abram's Sarai from the start; this misdirection would help heaven from becoming too obvious.)~~
-
--   Phht... Jewish two system: males first: directed; females second: misdirected, submissive (Gen 3:16)
-
 • "They made me do it (the left)"---false; began with Job, started by right.
 
-• Right: built from beauty methodology: vain, superficial, guilt avoiding.
+• Section: Beauty Myth—right built from beauty methodology: vain, superficial, guilt avoiding.
 
 • The two shapes put together form the Star of David... a physical representation about how these societies formed.
 
 • The war of the right has become combative and scares the people left behind
 
-• The Christians create the angels; the angels make the rules (if endorsed by the **J**ews).: Bathsheba is accepted*, they reward divinity*, and also (hush-hush) mislead the secrets.
+• The Christians create most of the angels; the angels gotten-away-with-behavior make the rules (if endorsed by the **Jews**).: Bathsheba is accepted, they reward divinity, and also (hush-hush) mislead the secrets.
 
-• The Jews make themselves invisible (in presence). Their behavior represents their angel (another's behavior) and hence are amused at being called evil.
+• The Jews behavior appears?! to represents their angel (another's behavior). This removal helps them being amused at being called evil.
 
 \+ Saved feel it is more about avoiding Jews that listening to poor.
 
@@ -197,7 +185,9 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • Later when heaven became satiated the desperate people became diviners.
 
-• Paradise Lost • section: Beauty Myth? • section: six misnomer myth
+• Paradise Lost
+
+• section: six misnomer myth
 
 • A Pavlovian system for the men-in-the-know, they are given to for supplication
 
