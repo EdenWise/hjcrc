@@ -219,6 +219,24 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 
 • Zero people go back to Eden, the Bible states as-if fact (Gen 3:24).
 
+• Heaven, a sure safety, is above nature from this perspective it breeds conservativeness.
+
+• Visceral, Vicarious
+
+• Books that help:
+	* 48: An Experiential Memoir on Homelessness, Sheldon A. Jacobs
+	* Think Again, Diane Keaton
+	* The Last Commissioner: A Baseball Valentine, Fay Vincent
+	* The Beauty of Living Twice, Sharon Stone
+	* My Days, Marion Ross
+	* Inside Out, Demi Moore
+	* The Greater Journey: Americans in Paris,  David McCullough
+	* ZEALOT: The Life and Times of Jesus of Nazareth,  Reza Aslan
+	* Cary Grant: A Biography, Marc Eliot
+	* Matthew Perry, Friends, Lovers, and the Big Terrible Thing: A Memoir
+	* Marlon Brando
+	* Clark Gable
+
 ![](images/hear-see-speak-zero-evil.svg)
 ![](images/jewish-code.svg)
 
