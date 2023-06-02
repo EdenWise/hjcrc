@@ -10,6 +10,10 @@ I am one of the people that lacked knowing what these systems/*sides*/groups wer
 
 ## The Source of Research and What It Is
 
+*Note: The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their artifice and secrets.*
+*Note: The Bible mars history for the purpose of having newer rules consistent throughtout (backwriting) and also to make it sound spiritual/righteous.*
+(In their artificial world they *make* these things happen.)
+
 Any lasting operation requires a *feeling* of "fair disclosure". The Bible is that representation for these religions. It makes them feel that they have been up front with that civilization. It is the most read book in the world. Its very publication makes many in modern civilization feel it is forthcoming to the Jews it feels protective (by its audacity). It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together decipher what these religions are doing within modern civilization. To say it is "fair disclosure" is false though---because it tells only part of the "secret of Heaven" it falls short.
 
 The primary source I use is the Bible. Though the Bible is largly instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. The Bible does contain [backwriting] to make newer rules apply throughout.

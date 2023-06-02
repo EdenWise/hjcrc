@@ -1,23 +1,19 @@
-# Bible—The Study Of
-
-*Note: The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their artifice and secrets.*
-*Note: The Bible mars history for the purpose of having newer rules consistent throughtout (backwriting) and also to make it sound spiritual/righteous.*
-(In their artificial world they *make* these things happen.)
+# Bible the Study Of
 
 ## Genesis
 
-1			Summary: Jew initiated, the first group, generally ♂, divining, productive and...
-1:1		**audacious**: heaven/earth
-1:1+	Duality throughout: day/night, sea/sky, land/sea, sun/moon...
+1     **Summary**: Jew initiated, the first group, generally ♂, divining, productive and...
+1:1   **audacious**: heaven/earth
+1:1+  divining throughout: day/night, sea/sky, land/sea, sun/moon...
 1:5   (x6) "And there was evening, and there was morning"---dawn to dusk?
 1:28  mankind will have dominion over all the animals. *godspeak, twoish over nature.*
-2			**Summary**: wife initiated (then, Christian today), the second group, generally ♀, resting, [binding], and...
+2     **Summary**: wife initiated (then, Christian today), the second group, generally ♀, resting, [binding], and...
 2:2   **receptive** on the seventh day they rested.
 3:1   serpent=Satan=head desperate==organizer-of-flood; godly, stubborn, selfish
 3:5   sexual-hormone need/selfishness\>sin\>divinity\
 3:9   naked=natural
 3:14  "Cursed are you...": A blessing (speaking opposites). It says here, "You are above other animals/desperates."
-  > • The rest is true.
+  *  The rest is true.
 3:15  "Cursed is...": A blessing again... you will all be cerebral.
 3:22  An observation, a surety. Desperates/angels/Jews (gods, those rewarded for easy dipping into their sexual hormone) will hardly ever think like Edenites again.
 4     **Cain vs Abel, Good vs Evil; God: female (Eve?!)—two people left Eden.**
