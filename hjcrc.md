@@ -8,15 +8,11 @@ For the first fifty years, the first group, men mainly, the Jews, reward those w
 
 I am one of the people that lacked knowing what these systems/*sides*/groups were doing and got used by a system as a puppet. Because of this many things in my life are influenced to be deceiving. The focus is the battle/game and I am overlooked of how I feel. I have been here all my life and have been forcibly removed from civilization. During all this time I have tried to figure out what is going on. This is all I can say right now to make this believable.
 
-## The Source of Research and What It Is
+## The Sources of Research
 
-*Note: The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their artifice and secrets.*
-*Note: The Bible mars history for the purpose of having newer rules consistent throughtout (backwriting) and also to make it sound spiritual/righteous.*
-(In their artificial world they *make* these things happen.)
+The primary source I use is the Bible. It is the most read book in the world. Though the Bible is largly instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. (Warning: the Bible does contain [backwriting] to make newer rules apply throughout.) Why is the Bible important? Any lasting operation requires a *feeling* of "fair disclosure". For these religions the Bible is that representation. It makes these religions feel that they have been upfront with civilization. Its very publication makes many in modern civilization feel it is forthcoming. (By its audacity it feels protective to the Jews.) It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together decipher what these religions are doing within modern civilization. To say it is "fair disclosure" is false though---because it tells only part of the "secret of Heaven" it falls short.
 
-Any lasting operation requires a *feeling* of "fair disclosure". The Bible is that representation for these religions. It makes them feel that they have been up front with that civilization. It is the most read book in the world. Its very publication makes many in modern civilization feel it is forthcoming to the Jews it feels protective (by its audacity). It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together decipher what these religions are doing within modern civilization. To say it is "fair disclosure" is false though---because it tells only part of the "secret of Heaven" it falls short.
-
-The primary source I use is the Bible. Though the Bible is largly instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. The Bible does contain [backwriting] to make newer rules apply throughout.
+* The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their devices and secrets.
 
 ## The Secret of Heaven
 
