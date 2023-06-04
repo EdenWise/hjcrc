@@ -1,12 +1,10 @@
 # The History of the Judeo-Christian Religion and How It Effects Civilization---Part 1 [^1]
 
-![](images/eras-of-civilization_01_eden.svg) Civilization began as a natural order. All this changed when the religions of Judeo-Christianity started. Civilization moved from group-evolution and natural whims to safety belonging to individualists/salvationists who develop an artificial civilization. This self-absorbtion is a result of the Jewish religion who have gotten advantageous lives from the "secret of heaven". The "secret of heaven" has led them to push a dualistic formula on civilization (good and evil, male and female, rich and poor...) that wrests them power in that civilization. They implement this formula by *partisian-rewarding* a single side solely for an era of fifty years, then alternating. During all this time the Jews keep this rewarding/alternating-partisianship tight-lipped which leads to both *sides* fighting for inclusion. It also leads to both side fighting one another where today there is a huge battle between them. The first side is made of the Jew's chosen *rewardees*/self-absorbed-people (read Secret of Heaven below); the second side are the beginners, their wives and other self-deserving people. This discrete alternating-partisanship gets them rich lives. From it they are able to sustain it like a vital job and their definition of it is literally "heaven". The more a person uses this dualistic formula (and a fair number of people do these days besides the Jews) the likelier they are to have good lives and the likelier they are to keep heaven secret. There is also a third side, the people left behind, who end up paying for the self-absorbtion and are these days used as pawns in this battle. The Christians are a succession of the second group whose leadership have bought inclusion into heaven---most notably by fealty (MT 1) and agreeing to provide people as sacrifices (*note:* a number of Christians may to be mostly ignorant of these tasks). I have yet to find anyone who has any lasting knowledge or overview on what is happening. These systems have altered the natural order all around the planet.
-
-* For the first fifty years, the first group, men mainly, the Jews, reward those who implement "secret of heaven" tasks (*rewardees*). For the following fifty years, the second group, the female-led group, the less knowledgeable but still protected group (their wives and other self-deserving people), are allowed the rule and they reward *resting* and guess at how to implement "secret of heaven" tasks (even get misdirected) while the Jews try to keep a status quo. The result of the second group fifty-year rule ends up making [laypeople] who have little heavenly knowledge, are naïve, and are exploitable/susceptible. Then the whole cycle is restarted again where the first group *rewardees* are excited by the naïveté of the [laypeople] who are often taken advantage of and used as tools in this battle. I am older and have seen a large number of poor people being used as them---the prescribed fix is desultory and ultimately selfish.
+![](images/eras-of-civilization_01_eden.svg) Civilization began as a natural order. All this changed when the religions of Judeo-Christianity started. Civilization moved from group-evolution and natural whims to safety belonging to individualists/salvationists who develop an artificial civilization. This self-absorbtion is a result of the Jewish religion who have gotten advantageous lives from the "secret of heaven". The "secret of heaven" has led them to push a dualistic formula on civilization (good and evil, male and female, rich and poor...) that wrests them authority/sway in that civilization. They implement this formula by *partisian-rewarding* a single side solely for an era of fifty years, then alternating. During all this time the Jews keep this alternating-partisianship/rewarding tight-lipped which leads to both sides fighting for inclusion. They also fight one another---today there is a huge battle between both sides. The first side is made of the Jew's chosen *rewardees*/self-absorbed-people (read Secret of Heaven below); the second side are the beginners and novies, their wives and other self-deserving people. This discrete alternating-partisanship gets them rich lives. From it they are able to sustain it like a vital job and their definition of it is literally "heaven". The more a person uses this dualistic formula (and a fair number of people do these days besides the Jews) the likelier they are to have good lives and the likelier they are to keep heaven secret. There is also a third side, the people left behind, who end up paying for the self-absorbtion and are these days used as puppets in this battle. The Christians are a succession of the second group whose leadership have bought inclusion into heaven---most notably by fealty (MT 1) and agreeing to provide people as sacrifices (*note:* a number of Christians may to be mostly ignorant of these tasks). I have yet to find anyone who has any lasting knowledge or overview on what is happening. These systems have altered the natural order all around the planet.
 
 ## Why I May Be Listened Of
 
-I am one of the people that lacked knowing what these systems/*sides*/groups were doing and got used by a system as a puppet. Because of this many things in my life are influenced to be deceiving. The focus is the battle/game and I am overlooked of how I feel. I have been here all my life and have been forcibly removed from civilization. During all this time I have tried to figure out what is going on. This is all I can say right now to make this believable.
+I am one of the people that lacked knowing what these sides were doing and got used by a side as a puppet. Because of this many things in my life are influenced to be deceiving. The focus is the battle/game and I am overlooked of how this affects my life. I have been here all my life and have been forcibly removed from civilization. During all this time I have tried to figure out what is going on. This is all I can say right now to make this believable.
 
 ## The Sources of Research
 
@@ -153,7 +151,15 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
 * Zero people go back to Eden, the Bible states as-if fact (Gen 3:24). \
 * Heaven, a sure safety, is above nature from this perspective it breeds conservativeness. \
 * Visceral, Vicarious \
-* Books that help:
+* For the first fifty years, the first group, men mainly, the Jews, reward those who implement "secret of heaven" tasks (*rewardees*). For the following fifty years, the second group, the female-led group, the less knowledgeable but still protected group (their wives and other self-deserving people), are allowed the rule and they reward *resting* and guess at how to implement "secret of heaven" tasks (even get misdirected) while the Jews try to keep a status quo. The result of the second group fifty-year rule ends up making [laypeople] who have little heavenly knowledge, are naïve, and are exploitable/susceptible. Then the whole cycle is restarted again where the first group *rewardees* are excited by the naïveté of the [laypeople] who are often taken advantage of and used as tools in this battle. I am older and have seen a large number of poor people being used as them---the prescribed fix is desultory and ultimately selfish.
+- The right makes it look like a war with the Jews but it is more of a pretense for those that feel safer. The safety they have makes them more able to live in artifice; the war is a front to "getting saved" or avoid *feeling guilty*. \
+-  Desperate females were eventually given their own rule---part of the great Jewish TWO system. \
+
+![](images/hear-see-speak-zero-evil.svg)
+![](images/jewish-code.svg)
+
+## Books that help:
+
   * 48: An Experiential Memoir on Homelessness, Sheldon A. Jacobs
   * Think Again, Diane Keaton
   * The Last Commissioner: A Baseball Valentine, Fay Vincent
@@ -166,11 +172,6 @@ The war in heaven is really a selfish splitting of safety. The saved (ignorant o
   * Matthew Perry, Friends, Lovers, and the Big Terrible Thing: A Memoir
   * Marlon Brando
   * Clark Gable
-- The right makes it look like a war with the Jews but it is more of a pretense for those that feel safer. The safety they have makes them more able to live in artifice; the war is a front to "getting saved" or avoid *feeling guilty*. \
--  Desperate females were eventually given their own rule---part of the great Jewish TWO system. \
-
-![](images/hear-see-speak-zero-evil.svg)
-![](images/jewish-code.svg)
 
 ## The Politics of the Right and How It Has Influenced Me
 
