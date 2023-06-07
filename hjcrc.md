@@ -35,12 +35,8 @@ Golden Age Creation
 Genesis 2
 ![](images/eras-of-civilization_03_gold.svg)
 1:28    Be fruitful, and multiply   Leads to Chapter 2.
-2:2     Resting                     "on the seventh day he *rested* from all his work."
-2:7,    Adam and Eve creation
-
-
-
-: A Period of Rest
+2:2     A Period of Rest            "on the seventh day he *rested* from all his work."
+2:7,    Be fruitful, and multiply   Adam and Eve creation
 
 ## Heaven Creation: A Male-Ruled, Discrete, Inclusion
 
