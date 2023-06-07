@@ -10,7 +10,7 @@ I am one of the people that lacked knowing what these sides were doing and got u
 
 The primary source I use is the Bible. It is the most read book in the world. Though the Bible is largly instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. Why is the Bible important? Any lasting operation requires a *feeling* of "fair disclosure". For these religions the Bible is that representation. It makes these religions feel that they have been upfront with civilization. Its very publication makes many in modern civilization feel it is forthcoming. (By its audacity it feels protective to the Jews.) It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together decipher how these religions effect modern civilization. To say it is "fair disclosure" is false though---because it tells only part of the "secret of Heaven" it falls short.
 
-* Warning: the Bible does contain [backwriting] to make newer rules apply throughout.
+* Warning: the Bible does contain [backwriting] to make newer rules apply throughout. \
 * The Jews love their religion so much, being so protected by their desperates/narcisists, have become very cerebreal and have spent much time highly refining their Bible with their devices and secrets.
 
 ## The Secret of Heaven
@@ -19,13 +19,28 @@ The "secret of Heaven" comes from before the Bible was written. The beginning of
 
 Judaism started because of an environmental threat. The area the religion started in was the Tigris-Euphrates rivers of present-day Iraq---this is where Abraham was from (Gen 11:28-31). The area is surrounded by a lot of desert. Because living in the area was risky (droughts, etc.) it sometimes created desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection (the first rewardee given to by the first Hebrew). The desperate man took care of him well. The Hebrew highly valued the protection. The rewarding grew to be periodic (possibly whenever able) for continued protection. A desperate man being constantly rewarded makes it harder for people to give a social conscience to (guilt). Absent of guilt their lives become very feral, they have an open-bounded feeling. This turns out to be very powerful. When the Hebrews say to "Fear God" this is what they mean. The protection gotten from this relationship by both Hebrew and desperate person formed a discrete and symbiotic relationship that came to be known as the "secret of Heaven". Both are well rewarded and protected to this day.
 
-## Heaven Creation: Heaven on Earth, the First Group, Divining and Productive
-## G1
+## The Beginning
 
+Heaven Creation
+
+Genesis 1
 ![](images/eras-of-civilization_02_heaven.svg)
+1:1     Audacious:                  Heaven/Earth
+1:1+    Divining and Productive:    day/night, water/sky, land/sea, sun/moon...
+3:6-20  Divining and Productive     Sin > Paradise Lost (Leaving Eden) > "mother of all the living"
+3:11    Artifice                    Embarasssed by nakedness.
 
-Audacious:                Heaven/Earth
-Divining and productive:  day/night, water/sky, land/sea, sun/moon
+Golden Age Creation
+
+Genesis 2
+![](images/eras-of-civilization_03_gold.svg)
+1:28    Be fruitful, and multiply   Leads to Chapter 2.
+2:2     Resting                     "on the seventh day he *rested* from all his work."
+2:7,    Adam and Eve creation
+
+
+
+: A Period of Rest
 
 ## Heaven Creation: A Male-Ruled, Discrete, Inclusion
 
@@ -50,9 +65,8 @@ The female side of Heaven, the second group, the right, gets noticeably conserva
 
 When the *New Testament* is published (the Vulgate, circa 400 A.D.) the right, now the Christian Church, makes a discernable split from the Jews. The New Testament forces four historical changes: 1) an advertisement of the value of supreme sacrifices (e.g. Job and Jesus[^2]); 2) an allowance to have sacrifices as babies (MT 2:1-4); 3) a combativeness to begin creating their own angels; and 4) a directive that salvation can come from spirituality alone (e.g. Paul).
 
-(Tip: The mislabeling of angels as threes begins somewhere near hear. Angels henceforth in Christian history are now labeled from the Magi (or commonly called the Three Wise Men). This misnomer was caused by the paranoia the flood creates. BTW "flood" itself is a mislabeling too. This has serious historical/mortal significance: it has almost entirely blocked the visibility of the messiahs.
-
-~~(Tip: A physical representation of how these societies formed has already been mapped---to see it, combine the two symbols above.)~~
+* (Tip: The mislabeling of angels as threes begins somewhere near hear. Angels henceforth in Christian history are now labeled from the Magi (or commonly called the Three Wise Men). This misnomer was caused by the paranoia the flood creates. BTW "flood" itself is a mislabeling too. This has serious historical/mortal significance: it has almost entirely blocked the visibility of the messiahs. \
+* (Tip: A physical representation of how these societies formed has already been mapped---to see it, combine the two symbols above.)
 
 ## Female Heaven Creation---a Female-Ruled Exclusion
 

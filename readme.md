@@ -1,16 +1,16 @@
-#### History of the Judeo-Christian Religion and How It Effects Civilization
+### History of the Judeo-Christian Religion and How It Effects Civilization
 
 This is a life work for me...
 
 I decided to write this document in markdown for collaboration (if anybody wants to help). These are the steps needed to build the Microsoft Word document.
 
-##### Original Conversion
+#### Original Conversion
 
 I started originally with a Microsoft-Word document and I converted it to Markdown. This is the line I used (`--wrap=none` because pandoc will insert newlines at 72 characters):
 
->     .\pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md
+    pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md
 
-##### reference.docx build (I have renamed it template.docx here):
+#### reference.docx build (I have renamed it template.docx here):
 
 Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still looks pretty good. (*Note: I may be able to do more with:* [Pandoc User's Guide/Input](https://pandoc.org/MANUAL.html#input)).
 
@@ -18,8 +18,8 @@ I first generated a template then I imported the matching styles from my existin
 
 Template generate of default settings:
 
->     .\pandoc.exe --output template.docx --print-default-data-file reference.docx
-> mv reference.docx template.docx
+    pandoc.exe --output template.docx --print-default-data-file reference.docx
+    mv reference.docx template.docx
 
 *Variable setting failed (FYI: variables only work on templates)*
 
@@ -34,11 +34,11 @@ Import matching styles from existing document to `template.docx`:
 
 * Microsoft Word open `template.docx`  > Word-and-tmple.docx: Organizer > copy styles to left.
 
-##### Things to do before conversion:
+#### Things to do before conversion:
 
 * SVG: fonts: Object to Path. (rsvg-convert renders them poorly)
 
-##### Things to do after conversion:
+#### Things to do after conversion:
 
 * Images:
 	* *markdown image attributes (width, align, others?) fail recognition, must be manually aligned.*
@@ -60,7 +60,7 @@ Import matching styles from existing document to `template.docx`:
 					* they are: Paragraph > Spacing > Before: 2 pt
 					*																	Line spacing: Multiple: 1.08
 
-##### To Do
+#### To Do
 
 1) Text Box of Definitions
 2) eras-of-civilization_04_jews.emf
