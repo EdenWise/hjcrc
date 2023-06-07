@@ -25,7 +25,7 @@ Heaven Creation
 
 Genesis 1
 ![](images/eras-of-civilization_02_heaven.svg)
-1:1     [Audacious]                  Heaven/Earth
+1:1     [Audacious]                 Heaven/Earth
 1:1+    Divining and Productive:    day/night, water/sky, land/sea, sun/moon...
 3:6-20  Divining and Productive     Sin > Paradise Lost (Leaving Eden) > "mother of all the living"
 3:11    Artifice                    Embarasssed by nakedness.

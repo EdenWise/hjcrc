@@ -31,7 +31,7 @@
     Jubal as musician (corruption of Cain?)
 
 
-Genesis 1---The Beginning
+## Genesis 1---The Beginning
 
 1 In the beginning God created the heavens and the earth.
 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
@@ -65,7 +65,7 @@ Genesis 1---The Beginning
 30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
 31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.
 
-Genesis 2---Adam and Eve
+## Genesis 2---Adam and Eve
 
 1 Thus the heavens and the earth were completed in all their vast array.
 2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.
@@ -93,7 +93,7 @@ Genesis 2---Adam and Eve
 24 That is why a man leaves his father and mother and is united to his wife, and they become one flesh.
 25 Adam and his wife were both naked, and they felt no shame.
 
-Genesis 3---The Fall
+## Genesis 3---The Fall
 
 1 Now the serpent was more crafty than any of the wild animals the LORD God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”
 2 The woman said to the serpent, “We may eat fruit from the trees in the garden,
@@ -120,7 +120,7 @@ Genesis 3---The Fall
 23 So the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.
 24 After he drove the man out, he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
 
-Genesis 4---Cain and Abel
+## Genesis 4---Cain and Abel
 
 1 Adam made love to his wife Eve, and she became pregnant and gave birth to Cain. She said, “With the help of the LORD I have brought forth a man.”
 2 Later she gave birth to his brother Abel. Now Abel kept flocks, and Cain worked the soil.
