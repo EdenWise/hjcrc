@@ -1,10 +1,10 @@
-:: Print everything: off
-@echo off
-
 :: About: Text convert from Markdown to Microsoft-Word.
 
 :: Path: Add executables to path.
 set PATH=D:\;%PATH%
+
+:: Print everything: off
+@echo off
 
 :: Personal: Add pandoc.exe to path of executables:
 echo "`$env:Path += `"D:;`""
