@@ -2,15 +2,15 @@
 
 ## Genesis
 
-1     **Summary**: Jew initiated, the first group, generally ♂, divining, productive and...
+1     **Summary**: Jew initiated, the first side, generally ♂, divining, productive and...
 1:1   **audacious**: heaven/earth
 1:1+  divining throughout: day/night, water/sky, land/sea, sun/moon...
-1:5   (x6) "And there was evening, and there was morning"---dawn to dusk?
+1:5   "And there was evening, and there was morning"---dawn to dusk? (x6).
 1:28  Godspeak---man/nature: And God said... and let [man] have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 1:28  Leads to Chapter 2: "Be fruitful, and multiply"
-2     **Summary**: wife initiated likely (mostly Christian today), the second group, generally ♀, and...
-2:2   **receptive** on the seventh day they rested.
-3:1   serpent=Satan=head desperate==organizer-of-flood; godly, stubborn, selfish
+2     **Summary**: wife initiated likely (mostly Christian today), the second side, generally ♀, and...
+2:2   **audacious** on the seventh day they rested.
+3:1   serpent=Satan=head-desperate=organizer-of-flood=godly=stubborn=selfish
 3:5   sexual-hormone need/selfishness\>sin\>divinity\
 3:9   naked=natural
 3:14  "Cursed are you...": A blessing (speaking opposites). It says here, "You are above other animals/desperates."
