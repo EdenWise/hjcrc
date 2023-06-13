@@ -22,23 +22,7 @@ Judaism started because of an environmental threat. The area the religion starte
 
 ## The Beginning
 
-Heaven Creation
-------  -------------------------  ----------------------------------------------------------
-1:1     [Audacious]                Heaven/Earth
-1:1+    Divining and Productive:   day/night, water/sky, land/sea, sun/moon...
-3:6-20  Divining and Productive:   Sin > Heaven (Paradise Lost, Eden Leaving ) > 
-                                   "mother of all the living"
-3:11    Artifice                   Embarrasssed by nakedness.
-3:22    Heaven Securing            "...He must not be allowed to reach out his hand and take
-                                   also from the tree of life and eat, and live forever.”
-                                   (once saved, always saved.)
 
-Golden Age Creation
-------  -------------------------  ----------------------------------------------------------
-1:28    Be fruitful, and multiply  Leads to Chapter 2.
-2:2     Seven                      "on the seventh day he *rested* from all his work."
-2:7,    Be fruitful, and multiply  Adam and Eve creation
-4:1     Be fruitful, and multiply  Cain and Abel creation
 
 ## Heaven Creation: A Male-Ruled, Discrete, Inclusion
 
@@ -50,7 +34,7 @@ Golden Age Creation
 
 ![](images/eras-of-civilization_03_gold.svg)The Hebrews found a way to usually survive and likely thrive with the "Secret of Heaven" so they began to populate the area. The Bible describes these \[approaches/encounters\] as male \[routings/invasions\]. Abram took the religion from Chaldea to Canaan (modern-area Israel).
 
-Eventually with Moses it ends up in Egypt (the name of the location is just hebrew code) where it fails. The people of Egypt deny Moses his flood and Moses has to force his way out of Egypt. While they are stranded in the desert a female affectation begins. When Moses is on the mountain the golden calf appears and people appear to like it. Egypt has affected their religion and Moses (the Hebrews) react badly to it. Basically put: only males can be gods. So the Hebrews do what they always have done when in trouble: divine and get higher. By Moses bringing the 10 commandments down the mountain he is redefining the *Hebrew* definition to now be the *Jews*. The female leaders failed to recognize the separation even to this day.
+Eventually with Moses it ends up in Egypt (the name of the location is just Hebrew code) where it fails. The people of Egypt deny Moses his flood and Moses has to force his way out of Egypt. While they are stranded in the desert a female affectation begins. When Moses is on the mountain the golden calf appears and people appear to like it. Egypt has affected their religion and Moses (the Hebrews) react badly to it. Basically put: only males can be gods. So the Hebrews do what they always have done when in trouble: divine and get higher. By Moses bringing the 10 commandments down the mountain he is redefining the *Hebrew* definition to now be the *Jews*. The female leaders failed to recognize the separation even to this day.
 
 ## Second Heaven Creation (Getting "Saved"): A Female-Ruled, Ignorance-is-Bliss, Exclusion (conservative, more desperate)
 
@@ -62,7 +46,7 @@ The female side of Heaven, the second group, the right, gets noticeably conserva
 
 When the *New Testament* is published (the Vulgate, circa 400 A.D.) the right, now the Christian Church, makes a discernable split from the Jews. The New Testament forces four historical changes: 1) an advertisement of the value of supreme sacrifices (e.g. Job and Jesus[^2]); 2) an allowance to have sacrifices as babies (MT 2:1-4); 3) a combativeness to begin creating their own angels; and 4) a directive that salvation can come from spirituality alone (e.g. Paul).
 
-* the Magi (or commonly called the Three Wise Men) common misnomer comes from this passage? \
+* the Magi (or commonly called the Three Wise Men) common misnomer comes from this passage?
 * A physical representation of how these societies formed has already been mapped---to see it, combine the two symbols above.
 
 ## Female Heaven Creation---a Female-Ruled Exclusion
@@ -79,12 +63,12 @@ The "With such bad behavior, what am I to do with it?" is the Jews entire policy
 
 ## The Story of the Moral
 
-* If we fail to go through it together, evolve together, the revolutions continue. These Jobisms truly only help those that do them. Right: forcing their way in. **Socially necessary information** never again *cycle of poverty*. \
-* 50 years right has always thought that giving to left will reach satiation ([American Made](https://www.imdb.com/title/tt3532216/)) \
-* Creating gods -- He and She God competition, battle of the fatfaces, good for the people that are part of the battle. \
+* If we fail to go through it together, evolve together, the revolutions continue. These Jobisms truly only help those that do them. Right: forcing their way in. **Socially necessary information** never again *cycle of poverty*.
+* 50 years right has always thought that giving to left will reach satiation ([American Made](https://www.imdb.com/title/tt3532216/))
+* Creating gods -- He and She God competition, battle of the fatfaces, good for the people that are part of the battle.
 * Vegetarian importance---odd to the new---respect for all life can get us to Eden again.
-* complicit \
-* A desperate man being constantly rewarded builds in time an insularity where more abnormal feelings are required for him to find things interesting. And from this insularity his behavior begins to wear on civilization's standards. He becomes so immobile that when the Hebrews say to "fear God"... this is what they mean. \
+* complicit
+* A desperate man being constantly rewarded builds in time an insularity where more abnormal feelings are required for him to find things interesting. And from this insularity his behavior begins to wear on civilization's standards. He becomes so immobile that when the Hebrews say to "fear God"... this is what they mean.
 
 ## Who Am I?
 
@@ -97,73 +81,73 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 * Introduction:
   * Define as zero-sum game? godhead? 
   * What is heaven? It has come to following the free---a gravity almost all are being pulled to---generally ignorantly. A safety. Can anyone see it clearly.
-  * These religions are about getting "saved". \
-+ The saved, the right, feel it is more about fighting or avoiding the Jews than listening to the poor, or getting an overview, or getting back to Eden. \
-+ Grand Mistresses/Masters say "It hardly matters how you get here", Christians are about getting "saved". \
-+ Those that follow the great two-ism live rich lives---an algorithm invested in heavily by both sides---the great two algorithmic clock. \
-+ Some people join these societies thinking they will help from there---going through it together is nature's answer. \
-+ *Satan says, "It is easy to get people to be selfish." (Job ??:??)* \
-+ "[A heavenly person] must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever" (Gen 3:22-24). Paraphrase: "Gods/saved-people are prevented (by some great magical force?) from returning to Eden."---the Bible states this as-if absolute fact. \
-+ The Right, the Christians, have assumed most of: angel creation, muck maintenance, Jewish-satisfaction/aims-to-please. \
-+ The temerity of the right---sacrifices, baby sacrifices, zero full-view, conservatism, saved, rewarding naïve spiritualism, feeders of the left, ignorance is bliss, and thinking they have won when given a golden age (or failing to realize status quo ["never again" Gen 9:11]). These become people that are enticed. \
-+ Answers that come from the top/heaven/the-gods provide safety in the immediacy rather than knowledge that is built naturally/socially over time. \
-+ John Nash and zerosum game (important) \
-+ Esther: Where is the five discriminating? \
-+ Gods invest in two; Edenites invest in one (nature). \
-+ Heavenly Sins: 1) Protecting gods first and answers come from the saved; 2) Disappearing as an answer; 3) Eden as expendable/erasable and 4) Beauty as value. \
-+ Eight abandoned by Jews, now a red herring. The right has claimed it as theirs [7 ;)] and hides behind it. Combative right also using it to label Jewish businesses with. It lacks being fair because they have more numbers. \
-+ Bad behavior feeds them! \
-+ Paradise Lost. \
-+ Heaven is a Pavlovian system that is running away from nature. The rewards outweigh the known/felt consequences. \
-+ ♪ Do I need your civil war? It feeds the rich while it buries the poor. ♪ \
-+ Empathy: sharing a similar feeling because of a similar threat. \
-+ Saved-people/gods... your perspective is going to give you divisiveness simply by position. By default we want to be righteous, good with nature and others—--only an equal perspective can accomplish that. To help, perspectives like "beauty" and "being saved" need to be left behind. \
-+ From an honest perspective it is easier to learn that hardness and softness are hardly male and female attributes. Really, they are because the first side (the Jews) got to exercise the Secret of Heaven (and flood) and felt its production and protection (by audacity); while the second side, starting with the wives, inherited the protection, and learned submissiveness/conservativeness as a way to survive. \
-+ Heaven, a sure safety, is above nature from this perspective it breeds conservativeness. \
-+ If we do a thing that is fails-to-prioritize-those-that-need-it-most/selfish civilizations/herds make us feel guilty---survival requires us to move together as one. If we fail to provide that feeling what astronomical number of fixes would be have to begin to fix? \
-+ We have to go through evolution all together else we will become ignorant of the people left behind. \
+  * These religions are about getting "saved".
++ The saved, the right, feel it is more about fighting or avoiding the Jews than listening to the poor, or getting an overview, or getting back to Eden.
++ Grand Mistresses/Masters say "It hardly matters how you get here", Christians are about getting "saved".
++ Those that follow the great two-ism live rich lives---an algorithm invested in heavily by both sides---the great two algorithmic clock.
++ Some people join these societies thinking they will help from there---going through it together is nature's answer.
++ *Satan says, "It is easy to get people to be selfish." (Job ??:??)*
++ "[A heavenly person] must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever" (Gen 3:22-24). Paraphrase: "Gods/saved-people are prevented (by some great magical force?) from returning to Eden."---the Bible states this as-if absolute fact.
++ The Right, the Christians, have assumed most of: angel creation, muck maintenance, Jewish-satisfaction/aims-to-please.
++ The temerity of the right---sacrifices, baby sacrifices, zero full-view, conservatism, saved, rewarding naïve spiritualism, feeders of the left, ignorance is bliss, and thinking they have won when given a golden age (or failing to realize status quo ["never again" Gen 9:11]). These become people that are enticed.
++ Answers that come from the top/heaven/the-gods provide safety in the immediacy rather than knowledge that is built naturally/socially over time.
++ John Nash and zerosum game (important)
++ Esther: Where is the five discriminating?
++ Gods invest in two; Edenites invest in one (nature).
++ Heavenly Sins: 1) Protecting gods first and answers come from the saved; 2) Disappearing as an answer; 3) Eden as expendable/erasable and 4) Beauty as value.
++ Eight abandoned by Jews, now a red herring. The right has claimed it as theirs [7 ;)] and hides behind it. Combative right also using it to label Jewish businesses with. It lacks being fair because they have more numbers.
++ Bad behavior feeds them!
++ Paradise Lost.
++ Heaven is a Pavlovian system that is running away from nature. The rewards outweigh the known/felt consequences.
++ ♪ Do I need your civil war? It feeds the rich while it buries the poor. ♪
++ Empathy: sharing a similar feeling because of a similar threat.
++ Saved-people/gods... your perspective is going to give you divisiveness simply by position. By default we want to be righteous, good with nature and others—--only an equal perspective can accomplish that. To help, perspectives like "beauty" and "being saved" need to be left behind.
++ From an honest perspective it is easier to learn that hardness and softness are hardly male and female attributes. Really, they are because the first side (the Jews) got to exercise the Secret of Heaven (and flood) and felt its production and protection (by audacity); while the second side, starting with the wives, inherited the protection, and learned submissiveness/conservativeness as a way to survive.
++ Heaven, a sure safety, is above nature from this perspective it breeds conservativeness.
++ If we do a thing that is fails-to-prioritize-those-that-need-it-most/selfish civilizations/herds make us feel guilty---survival requires us to move together as one. If we fail to provide that feeling what astronomical number of fixes would be have to begin to fix?
++ We have to go through evolution all together else we will become ignorant of the people left behind.
 + Deperates, How Did They Become So? They need confidence so much and focus entirely on themselves (narcissistic/self-absorbed)---other needs they fail to realize as necessary.
-+ Seeing Edenites, naive people, gets the angels excited, and the Jews a feeling of free. Edenites have closer ties to nature and are kept from knowing that others have chosen "heaven on earth" (whether right or left) to get themselves above them. The first side/gods divine and put Edenites in a lower class during the flood, the second side/gods largely ignore them or sin against the Edenites as an offering to regain control after the flood (oops). The second side lacking knowing the great two-ism put us Edenites in increasingly worse danger. Such naivete of the Edenites got the Jews [confident] in such a way that these bugs were built in 1968! The Jews have become very Pavlonian, guided by the rewards. The only answer is to keep from feeding them. The people that need the most support, us Edenites, would really appreciate it (♥ free will). \
-+ The New Testament occurred at a time of a lot of turmoil (the Roman occupation, another flood). Many messiahs were created (Zealot: The Life and Times of Jesus of Nazareth, Reza Aslan)---Paul being the foremost, as a baby! (i.e. Paul was likely the lead person they used to create the messiah policy.) Paul choose to avoid heaven (e.g. the three temptations in the wilderness [MT 4:1-11, Luke 4:1-13]) and stayed a part of Eden a good part of his life---even during the "golden age" (in Zealot). The second side had to deal with Paul, his ethics, and it would have been work for them. This [closed the gap] in the Jewish dualism that took 400 years to find an amendable policy---the New Testament, the Christian Church, which agreed to act on people like Paul. The policy: gave fealty to the Jews (MT 1), agreed to provide sacrifices (with some being babies) (MT 2:1-4); and said that those that believe in Jesus (and people like Paul) as sacrifices were absolved of sin. Jerusalem got renamed Aelia Capitolina as part of the turmoil. (This is important history that few know.) \
-* "They made me do it (the left)"---false; began with Job, started by right. \
-* Section: Beauty Myth. Right built upon beauty methodology: vain, superficial, guilt avoiding. \
-* Section: Misnomers/Relabeling (6,3)--- errors by both heavens. Attributing heavens actions as Eden's: huge sin. \
-* The two shapes put together form the Star of David... a physical representation about how these societies formed. \
-* The battle of the right has become absolutely vicious and scares the people forsaken. \
-* The angels/beauties gotten-away-with-behavior make the rules (if endorsed by the Jews). \
-* The Jews behavior represents some their angel's behavior. They enjoy/need the visceral that is absent in their safety. \
-* The left-right heavens a powerful partnership/godhead. Only the Jews know this. Angels like David and Bathsheba made that protection by their recklessnesses. \
-* Nature is being neglected. \
-* Golden Ages appear great, but warning, a status quo is forced and they make the Gentiles even more naïve. \
-* Saved people, by their protection, feel righteous and superficial answers look more attactive to avoid guilt. \
-* The flood makes people selfish and the openness of the top of the food chain makes self-judging an open temptation, boundless? \
-* Bible chronological, almost perfectly! \
-* Land(s) of Milk and Honey - Kafka stating Jewish intent to go to Amerika, Jews define their intent \
-* Grand Master Leonardo da Vinci: Mona Lisa smiling, Adoration of the Magi, sacred feminine, Knights Templar. \
-* An example today of answers from the top can be seen in the principle of trickle-*down* economics/Adam Smiths Wealth of Nations. \
-* Messianic definition: John 3:16. \
-* Safety: an ideal. Have it for a bit and it feels normal---the feeling that makes heaven. \
-* Right Recruitment Requirements: 1) A battle must be declared on the Jews, and 2) that the modus operandi of this battle is bad behavior/building sin. \
-* Temptations create Gods and corruption. \
-* "May old acquaintance, be forgot..." Most suicides happen on New Years Eve (yearly flood begins here). \
-* Svg_jews: 1 to 11! Ruth going to Judah. \
-* Jack Weiner in Marion Ross book "My Days" said (paraphrase) "Use my name in any way you like". \
-* Angels in old times (today?!?) lost wives!?! (Ruth #:#) \
-* ~~What happens to messiahs during the golden ages and their status quos? Are messiahs used more intensely and kept more quiet?~~ Age of rest. \
-* Jewish self-interest appears to say, "With such bad behavior, what am I to do with it". \
-* David began listening to Bathsheba more when she gave up Job? As a rewardee it took more abnormal subjects to interest him! \
-* gods avoid natural reminders to make them behave. \
-* To Eden, to us, it feels like a battle on the threes. \
-- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. \
-* The games the gods play, healthy people reproduce. \
-* Lacking knowing what was going on Bathsheba started off pretty bad. Desperate she used beauty as an "in". Being separated by her husbands safety/being-a-rewardee she helped created Solomon as a puppet(her own son) as an a confirmation of her aptitude. \
-* mortal/immortal \
-* Heaven become too obvious. \
-* Jealously was created in the women/second-group?---only Adam got out of Eden. **w**-**o**-man. \
-* Visceral, Vicarious \
++ Seeing Edenites, naive people, gets the angels excited, and the Jews a feeling of free. Edenites have closer ties to nature and are kept from knowing that others have chosen "heaven on earth" (whether right or left) to get themselves above them. The first side/gods divine and put Edenites in a lower class during the flood, the second side/gods largely ignore them or sin against the Edenites as an offering to regain control after the flood (oops). The second side lacking knowing the great two-ism put us Edenites in increasingly worse danger. Such naivete of the Edenites got the Jews [confident] in such a way that these bugs were built in 1968! The Jews have become very Pavlonian, guided by the rewards. The only answer is to keep from feeding them. The people that need the most support, us Edenites, would really appreciate it (♥ free will).
++ The New Testament occurred at a time of a lot of turmoil (the Roman occupation, another flood). Many messiahs were created (Zealot: The Life and Times of Jesus of Nazareth, Reza Aslan)---Paul being the foremost, as a baby! (i.e. Paul was likely the lead person they used to create the messiah policy.) Paul choose to avoid heaven (e.g. the three temptations in the wilderness [MT 4:1-11, Luke 4:1-13]) and stayed a part of Eden a good part of his life---even during the "golden age" (in Zealot). The second side had to deal with Paul, his ethics, and it would have been work for them. This [closed the gap] in the Jewish dualism that took 400 years to find an amendable policy---the New Testament, the Christian Church, which agreed to act on people like Paul. The policy: gave fealty to the Jews (MT 1), agreed to provide sacrifices (with some being babies) (MT 2:1-4); and said that those that believe in Jesus (and people like Paul) as sacrifices were absolved of sin. Jerusalem got renamed Aelia Capitolina as part of the turmoil. (This is important history that few know.)
+* "They made me do it (the left)"---false; began with Job, started by right.
+* Section: Beauty Myth. Right built upon beauty methodology: vain, superficial, guilt avoiding.
+* Section: Misnomers/Relabeling (6,3)--- errors by both heavens. Attributing heavens actions as Eden's: huge sin.
+* The two shapes put together form the Star of David... a physical representation about how these societies formed.
+* The battle of the right has become absolutely vicious and scares the people forsaken.
+* The angels/beauties gotten-away-with-behavior make the rules (if endorsed by the Jews).
+* The Jews behavior represents some their angel's behavior. They enjoy/need the visceral that is absent in their safety.
+* The left-right heavens a powerful partnership/godhead. Only the Jews know this. Angels like David and Bathsheba made that protection by their recklessnesses.
+* Nature is being neglected.
+* Golden Ages appear great, but warning, a status quo is forced and they make the Gentiles even more naïve.
+* Saved people, by their protection, feel righteous and superficial answers look more attactive to avoid guilt.
+* The flood makes people selfish and the openness of the top of the food chain makes self-judging an open temptation, boundless?
+* Bible chronological, almost perfectly!
+* Land(s) of Milk and Honey - Kafka stating Jewish intent to go to Amerika, Jews define their intent
+* Grand Master Leonardo da Vinci: Mona Lisa smiling, Adoration of the Magi, sacred feminine, Knights Templar.
+* An example today of answers from the top can be seen in the principle of trickle-*down* economics/Adam Smiths Wealth of Nations.
+* Messianic definition: John 3:16.
+* Safety: an ideal. Have it for a bit and it feels normal---the feeling that makes heaven.
+* Right Recruitment Requirements: 1) A battle must be declared on the Jews, and 2) that the modus operandi of this battle is bad behavior/building sin.
+* Temptations create Gods and corruption.
+* "May old acquaintance, be forgot..." Most suicides happen on New Years Eve (yearly flood begins here).
+* Svg_jews: 1 to 11! Ruth going to Judah.
+* Jack Weiner in Marion Ross book "My Days" said (paraphrase) "Use my name in any way you like".
+* Angels in old times (today?!?) lost wives!?! (Ruth #:#)
+* ~~What happens to messiahs during the golden ages and their status quos? Are messiahs used more intensely and kept more quiet?~~ Age of rest.
+* Jewish self-interest appears to say, "With such bad behavior, what am I to do with it".
+* David began listening to Bathsheba more when she gave up Job? As a rewardee it took more abnormal subjects to interest him!
+* gods avoid natural reminders to make them behave.
+* To Eden, to us, it feels like a battle on the threes.
+- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
+* The games the gods play, healthy people reproduce.
+* Lacking knowing what was going on Bathsheba started off pretty bad. Desperate she used beauty as an "in". Being separated by her husbands safety/being-a-rewardee she helped created Solomon as a puppet(her own son) as an a confirmation of her aptitude.
+* mortal/immortal
+* Heaven become too obvious.
+* Jealously was created in the women/second-group?---only Adam got out of Eden. **w**-**o**-man.
+* Visceral, Vicarious
 * For the first fifty years, the first group, men mainly, the Jews, reward those who implement "Secret of Heaven" tasks (*rewardees*). For the following fifty years, the second group, the female-led group, the less knowledgeable but still protected group (their wives and other self-deserving people), are allowed the rule and they reward *resting* and guess at how to implement "Secret of Heaven" tasks (even get misdirected) while the Jews try to keep a status quo. The result of the second group fifty-year rule ends up making [laypeople] who have little heavenly knowledge, are naïve, and are exploitable/susceptible. Then the whole cycle is restarted again where the first group *rewardees* are excited by the naïveté of the [laypeople] who are often taken advantage of and used as tools in this battle. I am older and have seen a large number of poor people being used as them---the prescribed fix is desultory and ultimately selfish.
-- Calling 3's angels: bad behavior---seen (part tense)both right and left doing it. \
--  Desperate females were eventually given their own rule---part of the great Jewish TWO system. \
+- Calling 3's angels: bad behavior---seen (part tense)both right and left doing it.
+-  Desperate females were eventually given their own rule---part of the great Jewish TWO system.
 
 ![](images/hear-see-speak-zero-evil.svg)
 ![](images/jewish-code.svg)
@@ -185,33 +169,33 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 
 ## The Politics of the Right and How It Has Influenced Me
 
-* Grand Master: Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?". (Sidenote: also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")). \
-* Grand Master: "By doing all these wrong things to you, I can still teach you the right direction." \
-* Grand Master: "Hardly matters how you get here. [Just be sure that you do]." \
-* Bob Iger---got "Disney" from me. \
+* Grand Master: Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?". (Sidenote: also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")).
+* Grand Master: "By doing all these wrong things to you, I can still teach you the right direction."
+* Grand Master: "Hardly matters how you get here. [Just be sure that you do]."
+* Bob Iger---got "Disney" from me.
 * Tim Cook (?) Apple CEO used me to help Apple become solvent.
-* Reid---curses?! \
+* Reid---curses?!
 * Deaths:
-  * Jose in SLC---homeless guy who got hurt by the nervous system attacks meant for me. \
-  * Kid in Jackson---15 year old kid made to crash his motorcycle into farm equipment. \
-  * Grandfather---was given heart attack. \
-  * Christopher Reeve---horse-riding accident, related to something that happened to my family. \
-  * Rods and Cones---people have died to get this heavenly protection. Used in many places. particularly denominations, but also screws, needles, saw, washers. \
-* Companies using me---NIV, Target? Wal-Mart and rBST, Chick-Filet, Reddit(?) \
-* member that was protected. \
-* Back of the knees---said it was best to respect someone's secrecy and was labeled as naïve. \
-* KARM and drinks---angel got to add defenses for those that had to be around me. \
-* Job forgetisms. \
-* Zero big picture---was left to rot (even by my own gevernment). \
-* "Who's is he's?" \
-* "Who is this guy? And what does he have to do with us?" \
+  * Jose in SLC---homeless guy who got hurt by the nervous system attacks meant for me.
+  * Kid in Jackson---15 year old kid made to crash his motorcycle into farm equipment.
+  * Grandfather---was given heart attack.
+  * Christopher Reeve---horse-riding accident, related to something that happened to my family.
+  * Rods and Cones---people have died to get this heavenly protection. Used in many places. particularly denominations, but also screws, needles, saw, washers.
+* Companies using me---NIV, Target? Wal-Mart and rBST, Chick-Filet, Reddit(?)
+* member that was protected.
+* Back of the knees---said it was best to respect someone's secrecy and was labeled as naïve.
+* KARM and drinks---angel got to add defenses for those that had to be around me.
+* Job forgetisms.
+* Zero big picture---was left to rot (even by my own gevernment).
+* "Who's is he's?"
+* "Who is this guy? And what does he have to do with us?"
 * "What do you want me to leave town?" Grand Master added "leave town" to heaven-verse.
-* Darwin---savages \
-* Supplications---penny magmatism at Walmart (ouch), sleeping wind directed into, dogs going after me. \
-* Graffiti and 13 other hate things directed at me (ton of graphiti done to TVA naturegrounds). \
-* "Hardly matters how he feels."---got in front of my sleeping spot and said this. \
-* People magazine has used me to protect some of their mucks. Stone and Carrey may have also been protected through them; I had both of their big movies scenes altered in my brain. One showed Michael Douglas instead and the other Ben Stiller. \
-* Harry Reid things that happen to me after he is here. \
+* Darwin---savages
+* Supplications---penny magmatism at Walmart (ouch), sleeping wind directed into, dogs going after me.
+* Graffiti and 13 other hate things directed at me (ton of graphiti done to TVA naturegrounds).
+* "Hardly matters how he feels."---got in front of my sleeping spot and said this.
+* People magazine has used me to protect some of their mucks. Stone and Carrey may have also been protected through them; I had both of their big movies scenes altered in my brain. One showed Michael Douglas instead and the other Ben Stiller.
+* Harry Reid things that happen to me after he is here.
 * Erasing instinct.
 
 [^2]: John 3:16 describes the messiahs well, "\[a\] begotten Son, that whosoever believeth in Him should not perish, but have *everlasting life*."

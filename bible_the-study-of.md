@@ -1,5 +1,21 @@
 # Bible the Study Of
 
+Heaven Creation
+1:1     [Audacious]                Heaven/Earth
+1:1+    Divining and Productive:   day/night, water/sky, land/sea, sun/moon...
+3:6-20  Divining and Productive:   Sin > Heaven (Paradise Lost, Eden Leaving ) > 
+                                   "mother of all the living"
+3:11    Artifice                   Embarrasssed by nakedness.
+3:22    Heaven Securing            "...He must not be allowed to reach out his hand and take
+                                   also from the tree of life and eat, and live forever.”
+                                   (once saved, always saved.)
+
+Golden Age Creation
+1:28    Be fruitful, and multiply  Leads to Chapter 2.
+2:2     Seven                      "on the seventh day he *rested* from all his work."
+2:7,    Be fruitful, and multiply  Adam and Eve creation
+4:1     Be fruitful, and multiply  Cain and Abel creation
+
 ## Genesis
 
 1     **Summary**: Jew initiated, the first side, generally ♂, divining, productive and...
