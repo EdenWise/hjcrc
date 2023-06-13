@@ -9,4 +9,4 @@ set PATH=D:\;%PATH%
 :: Personal: Add pandoc.exe to path of executables:
 echo "`$env:Path += `"D:;`""
 
-pandoc.exe .\hjcrc.md --from markdown+inline_notes --to docx --reference-doc=template.docx --dpi=220 --wrap=none --output .\hjcrc.docx
+pandoc.exe .\hjcrc.md --from markdown+inline_notes+escaped_line_breaks --to docx --reference-doc=template.docx --dpi=220 --wrap=none --output .\hjcrc.docx
