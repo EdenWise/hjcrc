@@ -1,8 +1,8 @@
 ### History of the Judeo-Christian Religion and How It Effects Civilization
 
-This is a life work for me...
+This is a life work for me... :)
 
-I decided to write this document in markdown for collaboration (if anybody wants to help). These are the steps needed to build the Microsoft Word document.
+I decided to write this document in markdown for collaboration if anybody wants to help. These are the steps I take to build the final Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
 
 #### Original Conversion
 
