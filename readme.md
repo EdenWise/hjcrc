@@ -10,8 +10,8 @@ I started originally with a Microsoft-Word document and I converted it to Markdo
 
     pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md
 
-* Tabs to paragraph indents possible? `pandoc.exe --preserve-tabs` fails because docx is paragraphs with indents? \
-* Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online---tell me if needed, I have a copy. \
+* Tabs to paragraph indents possible? `pandoc.exe --preserve-tabs` fails because docx is paragraphs with indents?
+* Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online---tell me if needed, I have a copy.
 
     rsvg-convert --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
 
