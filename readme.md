@@ -6,7 +6,7 @@ I decided to write this document in markdown for collaboration if anybody wants 
 
 #### Original Conversion
 
-I started originally with a Microsoft-Word document and I converted it to Markdown. This is the line I used (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]):
+I started originally with a Microsoft-Word document and I converted it to Markdown. This is the command I used (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]):
 
     pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md
 
