@@ -16,6 +16,8 @@ Golden Age Creation
 2:7,    Be fruitful, and multiply  Adam and Eve creation
 4:1     Be fruitful, and multiply  Cain and Abel creation
 
+6:2     Beautiful                   
+
 ## Genesis
 
 1     **Summary**: Jew initiated, the first side, generally ♂, divining, productive and...
@@ -164,3 +166,64 @@ Golden Age Creation
 24 If Cain is avenged seven times, then Lamech seventy-seven times.”
 25 Adam made love to his wife again, and she gave birth to a son and named him Seth, saying, “God has granted me another child in place of Abel, since Cain killed him.”
 26 Seth also had a son, and he named him Enosh. At that time people began to call on the name of the LORD.
+
+## Genesis 5---From Adam to Noah
+
+1 This is the written account of Adam’s family line. When God created mankind, he made them in the likeness of God.
+2 He created them male and female and blessed them. And he named them “Mankind” when they were created.
+3 When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth.
+4 After Seth was born, Adam lived 800 years and had other sons and daughters.
+5 Altogether, Adam lived a total of 930 years, and then he died.
+6 When Seth had lived 105 years, he became the father of Enosh.
+7 After he became the father of Enosh, Seth lived 807 years and had other sons and daughters.
+8 Altogether, Seth lived a total of 912 years, and then he died.
+9 When Enosh had lived 90 years, he became the father of Kenan.
+10 After he became the father of Kenan, Enosh lived 815 years and had other sons and daughters.
+11 Altogether, Enosh lived a total of 905 years, and then he died.
+12 When Kenan had lived 70 years, he became the father of Mahalalel.
+13 After he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.
+14 Altogether, Kenan lived a total of 910 years, and then he died.
+15 When Mahalalel had lived 65 years, he became the father of Jared.
+16 After he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters.
+17 Altogether, Mahalalel lived a total of 895 years, and then he died.
+18 When Jared had lived 162 years, he became the father of Enoch.
+19 After he became the father of Enoch, Jared lived 800 years and had other sons and daughters.
+20 Altogether, Jared lived a total of 962 years, and then he died.
+21 When Enoch had lived 65 years, he became the father of Methuselah.
+22 After he became the father of Methuselah, Enoch walked faithfully with God 300 years and had other sons and daughters.
+23 Altogether, Enoch lived a total of 365 years.
+24 Enoch walked faithfully with God; then he was no more, because God took him away.
+25 When Methuselah had lived 187 years, he became the father of Lamech.
+26 After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters.
+27 Altogether, Methuselah lived a total of 969 years, and then he died.
+28 When Lamech had lived 182 years, he had a son.
+29 He named him Noah and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed.”
+30 After Noah was born, Lamech lived 595 years and had other sons and daughters.
+31 Altogether, Lamech lived a total of 777 years, and then he died.
+32 After Noah was 500 years old, he became the father of Shem, Ham and Japheth.
+
+## Genesis 6---Wickedness in the World
+
+1 When human beings began to increase in number on the earth and daughters were born to them,
+2 the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose.
+3 Then the LORD said, “My Spirit will not contend with humans forever, for they are mortal ; their days will be a hundred and twenty years.”
+4 The Nephilim were on the earth in those days—and also afterward—when the sons of God went to the daughters of humans and had children by them. They were the heroes of old, men of renown.
+5 The LORD saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.
+6 The LORD regretted that he had made human beings on the earth, and his heart was deeply troubled.
+7 So the LORD said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them.”
+8 But Noah found favor in the eyes of the LORD.
+Noah and the Flood
+9 This is the account of Noah and his family. Noah was a righteous man, blameless among the people of his time, and he walked faithfully with God.
+10 Noah had three sons: Shem, Ham and Japheth.
+11 Now the earth was corrupt in God’s sight and was full of violence.
+12 God saw how corrupt the earth had become, for all the people on earth had corrupted their ways.
+13 So God said to Noah, “I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth.
+14 So make yourself an ark of cypress wood; make rooms in it and coat it with pitch inside and out.
+15 This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.
+16 Make a roof for it, leaving below the roof an opening one cubit high all around. Put a door in the side of the ark and make lower, middle and upper decks.
+17 I am going to bring floodwaters on the earth to destroy all life under the heavens, every creature that has the breath of life in it. Everything on earth will perish.
+18 But I will establish my covenant with you, and you will enter the ark—you and your sons and your wife and your sons’ wives with you.
+19 You are to bring into the ark two of all living creatures, male and female, to keep them alive with you.
+20 Two of every kind of bird, of every kind of animal and of every kind of creature that moves along the ground will come to you to be kept alive.
+21 You are to take every kind of food that is to be eaten and store it away as food for you and for them.”
+22 Noah did everything just as God commanded him.

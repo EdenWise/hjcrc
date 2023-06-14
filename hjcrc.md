@@ -146,6 +146,8 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 * Jealously was created in the women/second-group?---only Adam got out of Eden. **w**-**o**-man.
 * Visceral, Vicarious
 * For the first fifty years, the first group, men mainly, the Jews, reward those who implement "Secret of Heaven" tasks (*rewardees*). For the following fifty years, the second group, the female-led group, the less knowledgeable but still protected group (their wives and other self-deserving people), are allowed the rule and they reward *resting* and guess at how to implement "Secret of Heaven" tasks (even get misdirected) while the Jews try to keep a status quo. The result of the second group fifty-year rule ends up making [laypeople] who have little heavenly knowledge, are naïve, and are exploitable/susceptible. Then the whole cycle is restarted again where the first group *rewardees* are excited by the naïveté of the [laypeople] who are often taken advantage of and used as tools in this battle. I am older and have seen a large number of poor people being used as them---the prescribed fix is desultory and ultimately selfish.
+* The Jews create a hole in the bottom of society. They get [leverage] from it. They do this by working against the least fortunate people. This has ended up causing the second side to fight a battle with the Jews rather to defend Job, Jesus... (For a long time now the last thing anyone is to do is defend Job.) This mis-prioritizing is exactly what the Jews want: hate them, think the golden age is yours, but the last thing to do is to help Job get a meal today.
+* The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
 - Calling 3's angels: bad behavior---seen (part tense)both right and left doing it.
 -  Desperate females were eventually given their own rule---part of the great Jewish TWO system.
 
@@ -169,18 +171,21 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 
 ## The Politics of the Right and How It Has Influenced Me
 
-* Grand Master: Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?". (Sidenote: also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")).
-* Grand Master: "By doing all these wrong things to you, I can still teach you the right direction."
-* Grand Master: "Hardly matters how you get here. [Just be sure that you do]."
-* Bob Iger---got "Disney" from me.
-* Tim Cook (?) Apple CEO used me to help Apple become solvent.
-* Reid---curses?!
 * Deaths:
   * Jose in SLC---homeless guy who got hurt by the nervous system attacks meant for me.
   * Kid in Jackson---15 year old kid made to crash his motorcycle into farm equipment.
   * Grandfather---was given heart attack.
   * Christopher Reeve---horse-riding accident, related to something that happened to my family.
   * Rods and Cones---people have died to get this heavenly protection. Used in many places. particularly denominations, but also screws, needles, saw, washers.
+* Grand Master: Curse God—added/or-tried-to-add by Harry Reid with Jesus saying "Why hast though forsaken me?". (Sidenote: also was encouraged to do to Job (by wife) (something like, "Job why do you not curse God?")).
+* Grand Master: "By doing all these wrong things to you, I can still teach you the right direction."
+* Grand Master: "Hardly matters how you get here. [Just be sure that you do]."
+* Bob Iger---got "Disney" from me.
+* Tim Cook (?) Apple CEO used me to help Apple become solvent.
+* Lorne Micheals---got "humor" from me.
+* Reid---curses?!
+* Vin Diesel---once commented how I liked him in "Pitch Black" and him...
+* Shannon Sharp got fired because of me.
 * Companies using me---NIV, Target? Wal-Mart and rBST, Chick-Filet, Reddit(?)
 * member that was protected.
 * Back of the knees---said it was best to respect someone's secrecy and was labeled as naïve.
@@ -192,7 +197,7 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 * "What do you want me to leave town?" Grand Master added "leave town" to heaven-verse.
 * Darwin---savages
 * Supplications---penny magmatism at Walmart (ouch), sleeping wind directed into, dogs going after me.
-* Graffiti and 13 other hate things directed at me (ton of graphiti done to TVA naturegrounds).
+* Graffiti and 13 other hate things directed at me (ton of graphiti done to TVA naturegrounds) Cricken Crabbits.
 * "Hardly matters how he feels."---got in front of my sleeping spot and said this.
 * People magazine has used me to protect some of their mucks. Stone and Carrey may have also been protected through them; I had both of their big movies scenes altered in my brain. One showed Michael Douglas instead and the other Ben Stiller.
 * Harry Reid things that happen to me after he is here.
