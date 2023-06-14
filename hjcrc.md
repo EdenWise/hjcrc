@@ -182,8 +182,8 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 * Grand Master: "Hardly matters how you get here. [Just be sure that you do]."
 * Bob Iger---got "Disney" from me.
 * Tim Cook (?) Apple CEO used me to help Apple become solvent.
-* Lorne Micheals---got "humor" from me.
-* Reid---curses?!
+* Lorne Micheals---got "humor" from me. 
+* Reid---curses?!, San Francisco Trees planted to get rid of homeless.
 * Vin Diesel---once commented how I liked him in "Pitch Black" and him...
 * Shannon Sharp got fired because of me.
 * Companies using me---NIV, Target? Wal-Mart and rBST, Chick-Filet, Reddit(?)
