@@ -16,7 +16,7 @@ Golden Age Creation
 2:7,    Be fruitful, and multiply  Adam and Eve creation
 4:1     Be fruitful, and multiply  Cain and Abel creation
 
-6:2     Beautiful                   
+6:2     Beautiful                   "sons of God saw that the daughters of humans were beautiful"
 
 ## Genesis
 
