@@ -1,8 +1,5 @@
 :: About: Text convert from Markdown to Microsoft-Word.
 
-:: Personal: Print command to add my pandoc.exe to path of executables:
-echo "`$env:Path += `"D:;`""
-
 :: Print everything: off
 @echo off
 
