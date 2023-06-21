@@ -24,7 +24,7 @@ Template generate of default settings, and rename to `template.docx`:
     pandoc.exe --output template.docx --print-default-data-file reference.docx
     mv reference.docx template.docx
 
-~~I tried to define paragraph indents via the `pandoc.exe` `--variable` option, but it failed (FYI: variables only work on templates)*
+I tried to define paragraph indents via the `pandoc.exe` `--variable` option, but it failed (FYI: variables only work on templates):
 
     -V KEY[=VAL],           --variable=KEY[:VAL]
     -V KEY[:SUBKEY][=VAL],  --variable=KEY[:SUBKEY][:=VAL] (e.g. -V geometry:margin=1in)
