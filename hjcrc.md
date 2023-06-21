@@ -44,7 +44,7 @@ Heaven is a Jewish belief-system and is male-led. The females have always misund
 
 The female side of Heaven, the second group, the right, gets noticeably conservative/combative by the book of Job. Job, who is in Eden, is being helped by his wife (who is safe with heaven). Satan visits and Bathsheba abandons Job to stay safe, "Everything he has is in your power (Job 1:10-12)." She became selfish because another flood is happening. Following this Bathsheba's family, friends continue her sin on Job and get protection for themselves (Job 1:15-19) (I call these Jobisms). Job was made a sacrifice (for possibly as long as fifty years) until the right get power again. When they get power again, Bathsheba saves Job feeling guilty; she gives him "twice as much as he had before (Job 42:10)". Giving people as sacrifices starts here with the female-led side of Heaven. The *right* for the rest of the Old Testament develop god mythically as a spiritual being. (They have little idea they are part of heaven!?). (The desperate men, later in the Old Testament, are named a*N*gels and a head angel as Satan (Job 1:6 NIV).)
 
-When the *New Testament* is published (the Vulgate, circa 400 A.D.) the right, now the Christian Church, makes a discernable split from the Jews. The New Testament forces four historical changes: 1) an advertisement of the value of supreme sacrifices (e.g. Job and Jesus[^2]); 2) an allowance to have sacrifices as babies (MT 2:1-4); 3) a combativeness to begin creating their own angels; and 4) a directive that salvation can come from spirituality alone (e.g. Paul).
+When the *New Testament* is published (the Vulgate, circa 400 A.D.) the right, now the Christian Church, makes a discernable split from the Jews. The New Testament forces four historical changes: 1) an advertisement of the value of supreme sacrifices (e.g. Job and Jesus ^[John 3:16 describes the messiahs well, "\[a\] begotten Son, that whosoever believeth in Him should not perish, but have *everlasting life*."]); 2) an allowance to have sacrifices as babies (MT 2:1-4); 3) a combativeness to begin creating their own angels; and 4) a directive that salvation can come from spirituality alone (e.g. Paul).
 
 * the Magi (or commonly called the Three Wise Men) common misnomer comes from this passage?
 * A physical representation of how these societies formed has already been mapped---to see it, combine the two symbols above.
@@ -169,6 +169,7 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
   * Matthew Perry, Friends, Lovers, and the Big Terrible Thing: A Memoir
   * Marlon Brando
   * Clark Gable
+  * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.
 
 ## The Politics of the Right and How It Has Influenced Me
 
@@ -205,4 +206,4 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 * Harry Reid things that happen to me after he is here.
 * Erasing instinct.
 
-[^2]: John 3:16 describes the messiahs well, "\[a\] begotten Son, that whosoever believeth in Him should not perish, but have *everlasting life*."
+^[[Git](https://github.com/EdenWise/hjcrc) \| [@](mailto:toddpartridge@outlook.com)]
