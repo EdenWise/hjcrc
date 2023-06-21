@@ -45,24 +45,26 @@ I then imported matching styles from existing document to `template.docx`:
 * Images align (Must be done manually. Markdown image attributes (width, align, others?) fail.):
   + Image right-click > Size and Position >
   + Tab: Text Wrapping
-    • Wrapping style:       Tight
-    • Wrap text:            Left only
-    - Distance from text:   appears to be in template.docx (TBLR, 0,0,.13,.13)
+    • Wrapping style:     Tight
+    • Wrap text:          Left only
+    - Distance from text: appears to be in template.docx (TBLR, 0,0,.13,.13)
   + Tab: Position
-    • Horizontal:           Alignment: Right, relative to, Column
+    • Horizontal:         Alignment: Right, relative to, Column
 
-* Paragraph Indentation and Spacing reintroduce:
-  + First Paragraph and Body Text:
-    + Tab Home > Right-Click each one > Modify > Format > Paragraph
-      • Indentation:        Special: First Line; By: 0.2"
-      • Spacing:            Before and After: 0pt; Line spacing: single
-  + Headings require this to?
-      • Yes, but minor... leaving for now:
-          * they are: Paragraph > Spacing > Before: 2 pt
-          *                                  Line spacing: Multiple: 1.08
+* Spacing and Indentation reintroduce for First Paragraph **and** Body Text:
+  + Tab Home > Right-Click each one > Modify > Format > Paragraph
+    • Indentation:        Special: First Line; By: 0.2"
+    • Spacing:            Before and After: 0pt; Line spacing: Single
+
+* Heading Spacing reintroduce:
+  + Tab Home > Right-Click each one > Modify > Format > Paragraph
+    • Spacing             Before:          0 pt; Line spacing: Single
+
+* Bullet Lists text indentation reintroduce:
+  + Bullet > Right-Click > Adjust List Indents
+    • Text indent at: 0"
 
 #### To Do
 
 * Paragraph spacing (template.docx only allows basic format options.) may be helped with.
   • [General writer options](https://pandoc.org/MANUAL.html#general-writer-options-1)
-* Microsoft-Word manual edits still required:
