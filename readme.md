@@ -51,7 +51,7 @@ I then imported matching styles from existing document to `template.docx`:
   + Tab: Position
     • Horizontal:         Alignment: Right, relative to, Column
 
-* Spacing and Indentation reintroduce for First Paragraph **and** Body Text:
+* Spacing and Indentation reintroduce for Body Text *and* First Paragraph:
   + Tab Home > Right-Click each one > Modify > Format > Paragraph
     • Indentation:        Special: First Line; By: 0.2"
     • Spacing:            Before and After: 0pt; Line spacing: Single
