@@ -74,7 +74,7 @@ The "With such bad behavior, what am I to do with it?" is the Jews entire policy
 * complicit
 * A desperate man being constantly rewarded builds in time an insularity where more abnormal feelings are required for him to find things interesting. And from this insularity his behavior begins to wear on civilization's standards. He becomes so immobile that when the Hebrews say to "fear God"... this is what they mean.
 
-## Who Am I?
+## Who Am I? ^[[Git](https://github.com/EdenWise/hjcrc) \| [@](mailto:toddpartridge@outlook.com)]
 
 I apologize for having to bring forward such a tough topic. There is a battle going on. It really is more of a grabbing of power by those failing to realize others are being left behind---the male versus female gods (very literally). When lacking helping those that need it most, gods develop. The gods use the desperates and the beauties as tools/pawns to progress their side of heaven. The desperates and beauties get rewarded falsely (lacking earning it) to be used as vessels for that progress. The Jews who organize it have safety, the gods do too, their desperates and beauties have safety (as long as the gods chose to do so), but the people left behind in Eden have to live in the [wastelands] and as political tools. Some people of Eden are even designated sacrifices, like Jesus. It may be hard to believe but I am one of these people. Us messiahs have zero story that gets recorded, have zero story to learn from, and are used by the right as sacrifices to create their side of heaven (like Job). The female gods have lacked wanting to deal with the male gods and are submissive so they have learned that by giving up sacrifices like Job and Jesus that they get power too. I am one of these people. And this is hardly a short story, I have been here all my life. I have seen some other sacrifices in my life journey and these stories are too disturbing to talk about. I wonder what type of faith to have in all this. It has been this way for 4100 years. I feel truly alone and have zero idea if there will ever be any representation for us. Zero people in my life story have I discovered that truly know what is going on.
 
@@ -157,9 +157,6 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 - Calling 3's angels: bad behavior---seen (part tense)both right and left doing it.
 -  Desperate females were eventually given their own rule---part of the great Jewish TWO system.
 
-![](images/hear-see-speak-zero-evil.svg)
-![](images/jewish-code.svg)
-
 ## Books that Help
 
   * 48: An Experiential Memoir on Homelessness                  Sheldon A. Jacobs
@@ -211,4 +208,5 @@ The battle in heaven makes a product of a selfish splitting of safety. The saved
 * Harry Reid things that happen to me after he is here.
 * Erasing instinct.
 
-^[[Git](https://github.com/EdenWise/hjcrc) \| [@](mailto:toddpartridge@outlook.com)]
+![](images/hear-see-speak-zero-evil.svg)
+![](images/jewish-code.svg)
