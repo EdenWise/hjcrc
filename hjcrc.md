@@ -22,7 +22,7 @@ Judaism started because of an environmental threat. The area the religion starte
 
 ## Heaven Creation
 
-The Bible starts with a [desperate] man being rewarded so much that it refers to him as a god, "In the beginning God created the *heavens* and the *earth*. (Gen 1:1)"  
+The Bible starts with a [desperate] man being rewarded so much that it refers to him as a god, "In the beginning God created the *heavens* and the *earth*." (Gen 1:1). More divining (and productivity) is done: day/night, water/sky, land/sea, sun/moon, man/nature. Adam wants to be part of heaven on earth. He eats the "forbidden fruit" to "be like God" and leaves Eden.
 
 ## Heaven Creation: A Male-Ruled, Discrete, Inclusion
 
