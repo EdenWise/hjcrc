@@ -14,13 +14,13 @@ Heaven Creation
 5                                   Geneologies: (from what I remember, I studied this once, demonstrate the power transitions---there are 10)
 
 Golden Age Creation
-2:2     Seven                       "on the seventh day he *rested* from all his work."
+2:2     Seven                       "on the *seventh* day he rested from all his work."
 2:7,    Be fruitful, and multiply   Adam and Eve creation
 4:1     Be fruitful, and multiply   Cain and Abel creation
 4:15    Seven                       "will suffer vengeance seven times over.”
 6:1     Be fruitful, and multiply   "When human beings began to increase in number…"
-6:2     Beautiful                   "sons of God saw that the daughters[…] were beautiful"
-6:3     Two                         “…hundred and twenty years.”
+6:2     Two                         "sons of God saw that the daughters[…] were *beautiful*"
+6:3     Two                         “…hundred and *twenty* years.”
 6:12    Guns                        “The Nephilim were on the earth…” Men too big, too
                                     rewarded. The right orders the Ark to be made, they prepare the flood “for all the people on earth had corrupted their ways.” by being able to pick who the A**n**imals are going to be.
 
