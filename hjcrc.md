@@ -23,7 +23,11 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 ## His Story---Heaven Creation: ♂-led, divining, assured/haughty/destined/domineering
 ## His Story: divining
 
-(Gen 1) A desperate man being constantly rewarded is how the Bible starts, it refers to the desperate man as a "God", "In the beginning God created the *heavens* and the *earth*." God does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam chooses to "be like God" (get to)
+(Gen 1) A desperate man being constantly rewarded is how the Bible starts, it refers to the desperate man as a "God", "In the beginning God created the *heavens* and the *earth*." God does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam chooses to "be like God" (get to heaven on earth) and eats the "forbidden fruit" to get out of Eden. (Gen 5) is a legend or general trends. (Gen 7) Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining to get higher".)
+
+* Only Adam got out of Eden (probably because he was a diviner).
+* Gods/saved-people are prevented (by some great magical force?) from returning to Eden---the Bible states this as-if absolute fact (Gen 3:22-24).
+* The serpeant encouraged selfishness.
 
 (Gen 1) The Bible starts with a [desperate] man being rewarded so much that it refers to him as a "God": "In the beginning God created the *heavens* and the *earth*." God(s) divine and get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam wants to "be like God" (be part of part heaven on earth) and eats the "forbidden fruit" to leave Eden. (Gen 5) is a report card, a key, or general trends. (Gen 7) Noah rewarded a large number of desperate men in synchronicity to "flood" the *earth* by putting the a*n*imals on the Ark.
 
