@@ -64,6 +64,9 @@ I then imported matching styles from existing document to `template.docx`:
   + Bullet > Right-Click > Adjust List Indents > More >>
     • Text indent at:     0"
     • Follow number with: Space
+* Bullet Lists Spacing reduce:
+  + Item right-click
+    • Spacing (Before and After): 0 pt.
 
 #### To Do
 
