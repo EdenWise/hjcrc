@@ -160,6 +160,9 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 * Narcisstics
 - Desperate females were eventually given their own rule---part of the great Jewish TWO system.
 - In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
+
+![](images/hear-see-speak-zero-evil.svg)
+![](images/jewish-code.svg)
 - 
 ## Books that Help
 
@@ -212,6 +215,3 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 * People magazine has used me to protect some of their mucks. Stone and Carrey may have also been protected through them; I had both of their big movies scenes altered in my brain. One showed Michael Douglas instead and the other Ben Stiller.
 * Harry Reid things that happen to me after he is here.
 * Erasing instinct.
-
-![](images/hear-see-speak-zero-evil.svg)
-![](images/jewish-code.svg)
