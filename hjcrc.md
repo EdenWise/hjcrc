@@ -114,7 +114,7 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 + Empathy: sharing a similar feeling because of a similar threat.
 + Saved-people/gods... your perspective is going to give you divisiveness simply by position. By default we want to be righteous, good with nature and others—--only an equal perspective can accomplish that. To help, perspectives like "beauty" and "being saved" need to be left behind.
 + From an honest perspective it is easier to learn that hardness and softness are hardly male and female attributes. Really, they are because the first side (the Jews) got to exercise the Secret of Heaven (and flood) and felt its production and protection (by audacity); while the second side, starting with the wives, inherited the protection, and learned submissiveness/conservativeness as a way to survive.
-+ Heaven, a sure safety, is above nature from this perspective it breeds conservativeness.
++ Safety (as in from heaven, a perspective above nature) breeds conservativeness. Both the Jews and the Right behave so. This conservativeness effects the people [left behind] and puts them in greater danger.
 + If we do a thing that fails-to-prioritize-those-that-need-it-most/is-selfish civilizations/herds make us feel guilty---survival requires us to move together as one. If we fail to provide that feeling what astronomical number of fixes would be have to begin to fix?
 + We have to go through evolution all together else we will become ignorant of the people left behind.
 + Deperates, How Did They Become So? They need confidence so much and focus entirely on themselves (narcissistic/self-absorbed)---other needs they fail to realize as necessary.
@@ -157,7 +157,13 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 * The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
 * Sin is used as a commodity in this system.
 * Artifice is being used to create immortality.
-* Narcisstics
+* Narcisstics=Desperates
+* A very limited number of Jews know what is going on (know heaven and know the rules).
+* Chritians your predecessors are the Jews! You are the near-sighted second side. Your bad behavior keeps the poor away!
+* What gets a right-winger Grand-Mistress/Master more riled than ethics??
+* The right joining in the flood (Gen 6) is hardly part of the great two! So we will rest during a male era to fix the great two (Gen 9).
+* The Christian's messiahs are put in almost inevitable death situations. Since the Jews go as far as to say that men are natural diviners (Gen 4: Eve being supported for putting Cain, Abel, and Seth there from Eden) the Christians labeling some men as sacrifices (carpenters, walkers on water...) their fates are sure and preferrably ignorable.
+* When a messiah (a sacrifice) learns about a heavenly rule then the Gods work directly against him and change the rule (divine and get higher).
 - Desperate females were eventually given their own rule---part of the great Jewish TWO system.
 - In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
 

@@ -205,3 +205,65 @@
 22 Everything on dry land that had the breath of life in its nostrils died.
 23 Every living thing on the face of the earth was wiped out; people and animals and the creatures that move along the ground and the birds were wiped from the earth. Only Noah was left, and those with him in the ark.
 24 The waters flooded the earth for a hundred and fifty days.
+
+## Genesis 8
+
+1 But God remembered Noah and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded.
+2 Now the springs of the deep and the floodgates of the heavens had been closed, and the rain had stopped falling from the sky.
+3 The water receded steadily from the earth. At the end of the hundred and fifty days the water had gone down,
+4 and on the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat.
+5 The waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.
+6 After forty days Noah opened a window he had made in the ark
+7 and sent out a raven, and it kept flying back and forth until the water had dried up from the earth.
+8 Then he sent out a dove to see if the water had receded from the surface of the ground.
+9 But the dove could find nowhere to perch because there was water over all the surface of the earth; so it returned to Noah in the ark. He reached out his hand and took the dove and brought it back to himself in the ark.
+10 He waited seven more days and again sent out the dove from the ark.
+11 When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf! Then Noah knew that the water had receded from the earth.
+12 He waited seven more days and sent the dove out again, but this time it did not return to him.
+13 By the first day of the first month of Noah’s six hundred and first year, the water had dried up from the earth. Noah then removed the covering from the ark and saw that the surface of the ground was dry.
+14 By the twenty-seventh day of the second month the earth was completely dry.
+15 Then God said to Noah,
+16 “Come out of the ark, you and your wife and your sons and their wives.
+17 Bring out every kind of living creature that is with you—the birds, the animals, and all the creatures that move along the ground—so they can multiply on the earth and be fruitful and increase in number on it.”
+18 So Noah came out, together with his sons and his wife and his sons’ wives.
+19 All the animals and all the creatures that move along the ground and all the birds—everything that moves on land—came out of the ark, one kind after another.
+20 Then Noah built an altar to the LORD and, taking some of all the clean animals and clean birds, he sacrificed burnt offerings on it.
+21 The LORD smelled the pleasing aroma and said in his heart: “Never again will I curse the ground because of humans, even though every inclination of the human heart is evil from childhood. And never again will I destroy all living creatures, as I have done.
+22 “As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.”
+
+## Genesis 9
+
+### God’s Covenant With Noah
+
+1 Then God blessed Noah and his sons, saying to them, “Be fruitful and increase in number and fill the earth.
+2 The fear and dread of you will fall on all the beasts of the earth, and on all the birds in the sky, on every creature that moves along the ground, and on all the fish in the sea; they are given into your hands.
+3 Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything.
+4 “But you must not eat meat that has its lifeblood still in it.
+5 And for your lifeblood I will surely demand an accounting. I will demand an accounting from every animal. And from each human being, too, I will demand an accounting for the life of another human being.
+6 “Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind.
+7 As for you, be fruitful and increase in number; multiply on the earth and increase upon it.”
+8 Then God said to Noah and to his sons with him:
+9 “I now establish my covenant with you and with your descendants after you
+10 and with every living creature that was with you—the birds, the livestock and all the wild animals, all those that came out of the ark with you—every living creature on earth.
+11 I establish my covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.”
+12 And God said, “This is the sign of the covenant I am making between me and you and every living creature with you, a covenant for all generations to come:
+13 I have set my rainbow in the clouds, and it will be the sign of the covenant between me and the earth.
+14 Whenever I bring clouds over the earth and the rainbow appears in the clouds,
+15 I will remember my covenant between me and you and all living creatures of every kind. Never again will the waters become a flood to destroy all life.
+16 Whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and all living creatures of every kind on the earth.”
+17 So God said to Noah, “This is the sign of the covenant I have established between me and all life on the earth.”
+
+### The Sons of Noah
+
+18 The sons of Noah who came out of the ark were Shem, Ham and Japheth. (Ham was the father of Canaan.)
+19 These were the three sons of Noah, and from them came the people who were scattered over the whole earth.
+20 Noah, a man of the soil, proceeded to plant a vineyard.
+21 When he drank some of its wine, he became drunk and lay uncovered inside his tent.
+22 Ham, the father of Canaan, saw his father naked and told his two brothers outside.
+23 But Shem and Japheth took a garment and laid it across their shoulders; then they walked in backward and covered their father’s naked body. Their faces were turned the other way so that they would not see their father naked.
+24 When Noah awoke from his wine and found out what his youngest son had done to him,
+25 he said, “Cursed be Canaan! The lowest of slaves will he be to his brothers.”
+26 He also said, “Praise be to the LORD, the God of Shem! May Canaan be the slave of Shem.
+27 May God extend Japheth’s territory; may Japheth live in the tents of Shem, and may Canaan be the slave of Japheth.”
+28 After the flood Noah lived 350 years.
+29 Noah lived a total of 950 years, and then he died.
