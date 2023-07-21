@@ -178,7 +178,7 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 * Artifice is being used to create immortality.
 * Narcisstics=Desperates
 * A very limited number of Jews know what is going on (know heaven and know the rules).
-* Chritians your predecessors are the Jews! You are the near-sighted second side. Your bad behavior keeps the poor away!
+* Christians your predecessors are the Jews! You are the near-sighted second side. Your bad behavior keeps the poor away!
 * What gets a right-winger Grand-Mistress/Master more riled than ethics??
 * The right joining in the flood (Gen 6) is hardly part of the great two! So we will rest during a male era to fix the great two (Gen 9).
 * The Christian's messiahs are put in almost inevitable death situations. Since the Jews go as far as to say that men are natural diviners (Gen 4: Eve being supported for putting Cain, Abel, and Seth there from Eden) the Christians labeling some men as sacrifices (carpenters, walkers on water...) their fates are sure and preferrably ignorable.
