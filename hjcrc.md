@@ -31,7 +31,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 ***Genesis 4***---Be fruitful and multiply: Cain, Abel, and Seth are born (these are associates of Eve more than likely). Cain and Abel try to bribe her with "fruits" and "fat-portions" so that they can get to heaven. Eve curses her subjects like the "god"" before her did (Gen 3) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." She banishes Cain to the East of Eden (another heaven?) where the "god" before put "cherubim and a flaming sword" before guard away from Eden.
 ***Genesis 5***---
 
-* For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put a backup [here](https://1drv.ms/u/s!AvLA1bEaFFRxgtMEe0fS4YT5Pn0--g?e=rKyirQ)]
+* For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put backups [here](https://1drv.ms/f/s!AvLA1bEaFFRxgtMFQBrd6Xcw9tteqA?e=qo9kGy)]
 
 ## His Story---Heaven Creation: ♂-led, divining, assured/haughty/destined/domineering
 
