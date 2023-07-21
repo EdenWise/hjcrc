@@ -22,7 +22,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ## The Beginning
 
-***Genesis 1***---A desperate man being constantly rewarded is how the Bible starts. It refers to the desperate man as a "God": "In the beginning God created the *heavens* and the *earth*." He does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature.
+***Genesis 1***---The Bible starts with a desperate man being rewarded so much that it refers to him as a "God", "In the beginning God created the *heavens* and the *earth*." He does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature.
     * ***Male, Divining***
 
 ***Genesis 2***---An era of rest: "By the *seventh* day God had finished the work he had been doing; so on the *seventh* day he rested." She was fruitful and multiplied: Adam created, Garden of Eden created, and Eve created.
