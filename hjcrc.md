@@ -22,13 +22,20 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ## The Beginning
 
+***Genesis 1***---A desperate man being constantly rewarded is how the Bible starts. It refers to the desperate man as a "God": "In the beginning God created the *heavens* and the *earth*." He does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature.
+    * ***Male, Divining***
+***Genesis 2***---An era of rest: "By the *seventh* day God had finished the work he had been doing; so on the *seventh* day he rested." She was fruitful and multiplied: Adam created, Garden of Eden created, and Eve created.
+    + ***Female, Rest and Family***
+***Genesis 3***---[Hard for me to believe this is real history but:] Eve wants Adam to "be like God". She encourages him eat the "forbidden fruit" to get out of Eden (get to heaven on earth). To make sure he stays there a new rule is added: Gods are to be persuaded to avoid Eden (3:22).
+    - ***Male, Divining, Securing-Heaven/Avoiding-Eden***
+***Genesis 4***---Be fruitful and multiply: Cain, Abel, and Seth are born (these are associates of Eve more than likely). Cain and Abel try to bribe her with "fruits" and "fat-portions" so that they can get to heaven. Eve curses her subjects like the "god"" before her did (Gen 3) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." She banishes Cain to the East of Eden (another heaven?) where the "god" before put "cherubim and a flaming sword" before guard away from Eden.
+***Genesis 5***---
 
-
-* For a more straight-forward description on what the flood is read "History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3" (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put a backup [here](https://1drv.ms/u/s!AvLA1bEaFFRxgtMEe0fS4YT5Pn0--g?e=rKyirQ)]
+* For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put a backup [here](https://1drv.ms/u/s!AvLA1bEaFFRxgtMEe0fS4YT5Pn0--g?e=rKyirQ)]
 
 ## His Story---Heaven Creation: ♂-led, divining, assured/haughty/destined/domineering
 
-(Gen 1) A desperate man being constantly rewarded is how the Bible starts, it refers to the desperate man as a "God", "In the beginning God created the *heavens* and the *earth*." God does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam chooses to "be like God" (get to heaven on earth) and eats the "forbidden fruit" to get out of Eden. (Gen 5) is a legend or general trends. (Gen 7) Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining to get higher".)
+(Gen 1) A desperate man being constantly rewarded is how the Bible starts, it refers to the desperate man as a "God", "In the beginning God created the *heavens* and the *earth*." God does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam chooses to "be like God" and eats the "forbidden fruit" to get out of Eden (get to heaven on earth). (Gen 5) is a legend or general trends. (Gen 7) Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining to get higher".)
 
 * Only Adam got out of Eden (probably because he was a diviner).
 * Gods/saved-people are prevented (by some great magical force?) from returning to Eden---the Bible states this as-if absolute fact (Gen 3:22-24).
