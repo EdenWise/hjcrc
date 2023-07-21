@@ -4,7 +4,7 @@ This is a repository to develop a document on the "History of the Judeo-Christia
 
 The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md). And listed below are the steps I take to convert it to a pretty Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
 
-(*Side note: I converted my original document (written in MS word) to markdown with this command (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
+(*Side note: I converted my original document (written in MS word) to markdown with this command* (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
 
 #### reference.docx build (I have renamed it template.docx here):
 
