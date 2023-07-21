@@ -32,7 +32,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
     - ***Male, Divining, Securing-Heaven/Avoiding-Eden***
 
 ***Genesis 4***---Be fruitful and multiply: Cain, Abel, and Seth are born (these are associates of Eve more than likely). Cain and Abel try to bribe her with "fruits" and "fat-portions" so that they can get to heaven. Eve curses her subjects like the "god"" before her did (Gen 3) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." She banishes Cain to the East of Eden (another heaven?) where the "god" before put "cherubim and a flaming sword" before guard away from Eden.
-    - *** Female, Rest and Family, Saving***
+    - ***Female, Rest and Family, Saving***
 
 ***Genesis 5***---
 
