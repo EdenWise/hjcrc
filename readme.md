@@ -1,19 +1,10 @@
-### History of the Judeo-Christian Religion and How It Effects Civilization
+### Document Creation: History of the Judeo-Christian Religion and How It Effects Civilization
 
 This is a repository to develop a document on the "History of the Judeo-Christian Religion and How It Effects Civilization". I am writing this document in markdown so that other people can help---if anybody wants to do so. This is a life work for me... :).
 
 The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md). And listed below are the steps I take to convert it to a pretty Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
 
-#### Original Conversion
-
-I started originally with a Microsoft-Word document and I converted it to Markdown. This is the command I used (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]):
-
-    pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md
-
-* Tabs to paragraph indents possible? `pandoc.exe --preserve-tabs` fails because docx is paragraphs with indents?
-* Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online (believe this [download](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) is it); tell me if needed, I have a copy. Here is the line that `pandoc.exe` probably uses to convert them:
-
-      rsvg-convert --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
+(*Side note: I converted my original document (written in MS word) to markdown with this command (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
 
 #### reference.docx build (I have renamed it template.docx here):
 
@@ -39,6 +30,12 @@ I then imported matching styles from existing document to `template.docx`:
 #### Things to do before conversion:
 
 * SVGs: Convert fonts to paths (Object to Path) (`rsvg-convert` renders them poorly).
+
+#### During conversion
+
+Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online (believe this [download](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) is it); tell me if needed, I have a copy. Here is the line that `pandoc.exe` probably uses to convert them:
+
+      rsvg-convert --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
 
 #### Things to do after conversion:
 
