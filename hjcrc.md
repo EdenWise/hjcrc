@@ -185,11 +185,11 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 * The right joining in the flood (Gen 6) is hardly part of the great two! So we will rest during a male era to fix the great two (Gen 9).
 * The Christian's messiahs are put in almost inevitable death situations. Since the Jews go as far as to say that men are natural diviners (Gen 4: Eve being supported for putting Cain, Abel, and Seth there from Eden) the Christians labeling some men as sacrifices (carpenters, walkers on water...) their fates are sure and preferrably ignorable.
 * When a messiah (a sacrifice) learns about a heavenly rule then the Gods work directly against him and change the rule (divine and get higher).
+* Jobisms: are a great fix now that cause horrible problems later (god fix).
+* Jobisms: the right, wanting to believe that Jobisms were good, began telling themselves (*or were led*), that the Jobisms earned them the golden ages.
+* The "unforgivable" societal sin that gets people "saved" has the sad effect of changing the doers focus, the focus from compunction for the people that have been sinned of to "anger" toward the Jews. The anger/energy put there adds to the problem---they are your predecessors.
 - Desperate females were eventually given their own rule---part of the great Jewish TWO system.
-- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
-
-![](images/hear-see-speak-zero-evil.svg)
-![](images/jewish-code.svg)
+- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. ![](images/hear-see-speak-zero-evil.svg) ![](images/jewish-code.svg)
 - 
 ## Books that Help
 
