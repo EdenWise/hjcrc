@@ -24,31 +24,22 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ## The Beginning
 
-***Genesis 1***: The Bible starts with a desperate man being rewarded so much that it refers to him as a "God", "In the beginning God created the *heavens* and the *earth*." He does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature.\
----***Male, Divining***, ***He Said, Work to Divine***
+***Genesis 1 (He Said, Work to Divine)***: The Bible starts with a desperate man being rewarded so much that it refers to him as a "God", "In the beginning God created the *heavens* and the *earth*." He does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature.
 
-***Genesis 2***: (**Since the second side lacks knowing about the great Jewish two-system a lot of confusion is shown by them about what heaven is.**) An era of rest: "By the *seventh* day God had finished the work [s]he(could be *she* as the chapters are divided into sexes) had been doing; so on the *seventh* day [s]he rested." She was fruitful and multiplied: Adam created, Garden of Eden created, and Eve created.\
----***She Said, Rest for Family***
+***Genesis 2 (She Said, Rest for Family)***: (**Since the second side lacks knowing about the great Jewish two-system a lot of confusion is shown by them about what heaven is.**) An era of rest: "By the *seventh* day God had finished the work... so on the *seventh* day [s]he rested." (Could be *she* as the chapters are divided into sexes). They were fruitful and multiplied: Adam created, Garden of Eden created, and Eve created.
 
-***Genesis 3***: [Hard for me to believe this is real history but:] Eve wants Adam to "be like God". She encourages him eat the "forbidden fruit" to get out of Eden (get to heaven on earth). Since Gods should only belong to heaven, a new rule/offense is added to keep them there, "...he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)". (The rule/offense is that to become a god a person must do an *unforgivable sin* against civilization to get "saved" [I'll write more about later, it keeps them silent...].)\
----***Male, Divining, Securing-Heaven/Avoiding-Eden***
+***Genesis 3 (He Said, Work to Divine, Securing Heaven)***: [Hard for me to believe this is real history but... Eve too thinks that men should be diviners:] Eve wants Adam to "be like God". She encourages him eat the "forbidden fruit" to get out of Eden (get to heaven on earth). Since Gods should only belong to heaven, a new rule/offense is added to keep them there, "...he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)". (The rule/offense is that to become a god a person must do an *unforgivable sin* against civilization to get "saved" [I'll write more about later, it keeps them silent...].)
 
 ***Genesis 4***: Be fruitful and multiply: Cain, Abel, and Seth are born (these are associates of Eve more than likely). Cain and Abel try to bribe her with "fruits" and "fat-portions" so that they can get to heaven. Eve herself being a God (from Eden) too feels that men are supposed to be diviners and curses her male subjects like the "god"" before her did (Gen 3) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." She banishes Cain to the East of Eden (another heaven?) where the "god" before put "cherubim and a flaming sword" before guard away from Eden.\
 ---***Female, Rest and Family, Saving***
 
-***Genesis 5***:
+***Genesis 5***: Is a legend or general trends.
 
-* For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put backups [here](https://1drv.ms/f/s!AvLA1bEaFFRxgtMFQBrd6Xcw9tteqA?e=qo9kGy)]
+***Genesis 7***: Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining to get higher".)
 
-## His Story---Heaven Creation: ♂-led, divining, assured/haughty/destined/domineering
-
-(Gen 1) A desperate man being constantly rewarded is how the Bible starts, it refers to the desperate man as a "God", "In the beginning God created the *heavens* and the *earth*." God does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam chooses to "be like God" and eats the "forbidden fruit" to get out of Eden (get to heaven on earth). (Gen 5) is a legend or general trends. (Gen 7) Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining to get higher".)
-
-* Only Adam got out of Eden (probably because he was a diviner).
-* Gods/saved-people are prevented (by some great magical force?) from returning to Eden---the Bible states this as-if absolute fact (Gen 3:22-24).
+* Only Adam got out of Eden--because only he was a diviner.
 * The serpeant encouraged selfishness.
-
-(Gen 1) The Bible starts with a [desperate] man being rewarded so much that it refers to him as a "God": "In the beginning God created the *heavens* and the *earth*." God(s) divine and get higher: day/night, water/sky, land/sea, sun/moon, man/nature. (Gen 3) Adam wants to "be like God" (be part of part heaven on earth) and eats the "forbidden fruit" to leave Eden. (Gen 5) is a report card, a key, or general trends. (Gen 7) Noah rewarded a large number of desperate men in synchronicity to "flood" the *earth* by putting the a*n*imals on the Ark.
+* For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put backups [here](https://1drv.ms/f/s!AvLA1bEaFFRxgtMFQBrd6Xcw9tteqA?e=qo9kGy)]
 
 ## Her Story---Second Heaven Creation/Golden Ages---♀-led, familial, submissive
 
@@ -188,7 +179,8 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 * Jobisms: are a great fix now that cause horrible problems later (god fix).
 * Jobisms: the right, wanting to believe that Jobisms were good, began telling themselves (*or were led*), that the Jobisms earned them the golden ages.
 * The "unforgivable" societal sin that gets people "saved" has the sad effect of changing the doers focus, the focus from compunction for the people that have been sinned of to "anger" toward the Jews. The anger/energy put there adds to the problem---they are your predecessors.
-- Desperate females were eventually given their own rule---part of the great Jewish TWO system.
+* The left incites the right---makes them battle the left.
+* - Desperate females were eventually given their own rule---part of the great Jewish TWO system.
 - In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. ![](images/hear-see-speak-zero-evil.svg) ![](images/jewish-code.svg)
 - 
 ## Books that Help
