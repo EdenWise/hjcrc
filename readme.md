@@ -39,31 +39,33 @@ Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gno
 
 #### Things to do after conversion:
 
-* Images align (Must be done manually. Markdown image attributes (width, align, others?) fail.):
-  + Image right-click > Size and Position >
-  + Tab: Text Wrapping
+* Images align (must be done manually because Markdown image attributes (width, align, others?) fail.):
+  * Image right-click > Size and Position >
+  * Tab: Text Wrapping
     • Wrapping style:     Tight
     • Wrap text:          Left only
-    - Distance from text: appears to be in template.docx (TBLR, 0,0,.13,.13)
-  + Tab: Position
+    • (Distance from text: appears to be in template.docx (TBLR, 0,0,.13,.13))
+  * Tab: Position
     • Horizontal:         Alignment: Right, relative to, Column
 
-* Spacing and Indentation reintroduce for Body Text *and* First Paragraph:
-  + Tab Home > Right-Click each one > Modify > Format > Paragraph
-    • Indentation:        Special: First Line; By: 0.2"
-    • Spacing:            Before and After: 0pt; Line spacing: Single
-
-* Heading Spacing reintroduce:
-  + Tab Home > Right-Click each one > Modify > Format > Paragraph
-    • Spacing             Before:          0 pt; Line spacing: Single
-
 * Bullet Lists text indentation reintroduce:
-  + Bullet > Right-Click > Adjust List Indents > More >>
+  * Bullet right-click > Adjust List Indents > More >>
     • Text indent at:     0"
     • Follow number with: Space
 * Bullet Lists Spacing reduce:
-  + Item right-click
+  * Item right-click > Paragraph:
     • Spacing (Before and After): 0 pt.
+  * Home > Select *Compact* > right-click and select Modify> Format> Paragraph:
+    • Spacing (Before and After) to 0 pt
+
+- Spacing and Indentation reintroduce for Body Text *and* First Paragraph (in template?!):
+  * Body Text and First Paragraph put I-Bar on, right-Click each one select Paragraph
+    • Indentation:        Special: First Line; By: 0.2"
+    • Spacing:            Before and After: 0pt; Line spacing: Single
+
+- Heading Spacing reintroduce (in template?!):
+  * Headings put I-Bar on, right-Click each one select Paragraph
+    • Spacing             Before:          0 pt; Line spacing: Single
 
 #### To Do
 
