@@ -134,10 +134,10 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
   * Marlon Brando
   * Clark Gable
   * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.
-![](images/jewish-code.svg)
 
 ## The Politics of the Right and How It Has Influenced Me
 
+![](images/jewish-code.svg) \
 * Zero things that get created through me, get used by me (old rule, my rule too).
 * The Right, the Christians, have assumed most of: angel creation, muck maintenance, Jewish-satisfaction/aims-to-please.
 * The temerity of the right---sacrifices, baby sacrifices, zero full-view, conservatism, saved, rewarding naïve spiritualism, feeders of the left, ignorance is bliss, and thinking they have won when given a golden age (or failing to realize status quo ["never again" Gen 9:11]). These become people that are enticed.
