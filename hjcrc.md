@@ -28,7 +28,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ***Genesis 2 (She Said, Rest/Peace for Family)***: An era of rest: "By the *seventh* day God had finished the work... so on the *seventh* day [s]he rested." (Could be *she* as the chapters are divided into sexes). They were fruitful and multiplied: Adam created, Eve created, and Garden of Eden created.
 
-***Genesis 3 (He Said, Work as Divining, Securing Heaven)***: [`Hard for me, an Edenite, to believe this is real history but Eve thinks that men too should be diviners.`] Eve wants Adam to "be like God" and gives him eat the "forbidden fruit" to get out of Eden (get to heaven on earth). Because it was Eve's impetus that made Adam a god a future direction is added to keep them there (keep heaven pure), "...he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)". (`The future direction to be created (by Eve) is that to become a god a person must do an unforgivable sin against civilization to get "saved"... it keeps them silent.`)
+***Genesis 3 (He Said, Work as Divining, Securing Heaven)***: [`Hard for me, an Edenite, to believe this is real history but Eve thinks that men too should be diviners.`] Eve wants Adam to "be like God" and gives him eat the "forbidden fruit" to get out of Eden (get to heaven on earth). Because it was Eve's impetus that made Adam a god a future direction is added to keep them there (keep heaven pure), "...he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)". (`The future direction to be created (by Eve) is that to become a god a person must do an sin that is unforgivable in civilization to get "saved"... it keeps them silent.`)
 
 ![](images/eras-of-civilization_03_gold.svg) ***Genesis 4 (She Said, Rest/Peace for creating new Family i.e. "getting saved"):*** (`Since the Jews keep heaven [the great Jewish two system] always silent, a progressive confusion begins early on the second side. Because of it a second heaven has been created that has become a staging ground to Judaism for near-sighted/ignorant-of-complicity people.`) Eve is the God here and Cain, Abel, and Seth are probably associates of Eve rather than born (her kin would already have heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve tries to do heaven like she saw the men do before her and encourages men to be diviners. She too curses her male subjects like the "god"" before her did (Gen 3) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." She banishes Cain to the East of Eden (out of Eden too, to heaven). She followed the rule where the "god" before put "cherubim and a flaming sword" as advice to keep them from returning to Eden.
 
@@ -44,8 +44,9 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ## Notes
 
-* Define as zero-sum game and John Nash.
-* What is heaven? It has come to following the free---a gravity almost all are being pulled to---generally ignorantly. A safety. Can anyone see it clearly.
++ Mass Societal Psychlogical Pressure/Reinforcment
++ Define as zero-sum game and John Nash.
++ What is heaven? It has come to following the free---a gravity almost all are being pulled to---generally ignorantly. A safety. Can anyone see it clearly.
 + The saved, the right, feel it is more about fighting or avoiding the Jews than listening to the to the people that need it the most.
 + Grand Mistresses/Masters say "It hardly matters how you get here".
 + Those that follow the great two-ism live rich lives---an algorithm invested in heavily by both sides---the great two algorithmic clock.
