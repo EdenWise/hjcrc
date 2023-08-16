@@ -22,11 +22,11 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ## The Beginning
 
-**Genesis 1** *(He Said, Work as Divining)*: The Bible starts with a desperate man being rewarded so much that it refers to him as a "God", "In the beginning God created the *heavens* and the *earth*." Heaven on earth is such an attraction he does more divining to get higher: day/night, water/sky, land/sea, sun/moon, man/nature.
+**Genesis 1** *(He Said, Work as Divining)*: The Bible starts with a desperate man being rewarded so much that it refers to him as a "God", "In the beginning God created the *heavens* and the *earth*." Heaven on earth is such an attraction he does more divining (`creates Good and Evil`): day/night, water/sky, land/sea, sun/moon, man/nature.
 
 **Genesis 2** *(She Said, Rest for Family)*: An era of rest: "By the *seventh* day God had finished the work... so on the *seventh* day [s]he rested." (Could be *she* as the chapters are divided into sexes.) They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Work as Divining, Securing Heaven)*: [`Hard for me, lacking heavenly inclusion, to believe this is real history but Eve thinks that men too should be diviners.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" to get him out of Eden (get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added to keep these men there (keep heaven pure), "...he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
+**Genesis 3** *(He Said, Work as Divining, Securing Heaven)*: [`Hard for me, lacking heavenly inclusion, to believe this is real history but Eve thinks that men too should be diviners. Eve got it, she reallllly got it... only thing is she was just a woman.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" to get him out of Eden (get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added so Eve (and other female gods) to be responsible for these guys (keep them in heaven, i.e. make them diviners), "...he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
 
 ![](images/eras-of-civilization_03_gold.svg) **Genesis 4** *(She Said, Rest for creating new Family i.e. "getting saved")*:  Eve is the god here and Cain, Abel, and Seth are probably associates of Eve rather than her kin (kin usually get heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve (from Eden [Gen 3:23]) tries to do heaven like she saw the men do before her. She too curses her male subjects like the god before her did (Gen 3) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." She banishes Cain to the East of Eden (out of Eden too, to the right side of heaven). Eve followed the directive where the "god" before put "cherubim and a flaming sword" and put Cain in the Land of Nod, East of Eden to keep him there. (`The future directive will have Eve create: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.`)
 
@@ -41,7 +41,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 ## Notes
 
-+ SVG_EOC: gold to seven; era names (paths) to fonts.
++ SVG_EOC: domain-Seven: name outlines to fonts.
 + Mass Societal Psychlogical Pressure/Reinforcment
 + Define as zero-sum game and John Nash.
 + What is heaven? It has come to following the free---a gravity almost all are being pulled to---generally ignorantly. A safety. Can anyone see it clearly.
