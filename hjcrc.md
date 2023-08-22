@@ -35,9 +35,9 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 
 **Genesis 5** (*An era of contention.*): Rule alternates between 10 gods/people: male, female, and Edenites.
 
-**Genesis 6** *(She Said and He Said)*: (`Since the flood was minor the female gods feel come-hither rather than retaliatory. The Grand Mistresses mate with the angels and create Nephilim (people that are physical giants, knowing little borders, people to be feared.`) The era started with female rule: they were fruitful and multipliedl, "human beings began to increase in number on the earth..."; and they were "*beautiful*" and would live “…hundred and *twenty* years” (Gen 6:2-3).
+**Genesis 6** *(She Said and He Said, Restoring Heaven)*: The era started with female rule: they were fruitful and multipliedl, "human beings began to increase in number on the earth..."; and they were "*beautiful*" and would live “…hundred and *twenty* years” (Gen 6:2-3). Since the flood in Genesis 5 was minor (heaven barely created) the female gods (Grand Mistresses) suck up their pride and mate with the angels. This is done to create Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again.
 
-**Genesis 7** : Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining creating Good and Evil".) [^flood]
+**Genesis 7** : Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining, i.e. creating Good and Evil".) [^flood]
 
 * The serpeant encouraged selfishness.
 * `This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.`
