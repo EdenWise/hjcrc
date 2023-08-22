@@ -8,6 +8,8 @@
 
 I am one of the people that lacked knowing what these sides were doing and got used by a side as a puppet. Because of this many things in my life are worked directly against as part of a battle. The focus is the battle and I am overlooked of how this affects my life. I have been here all my life and have been forcibly removed from civilization. During all this time I have tried to figure out what is going on. To make this document believable this is all I can say right now.
 
+Why do I know this and few others do? Because when I began to worry about my life (yes, it got that bad) I was forced to learn to survive.
+
 ## The Source of Research
 
 The primary source I use is the Bible. It is the most read book in the world. Though the Bible is largely instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. Why is the Bible important? Any lasting representation requires a feeling of disclosure that is obliging. These religions promote the Bible to be that---it makes them feel that they have been upfront with civilization. Its very publication makes many in modern civilization feel it means to be honest. It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together help decipher how these religions effect modern civilization. To say it is "fair disclosure" though is false. Because it tells only part of the "Secret of Heaven", and other things, it falls short of that standard.
@@ -46,7 +48,8 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 ## Notes
 
 + SVG_EOC: domain-Seven: name outlines to fonts.
-+ Mass Societal Psychlogical Pressure/Reinforcment
++ Mass Societal Guilt Avoidance
+  - Mass Societal Psychlogical Pressure/Reinforcment
 + Define as zero-sum game and John Nash.
 + What is heaven? It has come to following the free---a gravity almost all are being pulled to---generally ignorantly. A safety. Can anyone see it clearly.
 + The saved, the right, feel it is more about fighting or avoiding the Jews than listening to the to the people that need it the most.
@@ -120,6 +123,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 * Jobisms: the right, wanting to believe that Jobisms were good, began telling themselves (*or were led*), that the Jobisms earned them the golden ages.
 * Some of te left incites the right---makes them battle the left.
 * Thinness demonstrates survivability.
+* Politics: How to sacrifice someone, keep it quiet, and get something from it.
 - Desperate females were eventually given their own rule---part of the great Jewish two system. Sadly it can jibe with them since men get to fight and they have an era of rest.
 - The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
 - In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. ![](images/hear-see-speak-zero-evil.svg)
@@ -178,6 +182,7 @@ The "Secret of Heaven" comes from before the Bible was written. The beginning of
 * People magazine has used me to protect some of their threes. Stone and Carrey may have also been protected through them; I had both of their big movies scenes altered in my brain. One showed Michael Douglas instead and the other Ben Stiller.
 * Harry Reid things that happen to me after he is here.
 * Erasing instinct!
+* Grand Mistress: "We have to have sacrifices"---how the right is complicit with the Jews.
 
 # Chapters that need to be Integrated
 
