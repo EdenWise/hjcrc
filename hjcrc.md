@@ -36,7 +36,7 @@ The Jews love their religion so much (so protected are they by their desperates/
 
 **Genesis 5** (*An era of contention.*): Rule alternates between 10 gods/people: male, female, and Edenites.
 
-**Genesis 6** *(She Said and He Said, Restoring Heaven)*: The era started with female rule: they were fruitful and multipliedl, "human beings began to increase in number on the earth..."; and they were "*beautiful*" and would live “…hundred and *twenty* years” (Gen 6:2-3). Since the flood in Genesis 5 was minor (heaven barely created) the female gods (Grand Mistresses) suck up their pride and mate with the angels. This is done to create Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again.
+**Genesis 6** *(She Said and He Said, Restoring Heaven)*: The era started with female rule: they were fruitful and multiplied, "human beings began to increase in number on the earth..."; and they were "*beautiful*" and would live “…hundred and *twenty* years” (Gen 6:2-3). Since the flood in Genesis 5 was minor (heaven barely created) the female gods (Grand Mistresses) suck up their pride and mate with the angels. This is done to create Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again.
 
 **Genesis 7** : Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining, i.e. creating Good and Evil".) [^flood]
 
