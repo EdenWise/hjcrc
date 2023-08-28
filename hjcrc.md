@@ -31,7 +31,9 @@ The Jews love their religion so much (so protected are they by their narcissists
 [](images/eras-of-civilization_03_gold.svg) \
 !**Genesis 4** *(She Said, Rest, Creating Family---by getting some "saved")*: Eve is the god here and Cain, Abel, and Seth are probably associates of Eve rather than her kin (kin usually get heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve (from Eden [Gen 3:23]) tries to do heaven like she saw the men do before her. She too curses her male subjects like the god before her did (Gen 3:14-19) to "save" them. She also gives Cain protection, "...anyone who kills Cain will suffer vengeance *seven* times over." Cain followed the directive where the god before put "cherubim and a flaming sword" and went to the "Land of Nod, east of Eden" (to the new heaven on the right). 
 
-**Genesis 5** *(Yokel said, Mortal Rule)*: A time span of ten male rulers from Adam to Noah is defined. God rule decreases as yokel rule becomes more prevalent. Lamech proclaims that Noah is to restore god rule that Adam's (weak!?) rule lost, "[Noah] will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed (references Gen 3:17)."
+**Genesis 5** *(Yokel Said, Mortal Rule)*: A time span of ten male rulers from Adam to Noah is defined. God rule decreases as yokel rule becomes more prevalent. Lamech proclaims that Noah is to restore god rule that Adam's (weak!?) rule lost, "[Noah] will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed (references Gen 3:17)."
+
+**Genesis 6** *(She Said but a dual-power to restore heaven)*: 
 
 **Genesis 6** *(She Said and He Said, Restoring Heaven)*: The era started with female rule: they were fruitful and multiplied, "human beings began to increase in number on the earth..."; and they were "*beautiful*" and would live “…hundred and *twenty* years” (Gen 6:2-3). Since the flood in Genesis 5 was minor (heaven barely created) the female gods (Grand Mistresses) suck up their pride and mate with the angels. This is done to create Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again.
 
@@ -77,7 +79,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 + The "unforgivable" societal sin that gets people "saved" has the sad effect of changing the doers focus, the focus from compunction for the people that have been sinned of to "anger" toward the predecessors (the Jews). The anger/energy put is really needed by the people left behind.
 + The right being given an era of rest are Pavlonianly rewarded. Since they lack knowing that it is given, they accept the things that they have done during a flood (the Jobism/sins) as having earned it.
 * "They made me do it [the left]"---false; began with Job, the right's silent complicity.
-* Section: Beauty Myth. Right built upon beauty methodology: vain, superficial, guilt avoiding.
+* Section: Beauty Myth. Right built upon beauty methodology: vain, superficial, guilt avoiding. "Beautiful (Gen 6:2)". Beautiful also means available.
 * Section: Misnomers/Relabeling (6,3)--- errors by both heavens. Attributing heavens actions as Eden's: huge sin.
 * The two shapes put together form the Star of David... a physical representation about how these societies formed.
 * The battle of the right has become absolutely vicious and scares the people forsaken.
