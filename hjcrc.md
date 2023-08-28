@@ -33,9 +33,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 
 **Genesis 5** *(Yokel Said, Mortal Rule)*: A time span of ten male rulers from Adam to Noah is defined. God rule decreases as yokel rule becomes more prevalent. Lamech proclaims that Noah is to restore god rule that Adam's (weak!?) rule lost, "[Noah] will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed (references Gen 3:17)."
 
-**Genesis 6** *(She Said but a dual-power to restore heaven)*: 
-
-**Genesis 6** *(She Said and He Said, Restoring Heaven)*: The era started with female rule: they were fruitful and multiplied, "human beings began to increase in number on the earth..."; and they were "*beautiful*" and would live “…hundred and *twenty* years” (Gen 6:2-3). Since the flood in Genesis 5 was minor (heaven barely created) the female gods (Grand Mistresses) suck up their pride and mate with the angels. This is done to create Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again.
+**Genesis 6** *(She Said but a dual-power to restore heaven)*: God pronounces a dual-power, "a hundred and twenty years." The "sons of God" (female leaders) sucked up the pride in their own god-ness and mated with the "daughters of humans" (desperate men, angels). This created Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again. "Wickedness" means cooperative and "evil" means thoughtful.
 
 **Genesis 7** : Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining, i.e. creating Good and Evil".) [^flood]
 
@@ -125,7 +123,9 @@ The Jews love their religion so much (so protected are they by their narcissists
 * Politics: How to sacrifice someone, keep it quiet, and get something from it.
 - Desperate females were eventually given their own rule---part of the great Jewish two system. Sadly it can jibe with them since men get to fight and they have an era of rest.
 - The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
-- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. ![](images/hear-see-speak-zero-evil.svg)
+- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. \
+![](images/hear-see-speak-zero-evil.svg)
+
 ## Books that Help
 
   * 48: An Experiential Memoir on Homelessness                  Sheldon A. Jacobs
