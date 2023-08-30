@@ -33,9 +33,11 @@ The Jews love their religion so much (so protected are they by their narcissists
 
 **Genesis 5** *(Yokel Said, Mortal Rule)*: A time span of ten male rulers from Adam to Noah is defined. God rule decreases as yokel rule becomes more prevalent. Lamech proclaims that Noah is to restore god rule that Adam's (weak!?) rule lost, "[Noah] will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed (references Gen 3:17)."
 
-**Genesis 6** *(She Said but a dual-power to restore heaven)*: God pronounces a dual-power, "a hundred and twenty years." The "sons of God" (female leaders) sucked up the pride in their own god-ness and mated with the "daughters of humans" (desperate men, angels). This created Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again. "Wickedness" means cooperative and "evil" means thoughtful.
+**Genesis 6** *(She Said but a dual-power to restore heaven)*: God pronounces a dual-power, "a hundred and twenty years." The "sons of God" (female leaders) sucked up the pride in their own god-ness and mated with the "daughters of humans" (desperate men, angels). This created Nephilim---people that are physical giants, knowing little borders, people to be feared---to create heaven again. The Lord (a female god here) is upset because civilization is co-operative and thoughtful ("wickedness... [and] evil" Gen 6:5) and wants to restore the gods to power. She uses Eden's name (3,5,6) to set-up the exercising of god power, "The ark is to be *three* hundred cubits long, *fifty* cubits wide and *thirty* cubits high. (Gen 6:15).
 
-**Genesis 7** : Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining, i.e. creating Good and Evil".) [^flood]
+**Genesis 7**:
+
+**Genesis 7**: Noah was part of a process that rewarded a large number of desperate men (in syncronicity) to "flood" the *earth* (and put the a*n*imals on the Ark). ("Flooding" = "divining, i.e. creating Good and Evil".) [^flood]
 
 * The serpeant encouraged selfishness.
 * The Jews try to make their history look planned here, but the truth is since the Jews keep heaven [the great Jewish two system] always silent, a progressive confusion begins early on the second side. The confusion has created a path for people that start near-sighted and ignorant of complicity but become desperate---a staging heaven to Judaism.
