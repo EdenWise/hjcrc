@@ -37,7 +37,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 
 **Genesis 7** *(He Said, Business, Divining)*: (`The flood is rewarding, in syncronicity, a large number of *desperate* men to create "heaven on earth", divining, creating good and evil. [^flood]`.) The Lord found Noah "righteous" (godly) and he flooded the *earth*, put a*n*imals on the Ark, to restore the gods to power. More using Eden's name for god power, "Noah was six hundred years old...", etc.. (`"The waters flooded the earth for a hundred and fifty days (Gen 6:24)" is used in modern times to denote yearly floods from to January 1 to May 31 (absent a leap year)`).
 
-* The serpeant encouraged selfishness.
+* The serpent encouraged selfishness.
 * The Jews try to make their history look planned here, but the truth is since the Jews keep heaven [the great Jewish two system] always silent, a progressive confusion begins early on the second side. The confusion has created a path for people that start near-sighted and ignorant of complicity but become desperate---a staging heaven to Judaism.
 * Became eventually: The women are going to flood too and do it better.
 * This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.
