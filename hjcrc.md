@@ -1,4 +1,6 @@
-# The History of the Judeo-Christian Religion and How It Effects Civilization http://tinyurl.com/HJCR1
+*The Jews assure themselves advantageous lives. Because the Jews keep it silent the political right becomes conservative too (people following the behavior). But for the political right is hard to hide the reaction if they are amoungst the people who know less, the yokels, and they act like they know the answers. I ask, therefore, to be responsible in reading this for one to consider that as a citizen that one has failed.*
+
+# The History of the Judeo-Christian Religion http://tinyurl.com/HJCR1
 
 ![](images/eras-of-civilization_01_eden.svg) \
 Civilization began as a natural order. All this changed when the Judeo-Christian religion started. Civilization moved from evolution (natural with whims) to safety belonging to those who invest in a mechanical/fantastical world (salvationists). This selfishness is created by the Jewish religion. It comes from their "Secret of Heaven". With it the Jews force on civilization a dualistic formula (good and evil, male and female, rich and poor...) that grapples them authority in civilization and gives them advantageous lives. This formula is implemented by rewarding a single side solely for an era of fifty years, then rewarding a differing/polar side for fifty years. For 4100 years this "alternating partisanship" has been kept silent. The silence has resulted in confusion has that encourages many selfish acts and has led to fighting (particularly by the less secure on the second side). The first side is the Jews, male led, who reward the most desperate men; they are rewarded for protection (a "flood", explained later). The second side is for the people that want inclusion, female led, who reward the most desperate females; they are rewarded to support an era of rest (it hides the "flood"). From this silent "alternating partisanship" the Jews get rich/successful lives, they sustain it like a vital job, and their definition of it is literally "heaven". The more a person uses this dualistic formula (and a fair number of people do these days besides the Jews) the likelier they are to have successful lives and the likelier they are to keep heaven silent. There is also a third side that is nearly overlooked amid the "saved"---the people who are absent heavenly inclusion. These people *can* be used as desperates for better heavenly inclusion *or* can be provided as sacrifices. The Christians, a succession of the second side, are largely ignorant of their inclusion in heaven. The leadership though *has* bought a place for many Christians into heaven by providing to the Jew's sacrifices, particularly as people. I have yet to find anyone who has any overview or impartiality on what is happening. These systems have altered the natural order around the planet.
@@ -20,7 +22,7 @@ Judaism started because of an environmental threat. The area the religion starte
 
 ## The Beginning
 
-The Jews love their religion so much (so protected are they by their narcissists, i.e. desperates) they have become very secretive and spent much time highly refining their Bible with their devices. To the Jews the Bible feels protective by its audacity. A couple of things to know: Genesis here is presented as the beginning of the Jews history, the history though is well along to make it look more polished; and the Bible contains some "backwriting" to make newer rules apply throughout.
+The Jews love their religion so much (so protected are they by their narcissists, i.e. desperates) they have become very secretive and spent much time highly refining their Bible with their devices. To the Jews the Bible feels protective by its audacity. A couple of things to know: Genesis here is presented as the beginning of the Jews history, the history though is well along to make it look more polished; and the Bible contains some "backwriting"/is-revisionistic to make newer rules apply throughout.
 
 **Genesis 1** *(He Said, Business, Divining)*: The Bible starts with a desperate man being so rewarded that it refers to him as a "God", "In the beginning God created the heavens and the earth (Gen 1:1 NIV)." *Heaven on earth* was such an attraction more work was done (divining, creating Good and Evil): day/night, water/sky, land/sea, sun/moon, man/nature.
 
@@ -121,6 +123,10 @@ The Jews love their religion so much (so protected are they by their narcissists
 * Some of te left incites the right---makes them battle the left.
 * Thinness demonstrates survivability.
 * Politics: How to sacrifice someone, keep it quiet, and get something from it.
+* If I am in heaven and I fail to see it, it is my fault.
+* Old Title - The History of the Judeo-Christian Religion and How It Effects Civilization
+* To me, a messiah, all heavenly acts feel like lateral progression.
+* Women that Flood (Eve, Jackeline Kenedy, Long Beach ladies...)
 - Desperate females were eventually given their own rule---part of the great Jewish two system. Sadly it can jibe with them since men get to fight and they have an era of rest.
 - The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
 - In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. \
@@ -135,6 +141,7 @@ The Jews love their religion so much (so protected are they by their narcissists
   * The Greater Journey: Americans in Paris                     David McCullough
   * Inside Out                                                  Demi Moore
   * The Last Commissioner: A Baseball Valentine                 Fay Vincent
+  * Mission of Mercy                                            Nancy Alcorn
   * My Days                                                     Marion Ross
   * Think Again                                                 Diane Keaton
   * ZEALOT: The Life and Times of Jesus of Nazareth             Reza Aslan
