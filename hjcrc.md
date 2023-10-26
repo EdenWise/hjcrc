@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives. Because the Jews keep it silent the political right becomes conservative too (people following the behavior). But for the political right is hard to hide the reaction if they are amoungst the people who know less, the yokels, and they act like they know the answers. I ask, therefore, to be responsible in reading this for one to consider that as a citizen that one has failed.*
+*The Jews assure themselves advantageous lives. By keeping it silent they have pulled in the political right (other conservatives, people following the behavior). The political right though has a hard time hiding their reaction to the people that know less, the yokels; their behavior is offputting. I ask, therefore, to be responsible in reading this for one to consider that as a citizen we all have failed.*
 
 # The History of the Judeo-Christian Religion http://tinyurl.com/HJCR1
 
