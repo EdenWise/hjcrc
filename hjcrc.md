@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives. By keeping it silent they have pulled in the political right (other conservatives, people following the behavior). The political right though has a hard time hiding their reaction to the people that know less, the yokels; their behavior is offputting. I ask, therefore, to be responsible in reading this for one to consider that as a citizen we all have failed.*
+*The Jews assure themselves advantageous lives. By keeping it silent they have created the Christians (the political right, other conservatives, people following the behavior). The political right feels those on their heels, the yokels, and have a hard time hiding their reaction; they learn to be offputting as a fix. It is for these behaviors that I ask the reader, that to be responsible in viewing this one must know that as a citizen one has failed.*
 
 # The History of the Judeo-Christian Religion http://tinyurl.com/HJCR1
 
