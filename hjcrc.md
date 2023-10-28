@@ -1,4 +1,4 @@
-*Because the Jews assure themselves advantageous lives, because by keeping it silent they have pulled in the political right (other people wanting to be saved, conservatives), because the political right treats the people on their heels (the yokels) offputting as a fix, I ask the reader that to be responsible in reading this to consider that as a citizen one has failed.*
+*Because the Jews assure themselves advantageous lives, because by keeping it silent they have pulled in the political right (other people wanting to be saved, conservatives), because the political right treats the people on their heels (the yokels) off-putting as a fix, I ask the reader that to be responsible in reading this to consider that as a citizen one has failed.*
 
 # The History of the Judeo-Christian Religion http://tinyurl.com/HJCR1
 
