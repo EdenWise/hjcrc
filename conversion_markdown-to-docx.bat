@@ -4,9 +4,10 @@
 @echo off
 
 :: Path: Add executables to path.
+set PATH=%USERPROFILE%\Downloads
 set PATH=D:\;%PATH%
 set PATH=E:\;%PATH%
-set batdir=%~dp0
+:: set batdir=%~dp0
 
 :: set mypath=%cd%
 :: https://stackoverflow.com/questions/17063947/get-current-batchfile-directory
