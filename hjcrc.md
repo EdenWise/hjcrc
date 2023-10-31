@@ -43,6 +43,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 * The Jews try to make their history look planned here, but the truth is since the Jews keep heaven [the great Jewish two system] always silent, a progressive confusion begins early on the second side. The confusion has created a path for people that start near-sighted and ignorant of complicity but become desperate---a staging heaven to Judaism.
 * Became eventually: The women are going to flood too and do it better.
 * This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.
+* [^flood]
 
 ## Notes
 
