@@ -39,14 +39,14 @@ Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gno
 
 #### Things to do after conversion:
 
-* Images align (must be done manually because Markdown image attributes (width, align, others?) fail.):
-  * Image right-click > Size and Position >
-  * Tab: Text Wrapping
-    • Wrapping style:     Tight
-    • Wrap text:          Left only
-    • (Distance from text: appears to be in template.docx (TBLR, 0,0,.13,.13))
+* Images align (manually required because Markdown image attributes fail (width, align, others?)):
+  * Image > Right-Click > Size and Position >
+  * Tab > Text Wrapping
+    * Wrapping style:     Tight
+    * Wrap text:          Left only
+    * (Distance from text: appears to be in template.docx (TBLR, 0,0,.13,.13))
   * Tab: Position
-    • Horizontal:         Alignment: Right, relative to, Column
+    * Horizontal:         Alignment: Right, relative to, Column
 
 * Bullet Lists text indentation reintroduce:
   * Bullet right-click > Adjust List Indents > More >>
