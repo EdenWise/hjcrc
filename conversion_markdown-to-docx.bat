@@ -4,7 +4,7 @@
 @echo off
 
 :: Path: Add executables to path.
-set PATH=%USERPROFILE%\Downloads
+set PATH=%USERPROFILE%\Downloads\programs_hjcr
 set PATH=D:\;%PATH%
 set PATH=E:\;%PATH%
 :: set batdir=%~dp0
