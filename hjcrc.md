@@ -1,9 +1,9 @@
-*The Jews assure themselves advantageous lives. By keeping it silent they have pulled in the political right (other fortunates, other conservatives, other people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) off-putting as a fix, I ask the readers to consider that as citizens we may have failed.*
+*The Jews assure themselves advantageous lives. By keeping it silent they have pulled in the political right (other fortunates, other conservatives, other people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) off-putting as a fix, I ask the readers to consider that as citizens we overlooked our responsibility.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
 ![](images/eras-of-civilization_01_eden.svg) \
-Civilization began as a natural order. This all changed when the Judeo-Christian religion started. Civilization moved from natural whims (evolution) to safety belonging *only* to those who invest in a mechanical system. The system only rewards those that know the details of it. It was started by the Jewish religion and comes from their "Secret of Heaven". The "Secret of Heaven" insists a dualistic system on civilization (male and female, good and evil, rich and poor...). The system is implemented by rewarding a single side solely for an era of fifty years, then rewarding a differing/polar side for fifty years. The "alternating partisanship" is kept silent. For 4100 years the silence has produced much confusion and encouraged many selfish acts---particularly by the less secure second side that can be rewarded for fighting. The first side is rewarded for selfish acts (narcisstic, desperate) acts (male inclusion). From it the Jews get protection (a "flood"). The second side, after fifty years, is rewarded for acts of rest (it hides the "flood", female inclusion). 
+Civilization began as a natural order. This all changed when the Judeo-Christian religion started. Civilization moved from natural whims (evolution) to belonging *only* to those who invest in a mechanical system. The system only rewards those that know the details of it. It was started by the Jewish religion and comes from their "Secret of Heaven". The "Secret of Heaven" insists a dualistic system on civilization (male and female, good and evil, rich and poor...). The system is implemented by rewarding a single side solely for an era of fifty years, then rewarding a differing/polar side for an era of fifty years. The alternating partisanship is kept as silent as possible. The result of which over 4100 years has produced much confusion and encouraged many selfish acts (particularly by the less secure second side that can be rewarded for fighting). The first side are men that get rewarded for selfish acts (male inclusion)---the Jews get protection from the rewarding (a "flood"). The second side (after fifty years) are women that get rewarded for resting acts (female inclusion)---the Jews get obfusgation of the flood. 
 
 The "Secret" grapples them a large amount of authority in civilization and lives that are advantageous.
 
@@ -49,6 +49,8 @@ The Jews love their religion so much (so protected are they by their narcissists
 * This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.
 * [^flood]
 * "friends (Job 2:11)"
+* (narcisstic, desperate)
+* it hides the flood
 
 ## Notes
 
