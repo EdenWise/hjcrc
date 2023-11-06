@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives. By keeping how they do it silent they have attracted other selfish people (the political right, other fortunates, people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) off-putting as a requirment for inclusion, I ask the readers to consider that who a citizen has done what they needed to do.*
+*The Jews assure themselves advantageous lives. By keeping how they do it silent they have attracted other selfish people (the political right, other fortunates, people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) repellent as a requirment for inclusion, I ask the readers to consider that as a citizen what one has done has been enough.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
