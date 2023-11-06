@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives. By keeping it silent they have pulled in the political right (other fortunates, eventual conservatives, people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) off-putting as a fix, I ask the readers to consider that as citizens we have overlooked our responsibility.*
+*The Jews assure themselves advantageous lives. By keeping how they do it silent they have attracted other selfish people (the political right, other fortunates, people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) off-putting as a requirment for inclusion, I ask the readers to consider that who a citizen has done what they needed to do.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
