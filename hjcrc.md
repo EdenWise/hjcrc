@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives and how they do it they keep silent. Because the silence has attracted other selfish people (the political right, other fortunates, people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) repellent for inclusion, I ask the readers to consider that as a citizen what one has done: Has it been enough?*
+*The Jews assure themselves advantageous lives and how they do it they keep silent. Because the silence has attracted other selfish people (the political right, other fortunates, people wanting to be saved). Because the political right treats the people on their heels (the ordinaries) repellent for inclusion, I ask the readers to consider that as a citizen was what we were doing enough?*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
