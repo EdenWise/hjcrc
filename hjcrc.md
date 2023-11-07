@@ -7,9 +7,16 @@ Civilization began as a natural order. This all changed when the Judeo-Christian
 
 ## Why I May Be Listened Of
 
-I am one of the people that got used as a sacrifice. I have been here all my life. Like Job people can work against me to get safer (more "saved", i.e. one goes up, one goes down). This has forcibly removed me from civilization. I learned these hard truths when life became impossible---I had to look for extreme answers to try and survive. Please consider what I write here seriously.
+I am one of the people that got used as a sacrifice---from my birth. As a sacrifice people can work against me to get safer ~~(more "saved", i.e. one goes up, one goes down)~~. This has forcibly removed me from civilization. I learned these hard truths when life became too impossible to live reasonably anymore---I had to look for extreme answers to try and survive. Please consider what I write here and take it seriously.
 
-## The Source of Research
+## Research Sources
+
+If people 
+Where is the declaration?
+
+Why are people absent in knowledge about what is going on? Where are the informants? *The truth is* most of the people are complicit because they have been encouraged to be selfishness  (though ignorantly).
+
+The primary source I use is the Bible
 
 Why have zero people told us about this? The truth is they do: the Bible. The Bible is the Jews and Christians testaments of their intent with their religion.
 
