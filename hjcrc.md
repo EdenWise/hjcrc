@@ -11,9 +11,7 @@ I am one of the people that got used as a sacrifice---from my birth. As a sacrif
 
 ## Research Sources
 
-
-
-**Why are people absent in knowledge about what is going on?** Most people would rather prevent themselves from knowing it because they have been encouraged to be selfishness, though ignorantly. **Where are the informants?** The third-side/the-least-fortunate are often too beat by the selfishness/off-putting to assemble much of a *scheme*. **Why have zero people told us about this? Where is the declaration?** The truth is both the Jews and the Christians do: the Old Testament and the New Testament. The Bible is the Jews and Christians testaments of their intent with their religion.
+**Why are people absent in knowledge about what is going on?** Most people would rather prevent themselves from knowing it because they have been encouraged to be selfishness, though ignorantly. **Where are the informants?** The third-side/the-least-fortunate are often too busy trying to survive by the selfishness/off-putting to assemble much of a *scheme*. **Where is the declaration?** Both the Jews and the Christians do, though cryptically. The Old Testament and the New Testament they consider to spell out their intent on what they plan to do with their religion. 
 
 The primary source I use is the Bible. It is the most read book in the world. Though the Bible is largely instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. Why is the Bible important? Any lasting representation requires a feeling of disclosure that is obliging. These religions promote the Bible to be that---it makes them feel that they have been upfront with civilization. Its very publication makes many in modern civilization feel it means to be honest. It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together help decipher how these religions effect modern civilization. To say it is "fair disclosure" though is false. Because it tells only part of the "Secret of Heaven", and other things, it falls short of that standard.
 
