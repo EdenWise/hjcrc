@@ -13,8 +13,6 @@ I am one of the people that got used as a sacrifice---from my birth. As a sacrif
 
 ## Research Sources
 
-
-
 The primary source I use is the Bible. It is the most read book in the world. Though the Bible is largely instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. Why is the Bible important? Any lasting representation requires a feeling of disclosure that is obliging. These religions promote the Bible to be that---it makes them feel that they have been upfront with civilization. Its very publication makes many in modern civilization feel it means to be honest. It is pre-dominantly what I use as proof. The details found in the Bible (isolated pieces of a large puzzle) once put together help decipher how these religions effect modern civilization. To say it is "fair disclosure" though is false. Because it tells only part of the "Secret of Heaven", and other things, it falls short of that standard.
 
 ## The Secret of Heaven
