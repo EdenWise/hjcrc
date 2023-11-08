@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives. How they do it they keep silent. The silence has attracted other selfish people (the political right, other fortunates, people wanting to be saved). The political right treats the people on their heels (the ordinaries) repellent for inclusion. Because this temptation has influenced everybody, I ask the readers to consider that as a citizen we should have done more?*
+*The Jews assure themselves advantageous lives. They keep how they do it silent. The authority has attracted other proud people (other fortunates, eventual conservatives). The conservatives treats the people on their heels (the ordinaries) repellent for inclusion. Because this temptation has grown to influence so many, I ask the readers to consider that as a citizen we have lacked knowing what was happening.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
