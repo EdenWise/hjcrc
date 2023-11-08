@@ -7,7 +7,7 @@ Civilization began as a natural order. This all changed when the Judeo-Christian
 
 ## Why I May Be Listened Of, Basic Questions
 
-I am one of the people that got used as a sacrifice---from my birth. As a sacrifice people can work against me to get safer ~~(more "saved", i.e. one goes up, one goes down)~~. This has forcibly removed me from civilization. I learned these hard truths when life became too impossible to live reasonably anymore---I had to look at improbable answers to try and survive. Please consider what I write here seriously.
+I am one of the people that got used as a sacrifice... long story. As a sacrifice I have been used many times---sometimes to experiment on to try and help me, other times for selfish reasons. This has forcibly removed me from civilization---I am 53 years old now. I had to learn hard truths when life became too impossible to live reasonably anymore---I had to look at improbable answers to make sense of what was happening to me, to try and survive. Please consider what I write here seriously.
 
 **Why are people absent in knowledge about what is going on?** Most people would rather prevent themselves from knowing it because they have been encouraged to be selfishness, though ignorantly. **Where are the informants?** The third-side/the-least-fortunate are often too busy trying to survive by the selfishness/off-putting to assemble much of a *scheme*. **Where is the declaration of intent?** Both the Jews and the Christians do. In the Old Testament and the New Testament they spell out their intent on what they plan to do with their religion, though cryptically. 
 
