@@ -1,4 +1,4 @@
-*The Jews assure themselves advantageous lives. How they do they keep silent. The rewards has attracted other selfish people (other fortunates, eventual conservatives). The conservatives treats the people on their heels (the ordinaries) repellent for inclusion. Because this temptation has grown to influence so many, I ask the readers to consider that as a citizen we have overlooked our responsibility.*
+*Because the Jews assure themselves advantageous lives, because they keep how they do it silent,because the lifestyle attracts other selfish people, because the attracted treat people on their heels repellent, because the attraction has grown to influence all thinking, I ask the reader to consider oneself as a citizen a failure.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
