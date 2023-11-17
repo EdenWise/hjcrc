@@ -1,4 +1,4 @@
-*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because the lifestyle attracts other selfish people, because the attracted treat people on their heels repellent, because the attraction has grown to influence all thinking, I ask the reader to consider oneself as a citizen nearsighted.*
+*Because the Jews assure themselves advantageous lives, because they keep it silent how they do it, because the rewards attracts other people, because the attracted treat people on their heels repellent, because the attraction has grown to influence general behavior, I ask the reader to consider oneself as a citizen negligent.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
