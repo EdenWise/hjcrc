@@ -58,7 +58,7 @@ Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gno
   * Home > Select *Compact* > right-click and select Modify> Format> Paragraph:
     * Spacing (Before and After) to 0 pt
 
-* Spacing and Indentation for Body Text *and* First Paragraph (in template!):
+* Spacing and Indentation for First Paragraph and Body Text (in template!):
   * Body Text and First Paragraph put I-Bar on, right-Click each one select Paragraph
     * Indentation:          Special: First Line; By: 0.2"
     * ~~Spacing:              Before and After: 0pt; Line spacing: Single~~
