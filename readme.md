@@ -37,15 +37,15 @@ Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gno
 
       rsvg-convert --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
 
-#### Style-Elements to Reintroduce After Conversion:
+#### MSWord-Document reintroduce style-elements after conversion:
 
-* Images Align (manually required because Markdown image attributes fail: width, align, others?):
-  * Tab Text Wrapping (Image right-click > Size and Position > )
-    * Wrapping style:       Tight
-    * Wrap text:            Left only
-    * ~~Distance from text:   TBLR, 0,0,.13,.13 (Appears to be in template.docx)~~
-  * Tab Position
-    * Horizontal:           Alignment: Right, relative to, Column
+* Images Align: (Image right-click > Size and Position > Tab select:)
+  * Text Wrapping
+    * Wrapping style:           Tight
+    * Wrap text:                Left only
+    * ~~Distance from text:       TBLR, 0,0,.13,.13 (Appears to be in template.docx)~~
+  * Position
+    * Horizontal: Alignment:    Right > relative to > Column
 
 * Bullet Lists text indentation reintroduce:
   * Bullet right-click > Adjust List Indents > More >>
@@ -66,7 +66,9 @@ Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gno
 * Heading Spacing reintroduce (in template!):
   * Headings put I-Bar on, right-Click each one select Paragraph
     * ~~Spacing             Before:          0 pt; Line spacing: Single~~
+
 #### To Do
 
+* Pandoc/Markdown image attributes still fail (width, align, others)?
 * Paragraph spacing (template.docx only allows basic format options.) may be helped with.
   * [General writer options](https://pandoc.org/MANUAL.html#general-writer-options-1)
