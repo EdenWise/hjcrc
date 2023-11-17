@@ -20,8 +20,7 @@ The primary source I use is the Bible. It is the most read book in the world. Th
 
 The "Secret of Heaven" comes from before the Bible was written. Absent of knowing the secret the possibility of understanding the beginning of the Bible, the Bible in general, is very small. (Note: The "Secret of Heaven" is real, but how it formed is speculation. It is derived from my limited reading of: History Of Egypt, Chaldea, Syria, Babylonia, and Assyria.)
 
-![](images/eras-of-civilization_02_heaven.svg) \
-Judaism started because of an environmental threat. The area the religion started in was the Tigris-Euphrates rivers of present-day Iraq---this is where Abraham was from (Gen 11:28-31). The area is surrounded by a lot of desert. Because living in the area was risky (droughts, etc.) it sometimes created desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded silently for protection (the first rewardee given to by the first Hebrew). The desperate man took care of him well. The Hebrew highly valued the protection. The rewarding grew to be periodic (possibly whenever able) for continued protection. *A desperate man being rewarded for personal protection makes it harder for people to give a social conscience to (guilt).* Absent of guilt the life of a desperate man becomes open-bounded and visceral which builds to becoming narcissistic and immobile; after a long enough time he starts divining and even later the insularity builds where the abnormal is required for him to find things interesting. The Hebrews were very afraid of their desperates when the rewarding started---this is what they meant when they said to "Fear God". The protection gotten from this relationship by both Hebrew and desperate man formed a symbiotic relationship that came to be known as the "Secret of Heaven". Later, an era for desperate women was added. The knowledge of how to live a "heavenly" life began to spread over the area.
+![](images/eras-of-civilization_02_heaven.svg)Judaism started because of an environmental threat. The area the religion started in was the Tigris-Euphrates rivers of present-day Iraq---this is where Abraham was from (Gen 11:28-31). The area is surrounded by a lot of desert. Because living in the area was risky (droughts, etc.) it sometimes created desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded silently for protection (the first rewardee given to by the first Hebrew). The desperate man took care of him well. The Hebrew highly valued the protection. The rewarding grew to be periodic (possibly whenever able) for continued protection. *A desperate man being rewarded for personal protection makes it harder for people to give a social conscience to (guilt).* Absent of guilt the life of a desperate man becomes open-bounded and visceral which builds to becoming narcissistic and immobile; after a long enough time he starts divining and even later the insularity builds where the abnormal is required for him to find things interesting. The Hebrews were very afraid of their desperates when the rewarding started---this is what they meant when they said to "Fear God". The protection gotten from this relationship by both Hebrew and desperate man formed a symbiotic relationship that came to be known as the "Secret of Heaven". Later, an era for desperate women was added. The knowledge of how to live a "heavenly" life began to spread over the area.
 
 ## The Beginning
 
@@ -35,8 +34,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 
 `Eve too wanted to be a god... too bad it was only for me...`
 
-![](images/eras-of-civilization_03_gold.svg) \
-**Genesis 4** *(She Said, Rest, Creating Family---by getting some "saved")*: Eve is the god here and Cain, Abel, and Seth are probably associates of Eve rather than her kin (kin usually get heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve from Eden (Gen 3:23) tries to do heaven like she saw the gods do before her. She too curses her male subjects to "save" them (Gen 3:14-19). She also gives Cain protection, "... anyone who kills Cain will suffer vengeance *seven* times over." Cain followed the directive where the god before put "cherubim and a flaming sword" and went to the "Land of Nod, east of Eden" (to the new heaven on the right) (`So nonchalantly a new heaven is created, the history appears to say "Everything is OK, a new heaven is fine, little deal---looks like the Jews are trying to make their history look polished.`). 
+![](images/eras-of-civilization_03_gold.svg)**Genesis 4** *(She Said, Rest, Creating Family---by getting some "saved")*: Eve is the god here and Cain, Abel, and Seth are probably associates of Eve rather than her kin (kin usually get heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve from Eden (Gen 3:23) tries to do heaven like she saw the gods do before her. She too curses her male subjects to "save" them (Gen 3:14-19). She also gives Cain protection, "... anyone who kills Cain will suffer vengeance *seven* times over." Cain followed the directive where the god before put "cherubim and a flaming sword" and went to the "Land of Nod, east of Eden" (to the new heaven on the right) (`So nonchalantly a new heaven is created, the history appears to say "Everything is OK, a new heaven is fine, little deal---looks like the Jews are trying to make their history look polished.`). 
 
 **Genesis 5** *(Yokel Said, Mortal Rule)*: A time span of ten male rulers from Adam to Noah is defined. God rule decreases as yokel rule becomes more prevalent. Lamech proclaims that Noah is to restore god rule that Adam's (weak!?) rule lost, "[Noah] will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed (references Gen 3:17)."
 
@@ -138,8 +136,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 * Women that Flood (Eve, Jackeline Kenedy, Long Beach ladies...)
 - Desperate females were eventually given their own rule---part of the great Jewish two system. Sadly it can jibe with them since men get to fight and they have an era of rest.
 - The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
-- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way. \
-![](images/hear-see-speak-zero-evil.svg)
+- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.![](images/hear-see-speak-zero-evil.svg)
 
 ## Books that Help
 
@@ -156,12 +153,10 @@ The Jews love their religion so much (so protected are they by their narcissists
   * ZEALOT: The Life and Times of Jesus of Nazareth             Reza Aslan
   * Marlon Brando
   * Clark Gable
-  * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story. \
-![](images/license-drivers_TN_circled.svg)
+  * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.![](images/jewish-code.svg)
 
 ## The Politics of the Right and How It Has Influenced Me
 
-![](images/jewish-code.svg) \
 * Zero things that get created through me, get used by me (old rule, my rule too).
 * The Right, the Christians, have assumed most of: angel creation, muck maintenance, Jewish-satisfaction/aims-to-please.
 * The temerity of the right---sacrifices, baby sacrifices, zero full-view, conservatism, saved, rewarding naïve spiritualism, feeders of the left, ignorance is bliss, and thinking they have won when given a golden age (or failing to realize status quo ["never again" Gen 9:11]). These become people that are enticed.
@@ -180,7 +175,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 * Lorne Micheals---got "humor" from me.
 * Reid---curses?!, San Francisco Trees planted to get rid of homeless (planting trees near me was used to get rid of me once).
 * Vin Diesel---once commented how I liked him in "Pitch Black" and him...
-* Car Crashes: Paul Walker, Anne Heche. Made official with bugs through me. Started with Cary Grant?!
+* Car Crashes: Paul Walker, Anne Heche. Made official with bugs through me. Started with Cary Grant!
 * Shannon Sharp got fired because of me.
 * Companies using me---NIV, Target? Wal-Mart and rBST, Chick-Filet, Reddit(!?), ALDI had a local person use me...
 * member that was protected.
@@ -199,6 +194,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 * Harry Reid things that happen to me after he is here.
 * Erasing instinct!
 * Grand Mistress: "We have to have sacrifices"---how the right is complicit with the Jews.
+![](images/license-drivers_TN_circled.svg)
 
 # Chapters that need to be Integrated
 
