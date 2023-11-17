@@ -153,7 +153,7 @@ The Jews love their religion so much (so protected are they by their narcissists
   * ZEALOT: The Life and Times of Jesus of Nazareth             Reza Aslan
   * Marlon Brando
   * Clark Gable
-  * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.![](images/jewish-code.svg)
+  * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.
 
 ## The Politics of the Right and How It Has Influenced Me
 
@@ -194,6 +194,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 * Harry Reid things that happen to me after he is here.
 * Erasing instinct!
 * Grand Mistress: "We have to have sacrifices"---how the right is complicit with the Jews.
+![](images/jewish-code.svg)
 ![](images/license-drivers_TN_circled.svg)
 
 # Chapters that need to be Integrated
