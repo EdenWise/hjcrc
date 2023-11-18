@@ -28,7 +28,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 
 **Genesis 2** *(She Said, Rest, Creating Family)*: An era of rest: "By the *seventh* day God had finished the work... so on the *seventh* day he rested." They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Business, Divining, Securing Heaven)*: [`Eve too feels that she can think like a real god (hard for me to believe that this is real history, an Edenite) that men should be diviners.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" (to get him out of Eden, i.e. to get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added to keep them there (make them become diviners), "...[god] placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
+**Genesis 3** *(He Said, Business, Divining, Securing Heaven)*: [`Eve too wants to be a god but only men can be diviners so she reacts by making Adam a god.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" (to get him out of Eden, i.e. to get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added to keep them there (make them become diviners), "...[god] placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
 
 `Eve too wanted to be a god... too bad it was only for me...`
 
