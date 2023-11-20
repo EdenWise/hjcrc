@@ -1,4 +1,4 @@
-*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because their lifestyle attracts other people, because the attracted treat people on their heels repellent, because the repellence has grown to influence general behavior, I ask the reader to consider oneself as a citizen spellbound.*
+*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because their lifestyle attracts other opportunistic people, because the attracted treat people on their heels repellent, because the repellence has grown to influence general behavior, I ask the reader to consider oneself as a citizen spellbound.*
 
 # The History of the Judeo-Christian Religion  http://tinyurl.com/HJCR1
 
