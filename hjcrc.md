@@ -48,6 +48,7 @@ The Jews love their religion so much (so protected are they by their narcissists
 * "friends (Job 2:11)"
 * (narcisstic, desperate)
 * it hides the flood
+* the right: the enablers, the finger-waggers
 
 ## Notes
 
