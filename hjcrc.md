@@ -22,7 +22,7 @@ The "Secret of Heaven" comes from before the Bible was written. Absent of knowin
 
 ## Bible Translation
 
-The Jews love their religion so much (so protected are they by their narcissists, i.e. desperates) they have become very secretive and spent much time highly refining their Bible with their devices. To the Jews the Bible feels protective by its audacity. A thing to know: Genesis (and a fair bit of the rest of the Old Testament) contains some "backwriting"/is-revisionistic to make newer rules apply throughout.
+The Jews love their religion so much (so protected are they by their desperates/narcissists) they have become very secretive and spent much time highly refining their Bible with their devices. To the Jews the Bible feels protective by its audacity. A thing to know: Genesis (and a fair bit of the rest of the Old Testament) contains some "backwriting"/is-revisionistic to make newer rules apply throughout.
 
 **Genesis 1** *(He Said, Business, Divining)*: The Bible starts with a desperate man being so rewarded that it refers to him as a "God", "In the beginning God created the heavens and the earth (Gen 1:1 NIV)." *Heaven on earth* was such an attraction more work was done (divining, creating Good and Evil): day/night, water/sky, land/sea, sun/moon, man/nature.
 
