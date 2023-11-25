@@ -24,21 +24,19 @@ I am one of the people that got used as a sacrifice, from a very early age... As
 
 ## Bible Translation
 
-*partisianship/favorers/divining/divisive*
-
 The Jews love their religion so much (so protected are they by their desperates/narcissists) they have become very secretive and spent much time highly refining their Bible. The Bible feels protective to the Jews with its devices and audacity. A thing to know: the Bible is written revisionistically (backwritten) to make newer rules apply throughout.
 
-**Genesis 1** *(He Said, Business, Partisiansip)*: The Bible starts with a desperate man being so rewarded that the Jews refer to him as a "God", "In the beginning God created the heavens and the earth" (Gen 1:1 NIV). *Heaven on earth* was such an attraction more favoring was done (partisanship, creating Good and Evil): day/night, water/sky, land/sea, sun/moon, man/nature.
+**Genesis 1** *(He Said, Business, Partisiansip)*: The Bible starts with a desperate man being so rewarded that the Jews refer to him as a "God", "In the beginning God created the heavens and the earth" (Gen 1:1 NIV). *Heaven on earth* was such an attraction more favoring was done (creating good, and by consequence evil): day/night, water/sky, land/sea, sun/moon, man/nature.
 
-**Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the *seventh* day God had finished the work... so on the *seventh* day he rested." They were fruitful and multiplied: Adam created and Eve created.
+**Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the **seventh** day God had finished the work... so on the **seventh** day he rested" (Gen 2:2). They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpeant (a desperate, an angel) tempts Eve with divining, “Did God really say, ‘You must not eat from any tree in the garden’?”
+**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpeant (a desperate man/angel who antagonizes a female?---nines are organizers of the flood historically; is this what they are now organizers of the flood by antagonizing?) tempts Eve with favoring, “Did God really say, ‘You must not eat from any tree in the garden’?” (Gen 3:1).
 
 **Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: [`Eve wants too be a god too but only men can be diviners so she reacts by making Adam a god.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" (to get him out of Eden, i.e. to get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added to keep them there (make them become diviners), "...[god] placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
 
 `Eve too wanted to be a god... too bad it was only for me...`
 
-![](images/eras-of-civilization_03_gold.svg)**Genesis 4** *(She Said, Rest, Creating Family---by getting some "saved")*: Eve is the god here and Cain, Abel, and Seth are probably associates of Eve rather than her kin (kin usually get heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve from Eden (Gen 3:23) tries to do heaven like she saw the gods do before her. She too curses her male subjects to "save" them (Gen 3:14-19). She also gives Cain protection, "... anyone who kills Cain will suffer vengeance *seven* times over." Cain followed the directive where the god before put "cherubim and a flaming sword" and went to the "Land of Nod, east of Eden" (to the new heaven on the right) (`So nonchalantly a new heaven is created, the history appears to say "Everything is OK, a new heaven is fine, little deal---looks like the Jews are trying to make their history look polished.`). 
+![](images/eras-of-civilization_03_gold.svg)**Genesis 4** *(She Said, Rest/Covering-Up/Getting-Heaven-Wrong, Creating Family---by getting some "saved")*: Eve is the god here and Cain, Abel, and Seth are probably associates of Eve rather than her kin (kin usually get heavenly inclusion). Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven. Eve from Eden (Gen 3:23) tries to do heaven like she saw the gods do before her. She too curses her male subjects to "save" them (Gen 3:14-19). She also gives Cain protection, "... anyone who kills Cain will suffer vengeance *seven* times over." Cain followed the directive where the god before put "cherubim and a flaming sword" and went to the "Land of Nod, east of Eden" (to the new heaven on the right) (`So nonchalantly a new heaven is created, the history appears to say "Everything is OK, a new heaven is fine, little deal---looks like the Jews are trying to make their history look polished.`). 
 
 **Genesis 5** *(Yokel Said, Mortal Rule)*: A time span of ten male rulers from Adam to Noah is defined. God rule decreases as yokel rule becomes more prevalent. Lamech proclaims that Noah is to restore god rule that Adam's (weak!?) rule lost, "[Noah] will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed (references Gen 3:17)."
 
@@ -56,6 +54,7 @@ The Jews love their religion so much (so protected are they by their desperates/
 * it hides the flood
 * the right: the enablers, the finger-waggers
 * quotes as " or ' rather than ’ and ” ?!
+* favoring/divisive/divining/partisianship
 
 ## Notes
 
