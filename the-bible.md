@@ -83,7 +83,7 @@
 17 To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’ “Cursed is the ground because of you; through painful toil you will eat food from it all the days of your life.
 18 It will produce thorns and thistles for you, and you will eat the plants of the field.
 19 By the sweat of your brow you will eat your food until you return to the ground, since from it you were taken; for dust you are and to dust you will return.”
-20 Adam named his wife Eve, because she would become the mother of all the living.
+20 Adam named his wife Eve, because she would become the mother of all the *living*.
 21 The LORD God made garments of skin for Adam and his wife and clothed them.
 22 And the LORD God said, “The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.”
 23 So the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.

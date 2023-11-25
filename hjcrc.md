@@ -30,9 +30,11 @@ The Jews love their religion so much (so protected are they by their desperates/
 
 **Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the **seventh** day God had finished the work... so on the **seventh** day he rested" (Gen 2:2). They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpeant (a desperate man/angel who antagonizes a female?---nines are organizers of the flood historically; is this what they are now organizers of the flood by antagonizing?) tempts Eve with favoring, “Did God really say, ‘You must not eat from any tree in the garden’?” (Gen 3:1).
+**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpeant (a desperate man/angel who antagonizes a female?---nines are organizers of the flood historically; is this what they are now organizers of the flood by antagonizing?) tempts Eve with favoring, “Did God really say, ‘You must not eat from any tree in the garden’?” (Gen 3:1). My feeling here is Eve is angry; she too wants to "be like God" but is prevented from because only men can be favorers. Because it was Eve's impetus that made Adam a god, a future directive is added to keep them there (make him/other-men become diviners), “The *man* has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever. So the LORD God banished *him* from the Garden of Eden... [and] he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
 
-**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: [`Eve wants too be a god too but only men can be diviners so she reacts by making Adam a god.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" (to get him out of Eden, i.e. to get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added to keep them there (make them become diviners), "...[god] placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
+"...[god] placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
+
+**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: [`Eve wants too be a god too but only men can be diviners so she reacts by making Adam a god.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" (to get him out of Eden, i.e. to get to heaven on earth). 
 
 `Eve too wanted to be a god... too bad it was only for me...`
 
