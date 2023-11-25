@@ -26,7 +26,7 @@ I am one of the people that got used as a sacrifice, from a very early age... As
 
 The Jews love their religion so much (so protected are they by their desperates/narcissists) they have become very secretive and spent much time highly refining their Bible. The Bible feels protective to the Jews with its devices and audacity. A thing to know: the Bible is written revisionistically (backwritten) to make newer rules apply throughout.
 
-**Genesis 1** *(He Said, Business, Partisiansip)*: The Bible starts with a desperate man being so rewarded that the Jews refer to him as a "God", "In the beginning God created the heavens and the earth" (Gen 1:1 NIV). *Heaven on earth* was such an attraction more favoring was done (creating good, and by consequence evil): day/night, water/sky, land/sea, sun/moon, man/nature.
+**Genesis 1** *(He Said, Business, Partisianship)*: The Bible starts with a desperate man being so rewarded that the Jews refer to him as a "God", "In the beginning God created the heavens and the earth" (Gen 1:1 NIV). *Heaven on earth* was such an attraction more favoring was done (creating good, and by consequence evil): day/night, water/sky, land/sea, sun/moon, man/nature.
 
 **Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the **seventh** day God had finished the work... so on the **seventh** day he rested" (Gen 2:2). They were fruitful and multiplied: Adam created and Eve created.
 
