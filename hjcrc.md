@@ -32,7 +32,7 @@ The Jews love their religion so much (so protected are they by their desperates/
 
 **Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the *seventh* day God had finished the work... so on the *seventh* day he rested." They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: 
+**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpeant (a desperate, an angel) tempts Eve with divining, “Did God really say, ‘You must not eat from any tree in the garden’?”
 
 **Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: [`Eve wants too be a god too but only men can be diviners so she reacts by making Adam a god.`] Eve wants Adam to "be like God" and gives him the "forbidden fruit" (to get him out of Eden, i.e. to get to heaven on earth). Because it was Eve's impetus that made Adam a god, a future directive is added to keep them there (make them become diviners), "...[god] placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life (3:22)".
 
@@ -55,6 +55,7 @@ The Jews love their religion so much (so protected are they by their desperates/
 * (narcisstic, desperate)
 * it hides the flood
 * the right: the enablers, the finger-waggers
+* quotes as " or ' rather than ’ and ” ?!
 
 ## Notes
 
