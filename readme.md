@@ -1,8 +1,10 @@
-### Document Creation: History of the Judeo-Christian Religion and How It Effects Civilization
+### History of the Judeo-Christian Religion Document Creation
 
-This is a repository to develop a document on the "History of the Judeo-Christian Religion and How It Effects Civilization". I am writing this document in markdown so that other people can help---if anybody wants to do so. This is a life work for me... :).
+This is a life work for me... :).
 
-The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md). And listed below are the steps I take to convert it to a pretty Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
+I am hoping to develop adocument on the history of the Judeo-Christian Religion. The religion(s) have influenced all the world by encouraged certain behaviors.
+
+I am writing this document in markdown so that other people can help---if anybody ever reads this :(. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) And listed below are the steps I take to convert it to a Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
 
 (*Side note: I converted my original document (written in MS word) to markdown with this command* (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
 
