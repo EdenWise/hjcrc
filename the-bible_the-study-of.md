@@ -76,8 +76,12 @@ Tucson, AZ 85716
 They were all in stock at this store when I looked today. They have an option that the items can be picked up at their store. That would probably be easiest for me... if that is possible (I still have a copy of my Driver's License).
 
 
-Drive_Stick   $4.00 
-Notepad       $3.00 
+Notepad       $03.00  
+Drive_Stick   $04.00  
+Hair Clippers $18.00  
+Shoes         $23.00  
+Camping Pad   $15.00  
+Sleeping Bag  $24.00  
 
 Thank you for the offer for Christmas gifts. If possible, I have a list of a few needed things. Please tell me if I am being... 
  
