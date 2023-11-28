@@ -16,7 +16,7 @@ I am one of the people that got used as a sacrifice, from a very early age... As
 
 ## The Secret of Heaven
 
-**Note:** *The "Secret of Heaven" comes from before the Bible was written. The possibility of understanding what the Bible is trying to divulge absent of knowing the secret is very small. Though the "Secret of Heaven" is a real tool how it formed is speculation, it is derived from my limited reading of: History Of Egypt, Chaldea, Syria, Babylonia, and Assyria.*
+**Note:** *The "Secret of Heaven" comes from before the Bible was written. The possibility of understanding what the Bible is trying to divulge absent of knowing the secret is very small. Though the "Secret of Heaven" is a real tool how it formed is speculation, it is derived from my limited reading of: History of Egypt, Chaldea, Syria, Babylonia, and Assyria.*
 
 ![](images/eras-of-civilization_02_heaven.svg)Judaism started because of an environmental threat. The area the religion started in was the Tigris-Euphrates rivers of present-day Iraq (this is where Abraham was from [Gen 11:28-31]). The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts and distance from safe land) it could create desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection... silently. The ancestor of the Hebrew highly valued the protection and took care of the desperate man well. The rewarding grew to be periodic and eventually whenever able for additional benefits. *A desperate man being constantly rewarded makes it hard for people to give a social conscience to (guilt).* The rewarding is so good away from guilt the life of a desperate man becomes open-bounded and visceral; it builds to becoming narcissistic, immobile in thinking, and divining (creating good, favoring people); later an insularity builds---in extreme cases the abnormal is required for him to find things interesting. Other people became very afraid of these rewarded desperate people. The relationship formed between the ancient Hebrew and the desperate person formed a powerful symbiotic bond that came to be known as the "Secret of Heaven". The knowledge of how to live a "heavenly" life began to spread over the area. *Later, an era for desperate women was added.*
 
@@ -158,7 +158,7 @@ The Jews love their religion so much (so protected are they by their desperates/
   * ZEALOT: The Life and Times of Jesus of Nazareth             Reza Aslan
   * Marlon Brando
   * Clark Gable
-  * [History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.
+  * [History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.
 
 ## The Politics of the Right and How It Has Influenced Me
 
