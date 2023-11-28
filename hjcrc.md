@@ -1,6 +1,6 @@
 *Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because the advantageous lifestyle attracts other people, because the attracted treat people on their heels repellent, because the repellence has grown to influence general behavior, I ask the reader to consider oneself spellbound as a citizen.*
 
-# The History of the Judeo-Christian Religion From the Bible (Part 1)  http://tinyurl.com/HJCR1
+# The History of the Judeo-Christian Religion from the Bible (Part 1)   http://tinyurl.com/HJCR1
 
 ![](images/eras-of-civilization_01_eden.svg)Civilization began as a natural order. This all changed when the Judeo-Christian religion started. Civilization moved from belonging to evolution (natural whims) to belonging to those who act according to a prescribed system. The system rewards those who know the details of it. It was started by the Jewish religion and comes from their "Secret of Heaven". The "Secret of Heaven" leads the Jews to demand on civilization a dualistic system (male and female, good and evil, rich and poor...). The system is implemented by rewarding a single side solely for an era of fifty years then rewarding a ~~differing/~~polar side for an era of fifty years. This alternating partisanship is done as silent as possible. The silence has resulted in much confusion and encouraged many selfish acts in its 4100 year history (particularly by the less-secure second side). The Jews create the first side by rewarding men for selfish acts (male inclusion, a "flood")---from this the Jews get protection. The second side is created by rewarding women (after fifty years) for resting acts, or better put "getting it wrong" acts (female inclusion)---from this the Jews hide the flood. The Jew sustain the system like a vital job. From it they get authority, advantageous lives, and their definition of it is literally *heaven*. Any person that uses the system is likelier to have a successful life and is and likelier to keep heaven silent. A third side, the people with little knowledge of heaven, is nearly overlooked by the "saved". These people can be provided as sacrifices for heavenly inclusion. Though most Christians practice their religion with spiritual principles there exists a female leadership (a succession of the second side formed definitely with the New Testament) that develops people as *exclusionary* to get heavenly power from the Jews. This knowledge seems to be only possessed by a few; I have yet to find anyone personally who has any overview or impartiality on what is happening.~~ This system has altered the natural order around the planet.~~
 
@@ -54,6 +54,7 @@ The Jews love their religion so much (so protected are they by their desperates/
 * the right: the enablers, the finger-waggers
 * quotes as " or ' rather than ’ and ” ?!
 * favoring/divisive/divining/partisianship
+* Verbatim Character in templates fix.
 
 ## Notes
 
