@@ -55,6 +55,8 @@ Golden Age Creation
     Jubal as musician (corruption of Cain?)
 
 
+=====
+
 I hope everyone is now in Florida and settled in. I hope all is going well.
 
 About what I wrote before, I apologize. I was testy that day. I hope I can be forgiven. Otherwise...
@@ -68,21 +70,7 @@ Backpack (Gray)   $24.97    https://www.walmart.com/ip/seort/179954246
 
 I am now in Tucson and this is the local Walmart:
 
-Tucson Supercenter
-3435 E Broadway Blvd
-Tucson, AZ 85716
-520-917-1655
-
 They were all in stock at this store when I looked today. They have an option that the items can be picked up at their store. That would probably be easiest for me... if that is possible (I still have a copy of my Driver's License).
-
-
-Notepad       $03.00  
-Drive_Stick   $04.00  
-Earbuds       $??.??  
-Hair Clippers $18.00  
-Shoes         $23.00  
-Camping Pad   $15.00  
-Sleeping Bag  $24.00  
 
 Thank you for the offer for Christmas gifts. If possible, I have a list of a few needed things. Please tell me if I am being... 
  
@@ -101,6 +89,38 @@ Chandler, AZ 85286
 (480) 726-0841 
  
 They were all in stock at this store when I looked today. They have an option that the items can be picked up at their store. That would probably be easiest for me... if that is possible. (I still have a copy of my Driver's License.) 
+
+=====
+
+I saw this in the news today:
+
+https://www.msn.com/en-us/movies/news/robert-de-niro-says-his-speech-was-censored-at-gotham-awards-so-he-read-it-anyway-how-dare-they/ar-AA1kDN7Q?OCID=ansmsnnews11
+
+I like the guy, seems to me he does what he does as a responsibility. I am so proud he kept a copy to be able to give his speech.
+
+Anyway I still was hoping for a few more things for Christmas if that is still possible:
+
+Shoes         $25.00  https://www.walmart.com/ip/seort/189925653
+Camping Pad   $15.00  https://www.walmart.com/ip/seort/634956813  (yeah again... :rolleyes:)
+Journal       $03.00  https://www.walmart.com/ip/seort/350410728
+Flashdrive    $07.00  https://www.walmart.com/ip/seort/744728216
+Earbuds       $05.00  https://www.walmart.com/ip/seort/416099849
+
+These were all in stock when I looked today. Some hair clippers would also be a big help but the ones I usually get are delivery only at this store :(:
+
+Hair Clippers $18.00  https://www.walmart.com/ip/seort/941511346
+
+Tucson Supercenter
+3435 E Broadway Blvd
+Tucson, AZ 85716
+520-917-1655
  
-As for other things: a gift card for McD would be nice; an old laptop would help... 
- 
+Thats about it, a gift card for McD would be nice, blah, blah, blah. I hope all is well there. Around 70° and 47° as a low. Spoiled rotten.
+
+Have a good one,
+
+Todd
+
+=====
+
+Sleeping Bag  $24.00  
