@@ -1,4 +1,4 @@
-*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because the advantageous lifestyle attracts other people, because the attracted treat people on their heels repellent, because the repellence has grown to influence general behavior, I ask the reader to consider oneself seduced/spellbound as a citizen.*
+*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because the advantageous lifestyle attracts other people, because the attracted treat people on their heels repellent, because the repelled can become victims, because the repellence has grown to influence general behavior, I ask the reader to consider oneself tricked/spellbound/seduced as a good enough citizen.*
 
 # The History of the Judeo-Christian Religion from the Bible (Part 1)   http://tinyurl.com/HJCR1
 
