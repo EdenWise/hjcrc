@@ -1,7 +1,5 @@
 *Note: This is a copy of the Bible that I got online. I have zero permissions to distribute this and use it only for personal use.*
 
-* “ ‘ ’ ” convert to " and ' as pandoc does so already.
-
 ## Genesis 1---The Beginning
 
 1 In the beginning God created the heavens and the earth.
