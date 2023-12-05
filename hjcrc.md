@@ -28,7 +28,7 @@ I am one of the people that got used as a *sacrifice*, from a very early age... 
 
 **Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the **seventh** day God had finished the work... so on the **seventh** day he rested" (Gen 2:2). They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpent tempts Eve with divining, “Did God really say, ‘You must not eat from any tree [referring to the tree of good and evil] in the garden’?” (Gen 3:1). Eve submits because it was "pleasing to the eye, and also desirable for *gaining wisdom*" (Gen 3:6) and gave some to Adam too. Adam becomes a god "The man has now become like one of us, knowing good and evil."
+**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpent tempts Eve with divining, “Did God really say, ‘You must not eat from any tree [referring to the tree of good and evil] in the garden’?” (Gen 3:1). Eve submits because it was "pleasing to the eye, and also desirable for *gaining wisdom*" (Gen 3:6) and gave some to Adam too. Adam *only* becomes a god "The man has now become like one of us, knowing good and evil". And a rule is recalled or invoked/created: gods are always gods they will be prevented from returning to Eden, "He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever." (Gen 3:22) 
 
 embarrassed get added "naked"
 the cursing are a bunch of junk used to hide their (or Adam's) new godhead.
