@@ -69,7 +69,7 @@
 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’ ”
 4 “You will not certainly die,” the serpent said to the woman.
 5 “For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.”
-6 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.
+6 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for *gaining wisdom*, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.
 7 Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves.
 8 Then the man and his wife heard the sound of the LORD God as he was walking in the garden in the cool of the day, and they hid from the LORD God among the trees of the garden.
 9 But the LORD God called to the man, “Where are you?”
