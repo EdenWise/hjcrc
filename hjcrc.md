@@ -28,13 +28,15 @@ I am one of the people that got used as a *sacrifice*, from a very early age... 
 
 **Genesis 2** *(She Said, Rest, ~~Creating Family~~)*: An era of rest: "By the **seventh** day God had finished the work... so on the **seventh** day he rested" (Gen 2:2). They were fruitful and multiplied: Adam created and Eve created.
 
-**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpent tempts Eve with divining, “Did God really say, ‘You must not eat from any tree [referring to the tree of good and evil] in the garden’?” (Gen 3:1). Eve submits because it was "pleasing to the eye, and also desirable for *gaining wisdom*" (Gen 3:6) and gave some to Adam too. Adam *only* becomes a god "The man has now become like one of us, knowing good and evil". And a rule is recalled or invoked/created: gods are always gods they will be prevented from returning to Eden, "He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever." (Gen 3:22) 
+**Genesis 3** *(He Said, Business, Partisanship, Securing Heaven)*: The serpent tempts Eve with divining, “Did God really say, ‘You must not eat from any tree [referring to the tree of good and evil] in the garden’?” (Gen 3:1). Eve submits because it was "pleasing to the eye, and also desirable for *gaining wisdom*" (Gen 3:6). She gives some to Adam but Adam *only* becomes a god "The man has now become like one of us, knowing good and evil". A rule is created: gods are always gods they will be prevented from returning to Eden, "He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever." (Gen 3:22) 
 
-embarrassed get added "naked"
-the cursing are a bunch of junk used to hide their (or Adam's) new godhead.
-Eve: "mother of all the *living*"
+* embarrassed get added "naked"
+* the cursing are a bunch of junk used to hide their (or Adam's) new godhead.
+* Eve: "mother of all the *living*"
 
 Because it was Eve's impetus that made Adam a god a future directive is added to keep men like Adam there, "'The *man* has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.' So the LORD God banished *him* from the Garden of Eden... [and] he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life" (Gen 22-24)." *• The serpent, a desperate man/angel who antagonizes a female?---nines are organizers of the flood historically; is this what they are now organizers of the flood by antagonizing? (My feeling here?) is that Eve is angry she too wants to "be like God" but is prevented from being one because only men can be diviners.•*
+
+Flooding is such an attraction even the serpeant (likely a nine/Satan, organizer of the flood) 
 
 * gaining wisdom
 
