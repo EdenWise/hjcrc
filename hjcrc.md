@@ -15,6 +15,9 @@ I am one of the people that got used as a *sacrifice*, from a very early age... 
 
 *Where do these religions discuss their plan (any lasting institution requires an declaration of intent)?* Both the Jews and the Christians do! They write out what they plan to do with their religion in their Testaments... though cryptically *and sometimes inaccurately*. The Bible is the most read book in the world. Though the Bible is largely instructions for the Judeo-Christians on how to implement their religion, it does contain some basic history on how the religion was formed. Why is the Bible important? It makes them feel that they have been divulgent with civilization (its very publication makes many in modern civilization feel it means to be honest). The details found in the Bible (isolated pieces of a large puzzle) once put together help decipher how these religions effect modern civilization. To say it is a honest declaration is false though. Because the Bible only tells only part of the "Secret of Heaven", amongst other things, it falls short of that standard. ~~I have added a section that explains how the religion as evolved sice the Bible.~~
 
+* fair
+* The Bible is designed to be understood only by those that have supernatural safety (i.e. eternal life.)
+
 ## The Secret of Heaven
 
 *The "Secret of Heaven" comes from before the Bible was written. The possibility of understanding what the Bible is trying to divulge absent of knowing the secret is very small. Though the "Secret of Heaven" is a real tool, how it formed is speculation; it is derived from my limited reading of: History of Egypt, Chaldea, Syria, Babylonia, and Assyria.*
