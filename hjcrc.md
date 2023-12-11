@@ -140,13 +140,15 @@ I am one of the people that got used as a *sacrifice*, from a very early age... 
 * Old Title - The History of the Judeo-Christian Religion and How It Effects Civilization
 * To me, a messiah, all heavenly acts feel like lateral progression.
 * Women that Flood (Eve, Jackeline Kenedy, Long Beach ladies...)
-- Desperate females were eventually given their own rule---part of the great Jewish two system. Sadly it can jibe with them since men get to fight and they have an era of rest.
-- The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
-- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
 * "Thick as those that get things free (or are included)"
 * em dash: 0151; bullet 0149; degree 0176
 * Running Borders, Human Trafficking, Red Tape, Hebrew Language
 * inclusion/exclusion
+* *Patience* and *Fair* have been given to angels to *flood* because saved people consider these behaviors naive (ouch). (Fool)
+* Joshua and Judges are chapters about the early benefiters of the heaven escalation (Hebrews becoming Jews). In their excitement from all they got from it they got many time to choose the person/people that were more selfish (male/female, left/right...).
+- Desperate females were eventually given their own rule---part of the great Jewish two system. Sadly it can jibe with them since men get to fight and they have an era of rest.
+- The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
+- In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
 
 ## Books that Help
 
