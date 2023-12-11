@@ -138,7 +138,7 @@ I am one of the people that got used as a *sacrifice*, from a very early age... 
 * Jobisms: the right, wanting to believe that Jobisms were good, began telling themselves (*or were led*), that the Jobisms earned them the golden ages.
 * Some of te left incites the right---makes them battle the left.
 * Thinness demonstrates survivability.
-* Politics: The art of saving oneself while remaining ignorant what may happen to others.
+* Politics: The art of saving oneself while remaining ignorant (implicating) what may happen to others.
 * If I am in heaven and I fail to see it, it is my fault.
 * Old Title - The History of the Judeo-Christian Religion and How It Effects Civilization
 * To me, a messiah, all heavenly acts feel like lateral progression.
