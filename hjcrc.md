@@ -1,4 +1,4 @@
-*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because the advantageous lifestyle attracts other people, because the attracted treat people on their heels repellent, because what is happening to the repelled has become anathema, because the repellence has grown to influence general behavior, I ask the reader to consider oneself as a citizen spellbound.*
+*Because the Jews assure themselves advantageous lives, because they keep how they do it silent, because the lifestyle attracts other people, because the attracted treat people on their heels repellent, because what is happening to the repelled has become anathema, because the repellence has grown to influence general behavior, I ask the reader to consider oneself as a citizen spellbound.*
 
 # How the Judeo-Christian Religion Influences Civilization (Part 1)     http://tinyurl.com/HJCR1
 
