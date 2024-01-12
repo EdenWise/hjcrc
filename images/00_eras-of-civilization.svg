@@ -8,7 +8,7 @@
    version="1.1"
    id="svg532"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="00_eras-of-civilization.svg"
+   sodipodi:docname="05_eras-of-civilization_eden.svg"
    inkscape:export-filename="C:\Users\libpubuser\Documents\Downloads\eras-of-civilization.png"
    inkscape:export-xdpi="95.958824"
    inkscape:export-ydpi="95.958824"
@@ -34,9 +34,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
-     inkscape:zoom="22.612685"
-     inkscape:cx="-2.9187157"
-     inkscape:cy="13.687008"
+     inkscape:zoom="6.0103829"
+     inkscape:cx="72.041999"
+     inkscape:cy="68.298477"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -334,6 +334,228 @@
   </defs>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Scrap"
+     style="display:inline;opacity:1"
+     transform="translate(-80.894508,-98.089363)">
+    <g
+       inkscape:groupmode="layer"
+       id="g53"
+       inkscape:label="Eden (Clock) copy"
+       style="display:none;opacity:1"
+       transform="translate(80.894508,98.089363)">
+      <path
+         id="path30"
+         style="display:inline;stroke-width:0.097265"
+         d="m 15.119882,18.425555 h 1.160803 l 0.145968,0.132936 -0.145968,0.132936 H 15.119882 L 14.97071,18.558491 Z"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="1_H_T" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect8"
+         id="use30"
+         transform="translate(0,1.0583333)"
+         inkscape:label="1_H_M"
+         style="display:inline;opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use1"
+         id="use31"
+         transform="translate(0,1.0583333)"
+         inkscape:label="1_H_B"
+         style="display:inline" />
+      <path
+         id="path31"
+         style="display:none;stroke-width:0.264583"
+         d="m 14.779341,18.735757 0.127,-0.117067 0.127,0.117067 v 0.6858 l -0.127,0.135249 -0.127,-0.135249 z"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="1_V_L_T" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use3"
+         id="use32"
+         transform="translate(-1.5875)"
+         inkscape:label="1_V_L_B"
+         style="display:none;opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use3"
+         id="use33"
+         transform="translate(0,-1.0583333)"
+         inkscape:label="1_V_R_T"
+         style="display:none;opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3"
+         id="use34"
+         transform="translate(1.5875,1.0583333)"
+         inkscape:label="1_V_R_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use1"
+         id="use35"
+         transform="translate(2.1166667)"
+         inkscape:label="2_H_M" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use2"
+         id="use36"
+         transform="translate(2.1166667)"
+         inkscape:label="2_H_B"
+         style="display:inline" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3"
+         id="use37"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_L_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use4"
+         id="use38"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_L_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use5"
+         id="use39"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_R_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use3"
+         id="use40"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_R_B"
+         style="display:none" />
+      <path
+         id="path40"
+         style="display:inline;stroke-width:0.097265"
+         d="m 19.353215,18.425555 h 1.160803 l 0.145968,0.132936 -0.145968,0.132936 h -1.160803 l -0.149172,-0.132936 z"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="1_H_T" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use7"
+         id="use41"
+         transform="translate(2.1166667)"
+         inkscape:label="3_H_M"
+         style="display:inline" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use8"
+         id="use42"
+         transform="translate(2.1166667)"
+         inkscape:label="3_H_B"
+         style="display:inline" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use9"
+         id="use43"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_L_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use10"
+         id="use44"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_L_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use11"
+         id="use45"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_R_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use12"
+         id="use46"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_R_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use13"
+         id="use47"
+         transform="translate(2.1166667)"
+         inkscape:label="4_H_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use14"
+         id="use48"
+         transform="translate(2.1166667)"
+         inkscape:label="4_H_M" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use15"
+         id="use49"
+         transform="translate(2.1166667)"
+         inkscape:label="4_H_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use16"
+         id="use50"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_L_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use17"
+         id="use51"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_L_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use18"
+         id="use52"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_R_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use19"
+         id="use53"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_R_B"
+         style="display:none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g1665"
      inkscape:label="era—eden"
      style="display:inline;opacity:1"
@@ -447,8 +669,8 @@
          sodipodi:role="line"
          id="tspan24879"
          style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.0496066"
-         x="99.734703"
-         y="103.17881"
+         x="0"
+         y="0"
          dy="2.6248572">chief</tspan></text>
     <g
        inkscape:groupmode="layer"
@@ -457,34 +679,232 @@
        style="display:inline;opacity:1"
        transform="translate(80.894508,98.089363)">
       <path
-         id="path10"
-         style="display:none;opacity:1;stroke-width:0.251006"
-         d="m 81.656508,98.943985 v 3.886205 l -0.381,0.33917 -0.381,-0.33917 v -3.886205 l 0.381,-0.346622 z"
+         id="rect3"
+         style="display:none;stroke-width:0.264583"
+         d="m 14.779341,18.735757 0.127,-0.117067 0.127,0.117067 v 0.6858 l -0.127,0.135249 -0.127,-0.135249 z"
          sodipodi:nodetypes="ccccccc"
-         inkscape:label="horizontal"
-         transform="translate(-80.894508,-98.089363)" />
-      <path
-         id="rect1"
-         style="stroke-width:0.363463"
-         d="m 0.7476629,0 h 2.568674 l 0.239663,0.254 -0.239663,0.25399999 H 0.7476629 L 0.50799999,0.254 Z"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         id="path9"
-         style="stroke-width:0.374177"
-         d="M 0.508,0.76199998 V 2.7939982 L 0.254,3.0479983 0,2.7939982 V 0.76199998 L 0.254,0.50799999 Z"
-         sodipodi:nodetypes="ccccccc" />
+         inkscape:label="1_V_L_T" />
       <use
          x="0"
          y="0"
-         xlink:href="#rect1"
+         xlink:href="#use3"
+         id="use4"
+         transform="translate(-1.5875)"
+         inkscape:label="1_V_L_B"
+         style="display:none;opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use3"
+         id="use5"
+         transform="translate(0,-1.0583333)"
+         inkscape:label="1_V_R_T"
+         style="display:none;opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3"
+         id="use3"
+         transform="translate(1.5875,1.0583333)"
+         inkscape:label="1_V_R_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3"
          id="use9"
-         transform="translate(0,3.0479999)" />
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_L_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use4"
+         id="use10"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_L_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use5"
+         id="use11"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_R_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use3"
+         id="use12"
+         transform="translate(2.1166667)"
+         inkscape:label="2_V_R_B"
+         style="display:none" />
       <use
          x="0"
          y="0"
          xlink:href="#use9"
-         id="use10"
-         transform="translate(0,3.048)" />
+         id="use16"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_L_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use10"
+         id="use17"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_L_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use11"
+         id="use18"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_R_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use12"
+         id="use19"
+         transform="translate(2.1166667)"
+         inkscape:label="3_V_R_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use13"
+         id="use20"
+         transform="translate(2.1166667)"
+         inkscape:label="4_H_T"
+         style="display:none" />
+      <g
+         id="g54"
+         transform="matrix(1,0,-0.06992681,1,1.5850628,0)"
+         style="fill:#000000;fill-opacity:0.0724907">
+        <path
+           id="rect8"
+           style="display:inline;fill:#000000;fill-opacity:0.0724907;stroke-width:0.097265"
+           d="m 15.119882,18.425555 h 1.160803 l 0.145968,0.132936 -0.145968,0.132936 H 15.119882 L 14.97071,18.558491 Z"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:label="1_H_T" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect8"
+           id="use1"
+           transform="translate(0,1.0583333)"
+           inkscape:label="1_H_M"
+           style="display:inline;opacity:1;fill:#000000;fill-opacity:0.0724907" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use1"
+           id="use2"
+           transform="translate(0,1.0583333)"
+           inkscape:label="1_H_B"
+           style="display:inline;fill:#000000;fill-opacity:0.0724907" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use1"
+           id="use7"
+           transform="translate(2.1166667)"
+           inkscape:label="2_H_M"
+           style="fill:#000000;fill-opacity:0.0724907" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use2"
+           id="use8"
+           transform="translate(2.1166667)"
+           inkscape:label="2_H_B"
+           style="display:inline;fill:#000000;fill-opacity:0.0724907" />
+        <path
+           id="use13"
+           style="display:inline;fill:#000000;fill-opacity:0.0724907;stroke-width:0.097265"
+           d="m 19.353215,18.425555 h 1.160803 l 0.145968,0.132936 -0.145968,0.132936 h -1.160803 l -0.149172,-0.132936 z"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:label="1_H_T" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use7"
+           id="use14"
+           transform="translate(2.1166667)"
+           inkscape:label="3_H_M"
+           style="display:inline;fill:#000000;fill-opacity:0.0724907" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use8"
+           id="use15"
+           transform="translate(2.1166667)"
+           inkscape:label="3_H_B"
+           style="display:inline;fill:#000000;fill-opacity:0.0724907" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use14"
+           id="use21"
+           transform="translate(2.1166667)"
+           inkscape:label="4_H_M"
+           style="fill:#000000;fill-opacity:0.0724907" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use15"
+         id="use22"
+         transform="translate(2.1166667)"
+         inkscape:label="4_H_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use16"
+         id="use23"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_L_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use17"
+         id="use24"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_L_B"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use18"
+         id="use25"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_R_T"
+         style="display:none" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use19"
+         id="use26"
+         transform="translate(2.1166667)"
+         inkscape:label="4_V_R_B"
+         style="display:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:1.05833px;display:none;fill:#000000;fill-opacity:0.0724907;stroke-width:0.264583"
+         x="15.708353"
+         y="22.064838"
+         id="text23"
+         inkscape:label="Paradise Lost"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:Constantia;-inkscape-font-specification:'Constantia Bold Italic';stroke-width:0.264583"
+           x="15.708353"
+           y="22.064838">Paradise Lost</tspan></text>
     </g>
   </g>
   <g
