@@ -1,4 +1,4 @@
-*Because free is available in life, consider oneself as a citizen neglect/spellbound.*
+*Because free is available in life, consider oneself as a citizen spellbound.*
 
 *Civilization is only good behavior.*
 
@@ -18,6 +18,10 @@ I am one of the people that got used as a *sacrifice*, from a very early age... 
 
 * fair
 * The Bible is designed to be understood only by those that have supernatural safety (i.e. eternal life.)
+
+## Hebrew Code
+
+The Hebrews use a code to discuss heaven with. It is hidden within ordinary language. The base meanings have very absolute definitions.
 
 ## The Secret of Heaven
 
