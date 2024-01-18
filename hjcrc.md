@@ -1,6 +1,6 @@
 *Because free is available in life, consider oneself as a citizen spellbound.*
 
-*Civilization is only good behavior it is all we judge by.*
+*Civilization is only good behavior, it is all we judge by.*
 
 # How the Judeo-Christian Religion Influences Civilization (Part 1)     http://tinyurl.com/HJCR1
 
