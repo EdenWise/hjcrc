@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1.5000001in"
-   height="1.3152471in"
-   viewBox="0 0 38.100005 33.407272"
+   width="1.5in"
+   height="1.3147125in"
+   viewBox="0 0 38.100002 33.393695"
    version="1.1"
    id="svg532"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
@@ -24,25 +24,25 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="in"
      showgrid="false"
      units="in"
      guidecolor="#4040bf"
      guideopacity="0.49803922"
      inkscape:showpageshadow="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
-     inkscape:zoom="6.5022638"
-     inkscape:cx="71.974933"
-     inkscape:cy="63.131859"
+     inkscape:zoom="4.478662"
+     inkscape:cx="55.485321"
+     inkscape:cy="32.040819"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g32353"
+     inkscape:current-layer="layer2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -51,21 +51,21 @@
      width="8in"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="65.233473,51.864086"
+       position="27.136007,51.869536"
        orientation="0.5,-0.8660254"
        id="guide33"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="45.252922,51.864046"
+       position="7.1554555,51.869496"
        orientation="0.5,0.8660254"
        id="guide34"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(64,64,191)" />
     <sodipodi:guide
-       position="55.243369,34.560254"
+       position="17.145903,34.565704"
        orientation="1,0"
        id="guide35"
        inkscape:locked="false" />
@@ -323,13 +323,23 @@
        x2="137.63983"
        y2="125.68501"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient61"
+       id="linearGradient68"
+       gradientUnits="userSpaceOnUse"
+       x1="137.63983"
+       y1="92.563393"
+       x2="137.63983"
+       y2="125.68501"
+       gradientTransform="translate(38.097468)" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Scrap"
      style="display:none;opacity:1"
-     transform="translate(-118.99451,-98.03229)">
+     transform="translate(-157.09198,-98.03774)">
     <path
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:1.17279;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m -170.88867,-331.9043 -50.63086,87.69141 -50.62891,87.69336 c -3.13429,5.42945 0.78356,12.21597 7.05274,12.2168 h 101.25976 101.257815 c 6.26918,-8.4e-4 10.187024,-6.78736 7.052734,-12.2168 l -50.628909,-87.69336 -50.6289,-87.69141 c -3.17258,-5.49261 -11.03623,-5.31386 -14.10547,0 z"
@@ -571,13 +581,130 @@
        id="path32"
        inkscape:label="symbol—male (outline)"
        transform="translate(7.7211282,3.7319745)" />
+    <g
+       inkscape:groupmode="layer"
+       id="g145"
+       inkscape:label="era-heaven_Fonts"
+       style="display:none;opacity:1"
+       transform="translate(-8.0322234e-5,5.640267)">
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0496966"
+         x="138.17534"
+         y="113.07877"
+         id="text143"
+         transform="scale(0.99875983,1.0012417)"
+         inkscape:label="Eden"><tspan
+           sodipodi:role="line"
+           id="tspan143"
+           style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0496966"
+           x="138.17534"
+           y="113.07877">Eden</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0496965"
+         x="124.44469"
+         y="99.57209"
+         id="text145"
+         transform="matrix(0.99875983,0,0,1.0012417,7.7212082,-1.9082915)"
+         inkscape:label="Heaven"><tspan
+           sodipodi:role="line"
+           id="tspan145"
+           style="font-size:2.82222px;fill:#ffffff;fill-opacity:1;stroke-width:0.0496965"
+           x="124.44469"
+           y="99.57209">Heaven</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g127"
+       inkscape:label="bg: era—eden_Font"
+       style="display:none;opacity:1"
+       transform="translate(38.1)">
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.05;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:#000000;stroke-width:0.0496066;stroke-opacity:1"
+         x="99.896027"
+         y="134.18103"
+         id="text122"
+         inkscape:label="caption—Civilization's natural order"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0.0496066;stroke-opacity:1"
+           x="99.896027"
+           y="134.18103"
+           id="tspan122">Civilization's natural order</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
+         x="93.900642"
+         y="129.51216"
+         id="text123"
+         inkscape:label="workers"><tspan
+           sodipodi:role="line"
+           id="tspan123"
+           style="font-size:2.82222px;stroke-width:0.0496066"
+           x="93.900642"
+           y="129.51216"
+           dy="1.1249388">workers...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
+         x="95.299835"
+         y="121.30428"
+         id="text124"
+         inkscape:label="experts"><tspan
+           sodipodi:role="line"
+           id="tspan124"
+           style="font-size:2.82222px;stroke-width:0.0496066"
+           x="95.299835"
+           y="121.30428"
+           dy="1.1249388">experts</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
+         x="96.092758"
+         y="112.99242"
+         id="text125"
+         inkscape:label="elders"><tspan
+           sodipodi:role="line"
+           id="tspan125"
+           style="font-size:2.82222px;stroke-width:0.0496066"
+           x="96.092758"
+           y="112.99242"
+           dy="1.1249388">elders</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
+         x="99.734703"
+         y="103.17881"
+         id="text126"
+         inkscape:label="chief"><tspan
+           sodipodi:role="line"
+           id="tspan126"
+           style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.0496066"
+           x="99.734703"
+           y="103.17881"
+           dy="2.6248572">chief</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.05833px;display:none;opacity:1;fill:#000000;fill-opacity:0.0724907;stroke-width:0.264583"
+         x="15.708353"
+         y="22.064838"
+         id="text127"
+         inkscape:label="Paradise Lost"
+         transform="translate(80.894508,98.089363)"><tspan
+           sodipodi:role="line"
+           id="tspan127"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:Constantia;-inkscape-font-specification:'Constantia Bold Italic';stroke-width:0.264583"
+           x="0"
+           y="0">Paradise Lost</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g90"
      inkscape:label="era—eden"
      style="display:none;opacity:1"
-     transform="translate(-118.99451,-98.03229)"
+     transform="translate(-157.09198,-98.03774)"
      inkscape:highlight-color="#d554d5">
     <path
        style="color:#000000;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -791,8 +918,8 @@
      inkscape:groupmode="layer"
      id="g32353"
      inkscape:label="era—heaven"
-     style="display:inline;opacity:1"
-     transform="translate(-118.99459,-92.392024)">
+     style="display:none;opacity:1"
+     transform="translate(-157.09206,-92.397474)">
     <g
        inkscape:groupmode="layer"
        id="g142"
@@ -821,89 +948,6 @@
          d="M 94.414283,106.3593 H 105.47474"
          id="path122"
          inkscape:label="segregator (top)" />
-      <g
-         inkscape:groupmode="layer"
-         id="g127"
-         inkscape:label="Font"
-         style="display:none;opacity:1">
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.05;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:#000000;stroke-width:0.0496066;stroke-opacity:1"
-           x="99.896027"
-           y="134.18103"
-           id="text122"
-           inkscape:label="caption—Civilization's natural order"><tspan
-             sodipodi:role="line"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0.0496066;stroke-opacity:1"
-             x="99.896027"
-             y="134.18103"
-             id="tspan122">Civilization's natural order</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
-           x="93.900642"
-           y="129.51216"
-           id="text123"
-           inkscape:label="workers"><tspan
-             sodipodi:role="line"
-             id="tspan123"
-             style="font-size:2.82222px;stroke-width:0.0496066"
-             x="93.900642"
-             y="129.51216"
-             dy="1.1249388">workers...</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
-           x="95.299835"
-           y="121.30428"
-           id="text124"
-           inkscape:label="experts"><tspan
-             sodipodi:role="line"
-             id="tspan124"
-             style="font-size:2.82222px;stroke-width:0.0496066"
-             x="95.299835"
-             y="121.30428"
-             dy="1.1249388">experts</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
-           x="96.092758"
-           y="112.99242"
-           id="text125"
-           inkscape:label="elders"><tspan
-             sodipodi:role="line"
-             id="tspan125"
-             style="font-size:2.82222px;stroke-width:0.0496066"
-             x="96.092758"
-             y="112.99242"
-             dy="1.1249388">elders</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;stroke-width:0.0496066"
-           x="99.734703"
-           y="103.17881"
-           id="text126"
-           inkscape:label="chief"><tspan
-             sodipodi:role="line"
-             id="tspan126"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;stroke-width:0.0496066"
-             x="99.734703"
-             y="103.17881"
-             dy="2.6248572">chief</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:1.05833px;display:none;opacity:1;fill:#000000;fill-opacity:0.0724907;stroke-width:0.264583"
-           x="15.708353"
-           y="22.064838"
-           id="text127"
-           inkscape:label="Paradise Lost"
-           transform="translate(80.894508,98.089363)"><tspan
-             sodipodi:role="line"
-             id="tspan127"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.05833px;font-family:Constantia;-inkscape-font-specification:'Constantia Bold Italic';stroke-width:0.264583"
-             x="0"
-             y="0">Paradise Lost</tspan></text>
-      </g>
       <g
          inkscape:groupmode="layer"
          id="g132"
@@ -1064,47 +1108,24 @@
        d="m 128.53772,100.81206 h 19.05436"
        id="path32333"
        inkscape:label="segregator" />
-    <g
-       inkscape:groupmode="layer"
-       id="g145"
-       inkscape:label="Fonts"
-       style="display:none;opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.0496966"
-         x="138.17534"
-         y="113.07877"
-         id="text143"
-         transform="scale(0.99875983,1.0012417)"
-         inkscape:label="Eden"><tspan
-           sodipodi:role="line"
-           id="tspan143"
-           style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0496966"
-           x="138.17534"
-           y="113.07877">Eden</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0496965"
-         x="124.44469"
-         y="99.57209"
-         id="text145"
-         transform="matrix(0.99875983,0,0,1.0012417,7.7212082,-1.9082915)"
-         inkscape:label="Heaven"><tspan
-           sodipodi:role="line"
-           id="tspan145"
-           style="font-size:2.82222px;fill:#ffffff;fill-opacity:1;stroke-width:0.0496965"
-           x="124.44469"
-           y="99.57209">Heaven</tspan></text>
-    </g>
     <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.0929203;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        id="rect147"
+       width="13.072607"
+       height="3.4278471"
+       x="131.508"
+       y="110.4851"
+       ry="0.89075148"
+       inkscape:label="bg: eden" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.09;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
        width="13.072607"
        height="3.4278471"
        x="131.52946"
        y="95.039833"
        ry="0.89075148"
-       inkscape:label="Realm Box" />
+       inkscape:label="bg: heaven" />
     <g
        inkscape:groupmode="layer"
        id="g147"
@@ -1135,182 +1156,194 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="era—seven, gold"
-     style="display:none"
-     transform="translate(-118.99459,-92.392024)">
+     style="display:inline"
+     transform="translate(-157.09206,-92.397474)">
     <g
        inkscape:groupmode="layer"
-       id="g103"
-       inkscape:label="bg: era—heaven"
-       style="display:none;opacity:0.213"
-       transform="translate(0,-33.343597)">
+       id="g62"
+       inkscape:label="bg_era—heaven"
+       style="display:none;opacity:0.213">
       <rect
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.22855;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect91"
-         width="18.825806"
-         height="33.11657"
-         x="90.552002"
-         y="59.218254"
-         rx="0.88692218"
-         inkscape:label="shape" />
+         style="display:inline;opacity:1;fill:url(#linearGradient68);fill-opacity:1;stroke:#000000;stroke-width:0.228586;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect56"
+         width="18.828671"
+         height="33.121613"
+         x="166.72772"
+         y="92.563393"
+         rx="0.88705713"
+         inkscape:label="rectangle" />
       <path
          style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.114326;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.37191, 1.37191;stroke-dashoffset:0.754552;stroke-opacity:1"
-         d="M 90.437725,71.961721 H 109.49208"
-         id="path91"
+         d="m 166.63519,100.81206 h 19.05436"
+         id="path57"
          inkscape:label="segregator" />
+      <rect
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:0.0929203;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect57"
+         width="13.072607"
+         height="3.4278471"
+         x="169.60547"
+         y="110.4851"
+         ry="0.89075148"
+         inkscape:label="bg: eden" />
+      <rect
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0.09;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect58"
+         width="13.072607"
+         height="3.4278471"
+         x="169.62694"
+         y="95.039833"
+         ry="0.89075148"
+         inkscape:label="bg: heaven" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="shape_triangle"
+       style="display:inline"
+       transform="translate(157.09458,92.44909)">
+      <path
+         id="path10"
+         style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="life_eden"
+         d="M 19.047305,11.585975 9.0571928,17.35377 17.825813,32.541395 c 0.549472,0.951285 1.911408,0.920326 2.442982,0 v 0 l 8.768958,-15.187622 v 0 z"
+         sodipodi:nodetypes="cccscccc" />
+      <path
+         id="path12"
+         style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="life_disco"
+         d="m 19.047305,0.04993928 v 0 H 1.5100651 C 0.42428324,0.05008528 -0.25426466,1.2254723 0.28857434,2.1658153 L 9.0571945,17.353773 19.047305,11.585741 Z"
+         sodipodi:nodetypes="ccccccc" />
       <g
-         inkscape:groupmode="layer"
-         id="g93"
-         inkscape:label="text—eden (w/ outline)"
-         style="display:inline"
-         transform="translate(1.1014195e-6)">
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.254;stroke-dasharray:none;stroke-opacity:1"
-           x="100.02804"
-           y="82.357788"
-           id="text92"
-           transform="scale(0.99875983,1.0012417)"
-           inkscape:label="eden (outline)"><tspan
-             sodipodi:role="line"
-             id="tspan92"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.254;stroke-dasharray:none;stroke-opacity:1"
-             x="100.02804"
-             y="82.357788">Eden</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0496966"
-           x="100.02804"
-           y="82.357788"
-           id="text93"
-           transform="scale(0.99875983,1.0012417)"
-           inkscape:label="eden"><tspan
-             sodipodi:role="line"
-             id="tspan93"
-             style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0496966"
-             x="100.02804"
-             y="82.357788">Eden</tspan></text>
+         id="g83"
+         inkscape:label="gap_eden-disco"
+         transform="matrix(-0.043956,-0.07613403,0.8660255,-0.50000005,9.8120692,18.761225)"
+         style="display:inline;fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect79"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="2.3563044" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect81"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="6.9689445" />
       </g>
+      <path
+         id="path22"
+         style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="life_beauty"
+         d="M 19.047305,11.585741 29.037753,17.35373 37.806374,2.1658153 C 38.349214,1.2254703 37.670662,0.05008328 36.584882,0.04993928 H 19.047305 Z"
+         sodipodi:nodetypes="cccccc" />
       <g
-         inkscape:groupmode="layer"
-         id="g96"
-         inkscape:label="text—heaven (w/ outline)"
-         style="display:inline"
-         transform="translate(7.7212088)">
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.254;stroke-dasharray:none;stroke-opacity:1"
-           x="86.297386"
-           y="66.268326"
-           id="text94"
-           transform="scale(0.99875984,1.0012417)"
-           inkscape:label="heaven (outline)"><tspan
-             sodipodi:role="line"
-             id="tspan94"
-             style="font-size:2.82222px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.254;stroke-dasharray:none;stroke-opacity:1"
-             x="86.297386"
-             y="66.268326">Heaven</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:2.82222px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.0496965"
-           x="86.297386"
-           y="66.268326"
-           id="text95"
-           transform="scale(0.99875984,1.0012417)"
-           inkscape:label="heaven"><tspan
-             sodipodi:role="line"
-             id="tspan95"
-             style="font-size:2.82222px;fill:#000000;fill-opacity:1;stroke-width:0.0496965"
-             x="86.297386"
-             y="66.268326">Heaven</tspan></text>
-        <path
-           d="m 98.136421,64.122794 -0.91984,0.09198 c -0.0634,0.0055 -0.110098,0.06172 -0.10387,0.125057 0.0058,0.06319 0.06191,0.109588 0.125057,0.103353 l 0.473356,-0.04858 -0.444417,0.450618 c -0.323786,-0.24586 -0.784389,-0.231017 -1.089856,0.04548 h -0.0016 l -0.03307,0.03307 c -0.330773,0.334859 -0.327094,0.878416 0.0078,1.209228 0.33486,0.330776 0.8779,0.327096 1.208712,-0.0078 0.303061,-0.306549 0.325256,-0.786504 0.06976,-1.119311 l 0.439766,-0.444417 -0.04031,0.461987 c -0.0062,0.06315 0.04016,0.119287 0.103353,0.125057 0.06256,0.005 0.117463,-0.04135 0.12299,-0.10387 z m -1.405082,0.77618 c 0.165258,-0.0051 0.332062,0.0551 0.459403,0.180868 0.246888,0.244071 0.248217,0.638331 0.0041,0.885217 -0.243984,0.24697 -0.637735,0.249597 -0.8847,0.0057 -0.246971,-0.243986 -0.250113,-0.637733 -0.0062,-0.8847 0.11818,-0.119625 0.272121,-0.182296 0.427364,-0.187069 z"
-           style="color:#000000;display:inline;opacity:1;fill:#000000;stroke:#ffffff;stroke-width:0.2032;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-           id="path95"
-           inkscape:label="symbol—male (outline)" />
-        <path
-           id="path96"
-           style="color:#000000;display:inline;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 98.136421,64.122794 -0.91984,0.09198 a 0.1143,0.1143 0 0 0 -0.10387,0.125057 0.1143,0.1143 0 0 0 0.125057,0.103353 l 0.473356,-0.04858 -0.444417,0.450618 c -0.323786,-0.24586 -0.784389,-0.231017 -1.089856,0.04548 h -0.0016 l -0.03307,0.03307 c -0.330773,0.33486 -0.327095,0.878416 0.0078,1.209228 0.33486,0.330776 0.8779,0.327096 1.208712,-0.0078 0.303061,-0.30655 0.325256,-0.786505 0.06976,-1.119312 l 0.439766,-0.444417 -0.04031,0.461987 a 0.1143,0.1143 0 0 0 0.103353,0.125057 0.1143,0.1143 0 0 0 0.122989,-0.10387 z m -1.405082,0.77618 c 0.165258,-0.0051 0.332062,0.0551 0.459403,0.180867 0.246888,0.244072 0.248217,0.638332 0.0041,0.885218 -0.243984,0.24697 -0.637735,0.249597 -0.8847,0.0057 -0.246971,-0.243986 -0.250113,-0.637733 -0.0062,-0.8847 0.11818,-0.119625 0.272121,-0.182296 0.427364,-0.187069 z"
-           inkscape:label="symbol—male" />
+         id="g78"
+         inkscape:label="gap_disco-beauty"
+         transform="matrix(0.087912,0,0,1.0000001,17.451149,-3.5413992e-7)"
+         style="display:inline;fill:#73b92f;fill-opacity:1">
+        <rect
+           style="fill:#73b92f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect74"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="2.3563044" />
+        <rect
+           style="fill:#73b92f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect76"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="6.9689445" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.45319px;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.272473"
-         x="96.629501"
-         y="71.332436"
-         id="text96"
-         inkscape:label="desperates"><tspan
-           sodipodi:role="line"
-           id="tspan96"
-           style="font-size:1.45319px;fill:#000000;fill-opacity:1;stroke-width:0.272473"
-           x="96.629501"
-           y="71.332436">desperates</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.45843px;font-family:Constantia;-inkscape-font-specification:Constantia;display:inline;opacity:1;fill:#d9d9d9;fill-opacity:1;stroke-width:0.121536"
-         x="105.0581"
-         y="61.500557"
-         id="text97"
-         inkscape:label="Sarai"><tspan
-           sodipodi:role="line"
-           id="tspan97"
-           style="fill:#d9d9d9;fill-opacity:1;stroke-width:0.121536"
-           x="105.0581"
-           y="61.500557">Sarai</tspan></text>
+      <path
+         id="path36"
+         style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="jeaven_bad"
+         d="m 19.047305,-11.486318 9.990448,-5.767989 8.768621,15.1879153 c 0.54284,0.940345 -0.135712,2.11573198 -1.221492,2.11587598 H 19.047305 Z"
+         sodipodi:nodetypes="cccccc" />
       <g
-         id="g99"
-         style="display:inline;opacity:1"
-         transform="matrix(0.18754285,0,0,0.18754285,86.828038,59.105541)"
-         inkscape:label="arrows (left)">
-        <path
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.6096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92;marker-end:url(#TriangleOutL)"
-           d="M 10.621859,153.54764 V 139.46447"
-           id="path97"
-           sodipodi:nodetypes="cc"
-           inkscape:label="bottom" />
-        <path
-           style="display:inline;opacity:1;fill:none;stroke:#404040;stroke-width:0.6096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
-           d="M 10.621859,122.85579 V 108.77262"
-           id="path98"
-           sodipodi:nodetypes="cc"
-           inkscape:label="middle" />
-        <path
-           style="display:inline;fill:none;stroke:#000000;stroke-width:0.6096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
-           d="M 10.621859,92.163948 V 78.080859"
-           id="path99"
-           sodipodi:nodetypes="cc"
-           inkscape:label="top" />
+         id="g6"
+         inkscape:label="gap_beauty-bad"
+         transform="matrix(0,-0.087912,1.5344077,0,18.921907,1.6418833)"
+         style="display:inline;fill:#73b92f;fill-opacity:1">
+        <rect
+           style="fill:#73b92f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect3"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="2.3563044" />
+        <rect
+           style="fill:#73b92f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect5"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="6.9689445" />
       </g>
+      <path
+         id="path33"
+         style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="jeaven_dark"
+         d="m 19.047305,0.04948428 v 0 H 1.5100651 C 0.42428324,0.04933828 -0.25426466,-1.1260487 0.28857434,-2.0663917 L 9.0571945,-17.25435 l 9.9901105,5.768032 z"
+         sodipodi:nodetypes="ccccccc" />
       <g
-         id="g102"
-         style="display:inline;opacity:1"
-         transform="matrix(0.18754285,0,0,0.18754285,74.779205,59.105541)"
-         inkscape:label="arrows (right)">
-        <path
-           style="display:inline;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.6096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92;marker-end:url(#TriangleOutL)"
-           d="M 193.50186,153.55556 V 139.47239"
-           id="path100"
-           sodipodi:nodetypes="cc"
-           inkscape:label="bottom" />
-        <path
-           style="display:inline;opacity:1;fill:none;stroke:#404040;stroke-width:0.6096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
-           d="M 193.50186,122.86371 V 108.78054"
-           id="path101"
-           sodipodi:nodetypes="cc"
-           inkscape:label="middle" />
-        <path
-           style="display:inline;fill:none;stroke:#000000;stroke-width:0.6096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
-           d="M 193.50186,92.171868 V 78.088779"
-           id="path102"
-           sodipodi:nodetypes="cc"
-           inkscape:label="top" />
+         id="g11"
+         inkscape:label="gap_beauty-dark"
+         transform="matrix(0.087912,0,0,1.0000001,17.451149,-11.595095)"
+         style="display:inline;fill:#747474;fill-opacity:1">
+        <rect
+           style="fill:#747474;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect8"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="2.3563044" />
+        <rect
+           style="fill:#747474;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect10"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="6.9689445" />
+      </g>
+      <path
+         id="path23"
+         style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="jeaven_jumbo"
+         d="m 19.047305,-11.486552 -9.9901122,-5.767795 8.7686202,-15.187624 c 0.549472,-0.951285 1.911408,-0.920327 2.442982,0 v 0 l 8.768958,15.187621 v 0 z"
+         sodipodi:nodetypes="cccscccc" />
+      <g
+         id="g16"
+         inkscape:label="gap_dark-jumbo"
+         transform="matrix(-0.043956,0.07613403,-0.86602549,-0.50000005,19.937832,-12.818019)"
+         style="display:inline;fill:#747474;fill-opacity:1">
+        <rect
+           style="fill:#747474;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect13"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="2.3563044" />
+        <rect
+           style="fill:#747474;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+           id="rect15"
+           width="2.311399"
+           height="2.30632"
+           x="17.002577"
+           y="6.9689445" />
       </g>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer29"
        inkscape:label="domain: eden"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;fill:none;stroke:#808080;stroke-width:0.121984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.975871, 0.975871;stroke-dashoffset:1.21984;stroke-opacity:1"
          d="m 183.76217,113.13488 -15.28037,0.0666"
@@ -1371,7 +1404,7 @@
        id="layer28"
        inkscape:label="domain: seven"
        transform="translate(2.5554899e-6,-0.00848323)"
-       style="display:inline">
+       style="display:none">
       <g
          aria-label="Gold"
          transform="matrix(0.99999258,0,0,1.0024775,7.1190152e-4,-25.903441)"
@@ -1464,7 +1497,7 @@
        id="layer26"
        inkscape:label="domain: heaven"
        transform="translate(2.5554899e-6,-0.00848323)"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;fill:none;stroke:#808080;stroke-width:0.114501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.916008, 0.916008;stroke-dashoffset:0.927458;stroke-opacity:1"
          d="m 160.43797,99.101 h 15.71022"
@@ -1536,25 +1569,13 @@
              x="162.4471"
              y="100.19777">Heaven</tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Constantia;-inkscape-font-specification:Constantia;display:none;fill:#d9d9d9;fill-opacity:1;stroke-width:0.264583"
-         x="159.80246"
-         y="94.847916"
-         id="text6"
-         inkscape:label="Moses"><tspan
-           sodipodi:role="line"
-           id="tspan4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#d9d9d9;fill-opacity:1;stroke-width:0.264583"
-           x="0"
-           y="0">Moses</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer19"
        inkscape:label="arrows"
        transform="translate(2.9186196e-5,-1.8390637e-5)"
-       style="display:inline">
+       style="display:none">
       <path
          style="fill:none;fill-opacity:1;stroke:#bfbfbf;stroke-width:0.11436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92;marker-end:url(#TriangleOutL)"
          d="m 182.13367,121.1875 1.32099,-2.28802"
@@ -1577,42 +1598,42 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="New Triangle"
+     id="g68"
+     inkscape:label="shape_triangle copy"
      style="display:none"
-     transform="translate(38.099991,0.05707075)">
+     transform="translate(38.102524,0.05162072)">
     <path
-       id="path10"
+       id="path63"
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="life_eden"
        d="M 19.047305,11.585975 9.0571928,17.35377 17.825813,32.541395 c 0.549472,0.951285 1.911408,0.920326 2.442982,0 v 0 l 8.768958,-15.187622 v 0 z"
        sodipodi:nodetypes="cccscccc" />
     <path
-       id="path12"
+       id="path64"
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="life_left"
        d="m 19.047305,0.04993928 v 0 H 1.5100651 C 0.42428324,0.05008528 -0.25426466,1.2254723 0.28857434,2.1658153 L 9.0571945,17.353773 19.047305,11.585741 Z"
        sodipodi:nodetypes="ccccccc" />
     <path
-       id="path22"
+       id="path65"
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="life_right"
        d="M 19.047305,11.585741 29.037753,17.35373 37.806374,2.1658153 C 38.349214,1.2254703 37.670662,0.05008328 36.584882,0.04993928 H 19.047305 Z"
        sodipodi:nodetypes="cccccc" />
     <path
-       id="path36"
+       id="path66"
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="jeaven_right"
        d="m 19.047305,-11.486318 9.990448,-5.767989 8.768621,15.1879153 c 0.54284,0.940345 -0.135712,2.11573198 -1.221492,2.11587598 H 19.047305 Z"
        sodipodi:nodetypes="cccccc" />
     <path
-       id="path33"
+       id="path67"
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="jeaven_left"
        d="m 19.047305,0.04948428 v 0 H 1.5100651 C 0.42428324,0.04933828 -0.25426466,-1.1260487 0.28857434,-2.0663917 L 9.0571945,-17.25435 l 9.9901105,5.768032 z"
        sodipodi:nodetypes="ccccccc" />
     <path
-       id="path23"
+       id="path68"
        style="color:#000000;display:inline;fill:none;stroke:#000000;stroke-width:0.20312;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="jeaven_top"
        d="m 19.047305,-11.486552 -9.9901122,-5.767795 8.7686202,-15.187624 c 0.549472,-0.951285 1.911408,-0.920327 2.442982,0 v 0 l 8.768958,15.187621 v 0 z"
