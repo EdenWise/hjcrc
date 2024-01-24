@@ -8,7 +8,7 @@
 
 ## Why I May Be Listened Of
 
-I am one of the people that got used as a *sacrifice*, from a very early age... As a sacrifice I have seen many selfish acts---so many to have forcibly removed me from civilization. I learned what I now know by accepting hard truths when life became too impossible to live reasonably anymore---looking at improbable answers to try and survive. I ask people to consider what I write here seriously.
+I am one of the people that got used as a sacrifice. From a very early age I have seen many talk down to me so they may protect themselves---so many to have forcibly removed me from civilization. I learned what I now know by accepting hard truths when life became too impossible to live reasonably anymore---looking at improbable answers to try and survive. I ask people to consider what I write here seriously.
 
 *Why are people absent in knowledge of my/our placement/bondage?* Self-reflection on one's fortune lacks being ever done because who would accept that one's success was helped by others misfortunes and gets a higher perspective. *Where are the other informants?* The third-side are often too busy trying to survive the consequences of people putting thmeselves first to be able to try and assemble much of a scheme.* 
 
