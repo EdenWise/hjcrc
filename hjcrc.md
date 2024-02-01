@@ -14,11 +14,11 @@ I am one of the people that got used as a sacrifice. From a very early age I hav
 
 ## Research Source
 
-The Judeo-Christian system does discuss its plan (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented them in their Testaments The Bible, the most read book in the world, makes them feel that they have been divulgent with civilization. The details found in the Bible (isolated pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a good enough declaration goes too far. Because the Bible is intentionally cryptic and only tells only part of the "Secret of Heaven" it falls short of that standard.
+The Judeo-Christian system does discuss its plan (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments. The Bible's publication, the most read book in the world, makes them feel that they have been divulgent with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome) and only tells only part of the "Secret of Heaven" it falls short of that standard.
 
 ## Hebrew Code
 
-![](images/13_hebrew-code.svg)The Hebrews use a code to share secrets with. It is hidden within ordinary language. The base meanings have very *absolute* definitions.
+![](images/15_hebrew-code.svg)The Hebrews use a code to share secrets with. It is hidden within ordinary language. The base meanings have very *absolute* definitions.
 
 ## The Secret of Heaven
 
