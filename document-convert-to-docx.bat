@@ -1,12 +1,12 @@
-:: About: Text convert from Markdown to Microsoft-Word.
+:: About: Document convert from Markdown to Microsoft-Word.
 
 :: Print everything: off
 @echo off
 
 :: Path: Add executables to path.
-set PATH=%USERPROFILE%\Downloads\programs_hjcr
-set PATH=D:\;%PATH%
-set PATH=E:\;%PATH%
+:: set PATH=%USERPROFILE%\Downloads\programs_hjcr
+:: set PATH=D:\;%PATH%
+:: set PATH=E:\;%PATH%
 :: set batdir=%~dp0
 
 :: set mypath=%cd%
