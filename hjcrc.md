@@ -14,12 +14,7 @@ I am one of the people that got used as a sacrifice. From a very early age I hav
 
 ## Research Source
 
-Where does the Judeo-Christian system discuss their plan (lasting institutions usually declare their intent)? Both the Jews and the Christians do! They have documented what they are going to do in their Testaments (the Bible, the most read book in the world). The Bible is important to them because it makes them feel that they have been divulgent with civilization. The details found in the Bible (isolated pieces of a large puzzle) once put together help decipher how this system influences modern civilization. However, to say it is a honest declaration is false. Because the Bible is intentionally cryptic, sometimes inaccurate, and only tells only part of the "Secret of Heaven" it falls short of that standard.
-
-* The Bible is designed to be understood only by those that have supernatural safety; its graphicness can contain meanings that can only be understood to those that are well-removed from life (i.e. more removed from mortal psychological tradegies, [eternal life]).
-* The Jews love their system so much (so protected are they by their desperates/narcissists) they have become very secretive and spent much time highly refining their Bible. 
-* fair
-* I refrain from calling the Judeo-Christian system a religion because most people's understanding of religion usually involves spirituality and an ethereal god.
+The Judeo-Christian system does discuss its plan (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented them in their Testaments The Bible, the most read book in the world, makes them feel that they have been divulgent with civilization. The details found in the Bible (isolated pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a good enough declaration goes too far. Because the Bible is intentionally cryptic and only tells only part of the "Secret of Heaven" it falls short of that standard.
 
 ## Hebrew Code
 
@@ -37,6 +32,11 @@ Where does the Judeo-Christian system discuss their plan (lasting institutions u
 ## Bible Translation
 
 *The Bible directs the Jews with its devices and audacity. It is important to know that the Bible is written revisionistically^[definition-revisionistic] (backwritten) to make newer rules apply throughout. The beginning of the Bible is packed with details.*
+
+* The Bible is designed to be understood only by those that have supernatural safety; its graphicness can contain meanings that can only be understood to those that are well-removed from life (i.e. more removed from mortal psychological tradegies, [eternal life]).
+* The Jews love their system so much (so protected are they by their desperates/narcissists) they have become very secretive and spent much time highly refining their Bible. 
+* fair
+* I refrain from calling the Judeo-Christian system a religion because most people's understanding of religion usually involves spirituality and an ethereal god.
 
 **Genesis 1** The Bible starts with a desperate man being so rewarded that the Jews refer to him as a "God", "In the beginning *God* created the heavens and the earth" (Gen 1:1 NIV). *When the Hebrews said to "Fear God" this is what they meant.* "Heaven on earth" was such an attraction more *divining*[^definition-divine] was done : day/night, water/sky, land/sea, sun/moon, man/nature.
 

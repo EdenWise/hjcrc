@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="0.65407085in"
-   height="1.3192304in"
-   viewBox="0 0 16.613401 33.508454"
+   width="1.0000132in"
+   height="1.4504534in"
+   viewBox="0 0 25.400338 36.841517"
    version="1.1"
    id="svg1"
-   sodipodi:docname="jewish-code.svg"
-   inkscape:version="1.3-alpha (4127b5831, 2023-04-12)"
+   sodipodi:docname="##_hebrew-code.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="5.8979886"
-     inkscape:cx="21.44799"
-     inkscape:cy="59.427039"
+     inkscape:zoom="6.0397781"
+     inkscape:cx="48.015009"
+     inkscape:cy="69.621763"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -38,74 +38,80 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-60.208638,-56.225907)">
+     transform="translate(-60.213023,-56.230005)">
     <text
        xml:space="preserve"
-       style="font-size:2.82222px;line-height:1.2;display:none;fill:#000000;stroke-width:0.264583"
+       style="font-size:2.82222px;line-height:0;display:inline;fill:#000000;stroke-width:0.264583"
        x="61.508282"
        y="59.511139"
        id="text2"
        inkscape:label="Jew Code"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          x="61.508282"
          y="59.511139">Jew</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          x="61.508282"
-         y="63.000401"
-         id="tspan11">Satan/Saint</tspan><tspan
+         y="62.930664"
+         id="tspan11">Satan(<tspan
+   style="stroke:#000000;stroke-opacity:1"
+   id="tspan36">♂</tspan> or <tspan
+   style="stroke:#000000;stroke-opacity:1"
+   id="tspan37">♀</tspan>) /</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          x="61.508282"
-         y="66.489662"
-         id="tspan4">Heaven</tspan><tspan
+         y="66.317329"
+         id="tspan38">  or Samaritan</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.1;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#ff0000;stroke-width:0.264583"
          x="61.508282"
-         y="69.978928"
-         id="tspan5">Gold</tspan><tspan
+         y="69.562881"
+         id="tspan13">Red-Herring</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.1;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         id="tspan23"
          x="61.508282"
-         y="73.468185"
-         id="tspan6">Pariah</tspan><tspan
+         y="71.537056">    (Realm Selector Today, was Heaven)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         id="tspan24"
          x="61.508282"
-         y="76.957451"
-         id="tspan7">Eden</tspan><tspan
+         y="74.360657">7-or-Gold</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         id="tspan25"
          x="61.508282"
-         y="80.446716"
-         id="tspan8">Angel</tspan><tspan
+         y="77.747322">Pariah</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         id="tspan26"
          x="61.508282"
-         y="83.935974"
-         id="tspan9">Messiah</tspan><tspan
+         y="81.133987">Eden</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         id="tspan27"
          x="61.508282"
-         y="87.42524"
-         id="tspan10">Beauty</tspan></text>
+         y="84.520653">aNgel</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan28"
+         x="61.508282"
+         y="87.907318">Messiah</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Constantia;-inkscape-font-specification:Constantia;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan29"
+         x="61.508282"
+         y="91.293976">Beauty</tspan></text>
     <g
-       aria-label="Jew
-Satan/Saint
-Heaven
-Gold
-Pariah
-Eden
-Angel
-Messiah
-Beauty"
+       aria-label="Jew Satan/Saint Heaven Gold Pariah Eden Angel Messiah Beauty"
        id="text18"
-       style="font-size:2.82222px;line-height:1.2;stroke-width:0.264583"
+       style="font-size:2.82222px;line-height:1.2;display:none;stroke-width:0.264583"
        inkscape:label="Jew Code (Object to Path)">
       <path
-         d="m 61.622659,57.581887 q 0.177767,0.0055 0.341753,0.0055 0.163986,0 0.340375,-0.0055 l 0.0069,0.05926 -0.170876,0.05099 q -0.03445,0.0083 -0.03721,0.04272 -0.0014,0.04823 -0.0028,0.106109 0,0.0565 0,0.124023 v 1.248502 q 0,0.135048 -0.01103,0.246669 -0.0096,0.110243 -0.03583,0.197059 -0.02618,0.08682 -0.07441,0.15434 -0.04685,0.0689 -0.119889,0.121267 -0.07304,0.05374 -0.176389,0.09371 -0.103352,0.03996 -0.24529,0.07304 l -0.02067,-0.0689 q 0.143316,-0.06063 0.22462,-0.13367 0.08268,-0.07304 0.124024,-0.166742 0.04272,-0.09371 0.05374,-0.21084 0.0124,-0.117133 0.0124,-0.264583 v -1.284331 q 0,-0.07028 -0.0014,-0.126779 0,-0.0565 -0.0014,-0.101975 -0.0014,-0.03583 -0.03307,-0.04685 l -0.170876,-0.05374 z"
+         d="m 61.622659,57.581887 q 0.177767,0.0055 0.341753,0.0055 0.163986,0 0.340375,-0.0055 l 0.0069,0.05926 -0.170876,0.05099 q -0.03445,0.0083 -0.03721,0.04272 -0.0014,0.04823 -0.0028,0.106109 0,0.0565 0,0.124023 v 1.248502 q 0,0.135048 -0.01103,0.246669 -0.0096,0.110243 -0.03583,0.197059 -0.02618,0.08682 -0.07441,0.15434 -0.04685,0.0689 -0.119889,0.121267 -0.07304,0.05374 -0.176389,0.09371 -0.103352,0.03996 -0.24529,0.07304 l -0.02067,-0.0689 q 0.143316,-0.06063 0.22462,-0.13367 0.08268,-0.07304 0.124024,-0.166742 0.04272,-0.09371 0.05374,-0.21084 0.0124,-0.117133 0.0124,-0.264583 V 57.97051 q 0,-0.07028 -0.0014,-0.126779 0,-0.0565 -0.0014,-0.101975 -0.0014,-0.03583 -0.03307,-0.04685 l -0.170876,-0.05374 z"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path18" />
       <path
@@ -149,7 +155,7 @@ Beauty"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path28" />
       <path
-         d="m 72.77098,61.203441 q 0,0.07304 -0.04548,0.119889 -0.04547,0.04548 -0.117133,0.04548 -0.0689,0 -0.112999,-0.04272 -0.04272,-0.04272 -0.04272,-0.112999 0,-0.07441 0.04547,-0.117133 0.04548,-0.0441 0.11989,-0.0441 0.06752,0 0.110243,0.03996 0.04272,0.03859 0.04272,0.111621 z m -0.465777,0.584288 q 0.241157,-0.04547 0.446484,-0.09646 l 0.0124,0.0096 q -0.0083,0.179145 -0.0083,0.394119 v 0.529166 q 0,0.165365 0.0028,0.228754 0.0028,0.03721 0.03445,0.04823 l 0.159853,0.04685 0.0028,0.0565 q -0.190169,-0.0041 -0.325217,-0.0041 -0.135048,0 -0.321083,0.0041 l -0.0055,-0.0565 0.159852,-0.04685 q 0.03169,-0.01103 0.03445,-0.04272 0.0028,-0.05374 0.0028,-0.180523 v -0.460265 q 0,-0.180523 -0.0055,-0.333485 l -0.183279,-0.04961 z"
+         d="m 72.77098,61.203441 q 0,0.07304 -0.04548,0.119889 -0.04547,0.04548 -0.117133,0.04548 -0.0689,0 -0.112999,-0.04272 -0.04272,-0.04272 -0.04272,-0.112999 0,-0.07441 0.04547,-0.117133 0.04548,-0.0441 0.11989,-0.0441 0.06752,0 0.110243,0.03996 0.04272,0.03859 0.04272,0.111621 z m -0.465777,0.584288 q 0.241157,-0.04547 0.446484,-0.09646 l 0.0124,0.0096 q -0.0083,0.179145 -0.0083,0.394119 v 0.529166 q 0,0.165365 0.0028,0.228754 0.0028,0.03721 0.03445,0.04823 l 0.159853,0.04685 0.0028,0.0565 q -0.190169,-0.0041 -0.325217,-0.0041 -0.135048,0 -0.321083,0.0041 l -0.0055,-0.0565 0.159852,-0.04685 q 0.03169,-0.01103 0.03445,-0.04272 0.0028,-0.05374 0.0028,-0.180523 V 62.21763 q 0,-0.180523 -0.0055,-0.333485 l -0.183279,-0.04961 z"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path29" />
       <path
@@ -161,7 +167,7 @@ Beauty"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path31" />
       <path
-         d="m 62.122886,65.536062 v 0.530545 q 0,0.162608 0.0028,0.272851 0.0014,0.03721 0.03583,0.04685 l 0.152962,0.04823 0.0041,0.05926 q -0.163987,-0.0041 -0.327973,-0.0041 -0.163987,0 -0.341754,0.0041 l -0.0055,-0.05926 0.169499,-0.05099 q 0.03583,-0.01102 0.03721,-0.04272 0.0028,-0.111621 0.0028,-0.274229 v -1.117589 q 0,-0.137803 -0.0028,-0.228754 -0.0014,-0.03583 -0.03307,-0.04685 l -0.170877,-0.05374 -0.0028,-0.05926 q 0.177767,0.0055 0.341754,0.0055 0.165364,0 0.326594,-0.0055 l 0.0069,0.05926 -0.157097,0.04823 q -0.03445,0.0083 -0.03583,0.04272 -0.0028,0.09922 -0.0028,0.232888 v 0.467155 h 1.003211 v -0.467155 q 0,-0.133669 -0.0028,-0.232888 -0.0014,-0.03445 -0.03583,-0.04272 l -0.152962,-0.04823 -0.0028,-0.05926 q 0.168121,0.0055 0.332107,0.0055 0.163986,0 0.336241,-0.0055 l 0.0055,0.05926 -0.173632,0.05374 q -0.0317,0.01102 -0.03307,0.04685 -0.0028,0.09095 -0.0028,0.228754 v 1.117589 q 0,0.162608 0.0028,0.274229 0.0014,0.03169 0.03721,0.04272 l 0.166742,0.05099 0.0028,0.05926 q -0.181901,-0.0041 -0.347265,-0.0041 -0.163987,0 -0.321083,0.0041 l -0.0055,-0.05926 0.155718,-0.04823 q 0.03445,-0.0096 0.03583,-0.04685 0.0028,-0.110243 0.0028,-0.272851 v -0.530545 z"
+         d="m 62.122886,65.536062 v 0.530545 q 0,0.162608 0.0028,0.272851 0.0014,0.03721 0.03583,0.04685 l 0.152962,0.04823 0.0041,0.05926 q -0.163987,-0.0041 -0.327973,-0.0041 -0.163987,0 -0.341754,0.0041 l -0.0055,-0.05926 0.169499,-0.05099 q 0.03583,-0.01102 0.03721,-0.04272 0.0028,-0.111621 0.0028,-0.274229 V 64.94901 q 0,-0.137803 -0.0028,-0.228754 -0.0014,-0.03583 -0.03307,-0.04685 l -0.170877,-0.05374 -0.0028,-0.05926 q 0.177767,0.0055 0.341754,0.0055 0.165364,0 0.326594,-0.0055 l 0.0069,0.05926 -0.157097,0.04823 q -0.03445,0.0083 -0.03583,0.04272 -0.0028,0.09922 -0.0028,0.232888 v 0.467155 h 1.003211 v -0.467155 q 0,-0.133669 -0.0028,-0.232888 -0.0014,-0.03445 -0.03583,-0.04272 l -0.152962,-0.04823 -0.0028,-0.05926 q 0.168121,0.0055 0.332107,0.0055 0.163986,0 0.336241,-0.0055 l 0.0055,0.05926 -0.173632,0.05374 q -0.0317,0.01102 -0.03307,0.04685 -0.0028,0.09095 -0.0028,0.228754 v 1.117589 q 0,0.162608 0.0028,0.274229 0.0014,0.03169 0.03721,0.04272 l 0.166742,0.05099 0.0028,0.05926 q -0.181901,-0.0041 -0.347265,-0.0041 -0.163987,0 -0.321083,0.0041 l -0.0055,-0.05926 0.155718,-0.04823 q 0.03445,-0.0096 0.03583,-0.04685 0.0028,-0.110243 0.0028,-0.272851 v -0.530545 z"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path32" />
       <path
@@ -241,7 +247,7 @@ Beauty"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path51" />
       <path
-         d="m 62.547322,78.488523 0.611848,1.68534 q 0.03445,0.09508 0.06201,0.129535 0.02894,0.03307 0.0813,0.04961 l 0.129536,0.03858 0.0028,0.05925 q -0.180523,-0.0041 -0.334863,-0.0041 -0.157097,0 -0.370692,0.0041 l -0.0055,-0.05925 0.130914,-0.03858 q 0.02756,-0.0096 0.03858,-0.02067 0.0124,-0.0124 0.0124,-0.03721 0,-0.02756 -0.01516,-0.07166 -0.01378,-0.04547 -0.03996,-0.119889 L 62.720954,79.734269 H 62.05674 l -0.144693,0.367936 q -0.02894,0.07717 -0.04548,0.122645 -0.01654,0.04547 -0.01654,0.07166 0,0.02343 0.0124,0.03583 0.01378,0.01102 0.03996,0.01929 l 0.128158,0.03721 0.0028,0.06201 q -0.195681,-0.0041 -0.319705,-0.0041 -0.124023,0 -0.276985,0.0041 l -0.0069,-0.05925 0.139181,-0.04272 q 0.05237,-0.01654 0.07717,-0.05099 0.02481,-0.03445 0.05512,-0.107487 l 0.704177,-1.681205 z m -0.439594,1.120345 h 0.567751 l -0.268717,-0.759299 z"
+         d="m 62.547322,78.488523 0.611848,1.68534 q 0.03445,0.09508 0.06201,0.129535 0.02894,0.03307 0.0813,0.04961 l 0.129536,0.03858 0.0028,0.05925 q -0.180523,-0.0041 -0.334863,-0.0041 -0.157097,0 -0.370692,0.0041 l -0.0055,-0.05925 0.130914,-0.03858 q 0.02756,-0.0096 0.03858,-0.02067 0.0124,-0.0124 0.0124,-0.03721 0,-0.02756 -0.01516,-0.07166 -0.01378,-0.04547 -0.03996,-0.119889 l -0.129581,-0.36931 H 62.05674 l -0.144693,0.367936 q -0.02894,0.07717 -0.04548,0.122645 -0.01654,0.04547 -0.01654,0.07166 0,0.02343 0.0124,0.03583 0.01378,0.01102 0.03996,0.01929 l 0.128158,0.03721 0.0028,0.06201 q -0.195681,-0.0041 -0.319705,-0.0041 -0.124023,0 -0.276985,0.0041 l -0.0069,-0.05925 0.139181,-0.04272 q 0.05237,-0.01654 0.07717,-0.05099 0.02481,-0.03445 0.05512,-0.107487 l 0.704177,-1.681205 z m -0.439594,1.120345 h 0.567751 l -0.268717,-0.759299 z"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path52" />
       <path
@@ -253,7 +259,7 @@ Beauty"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path54" />
       <path
-         d="m 67.661218,80.348873 q -0.117133,0.07304 -0.241157,0.104731 -0.124023,0.03169 -0.230132,0.03169 -0.303168,0 -0.483691,-0.172254 -0.180523,-0.173633 -0.180523,-0.480935 0,-0.305925 0.172255,-0.500228 0.173632,-0.194303 0.46302,-0.194303 0.242535,0 0.377582,0.146072 0.135048,0.144694 0.135048,0.401009 0,0.03859 -0.0041,0.07855 H 66.79581 q 0,0.296278 0.139182,0.424435 0.139182,0.12678 0.43546,0.12678 0.132291,0 0.282497,-0.02481 z m -0.261827,-0.700042 v -0.04134 q 0,-0.195681 -0.06339,-0.279741 -0.06201,-0.08406 -0.186035,-0.08406 -0.163987,0 -0.250803,0.118511 -0.08682,0.118511 -0.09784,0.286632 z"
+         d="m 67.661218,80.348873 q -0.117133,0.07304 -0.241157,0.104731 -0.124023,0.03169 -0.230132,0.03169 -0.303168,0 -0.483691,-0.172254 -0.180523,-0.173633 -0.180523,-0.480935 0,-0.305925 0.172255,-0.500228 0.173632,-0.194303 0.46302,-0.194303 0.242535,0 0.377582,0.146072 0.135048,0.144694 0.135048,0.401009 0,0.03859 -0.0041,0.07855 h -0.87371 q 0,0.296278 0.139182,0.424435 0.139182,0.12678 0.43546,0.12678 0.132291,0 0.282497,-0.02481 z m -0.261827,-0.700042 v -0.04134 q 0,-0.195681 -0.06339,-0.279741 -0.06201,-0.08406 -0.186035,-0.08406 -0.163987,0 -0.250803,0.118511 -0.08682,0.118511 -0.09784,0.286632 z"
          style="font-family:Constantia;-inkscape-font-specification:Constantia"
          id="path55" />
       <path
@@ -314,13 +320,14 @@ Beauty"
          id="path69" />
     </g>
     <rect
-       style="fill:none;fill-opacity:0.301695;stroke:#000000;stroke-width:0.36685;stroke-dasharray:0.36685, 0.36685;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.301695;stroke:#000000;stroke-width:0.470181;stroke-dasharray:0.470181, 0.470181;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11"
-       width="16.24655"
-       height="33.141605"
-       x="60.392063"
-       y="56.409332"
-       ry="0.95911837"
-       inkscape:label="Text Box" />
+       width="24.929806"
+       height="36.371338"
+       x="-85.376427"
+       y="-92.836441"
+       ry="1.0525867"
+       inkscape:label="Text Box"
+       transform="scale(-1)" />
   </g>
 </svg>
