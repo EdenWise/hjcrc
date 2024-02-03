@@ -1,20 +1,20 @@
 *Civilization is only good behavior---it is all we judge by.*
 
-*Because in life free is available... consider as a citizen oneself spellbound.*
+*Consider as a citizen oneself spellbound because free is available in life.*
 
 # How the Judeo-Christian Religion Influences Civilization (Part 1)     http://tinyurl.com/HJCR1
 
-![](images/05_eras-of-civilization_eden.svg)![](images/10_ages-of-heaven.svg)Civilization began as a natural order. This all changed when the Judeo-Christian system started. Civilization moved from belonging to evolution (natural whims) to belonging to people who join a predesigned system (those that know the details of the system get the rewards). It was started by the Jews and comes from their "Secret of Heaven". The "Secret of Heaven" leads the Jews to push a dualistic system on civilization (male and female, good and evil, rich and poor...). The system has progressed to rewarding a single side solely for an era of fifty years then rewarding a polar side for an era of fifty years. The Jews keep all this silent. With the silence and the alternating support much confusion has resulted and encouraged many selfish acts (particularly by the less-secure second side that gets intentionally-incited/provoked). The Jews create the first side by rewarding selfish acts (usually men, a "flood")---from this the Jews get protection. After fifty years the Jews create a second side by rewarding those who make things "look good" (resting acts [Gen 2:2], usually women) to hide the flood. The Jew maintain the system like a vital job. From it they get authority and advantageous lives---their definition of it is literally *heaven*. Any person that uses the system is likelier to have a successful life and is and likelier to keep heaven silent. The third side, the people with little knowledge of heaven, get treated by the first and second side often as inferior. The Christian church (a succession of the second side) though largely practicing their beliefs with spiritual principles, is built upon a female leadership (formed with the New Testament) that gets inclusion from the Jews by providing people as sacrifices. I have yet to find anyone who has any sufficient overview on what is happening. This system has existed for 4100 years.
+![](images/05_eras-of-civilization_eden.svg)![](images/10_ages-of-heaven.svg)Civilization began as a natural order. This all changed when the Judeo-Christian system started. Civilization moved from belonging to evolution (natural whims) to belonging to people who join a predesigned system (those that know the details of the system get the rewards). It was started by the Jews and comes from their "Secret of Heaven". The "Secret of Heaven" leads the Jews to push a dualistic system on civilization (male and female, good and evil, rich and poor...). The system is implemented by rewarding a single side solely for an era of fifty years then rewarding a polar side for an era of fifty years. The Jews keep all this silent. With the silence and the alternating support much confusion has resulted. It has encouraged many selfish acts (particularly by the less-secure second side that gets intentionally(?) incited/provoked). The Jews create the first side by rewarding selfish acts (usually men, a "flood")---from this the Jews get protection. After fifty years the Jews create a second side by rewarding those who make things "look good" (resting acts [Gen 2:2], usually women) to hide the flood. The Jew maintain the system like a vital job. From it they get authority and advantageous lives. Their definition of it is literally *heaven*. Any person that uses the system is likelier to have a successful life and is and likelier to keep heaven silent. The third side, the people with little knowledge of heaven, get treated by the first and second side often as inferior. The Christian church (a succession of the second side) though largely practicing their beliefs with spiritual principles, is built upon a female leadership (formed with the New Testament) that gets inclusion from the Jews by providing people as sacrifices. I have yet to find anyone who has any sufficient overview on what is happening. This system has existed for 4100 years.
 
 ## Why I May Be Listened Of
 
 I am one of the people that got used as a sacrifice. From a very early age I have been treated disregardingly by some people so that they may protect themselves. So prevalent this became as to forcibly remove me from civilization. I learned what I know now by accepting truths that were hard (when life became too impossible to live reasonably anymore I had to look at improbable answers to try and survive). Please try to consider what I write here seriously.
 
-~~*Why are people absent in knowledge of our disadvantage?* Self-reflection on one's fortune lacks being ever done because who would accept that one's success was helped by others misfortunes and gets a higher perspective. *Where are the other informants?* The third-side are often too busy trying to survive the consequences of people putting thmeselves first to be able to try and assemble much of a scheme.* ~~
-
 ## Research Source
 
-The Judeo-Christian system does discuss its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments. The Bible's publication, the most read book in the world, makes them feel that they have been divulgent with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome) and only tells only part of the "Secret of Heaven" it falls short of that standard. *Note: I refrain from calling the Judeo-Christian system a religion because a common definition of religion usually involves spirituality and an ethereal god.*
+*I refrain from calling the Judeo-Christian system a religion because a common definition of religion usually involves spirituality with ethereal god or gods.*
+
+The Judeo-Christian system does discuss its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments. The Bible's publication, the most read book in the world, makes the Judeo-Christian system feel it has been divulgent with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome), and only tells only part of the "Secret of Heaven" it falls short of that standard.
 
 ## Hebrew Code
 
@@ -24,9 +24,9 @@ The Judeo-Christian system does discuss its plans (institutions that have been a
 
 *The "Secret of Heaven" comes from before the Bible was written. The possibility of understanding what the Bible is trying to say absent of knowing the secret is very small. Though the "Secret of Heaven" is a real tool, how it formed is speculation---it is derived from my limited reading of: History of Egypt, Chaldea, Syria, Babylonia, and Assyria.*
 
-![](images/15_eras-of-civilization_heaven.svg)Judaism started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq. This is where Abraham came from (Gen 11:28-31) around 4100 years ago. The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts and distance from safe land) it could create desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection... silently. The rewarder (an ancestor of the Hebrew) highly valued the protection, he took care of the desperate man well. The desperate man was able to rely on the support; he became selfish. The rewarding grew over time. A desperate man being contantly rewarded gives him a feeling of open-boundedness. It builds to narcicism and then being able to force what is good (divining[^definition_divine]). Later an insularity might build where abnormal experiences are required for him to find things interesting. The protection gathered by the desperate man began a feeling of getting *free*. The relationship between the Hebrew and the desperate person is a symbiotic bond that started the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
+![](images/15_eras-of-civilization_heaven.svg)Judaism started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts, distance from safe land...) it could create desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection... silently. The rewarder (an ancestor of the Hebrew) highly valued the protection; he took care of the desperate man well and became very *intelligent*. The desperate man was able to rely on the support; he became selfish and *visceral*. The rewarding grew over time. A desperate man being contantly rewarded gives him a feeling of open-boundedness, builds to narcicism and then being able to force what is good (divining[^definition_divine]). Later an insularity might build where abnormal experiences are required for him to find things interesting. The protection gathered by the desperate man began a feeling of getting *free*. The relationship between the Hebrew and the desperate person is a symbiotic bond that started the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
 
-* visceral
+* high and low, cerebral and visceral
 
 ## Bible Translation
 
@@ -65,6 +65,20 @@ The Judeo-Christian system does discuss its plans (institutions that have been a
 ![](images/##_hollywood-and-the-three-monkeys.svg)
 ![](images/##_hebrew-code.svg)
 ![](images/##_identification_birthdate-and-name.svg)
+
+## The Story of the Moral
+
+*Where are the people who feel feel responsible for what is now a genocide?* First, any creature has evolved to think in only *one* reality. The great Jewish two system confuses the mind of those less safe. Second, since most people are ignorantly rewarded by the two system in the environment those that know anything are directed by the Jews (Angels?) to hate the Jews (get incited might be a better way to put it) rather than to look at themselves for their own complicity. The third side is often too confused (by the two system) and busy (repairing their lives) to try and assemble an accusation.
+
+* If we fail to go through it together, evolve together, the revolutions continue. These Jobisms truly only help those that do them. Right: forcing their way in. **Socially necessary information** never again *cycle of poverty*.
+* 50 years right has always thought that giving to left will reach satiation ([American Made](https://www.imdb.com/title/tt3532216/))
+* Creating gods -- He and She God competition, battle of the fatfaces, good for the people that are part of the battle.
+* Vegetarian importance---odd to the new---respect for all life can get us to Eden again.
+* complicit
+* A desperate man being constantly rewarded builds in time an insularity where more abnormal feelings are required for him to find things interesting. And from this insularity his behavior begins to wear on civilization's standards. He becomes so immobile that when the Hebrews say to "fear God"... this is what they mean.
+* Turns out to be a selfish splitting by both sides of heaven.
+
+* confuses
 
 ## Notes
 
@@ -258,16 +272,6 @@ When the Roman Empire comes, sacrifices (messiahs) begin to get created in large
 Through all this until today, the right has remained largely naïve. Getting saved is the reward (or even avoiding the Jews) rather than civilization development. Their knowledge is basic: 2 is legit, 3 is illegitimate, that getting "saved" is the answer, that the things the right gives to the Jews got back better things (companies, symbols, partnerships...), and that "never again" (Gen 9:11) will we allow floods, etc.. After fifty years of this bad behavior by the right, again and again, they will be rewarded by the Jews and they will get their golden age. Their perspective has them build a safety by forcing a status quo in the golden age, that only makes the Gentiles more naïve (exactly what the left wants). And after fifty years of a golden age the disgruntled, desperate men will complain to the super-healthy Jews of the frivolous women and companies that get sued... and a new flood will be started (akin to circa 1970: Bugs in the Nixon White House, and [end of the golden age in Hollywood](https://en.wikipedia.org/wiki/Tate%E2%80%93LaBianca_murders)).
 
 The "With such bad behavior, what am I to do with it?" is what the Jews appear to say. The Jobisms continue to this day... they are called at times "have to do bad to do good". The right has taken over many aspects of heaven creation: messiah creation, angel creation, and muck control. To me it looks like "aiming to please", to the right they believe that controlling every aspect of evil creation will give them the power they finally need to win their battle.
-
-## The Story of the Moral
-
-* If we fail to go through it together, evolve together, the revolutions continue. These Jobisms truly only help those that do them. Right: forcing their way in. **Socially necessary information** never again *cycle of poverty*.
-* 50 years right has always thought that giving to left will reach satiation ([American Made](https://www.imdb.com/title/tt3532216/))
-* Creating gods -- He and She God competition, battle of the fatfaces, good for the people that are part of the battle.
-* Vegetarian importance---odd to the new---respect for all life can get us to Eden again.
-* complicit
-* A desperate man being constantly rewarded builds in time an insularity where more abnormal feelings are required for him to find things interesting. And from this insularity his behavior begins to wear on civilization's standards. He becomes so immobile that when the Hebrews say to "fear God"... this is what they mean.
-* Turns out to be a selfish splitting by both sides of heaven.
 
 ## Who Am I? ^[[Git](https://github.com/EdenWise/hjcrc) \| [@](mailto:toddpartridge@outlook.com)]
 
