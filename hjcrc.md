@@ -62,6 +62,7 @@ The Judeo-Christian system does discuss its plans (institutions that have been a
 * Verbatim Character in templates fix.
 * favoring or divining?? divisive, partisian?
 
+**
 ![Alt text](images/##_hollywood_connection.svg)
 ![](images/##_identification_birthdate-and-name.svg
 
