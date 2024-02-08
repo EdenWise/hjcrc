@@ -10,13 +10,11 @@
 
 ## Why I May Be Listened Of
 
-I am one of the people that got used as a sacrifice. From a very early age I have been treated with disregard by some people to get better heavenly protection. So prevalent this has become to that it removes me from civilization. I learned what I know now by accepting truths that were hard (when life became too impossible to live reasonably anymore I had to look at improbable answers to try and survive). Please consider what I write here seriously.
+I am one of the people that got used as a sacrifice. From a very early age I have been treated with disregard by some people to get better heavenly protection. So prevalent this has become to that it removes me from civilization. I learned what I know now by accepting truths that were hard (when life became too impossible to live reasonably anymore I had to look at improbable answers to try and survive). Other people are included besides me and need the help.
 
 ## Research Source
 
-*I refrain from calling the Judeo-Christian system a religion because a common definition of religion usually involves spirituality with ethereal god or gods.*
-
-The Judeo-Christian system does discuss its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments. The Bible's publication, the most read book in the world, makes the Judeo-Christian system feel it has been divulging with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome), and only tells only part of the "Secret of Heaven" it falls short of that standard.
+The Judeo-Christian system does discuss its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments. The Bible's publication, the most read book in the world, makes the Judeo-Christian system feel it has been divulging with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome), and only tells only part of the "Secret of Heaven" it falls short of that standard. • *Note: I refrain from calling the Judeo-Christian system a religion. This is because the common definition of religion usually involves spirituality with an ethereal god or gods.*
 
 ## Hebrew Code
 
