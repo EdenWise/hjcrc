@@ -22,7 +22,7 @@ The Judeo-Christian system does discuss its plans (institutions that have been a
 
 ## The Secret of Heaven
 
-*The "Secret of Heaven" comes from before the Bible was written. The possibility of understanding what the Bible is trying to say absent of knowing the secret is very small. Though the "Secret of Heaven" is a real tool, how it formed is speculation---it is derived from my limited reading of: History of Egypt, Chaldea, Syria, Babylonia, and Assyria.*
+*The "Secret of Heaven" comes from before the Bible was written. Knowing what the Bible is trying to convey absent of knowing the "Secret of Heaven" is very small. Though the "Secret of Heaven" is a real tool, how it formed is speculation---it is derived from my limited reading of: History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3[^HECSBAV3].*
 
 ![](images/20_ages-of-civilization_heaven.svg)Judaism started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts, distance from safe land...) it could create desperate men. Some desperate men became dangerous. A desperate man was eventually rewarded for protection... silently. The rewarder (an ancestor of the Hebrew) highly valued the protection; he took care of the desperate man well and became very *intelligent*. The desperate man was able to rely on the support; he became selfish and *visceral*. The rewarding grew over time. A desperate man being constantly rewarded gives him a feeling of open-boundedness, builds to narcissism and then being able to force what is good (divining[^definition_divine]). Later an insularity might build where abnormal experiences are required for him to find things interesting. The protection gathered by the desperate man began a feeling of getting *free*. The relationship between the Hebrew and the desperate person is a symbiotic bond that started the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
 
@@ -176,20 +176,20 @@ The Judeo-Christian system does discuss its plans (institutions that have been a
 
 ## Books that Help
 
-  * 48: An Experiential Memoir on Homelessness                  Sheldon A. Jacobs
-  * The Beauty of Living Twice                                  Sharon Stone
-  * Cary Grant: A Biography                                     Marc Eliot
-  * Friends, Lovers, and the Big Terrible Thing: A Memoir       Matthew Perry
-  * The Greater Journey: Americans in Paris                     David McCullough
-  * Inside Out                                                  Demi Moore
-  * The Last Commissioner: A Baseball Valentine                 Fay Vincent
-  * Mission of Mercy                                            Nancy Alcorn
-  * My Days                                                     Marion Ross
-  * Think Again                                                 Diane Keaton
-  * ZEALOT: The Life and Times of Jesus of Nazareth             Reza Aslan
+  * 48: An Experiential Memoir on Homelessness                                      Sheldon A. Jacobs
+  * Cary Grant: A Biography                                                         Marc Eliot
+  * Friends, Lovers, and the Big Terrible Thing: A Memoir                           Matthew Perry
+  * History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3[^HECSBAV3]   Gaston Maspero
+  * Inside Out                                                                      Demi Moore
+  * Mission of Mercy                                                                Nancy Alcorn
+  * My Days                                                                         Marion Ross
+  * The Beauty of Living Twice                                                      Sharon Stone
+  * The Greater Journey: Americans in Paris                                         David McCullough
+  * The Last Commissioner: A Baseball Valentine                                     Fay Vincent
+  * Think Again                                                                     Diane Keaton
+  * ZEALOT: The Life and Times of Jesus of Nazareth                                 Reza Aslan
   * Marlon Brando
   * Clark Gable
-  * [History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm), particularly [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) and how it tells a more original flood story.
 
 ## The Politics of the Right and How It Has Influenced Me
 
@@ -279,6 +279,7 @@ I apologize for having to bring forward such a tough topic. There is a battle go
 
 The battle in heaven produces a selfish splitting of safety. The saved (ignorant or known) have a protective buffer. This buffer causes a general conservatism and when in danger conservatisms grows into artifice. The saved feel it is more about avoiding the Jews than to listening to those that need it the most, the poor. We are all from Eden. The people of Eden, bound to nature, see conservatisms as selfish and artifices as dangerous. Our realities are surrounded in fear. People are being forced to be saved. Flood push people to be selfish/heaven. After 4100 years of them a general behavior of self-positioning exists.
 
+[^HECSBAV3]: [History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm). On Librivox [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) in Volume 3 tells the original flood story.
 [^definition-divine]: I am using the definition of divining as: creating good (and consequence evil)... passionate about favoring things (particularly people). The Bible talks about this early in Genesis 2:9.  Merriam-Webster of it says: of, relating to, or proceeding directly from God or a god.
 ^[definition-revisionistic]: [Wiktionary](https://en.wiktionary.org/wiki/revisionistic)
 [^flood]: For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put backups [here](https://1drv.ms/f/s!AvLA1bEaFFRxgtMFQBrd6Xcw9tteqA?e=qo9kGy)
