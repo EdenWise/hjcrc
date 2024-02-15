@@ -7,7 +7,7 @@
   # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
 
 ## CONVERT
-pandoc .\HJCSIC.md `
+pandoc.exe .\HJCSIC.md `
        --from markdown+inline_notes+escaped_line_breaks `
        --to docx `
        --reference-doc=template_font-times.docx `
