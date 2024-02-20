@@ -1,8 +1,8 @@
 ## DOCUMENT CONVERT FROM MARKDOWN TO DOCX
 #
 ## NOTES
-  # Fonts tried by order of preference: Constantia, Noto Serif
-    # EB Garramond, Georgia, Lora
+  # Fonts tried by order of preference: 
+    # Constantia, Noto Serif, EB Garramond, Georgia, Lora
   # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
   # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
 

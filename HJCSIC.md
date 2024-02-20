@@ -63,9 +63,9 @@ The Judeo-Christian system does discuss its plans (institutions that have been a
 * quotes as " or ' rather than ’ and ” ?!
 * Verbatim Character in templates fix.
 * favoring or divining?? divisive, partisian?
-**
-![Alt text](images/##_hollywood_connection.svg)
-![](images/##_identification_birthdate-and-name.svg
+
+![](images/##_hollywood_connection.svg)
+![Alt text](images/##_identification_birthdate-and-name.svg
 
 ## The Story of the Moral
 
