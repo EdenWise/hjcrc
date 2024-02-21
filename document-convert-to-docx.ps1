@@ -1,13 +1,8 @@
 ## DOCUMENT CONVERT FROM MARKDOWN TO DOCX
 #
-## NOTES
-  # Fonts tried by order of preference: 
-    # Constantia, Noto Serif, EB Garramond, Georgia, Lora
-  # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
-  # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
-
 ## CONVERT
-pandoc.exe .\HJCSIC.md `
+#
+pandoc.exe HJCSIC.md `
   --from markdown+inline_notes+escaped_line_breaks `
   --to docx `
   --reference-doc=template.docx `
@@ -15,3 +10,14 @@ pandoc.exe .\HJCSIC.md `
   --wrap=none `
   --output .\HJCSIC.docx
   #  --reference-doc=template_font-times.docx `
+
+## NOTES
+#
+  # Font preference:
+    # EB Garramond
+    # Noto Serif
+    # Constantia
+    # Georgia
+    # Lora
+  # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
+  # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
