@@ -5,10 +5,10 @@
 pandoc.exe HJCSIC.md `
   --from markdown+inline_notes+escaped_line_breaks `
   --to docx `
-  --reference-doc=template.docx `
   --dpi=220 `
   --wrap=none `
-  --output .\HJCSIC.docx
+  --output .\HJCSIC.docx `
+  --reference-doc=template_Garamond.docx
   #  --reference-doc=template_font-times.docx `
 
 ## NOTES
