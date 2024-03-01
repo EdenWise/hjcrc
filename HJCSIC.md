@@ -10,11 +10,11 @@
 
 ## Why I May Be Listened Of
 
-I am one of the people that got used as a sacrifice. From a very early age I have been treated as inferior by many people (it got them better heavenly protection). So prevalent this has become to that it removed me from civilization. I learned what I know now by accepting truths that were hard (when life became too impossible to live reasonably anymore I had to look at improbable answers to try and survive). Other people are included besides me and we need the help.
+I am one of the people that got used as a sacrifice. From a very early age I have been treated as non-existant by many people (it got them better heavenly protection). So prevalent this has become to that it removed me from civilization. I learned what I know now by accepting truths that were hard (when life became too impossible to live reasonably anymore I had to look at improbable answers to try and survive). Other people are included besides me and we need the help.
 
 ## Research Source
 
-The Judeo-Christian system discusses its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments, though cryptically and usually obscurely. The publication of the bible, the most read book in the world, makes those involved in this system feel that they have been divulging with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome) and only tells only part of the "Secret of Heaven" it falls short of that standard. • *Note: I refrain from calling the Judeo-Christian system a religion because the common definition of religion usually involves spirituality with an ethereal god or gods.*  
+The Judeo-Christian system discusses its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have documented their plans in their Testaments, though cryptically and usually obscurely. The publication of the Bible, the most read book in the world, makes those involved in this system feel that they have been divulging with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic and gruesome) and only tells only part of the "Secret of Heaven" it falls short of that standard.[^Judeo-Christian-Definition]
 
 ## Hebrew Code
 
@@ -279,6 +279,7 @@ I apologize for having to bring forward such a tough topic. There is a battle go
 
 The battle in heaven produces a selfish splitting of safety. The saved (ignorant or known) have a protective buffer. This buffer causes a general conservatism and when in danger conservatisms grows into artifice. The saved feel it is more about avoiding the Jews than to listening to those that need it the most, the poor. We are all from Eden. The people of Eden, bound to nature, see conservatisms as selfish and artifices as dangerous. Our realities are surrounded in fear. People are being forced to be saved. Flood push people to be selfish/heaven. After 4100 years of them a general behavior of self-positioning exists.
 
+[^Judeo-Christian-Definition]: I refrain from calling the Judeo-Christian system a religion because the common definition of religion usually involves spirituality with an ethereal god or gods.
 [^HECSBAV3]: [History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm). On Librivox [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) in Volume 3 tells the original flood story.
 [^definition-divine]: I am using the definition of divining as: creating good (and consequence evil)... passionate about favoring things (particularly people). The Bible talks about this early in Genesis 2:9.  Merriam-Webster of it says: of, relating to, or proceeding directly from God or a god.
 ^[definition-revisionistic]: [Wiktionary](https://en.wiktionary.org/wiki/revisionistic)
