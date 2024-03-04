@@ -6,7 +6,7 @@
 
 # How the Judeo-Christian System Influences Civilization (Part 1)     http://tinyurl.com/HJCR1
 
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. This changed when the Judeo-Christian system started. Civilization moved from evolution (natural whims) to belonging to those who join a predesigned system. The people that know the details of the system get the rewards. The system was started by the Jews and it comes from their "Secret of Heaven". The system leads them to push on civilization a dualistic system (primary/secondary, male/female, reaping/sowing... ). It is implemented by rewarding a single group solely for an era of fifty years then rewarding a polar group for the other fifty years. For the first fifty years the Jews reward the first group for *reaping* acts (i.e. taking, usually men)---from this the Jews get protection and wealth. For the next fifty years the Jews reward the second group for *sowing* acts (i.e. giving \[making-things-grow\], usually women) from this the Jews develop trust. All through time the entire system is kept silent by the Jews. Both the silence and the alternating support has caused much confusion. Some desperate people act outside of nature's law to fix things for themselves in the now (*drols and dogs*) which the Jews reward. So focsued does the second group become on the first-group/Jews that the people lacking heavenly knowledge, the third group, get neglected, treated as inferior. The Christian church (a succession of the second group) though largely practicing their beliefs with spiritual principles, is built upon a female leadership (formed with the New Testament) that becomes so extreme it *gives* people as sacrifices. The Jew maintain the system like a vital job. From it they get authority and advantageous lives and their definition of it is literally *heaven*. Any person that uses the system is likelier to have a successful life and is and likelier to keep heaven silent. I have yet to find anyone who has any sufficient overview on what is happening. This system has existed for 4100 years and has effected civilization around the world. •*winning/losing?*•
+![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. This changed when the Judeo-Christian system started. Civilization moved from evolution (natural whims) to belonging to those who join a predesigned system. The people that know the details of the system get the rewards. The system was started by the Jews and it comes from their "Secret of Heaven". The system leads them to push on civilization a dualistic system (primary/secondary, male/female, reaping/sowing... ). It is implemented by rewarding a single group solely for an era of fifty years then rewarding a polar group for the other fifty years. For the first fifty years the Jews reward the first group for *reaping* acts (i.e. taking, usually men)---from this the Jews get protection and wealth. For the next fifty years the Jews reward the second group for *sowing* acts (i.e. giving \[making-things-grow\], usually women) from this the Jews develop trust. All through time the entire system is kept silent by the Jews. Both the silence and the alternating support has caused much confusion. Some desperate people act outside of nature's law to fix things for themselves in the now (*drols and dogs*) which the Jews reward. So focsued does the second group become on the first-group/Jews that the people lacking heavenly knowledge, the third group, get neglected, treated as inferior. The Christian church (a succession of the second group) though largely practicing their beliefs with spiritual principles, is built upon a female leadership (formed with the New Testament) that becomes so extreme it *gives* people as sacrifices. The Jew maintain the system like a vital job. From it they get authority and advantageous lives and their definition of it is literally *heaven*. Any person that uses the system is likelier to have a successful life and is and likelier to keep heaven silent. I have yet to find anyone who has any sufficient overview on what is happening. This system has effected civilization around the world. •*winning/losing?*•
 
 ## Why I May Be Listened Of
 
@@ -14,7 +14,7 @@ I am one of the people that got used as a sacrifice. From a very early age I hav
 
 ## Research Source
 
-The Judeo-Christian system does document its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have told their plans in their Testaments (though cryptically and usually obscurely). The publication of the Bible, the most read book in the world, makes those involved in this system feel that they have been divulging with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is a an open declaration goes too far. Because the Bible is intentionally repellent (cryptic, gruesome...) and only tells only part of the "Secret of Heaven" it falls short of that standard.[^Judeo-Christian-Definition]
+The Judeo-Christian system does document its plans (institutions that have been around awhile usually declare their intent). Both the Jews and the Christians have told their plans in their Testaments (though cryptically). The publication of the Bible, the most read book in the world, makes those involved in this system feel that they have been divulging with civilization. The details found in the Bible (particular pieces of a large puzzle) once put together do help decipher how this system influences modern civilization. However, to say it is an open declaration goes too far. Because the Bible can be quite cryptic and only tells only part of the "Secret of Heaven" it falls short of that standard.[^Judeo-Christian-Definition]
 
 ## Hebrew Code
 
@@ -22,15 +22,15 @@ The Judeo-Christian system does document its plans (institutions that have been 
 
 ## The Secret of Heaven
 
-The "Secret of Heaven" comes from before the Bible was written. The chance of understanding what the Bible is trying to convery absent of knowing the "Secret of Heaven" is very small. Though the "Secret of Heaven" is a real tool how it formed is part speculation. It is derived from my experience and my limited reading of *History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3*[^HECSBAV3].
+The "Secret of Heaven" comes from before the Bible was written. The chance of understanding what the Bible is trying to convey absent of knowing the "Secret of Heaven" is very small. Though the "Secret of Heaven" is a real tool how it formed is part speculation. It is derived from my experience and my limited reading of *History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3*[^HECSBAV3].
 
-![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven likely started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts, distance from safe land...) it could create desperate men. Some people, doing better, became afraid of the desperate men mood that became emotional/wild. The ancient Hebrew saw an investment oppurtunity in it: financially save the desperate man... silently... and be in control on how he effects civilization. The ancient Hebrew gathered protection from this and eventually wealth. He felt very *intelligent*. The desperate man being rewarded for his behavior became more *base/brutal/emotional/wild*. Both men prospered from this and their feelings of intelligence and emotions increased. For the desperate man it began by giving him a feeling of open-boundedness, built to narcissism and then being able to force what is good (divining[^definition_divine]). Later an insularity can build where abnormal experiences are required for him to find things interesting. The protection gathered by both man began a feeling of getting *free* and a silent relationship developed where a symbiotic bond formed that got called the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
+![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven likely started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts, distance from safe land...) it could create desperate men. Some people, doing better, became afraid of the desperate men mood that became visceral[^definition-visceral]. The ancient Hebrew saw an investment oppurtunity in it: financially save the desperate man... silently... and be in control on how he effects civilization. The ancient Hebrew gathered protection from this and eventually wealth. He felt very *intelligent*. The desperate man being rewarded for his behavior became more *base/brutal/emotional/wild*. Both men prospered from this and their feelings of intelligence and emotions increased. For the desperate man it began by giving him a feeling of open-boundedness, built to narcissism and then being able to force what is good (divining[^definition-divine]). Later an insularity can build where abnormal experiences are required for him to find things interesting. The protection gathered by both man began a feeling of getting *free* and a silent relationship developed where a symbiotic bond formed that got called the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
 
 * high and low, cerebral and *visceral*
 
 ## Bible Translation
 
-The Jews are so dedicated to their system, and are so protected are they by their desperates, they have become very secretive and spent much time highly refining the Bible. It is audacious and has many devices. The Bible is designed to be understood only by those that have supernatural safety. Its audaciousness and graphicness can contain meanings that can only be understood to those that are well-removed from the feelings that get portrayed (i.e. more removed from mortal psychological tragedies). A couple of things to know: The Bible is written revisionistically^[definition-revisionistic] (backwritten) to make newer rules apply throughout, and the beginning of the Bible is packed with details.
+The Jews are so dedicated to their system, and are so protected are they by their desperates, they have become very secretive and spent much time highly refining the Bible. It is audacious and has many devices. The Bible is designed to be understood only by those that have supernatural safety. Its audaciousness and graphicness can contain meanings that can only be understood to those that are well-removed from the feelings that get portrayed (i.e. more removed from mortal psychological tragedies). A couple of things to know: The Bible is written revisionistically[^definition-revisionistic] (backwritten) to make newer rules apply throughout, and the beginning of the Bible is packed with details.
 
 **Genesis 1** The Bible starts with a desperate man being so rewarded that the Jews refer to him as a "God", "In the beginning *God* created the heavens and the earth" (Gen 1:1 NIV). (When the Hebrews say to "Fear God" this is what they mean.) "Heaven on earth" was such an attraction more *divining*[^definition-divine] was done : day/night, water/sky, land/sea, sun/moon, man/nature.
 
@@ -64,6 +64,23 @@ The Jews are so dedicated to their system, and are so protected are they by thei
 
 ![](images/##_hollywood_connection.svg)
 ![Alt text](images/##_identification_birthdate-and-name.svg
+
+## Books that Help
+
+  * 48: An Experiential Memoir on Homelessness                                      Sheldon A. Jacobs
+  * Cary Grant: A Biography                                                         Marc Eliot
+  * Friends, Lovers, and the Big Terrible Thing: A Memoir                           Matthew Perry
+  * History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3[^HECSBAV3]   Gaston Maspero
+  * Inside Out                                                                      Demi Moore
+  * Mission of Mercy: Allowing God to Use YOU to Make a Difference in Others        Nancy Alcorn
+  * My Days                                                                         Marion Ross
+  * The Beauty of Living Twice                                                      Sharon Stone
+  * The Greater Journey: Americans in Paris                                         David McCullough
+  * The Last Commissioner: A Baseball Valentine                                     Fay Vincent
+  * Think Again                                                                     Diane Keaton
+  * ZEALOT: The Life and Times of Jesus of Nazareth                                 Reza Aslan
+  * Marlon Brando
+  * Clark Gable
 
 ## The Story of the Moral
 
@@ -174,23 +191,6 @@ The Jews are so dedicated to their system, and are so protected are they by thei
 - The Grand Masters/Mistresses say, "It hardly matters how you get here" but what they are really saying is that (for most of us) there will come a time that the rewards of joining will outweigh the consequences of joining. Tiny steps of personal safety will add up over time.
 - In nature a species one-ness, always looking out for itself, is key to its survival. Its lack of being noticed by humans (who are at the top of the food chain) has been almost entirely invisible. Few people who are saved (though many may lack knowing they have this protection \[yet on the radar, or someone else is protecting them\]) will be put in a horrible fate where they will be forced to pay attention to what has been left behind and will carry the weight of societies burden. But little fortitude has been seen by me because zero people have accepted that quiet/invisible forces have encouraged them to unknown selfishness. This selfishness manifests itself in pride; that power feels much better responsibility that they may be part of privilege... Eden still exists... barely... in a frayed, manifestations in rare moments, way.
 
-## Books that Help
-
-  * 48: An Experiential Memoir on Homelessness                                      Sheldon A. Jacobs
-  * Cary Grant: A Biography                                                         Marc Eliot
-  * Friends, Lovers, and the Big Terrible Thing: A Memoir                           Matthew Perry
-  * History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3[^HECSBAV3]   Gaston Maspero
-  * Inside Out                                                                      Demi Moore
-  * Mission of Mercy                                                                Nancy Alcorn
-  * My Days                                                                         Marion Ross
-  * The Beauty of Living Twice                                                      Sharon Stone
-  * The Greater Journey: Americans in Paris                                         David McCullough
-  * The Last Commissioner: A Baseball Valentine                                     Fay Vincent
-  * Think Again                                                                     Diane Keaton
-  * ZEALOT: The Life and Times of Jesus of Nazareth                                 Reza Aslan
-  * Marlon Brando
-  * Clark Gable
-
 ## The Politics of the Right and How It Has Influenced Me
 
 * Zero things that get created through me, get used by me (old rule, my rule too).
@@ -281,6 +281,7 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 
 [^Judeo-Christian-Definition]: I refrain from calling the Judeo-Christian system a religion because the common definition of religion usually involves spirituality with an ethereal god or gods.
 [^HECSBAV3]: [History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm). On Librivox [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) in Volume 3 tells the original flood story.
+[^definition-visceral]: *from The American Heritage® Dictionary of the English Language, 5th Edition*. Being or arising from impulse or sudden emotion rather than from thought or deliberation: synonym: instinctive.
 [^definition-divine]: I am using the definition of divining as: creating good (and consequence evil)... passionate about favoring things (particularly people). The Bible talks about this early in Genesis 2:9.  Merriam-Webster of it says: of, relating to, or proceeding directly from God or a god.
-^[definition-revisionistic]: [Wiktionary](https://en.wiktionary.org/wiki/revisionistic)
+[^definition-revisionistic]: - [Wiktionary](https://en.wiktionary.org/wiki/revisionistic)
 [^flood]: For a more straight-forward description on what the flood is read the [History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3](https://www.gutenberg.org/ebooks/17323) (skip to "Men in the mean time became wicked"); it is also available on [LibriVox](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/) on Section 5. I also put backups [here](https://1drv.ms/f/s!AvLA1bEaFFRxgtMFQBrd6Xcw9tteqA?e=qo9kGy)
