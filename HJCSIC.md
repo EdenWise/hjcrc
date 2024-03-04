@@ -1,8 +1,8 @@
-*As a citizen consider oneself spellbound, free has influenced your life.*
-
 *Civilization is only good behavior.*
 
 *The only thing to fear is ourselves.*
+
+*As a citizen consider oneself spellbound---free has been placed in our lives.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1)     http://tinyurl.com/HJCR1
 
@@ -24,9 +24,9 @@ The Judeo-Christian system does document its plans (institutions that have been 
 
 The "Secret of Heaven" comes from before the Bible was written. The chance of understanding what the Bible is trying to convery absent of knowing the "Secret of Heaven" is very small. Though the "Secret of Heaven" is a real tool how it formed is part speculation. It is derived from my experience and my limited reading of *History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3*[^HECSBAV3].
 
-![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven likely started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq. This is where Abraham came from (Gen 11:28-31) around 4100 years ago. The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts, distance from safe land...) it could create desperate men. Some people, doing better, became afraid of the desperate men mood that became emotional/wild. The ancient Hebrew saw an investment oppurtunity in it: financially save the desperate man... silently... and be in control on how he effects civilization. The ancient Hebrew gathered protection from this and eventually wealth. He felt very *intelligent*. The desperate man being rewarded for his behavior became more *base/brutal/emotional/wild*. Both men prospered from this and their feelings of intelligence and emotions increased. For the desperate man it began by giving him a feeling of open-boundedness, built to narcissism and then being able to force what is good (divining[^definition_divine]). Later an insularity can build where abnormal experiences are required for him to find things interesting. The protection gathered by both man began a feeling of getting *free* and a silent relationship developed where a symbiotic bond formed that got called the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
+![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven likely started because of an environmental threat. The area the system started in was by the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). The area is surrounded by a lot of desert. Because surviving in the area was sometimes risky (droughts, distance from safe land...) it could create desperate men. Some people, doing better, became afraid of the desperate men mood that became emotional/wild. The ancient Hebrew saw an investment oppurtunity in it: financially save the desperate man... silently... and be in control on how he effects civilization. The ancient Hebrew gathered protection from this and eventually wealth. He felt very *intelligent*. The desperate man being rewarded for his behavior became more *base/brutal/emotional/wild*. Both men prospered from this and their feelings of intelligence and emotions increased. For the desperate man it began by giving him a feeling of open-boundedness, built to narcissism and then being able to force what is good (divining[^definition_divine]). Later an insularity can build where abnormal experiences are required for him to find things interesting. The protection gathered by both man began a feeling of getting *free* and a silent relationship developed where a symbiotic bond formed that got called the "Secret of Heaven". The feeling of free kept building and encouraged others to reward likewise and the "Secret of Heaven" spread. Later, an era for desperate women was added. The great Jewish two system was born.
 
-* high and low, cerebral and visceral
+* high and low, cerebral and *visceral*
 
 ## Bible Translation
 
