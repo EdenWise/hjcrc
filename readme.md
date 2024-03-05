@@ -2,11 +2,11 @@
 
 I have been surrounded by this society very personally all my life. It has been an influence on me greatly. I decided to start documenting it because what is known about it is very little. I decided to write this document in markdown so that other people can help---if they would like. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) Below, I will list the steps I take to convert it to a Microsoft Word document. It will look like one I have [here](http://tinyurl.com/hjcr1).
 
-#### Template Build (`reference.docx` I have renamed it `template.docx`)
+#### Template Build
 
 Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still gets a fair amount of formatting. (Note: I may be able to do more with [Pandoc User's Guide/Input](https://pandoc.org/MANUAL.html#input), I have yet to look into it.). I first generated a template then I imported the matching styles from my existing `docx` document.
 
-Template generate of default settings, and rename to `template.docx`:
+Template generate of default settings and rename to `template.docx` (which I thought sounded better):
 
     pandoc.exe --output template.docx --print-default-data-file reference.docx
     mv reference.docx template.docx
@@ -20,18 +20,18 @@ I tried to define paragraph indents via the `pandoc.exe` `--variable` option, bu
 
 I then imported matching styles from existing document to `template.docx`:
 
-1) Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > Organizer > Copy allowable styles to right and save.
-2) Microsoft Word open `template.docx`  > Word-and-tmple.docx: Organizer > copy styles to left.
+* Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > Organizer > Copy allowable styles to right and save.
+* Microsoft Word open `template.docx`  > Word-and-tmple.docx: Organizer > copy styles to left.
 
 #### Things to do before conversion:
 
 * SVGs: Convert fonts to paths (Object to Path) (`rsvg-convert` renders them poorly).
 
-#### During conversion
+#### Graphic Conversion requires external tool
 
-Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online (believe this [download](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) is it); tell me if needed, I have a copy. Here is the line that `pandoc.exe` probably uses to convert them:
+Pandoc needs help to convert SVGs to PNG and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found an old one for Windows online that still seems to work good: [rsvg-convert.exe](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html). I have a copy if needed. Here is the line that `pandoc.exe` probably uses to convert them:
 
-      rsvg-convert --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
+      rsvg-convert.exe --format=png --dpi-x=220 --dpi-y=220 --output <name>.png <name>.svg
 
 #### MSWord-Document reintroduce style-elements after conversion:
 
