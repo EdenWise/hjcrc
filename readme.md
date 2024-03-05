@@ -1,14 +1,8 @@
-### History of the Judeo-Christian Religion Document Creation
+### How I Came To Be Here
 
-This is a life work for me... :).
+I have been surrounded by this society very personally all my life. It has been an influence on me greatly. I decided to start documenting it because what is known about it is very little. I decided to write this document in markdown so that other people can help---if they would like. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) Below, I will list the steps I take to convert it to a Microsoft Word document. It will look like one I have [here](http://tinyurl.com/hjcr1).
 
-I am hoping to develop adocument on the history of the Judeo-Christian Religion. The religion(s) have influenced all the world by encouraged certain behaviors.
-
-I am writing this document in markdown so that other people can help---if anybody ever reads this :(. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) And listed below are the steps I take to convert it to a Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
-
-(*Side note: I converted my original document (written in MS word) to markdown with this command* (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
-
-#### reference.docx build (I have renamed it template.docx here):
+#### Template Build (`reference.docx` I have renamed it `template.docx`)
 
 Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still gets a fair amount of formatting. (*Note: I may be able to do more with:* [Pandoc User's Guide/Input](https://pandoc.org/MANUAL.html#input)). I first generated a template then I imported the matching styles from my existing `docx` document.
 
@@ -34,6 +28,8 @@ I then imported matching styles from existing document to `template.docx`:
 * SVGs: Convert fonts to paths (Object to Path) (`rsvg-convert` renders them poorly).
 
 #### During conversion
+
+(*Side note: I converted my original document (written in MS word) to markdown with this command* (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
 
 Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online (believe this [download](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) is it); tell me if needed, I have a copy. Here is the line that `pandoc.exe` probably uses to convert them:
 
