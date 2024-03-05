@@ -4,7 +4,7 @@ I have been surrounded by this society very personally all my life. It has been 
 
 #### Template Build (`reference.docx` I have renamed it `template.docx`)
 
-Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still gets a fair amount of formatting. (*Note: I may be able to do more with:* [Pandoc User's Guide/Input](https://pandoc.org/MANUAL.html#input)). I first generated a template then I imported the matching styles from my existing `docx` document.
+Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still gets a fair amount of formatting. (Note: I may be able to do more with [Pandoc User's Guide/Input](https://pandoc.org/MANUAL.html#input), I have yet to look into it.). I first generated a template then I imported the matching styles from my existing `docx` document.
 
 Template generate of default settings, and rename to `template.docx`:
 
@@ -28,8 +28,6 @@ I then imported matching styles from existing document to `template.docx`:
 * SVGs: Convert fonts to paths (Object to Path) (`rsvg-convert` renders them poorly).
 
 #### During conversion
-
-(*Side note: I converted my original document (written in MS word) to markdown with this command* (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
 
 Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg). I found one for Windows online (believe this [download](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) is it); tell me if needed, I have a copy. Here is the line that `pandoc.exe` probably uses to convert them:
 
@@ -70,3 +68,4 @@ Pandoc needs help to convert SVGs to PNG(!?) and uses [librsvg](https://wiki.gno
 * Pandoc/Markdown image attributes still fail (width, align, others)?
 * Paragraph spacing (template.docx only allows basic format options.) may be helped with.
   * [General writer options](https://pandoc.org/MANUAL.html#general-writer-options-1)
+* **Side note**: I converted my original document (written in MS word) to markdown with this command* (`--wrap=none` because text editors have the ability to do word wrapping [pandoc by default will insert newlines at 72 characters]): `pandoc.exe --from docx --to markdown --wrap=none .\hjcrc.docx --output .\hjcrc.md`)
