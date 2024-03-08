@@ -60,7 +60,7 @@ The Jews are so dedicated to their system, and are so protected are they by thei
 * Verbatim Character in templates fix.
 * favoring or divining?? divisive, partisian?
 
-![](images/##_hollywood_connection.svg)
+![](images/XX_hollywood_connection.svg)
 ![Alt text](images/##_identification_birthdate-and-name.svg
 
 ## Books that Help
