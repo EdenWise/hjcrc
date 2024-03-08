@@ -14,10 +14,10 @@ pandoc.exe HJCSIC.md `
 ## NOTES
 #
   # Font Tests:
-    # Constantia      8
-    # Noto Serif      8
-    # EB Garramond    7
-    # Georgia         
+    # Constantia      8.0
+    # Noto Serif      7.0
+    # EB Garramond    6.0
+    # Georgia         9.5
     # Lora            
     # Crimson Text    
     # Roboto Slab     

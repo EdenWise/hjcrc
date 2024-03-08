@@ -42,17 +42,17 @@ Pandoc needs help to convert SVGs to PNG and uses [librsvg](https://wiki.gnome.o
     * ~~Distance from text:       TBLR, 0,0,.13,.13 (Appears to be in template.docx)~~
   * Position
     * Horizontal: Alignment:    Right > relative to > Column
-
-* Bullet Lists text indentation reintroduce:
-  * Bullet right-click > Adjust List Indents > More >>
-    * Text indent at:     0"
-    * Follow number with: Space
     
 * Bullet Lists Spacing reduce:
   * Item right-click > Paragraph:
     * Spacing (Before and After): 0 pt.
   * Home > Select *Compact* > right-click and select Modify> Format> Paragraph:
     * Spacing (Before and After) to 0 pt
+
+* Bullet Lists text indentation reintroduce:
+  * Bullet right-click > Adjust List Indents > More >>
+    * Text indent at:     0"
+    * Follow number with: Space
 
 * Spacing and Indentation for First Paragraph and Body Text (in template!):
   * Body Text and First Paragraph put I-Bar on, right-Click each one select Paragraph
