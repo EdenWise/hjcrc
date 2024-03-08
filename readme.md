@@ -1,8 +1,10 @@
 ### History of the Judeo-Christian Religion Document Creation
 
+I am hoping to devlop a document that
+
 This is a life work for me... :).
 
-I am hoping to develop adocument on the history of the Judeo-Christian Religion. The religion(s) have influenced all the world by encouraged certain behaviors.
+I am hoping to develop a document on the history of the Judeo-Christian Religion. The religion(s) have influenced all the world by encouraged certain behaviors.
 
 I am writing this document in markdown so that other people can help---if anybody ever reads this :(. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) And listed below are the steps I take to convert it to a Microsoft Word document: [HJCR1](http://tinyurl.com/hjcr1).
 

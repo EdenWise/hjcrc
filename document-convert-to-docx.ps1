@@ -13,11 +13,13 @@ pandoc.exe HJCSIC.md `
 
 ## NOTES
 #
-  # Font preference:
-    # EB Garramond
-    # Noto Serif
-    # Constantia
-    # Georgia
-    # Lora
+  # Font Tests:
+    # Constantia      8
+    # Noto Serif      8
+    # EB Garramond    7
+    # Georgia         
+    # Lora            
+    # Crimson Text    
+    # Roboto Slab     
   # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
   # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
