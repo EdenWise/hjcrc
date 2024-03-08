@@ -8,8 +8,7 @@ pandoc.exe HJCSIC.md `
   --dpi=220 `
   --wrap=none `
   --output .\HJCSIC.docx `
-  --reference-doc=template_Garamond.docx
-  #  --reference-doc=template_font-times.docx `
+  --reference-doc=template_Georgia.docx
 
 ## NOTES
 #
@@ -23,3 +22,4 @@ pandoc.exe HJCSIC.md `
     # Roboto Slab     
   # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
   # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
+  #  --reference-doc=template_font-times.docx `

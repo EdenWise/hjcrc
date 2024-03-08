@@ -20,7 +20,8 @@ I tried to define paragraph indents via the `pandoc.exe` `--variable` option, bu
 
 I then imported matching styles from existing document to `template.docx`:
 
-* Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer > Dev Tab > DocTemplt > Organizer > Copy allowable styles to right and save.
+* Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer 
+  * Dev Tab > Document Template > Organizer > Copy all styles to right and Close.
 * Microsoft Word open `template.docx`  > Word-and-tmple.docx: Organizer > copy styles to left.
 
 #### Things to do before conversion:
