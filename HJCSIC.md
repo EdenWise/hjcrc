@@ -60,7 +60,7 @@ The Jews are so dedicated to their system, and are so protected are they by thei
 * favoring or divining?? divisive, partisian?
 
 ![](images/XX_hollywood_connection.svg)
-![Alt text](images/XX _identification_birthdate-and-name.svg
+![alt text](images/XX_who_where_when.svg)
 
 ## Books that Help
 
