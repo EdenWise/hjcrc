@@ -8,7 +8,7 @@ pandoc.exe HJCSIC.md `
   --dpi=220 `
   --wrap=none `
   --output .\HJCSIC.docx `
-  --reference-doc=template_Georgia.docx
+  --reference-doc=template_Lora.docx
 
 ## NOTES
 #
