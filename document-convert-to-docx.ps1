@@ -16,8 +16,8 @@ pandoc.exe HJCSIC.md `
     # Constantia      8.0
     # Noto Serif      7.0
     # EB Garramond    6.0
-    # Georgia         9.5
-    # Lora            
+    # Georgia         9.0
+    # Lora            9.3
     # Crimson Text    
     # Roboto Slab     
   # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
