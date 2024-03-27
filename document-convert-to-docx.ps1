@@ -8,7 +8,7 @@ pandoc.exe HJCSIC.md `
   --dpi=220 `
   --wrap=none `
   --output .\HJCSIC.docx `
-  --reference-doc=template_Lora.docx
+  --reference-doc=template_Crimson.docx
 
 ## NOTES
 #
@@ -18,7 +18,7 @@ pandoc.exe HJCSIC.md `
     # EB Garramond    6.0
     # Georgia         9.0
     # Lora            9.3
-    # Crimson Text    
+    # Crimson Text    8.0?  Nice font, but text was small?!
     # Roboto Slab     
   # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
   # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
