@@ -16,7 +16,7 @@
 29 Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
 31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.
 
-## Genesis 2---Adam and Eve
+## Genesis 2---Adam and Eve (Eve and Adam?)
 
 1 Thus the heavens and the earth were completed in all their vast array.
 2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
