@@ -13,13 +13,13 @@ pandoc.exe HJCSIC.md `
 ## NOTES
 #
   # Font Tests:
-    # Constantia      8.0
-    # Noto Serif      7.0
+    # Constantia      8.0   odd size... a bit small!?
+    # Noto Serif      7.0   blocky
     # EB Garramond    6.0
-    # Georgia         9.0
-    # Lora            9.3
-    # Crimson Text    8.0?  Nice font, but text was small?!
-    # Roboto Slab     
+    # Georgia         8.5   good normal font a bit tight though
+    # Lora            9.3   too high!?
+    # Crimson Text    8.0?  9.0 nice font but small?! Printing was scaled :(.
+    # Roboto Slab     8.5   good font but a bit blocky
   # $PATH_OF_FILE = "${env:USERPROFILE}\Documents\HJCSIC.docx"
   # $PATH_OF_FILE = "($PSSCRIPTROOT | Split-Path -Qualifier)\Documents"
   #  --reference-doc=template_font-times.docx `
