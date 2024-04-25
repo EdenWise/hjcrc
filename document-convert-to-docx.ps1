@@ -1,14 +1,14 @@
-gir## DOCUMENT CONVERT FROM MARKDOWN TO DOCX
+## DOCUMENT CONVERT FROM MARKDOWN TO DOCX
 #
 ## CONVERT
 #
-pandoc.exe HJCSIC.md `
+.\pandoc.exe HJCSIC.md `
   --from markdown+inline_notes+escaped_line_breaks `
   --to docx `
   --dpi=220 `
   --wrap=none `
   --output .\HJCSIC.docx `
-  --reference-doc=template_Georgia.docx
+  --reference-doc=template.docx
 
 ## NOTES
 #
