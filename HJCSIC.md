@@ -1,6 +1,4 @@
-*Civilization is only good behavior.*
-
-*The only thing to fear is ourselves... free has been placed in our lives.*
+*The only thing to fear is ourselves... in our lives temptation has been induced.* *Civilization is only good behavior.* 
 
 # How the Judeo-Christian System Influences Civilization (Part 1)     http://tinyurl.com/HJCR1
 
