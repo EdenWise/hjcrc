@@ -1,4 +1,4 @@
-*The only thing to fear is ourselves... in most of our lives a temptation of-our-belonging/inherit has been suggested.* *Civilization is only good behavior.* 
+*The only thing to fear is ourselves... in most of our lives relying-on our sexual disposition has been pushed.* 
 
 # How the Judeo-Christian System Influences Civilization (Part 1) http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
