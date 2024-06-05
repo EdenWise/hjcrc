@@ -3,7 +3,7 @@
 # How the Judeo-Christian System Influences Civilization (Part 1) http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
 ![](images/05_ages-of-civilization_eden.svg)![](images/10_eras-of-heaven.svg)Civilization began as a natural order. This changed when the Judeo-Christian system started. Civilization moved from evolution/natural-whims to belonging to those who join a predesigned system---the people that know the details of the system get the rewards.
-  The Jewish ancestors started the system ~~it is based on their~~ ~~"Secret of Heaven"~~/~~creating-Heaven~~ It is implemented by ~~the Jews~~ rewarding the first group for *reaping* acts (i.e. taking, usually men)/who-are-the-most-selfish/conquering for an era (these days) of fifty years. For the next fifty years the ~~rebellious~~ second group is precipitated by those that are left out of the first group and they reward sowing acts (i.e. making things grow, women and their protected).
+  The Jewish ancestors started the system ~~it is based on their~~ ~~"Secret of Heaven"~~/~~creating-Heaven~~ It is implemented by ~~the Jews~~ rewarding the first group for *reaping* acts (i.e. taking, usually men)/who-are-the-most-selfish/conquering for an era (these days) of fifty years. For the next fifty years the ~~rebellious~~ second group is precipitated by those that are left out of the first group and they reward sowing acts (i.e. making things grow, women and their protected). The first group becomes so rewarded that they draw the ire of the second group.
 
   The second group is secretly rewarded by the Jews for being **complicit** with the first group even if they lack knowing it
 
