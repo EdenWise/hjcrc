@@ -1,8 +1,13 @@
-*The only thing to fear is ourselves... most of us will be tempted to greatness through our sexual disposition.* *Civilization is only good behavior.*
+*The only thing to fear is ourselves... most of us will be tempted to ~~greatness through our sexual disposition~~.* True... god temptations.
+*Civilization is only good behavior.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
-![](images/05_ages-of-civilization_eden.svg)![](images/10_eras-of-heaven.svg)Civilization began as a natural order. This changed when the Judeo-Christian system started. Civilization moved from communal evolution to a discrete system of personal salvation. The Jews started the system to ensure themselves advantageous lives. These days it is implemented by ~~the Jews~~ rewarding the first group (the Jews, many men, and their female followers) for *reaping* acts (i.e. taking/conquering) for an era of fifty years. The first group becomes so rewarded that they draw the ire of the second group and for the next fifty years they reward sowing acts (i.e. making things grow, women and their protected). The second group by all the confusion... is secretly rewarded by the Jews for being **complicit** with the first group almost completely lacking any knowledge of it.
+![](images/05_ages-of-civilization_eden.svg)![](images/10_eras-of-heaven.svg)Civilization began as a natural order. When the Judeo-Christin system started this all changed. Civilization moved from communal evolution to joining a secret system for personal salvation. Those that know the details of the system get the rewards. It was started by ancient male dominion (rewarding the most fortunate, dynasties) and secreted by the Jews. The system has become the social architect of the world. It is implemented by the Jews rewarding *reaping* acts (i.e. taking) for an era of fifty years (it mostly affects men). Then to deal with the resistance the Jews reward *sowing* acts (i.e. making things grow [giving]) for the next fifty years (it affects women and their protected).
+
+Civilization began as a natural order. This changed when the Judeo-Christian system started. Civilization moved from communal evolution to a discrete system of personal salvation. The Jews started the system to ensure themselves advantageous lives. These days it is implemented by ~~the Jews~~ rewarding the first group (the Jews, many men, and their female followers) for *reaping* acts (i.e. taking/conquering) for an era of fifty years.
+
+The first group becomes so rewarded that they draw the ire of the second group and for the next fifty years they reward sowing acts (i.e. making things grow, women and their protected). The second group by all the confusion... is secretly rewarded by the Jews for being **complicit** with the first group almost completely lacking any knowledge of it.
 
 to belonging to those who join a predesigned system for personal salvation---the people that know the details of the system get the rewards.
 
