@@ -1,4 +1,4 @@
-*The only thing to fear is ourselves... most of us will be tempted to greatness through our sexual disposition.* | *Civilization is only good behavior.*
+*If we want to be a citizen, the only thing to fear is ourselves---free has been made available in our lives that will tend us to power through our sexual disposition.* | *Civilization is only good behavior.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
