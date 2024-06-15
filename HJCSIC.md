@@ -1,4 +1,4 @@
-*To be a citizen the best thing to fear is thyself---free has been made available (in most our lives) that will tend us to gain power through our sexual disposition.* | *Civilization is only good behavior.*
+*As a citizen we should fear ourselves---free may be available of our sexual disposition.* | *Civilization is only good behavior.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
