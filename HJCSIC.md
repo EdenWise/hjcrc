@@ -10,7 +10,7 @@ The Christian church (a succession of the second group) largely practices their 
 * Groups define as political left and right?
 * ~~The "Secret of Heaven"~~ leads them to push on civilization a dualistic system (primary/secondary, male/female, reap/sow...).
 * The rewards (inclusion) go to those who become desperate and react selfishly ~~(drol and dog)~~. 
-* (though a number of the second group remain blasé/ignorant to this)
+* (though a number of the second group remain blasé/ignorant to this), IGNORANCE OF THE RIGHT
  
 
 ## Who I Am
