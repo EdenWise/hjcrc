@@ -6,11 +6,7 @@
 
 ## Who I Am
 
-I am a person given as a sacrifice at an early age. By the political right giving the Jews sacrifices the right has been able to get things from them. Some of those sacrifices are large. I am one of those people. By doing sin to me some things were gotten that helped civilization as a whole.
-
-There are a good number of sins and they affect my mind and behavior greatly.
-
-~~People have learned to treat me differently so that they could get protection themselves.~~ This has been come done so much that it has removed me from civilization. I learned what I know now by accepting truths that were hard, where I had to look at improbable answers to try to survive when life became too impossible to live reasonably anymore. There are other people are included besides me, we would appreciate any help.
+I am a person given as a sacrifice at an early age. By the political right giving the Jews sacrifices the right has been able to get things from them. Some of those sacrifices are large. I am one of those people. By doing sin to me some things were gotten that helped civilization as a whole. There are a good number of sins and they affect my mind and behavior greatly. ~~People have learned to treat me differently so that they could get protection themselves.~~ This has been come done so much that it has removed me from civilization. I learned what I know now by accepting truths that were hard; I had to look at improbable answers to try to survive because life became too impossible to live reasonably anymore. There are other people are included besides me, we would appreciate any help.
 
 ## Research Sources
 
