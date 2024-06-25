@@ -2,7 +2,7 @@
 #
 ## CONVERT
 #
-pandoc.exe HJCSIC.md `
+pandoc.exe HJCSIC_part1.md `
   --from markdown+inline_notes+escaped_line_breaks `
   --to docx `
   --dpi=300 `
