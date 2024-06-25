@@ -1,4 +1,4 @@
-*As a citizen we should fear ourselves---free may be available with our sexual disposition.* | *Civilization is only good behavior.*
+*As a citizen we should fear ourselves---free/temptation may be made available for our sexual disposition.* | *Civilization is only good behavior.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC]
 
