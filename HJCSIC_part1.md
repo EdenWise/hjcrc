@@ -1,4 +1,5 @@
 [^Information]: http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
+
 *As a citizen we should fear ourselves---we may be given freedom of our sexual disposition.* | *Civilization is only good behavior.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
