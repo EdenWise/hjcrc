@@ -6,13 +6,15 @@ I decided to write this document in markdown so that other people can help. The 
 
 # Template Build
 
-Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still gets a fair amount of formatting. (I may be able to do more with [Pandoc's Input Method](https://pandoc.org/MANUAL.html#input)). I first generated a template and then I imported the matching styles from my original Microsoft-Word document.
+Pandoc can import what is basically a style sheet to design the document. The allowable styles are limited but it still gets a fair amount of formatting. I may be able to do more with [Pandoc's Input Method](https://pandoc.org/MANUAL.html#input), I have yet to try.
 
-Template generate with default settings (I renamed it`template.docx` in the repository):
+I first generated a template and then I imported the matching styles from my original Microsoft-Word document. To generate a template with default settings:
 
     pandoc.exe --output template.docx --print-default-data-file reference.docx
 
-I then imported matching styles from existing document to `template.docx`:
+## Styles Import from Existing Document
+
+I then imported matching styles from an existing document to `template.docx`:
 
 * Microsoft Word open `hjcrc.docx` > File > Options > Ribbon > +Developer 
   * Dev Tab > Document Template > Organizer > Copy all styles to right and Close.
