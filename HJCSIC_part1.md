@@ -1,3 +1,4 @@
+[^Information]: http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 *As a citizen we should fear ourselves---we may be given freedom of our sexual disposition.* | *Civilization is only good behavior.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
@@ -75,7 +76,6 @@ Harsh land, a few fortunate. One rich, another fighting for his life. The rich m
 
 ![alt text](images/XX_who_where_when.svg)
 
-[^Information]: http://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 [^Sins]: I'll get to these later.
 [^Judeo-Christian-Definition]: I refrain from calling the Judeo-Christian system a religion because the common definition of religion usually involves spirituality with an ethereal god or gods.
 [^definition-revisionistic]: From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): [...] changing some accepted doctrine or view of history.
