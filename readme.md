@@ -1,6 +1,8 @@
 # Why this Document
 
-I have been surrounded by this society very personally all my life. It has changed my life greatly. I thought to start documenting it because what is known about it is very little. I decided to write this document in markdown so that other people can help. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) I list the steps below that I take to convert it to a Microsoft Word document. It will look like one I have [here](http://tinyurl.com/hjcr1).
+The Judeo-Christian system has been around for a long time. It effects the world over. I felt there was a need to gather this information because the details of the system are kept silent and because there is intent to obfuscate this information.
+
+I decided to write this document in markdown so that other people can help. The raw document is titled [hjcrc.md](https://github.com/EdenWise/hjcrc/blob/main/hjcrc.md) I list the steps below that I take to convert it to a Microsoft Word document. It will look like one I have [here](http://tinyurl.com/hjcr1).
 
 # Template Build
 
