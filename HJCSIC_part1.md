@@ -11,14 +11,13 @@ These sins[^simply defined as being against nature] the Jews reward with better 
 * Complicit: Differing... backburnering authority
 * Recent Jew floppings: Jerry Seinfeld "Unbounded", Richard Dreyfus "Hollywood out to get Jews", Kendrick losing to Drake
 * The Jews administrate over most of the system (i.e. have created a lot of the right's power [through the code, etc.], completely ignorant to the right). The right has visceralness.
-* ~~The Great Jewish two system???~~
-* heaven higher
-* Since the Jews ar responsible for the systems's secrecy
+* The Great Jewish two system!?
+* Since the Jews are responsible for the systems's secrecy
 * There is only one system so everything the right does is false
 
 ## Who I Am
 
-I am a person given as a sacrifice at an early age. By the political right giving the Jews sacrifices the right has been able to get things from them. Some of those sacrifices are large. I am one of those people. By doing sin to me some things were gotten that helped civilization as a whole. There are a good number of sins and they affect my mind and behavior greatly. ~~People have learned to treat me differently so that they could get protection themselves.~~ This has been come done so much that it has removed me from civilization. I learned what I know now by accepting truths that were hard; I had to look at improbable answers to try to survive because life became too impossible to live reasonably anymore. There are other people are included besides me, we would appreciate any help.
+I am a person given as a sacrifice at an early age. By the political right giving the Jews sacrifices the right has been able to get things from them. Some of those sacrifices are large. I am one of those people. By doing sin to me some things were gotten that helped civilization as a whole. There are a good number of sins and they affect my mind and behavior. ~~People have learned to treat me differently to get protection themselves.~~ This has been come done so much that it has removed me from civilization. I learned what I know now by accepting truths that were hard; I had to look at improbable answers to try to survive because life became too impossible to live reasonably anymore. There are other people are included besides me, we would appreciate any help.
 
 ## Research Sources
 
