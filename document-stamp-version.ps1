@@ -7,7 +7,6 @@ $YEAR     = Get-Date -UFormat "%Y"
 
 ## DOCUMENT STAMP WITH REVISION AND DATE
 #
-# Get-ChildItem -Path "$FILE" | (Get-Content) -replace "${REVISION}_$YEAR-[0-9][0-9]","${REVISION}_$DATE"
 ( Get-Content -Path "$FILE" ) -replace "${REVISION}_$YEAR-[0-9][0-9]-[0-9][0-9]", `
   "${REVISION}_$DATE" | Set-Content -Path "$FILE"
 
