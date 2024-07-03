@@ -62,7 +62,6 @@ Harsh land, a few fortunate. One rich, another fighting for his life. The rich m
 * The Jews try to make their history look planned here, but the truth is since the Jews keep heaven [the great Jewish two system] always silent, a progressive confusion begins early on the second group. The confusion has created a path for people that start near-sighted and ignorant of complicity but become desperate---a staging heaven to Judaism.
 * Became eventually: The women are going to flood too and do it better.
 * This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.
-* [^flood]
 * "friends (Job 2:11)"
 * (narcisstic, desperate)
 * it hides the flood
@@ -98,4 +97,5 @@ The second system starts because it is a manifestation of biology. Takers hardly
 [^pronoun-female]: Yes the Bible writers do constantly use the pronoun "he" throughsout the Bible.
 [^serpent]: Before the Bible the nine was the organizer of the nobility. He choose who the desperate men were and made sure they were rewarded. It builds to "the flood" later.
 [^Story-of-the-Moral]: Using a Hebrew flood number/letter in the second term do get their angels somewhat excited... again defferential.
+[^flood]: 
 [^25]: December 25 and the year of Jesus's death.
