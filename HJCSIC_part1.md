@@ -98,5 +98,5 @@ The second system starts because it is a manifestation of biology. Takers hardly
 [^pronoun-female]: Yes the Bible writers do constantly use the pronoun "he" throughsout the Bible.
 [^serpent]: Before the Bible the nine was the organizer of the nobility. He choose who the desperate men were and made sure they were rewarded. It builds to "the flood" later.
 [^Story-of-the-Moral]: Using a Hebrew flood number/letter in the second term do get their angels somewhat excited... again defferential.
-[^flood]: 
+<!-- [^flood]:  -->
 [^25]: December 25 and the year of Jesus's death.
