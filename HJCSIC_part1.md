@@ -1,4 +1,4 @@
-[^Information]: Version: 00_2024-07-05 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
+[^Information]: Version: 00_2024-07-07 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
 *As a citizen we should fear ourselves---freedom has been introduced of our sexual disposition.* | *Civilization is only good behavior.*
 
