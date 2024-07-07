@@ -68,16 +68,16 @@ Harsh land, a few fortunate. One rich, another fighting for his life. The rich m
 * the right: the enablers, the finger-waggers
 * quotes as " or ' rather than ’ and ” ?!
 * Verbatim Character in templates fix.
-* favoring or divining?? divisive, partisian?
+* favoring or divining?? divisive, partisan?
 * first-group (that sometimes get identified as the Jews)
 * plausible deniability
 * follow/trick
-* Since the Jews are responsible for the systems's secrecy... There is only one system so everything the right does is false
+* Since the Jews are responsible for the systems secrecy... There is only one system so everything the right does is false
 
 ## Things I Know About the Bible
 
-* Jacob's taking of Esau's inheritence means: He took Esau's leadership as first-born away. The older brother has greater experience, a better perspective from the jungle that he has chopped away. By Jacob flooding (one-ing), joining heaven he becomes the authority. He continues to antagonize Esau and is rewarded for it. From this antagonizing he get god-isms, Jew support mechanisms (e.g. burning the barn...) which he can dole out to people to get them saved. Jacob creates Israel this way, a female-led nation, a contender to Judah. Jacob the father of a nation. Esau gets lost in the wilderness---for possibly the rest of his life (I am surmising that even Jacob's son Isaac may referring to Esau and being asked to sacrifice him). Left behind, a messiah. All saved people ignore him, laugh at him. He may die. I am the only person in history that may know this.
-* Ruth is Bathsheeba
+* Jacob's taking of Esau's inheritance means: He took Esau's leadership as first-born away. The older brother has greater experience, a better perspective from the jungle that he has chopped away. By Jacob flooding (one-ing), joining heaven he becomes the authority. He continues to antagonize Esau and is rewarded for it. From this antagonizing he get god-isms, Jew support mechanisms (e.g. burning the barn...) which he can dole out to people to get them saved. Jacob creates Israel this way, a female-led nation, a contender to Judah. Jacob the father of a nation. Esau gets lost in the wilderness---for possibly the rest of his life (I am surmising that even Jacob's son Isaac may referring to Esau and being asked to sacrifice him). Left behind, a messiah. All saved people ignore him, laugh at him. He may die. I am the only person in history that may know this.
+* Ruth is Bathsheba
 * Jesus is a conglomeration of messiah stories. They are meant to demonstrate the new "right" policy. It is likely most based on Paul who was likely the one given up as a baby. This sacrifice got the Jews very sexcited.
 
 ## 25 and 28 Please Please Tell Me Pyrite from the Jews (Rather Than The Saved Taking More...)
@@ -97,6 +97,6 @@ The second system starts because it is a manifestation of biology. Takers hardly
 [^definition-good]: The Bible defines this as the "knowledge of good and evil" (Genesis 2:9). Originally, it was only creating good, getting to choose what to support/favor (particularly people). I also like the term "divining". Evil came later when people started to declassify others to get inclusion.
 [^pronoun-female]: Yes the Bible writers do constantly use the pronoun "he" throughout the Bible.
 [^serpent]: Before the Bible the nine was the organizer of the nobility. He choose who the desperate men were and made sure they were rewarded. It builds to "the flood" later.
-[^Story-of-the-Moral]: Using a Hebrew flood number/letter in the second term do get their angels somewhat excited... again defferential.
+[^Story-of-the-Moral]: Using a Hebrew flood number/letter in the second term do get their angels somewhat excited... again deferential.
 <!-- [^flood]:  -->
 [^25]: December 25 and the year of Jesus's death.
