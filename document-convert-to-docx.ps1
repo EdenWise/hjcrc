@@ -3,16 +3,17 @@
 
 ## VARIABLES
 #
-$FILE     = "HJCSIC_part1.md"
+$FILE_MD  = "HJCSIC_part1.md"
+$FILE_DX  = "HJCSIC_part1.docx"
 $REVISION = "00"
 $DATE     = Get-Date -UFormat "%Y-%m-%d"
 $YEAR     = Get-Date -UFormat "%Y"
 
 ## DOCUMENT STAMP WITH VERSION
 #
-( Get-Content -Path "$FILE" ) -replace `
+( Get-Content -Path "$FILE_MD" ) -replace `
   "${REVISION}_$YEAR-[0-9][0-9]-[0-9][0-9]", "${REVISION}_$DATE" `
-  | Set-Content -Path "$FILE"
+  | Set-Content -Path "$FILE_MD"
 
 ## GIT STAMP WITH VERSION
 #
@@ -20,12 +21,12 @@ git.exe tag --annotate "${REVISION}_$DATE" --message="${REVISION}_$DATE"
 
 ## CONVERT
 #
-pandoc.exe $FILE `
+pandoc.exe $FILE_MD `
   --from markdown `
   --to docx `
   --dpi=300 `
   --wrap=none `
-  --output .\HJCSIC.docx `
+  --output $FILE_DX `
   --reference-doc=template.docx
 
 ## GIT HELP
