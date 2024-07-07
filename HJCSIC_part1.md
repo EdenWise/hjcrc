@@ -1,4 +1,4 @@
-[^Information]: 00_2024-07-05 https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
+[^Information]: Version: 00_2024-07-05 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
 *As a citizen we should fear ourselves---freedom has been introduced of our sexual disposition.* | *Civilization is only good behavior.*
 
@@ -12,7 +12,7 @@
 * The Jews administrate the system (i.e. have created a lot of the right's power [through the code, etc.], completely ignorant to the right).
 * [^sins]
 
-## Who I Am
+## I May Be Listened to Because...
 
 I am a person given as a sacrifice at an early age. By the political right giving the Jews sacrifices the right has been able to get things from them. Some of those sacrifices are large. I am one of those people. By doing sin to me some things were gotten that helped civilization as a whole. There are a good number of sins and they affect my mind and behavior. ~~People have learned to treat me differently to get protection themselves.~~ This has been come done so much that it has removed me from civilization. I learned what I know now by accepting truths that were hard; I had to look at improbable answers to try to survive because life became too impossible to live reasonably anymore. There are other people are included besides me, we would appreciate any help.
 
@@ -20,7 +20,7 @@ I am a person given as a sacrifice at an early age. By the political right givin
 
 The research for this paper is generally from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. Both the Jews and the Christians have described their plans in their Testaments. The Bible is audacious and often graphic to hide meanings that can only be tolerated by those who have abundant health (from supernatural safety). Getting past these aversions one can discover the intent of the Bible and how it influences civilization. Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
 
-The Jews have spent much time refining the Bible because their system has been so profitable to them. A few things to know. The Jews prioritize conveying their methodology over historical integrity. The big skew is the Bible being written revisionistically[^definition-revisionistic], backwritten, to make newer rules apply throughout. Another thing to know it that the beginning of the Bible is full of important scattered details (because so much history is missing), and the Bible is sort of the second group's of the story (except for Genesis 1) the story of societal sliding and sacrifices.
+The Jews have spent much time refining the Bible because their system has been so profitable to them. A few things to know. The Jews prioritize conveying their methodology over historical integrity. The big skew is the Bible being written revisionistically[^definition-revisionistic], backwritten, to make newer rules apply throughout. Another thing to know it that the beginning of the Bible is full of important scattered details (because so much history is missing), and the Bible is sort of the second group's of story (except for Genesis 1) the story of societal sliding and human sacrifices.
 
 * The Bible does make sense.
 
