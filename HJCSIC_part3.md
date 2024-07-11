@@ -219,3 +219,7 @@ The battle in heaven produces a selfish splitting of safety. The saved (ignorant
 
 [^John3:16]: John #:16 describes the messiahs well, "a begotten Son, that whosoever believeth in Him should not perish, but have *everlasting life*."
 [^WhoIAm]: On [Git](https://github.com/EdenWise/hjcrc) or at [@](mailto:toddpartridge@outlook.com)
+
+--- --- --- --- ---
+
+“When you catch an adjective, kill it. No, I don't mean utterly, but kill most of them--then the rest will be valuable. They weaken when they are close together. They give strength when they are far apart.” ― Mark Twain
