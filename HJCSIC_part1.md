@@ -18,15 +18,13 @@ I have the feeling that people want me to say very little about my position poli
 
 ## Research Sources
 
-The research for this paper is generally from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. Both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been highly refined by the Jews because their system has been so profitable to them. It does more too keep their system secret and convey their methodology than keep historical integrity. It hides secrets by being audacious, sometimes graphic, and by being distracting with sections of rubbish. Its graphicness can hide meanings that can only be tolerated by those who have abundant health (from supernatural safety).
+The research for this paper is generally from the Bible. The Bible does make sense... if one learns the correct missing history and can discover the Jewish intent. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. Both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been highly refined by the Jews because their system has been so profitable to them. It does more too keep their system secret and convey their methodology than keep historical integrity. It keeps secrets by being audacious, sometimes graphic, and by beguiling with sections of rubbish. Its graphicness can hide meanings that can only be tolerated by those who have abundant health (from supernatural safety). The Bible disrupts a lot of historical integrity by being written revisionistically[^definition-revisionistic], backwritten, to make newer rules apply throughout. The beginning of the Bible is packed with details but because so much of the history is missing they are hard to figure out. 
 
-jibberish
+Getting past these aversions one can discover the intent of the Bible and how it influences civilization. Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
 
-The Bible is  Getting past these aversions one can discover the intent of the Bible and how it influences civilization. Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
 
- The big skew is the Bible being written revisionistically[^definition-revisionistic], backwritten, to make newer rules apply throughout. Another thing to know it that the beginning of the Bible is full of important scattered details (because so much history is missing), and the Bible is sort of the second group's of story (except for Genesis 1) the story of societal sliding and human sacrifices.
-
-* The Bible does make sense.
+  
+  , and the Bible is sort of the second group's of story (except for Genesis 1) the story of societal sliding and human sacrifices.
 
 ## Hebrew Code
 
