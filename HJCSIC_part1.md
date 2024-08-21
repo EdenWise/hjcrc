@@ -1,5 +1,9 @@
 [^Information]: Version: 00_2024-08-12 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
+As the Catholic Church once required payment for absolvement of sin... Today absolvement of sin, for a saved person, can be define by the saved person themselves. Able to cull the heaven-verse and able to volunteer oneself and act as one sees fit. They get to eradicate their own guilt... even call it justice.
+
+Civ began... all this changed. What some call the "human condition" is a problem that started when humans got to the top of the food chain. Males began to run rampant absent of natural checks... empires, male dominion, the fortunate rewarding other fortunate.
+
 *As a citizen we should fear ourselves---for most of us, freedom has been encouraged of our personal greatness.* | *Civilization is putting the needs of those that need it, first.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
