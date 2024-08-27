@@ -1,10 +1,6 @@
-[^Information]: Version: 00_2024-08-12 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
+[^Information]: Version: 00_2024-08-27 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
-As the Catholic Church once required payment for absolvement of sin... Today absolvement of sin, for a saved person, can be define by the saved person themselves. Able to cull the heaven-verse and able to volunteer oneself and act as one sees fit. They get to eradicate their own guilt... even call it justice.
-
-Civ began... all this changed. What some call the "human condition" is a problem that started when humans got to the top of the food chain. Males began to run rampant absent of natural checks... empires, male dominion, the fortunate rewarding other fortunate.
-
-*As a citizen we should fear ourselves---for most of us, freedom has been encouraged of our personal greatness.* | *Civilization is putting the needs of those that need it, first.*
+*As a citizen we should fear ourselves---for most of us, freedom-been-given/power-has-been-encouraged to use our personal-greatness/sexual-disposition.* | *Civilization is putting the needs of those that need it first.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
 
@@ -98,6 +94,8 @@ Harsh land, a few fortunate. One rich, another fighting for his life. The rich m
 ## 25 and 28 Please Please Tell Me Pyrite from the Jews (Rather Than The Saved Taking More...)
 
 The second system starts because it is a manifestation of biology. Takers hardly cared about givers. The first group probably numbered it because they always want to be in control of everything and the right seems to be okay with "bad at math". The second system usually defers priority, i.e. gives to the left first (12, 42...). Prioritizing seems to be tough for them: babies as sacrifices, looking pretty.... They already had their righteousnesses like 52 and 82. But being outside of the control group, "bad at math".. they are left feeling, "How fair are we treated?" Still *wanting*. So when the Jews introduced 25 and 28 with the advent of the Christian Church[^25] (it is hopeful for me to think it was them that did this) the right soaked them up disregardless whether: if it was fair (same number of protections [87, 72...] the left has); or if they even knew what they meant (another pretty ring... for me?). Complicity.
+
+* As the Catholic Church once required payment for absolvement of sin... Today absolvement of sin, for a saved person, can be define by the saved person themselves. Able to cull the heaven-verse and able to volunteer oneself and act as one sees fit. They get to eradicate their own guilt... even call it justice.
 
 
 ![alt text](images/XX_who_where_when.svg)
