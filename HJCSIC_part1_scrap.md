@@ -4,5 +4,5 @@
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
 
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg) Civilization began as a natural order. But when humans reached the top of the food chain male dominion began to run rampant. Absent of natural checks empires formed, the fortunate began to accept only other fortunates. Some call this the "human condition". This started thousands of years ago, was systemized and secreted by the Jewish ancestors, and trys to force social construct of the world today. 
+![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg) Civilization began as a natural order. But thousands of years ago when humans reached the top of the food chain male dominion began to run rampant---some call this the "human condition". Lacking the proper balance checks empires formed and the fortunate began to accept only other fortunates. It got systemized and secreted by the Jewish ancestors. Today, it trys to force social construct of the world.
 
