@@ -89,7 +89,7 @@ Harsh land, a few fortunate. One rich, another fighting for his life. The rich m
 
 * Jacob's taking of Esau's inheritance means: He took Esau's leadership as first-born away. The older brother has greater experience, a better perspective from the jungle that he has chopped away. By Jacob flooding (one-ing), joining heaven he becomes the authority. He continues to antagonize Esau and is rewarded for it. From this antagonizing he get god-isms, Jew support mechanisms (e.g. burning the barn...) which he can dole out to people to get them saved. Jacob creates Israel this way, a female-led nation, a contender to Judah. Jacob the father of a nation. Esau gets lost in the wilderness---for possibly the rest of his life (I am surmising that even Jacob's son Isaac may referring to Esau and being asked to sacrifice him). Left behind, a messiah. All saved people ignore him, laugh at him. He may die. I am the only person in history that may know this.
 * Ruth is Bathsheba
-* Jesus is a conglomeration of messiah stories. They are meant to demonstrate the new "right" policy. It is likely most based on Paul who was likely the one given up as a baby. This sacrifice got the Jews very sexcited.
+* Jesus is a conglomeration of messiah stories. They are meant to demonstrate the new "right" policy. It is likely most based on Paul who was likely the one given up as a baby. This sacrifice got the Jews very excited.
 
 ## 25 and 28 Please Please Tell Me Pyrite from the Jews (Rather Than The Saved Taking More...)
 
