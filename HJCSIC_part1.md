@@ -97,6 +97,10 @@ The second system starts because it is a manifestation of biology. Takers hardly
 
 * As the Catholic Church once required payment for absolvement of sin... Today absolvement of sin, for a saved person, can be define by the saved person themselves. Able to cull the heaven-verse and able to volunteer oneself and act as one sees fit. They get to eradicate their own guilt... even call it justice.
 
+* The Book of the Scribe of Osiris (sometimes also referred to as the Book of the Journey to Aaru) is an Ancient Egyptian text discovered in the excavation of Oxyrhynchus. It has caused a certain degree of controversy among Egyptologists, as some argue that it is a classic funerary text such as the Book of Coming Forth by Day, while others believe it to be a poetic work not intended to be understood literally. \
+  The book tells the story of a dying man who asks a scribe about the afterlife. The scribe, a servant of Osiris, describes how the man's Ka (life force) will become separated from his Ba (personality), and how he will have to reunite the two and become an Akh (living intellect), passing a series of trials in the Duat (underworld) in order to reach the paradise of Aaru. Unlike similar texts, the Book of the Scribe of Osiris focuses less on giving advice or /&# \
+A recent study (Carnahan/Hassan) suggests the text may have been intended as philosophical commentary on the world of the living through the allegory of the Duat. It remains unclear whether this was the intent of the original pre-Alexandrian author or a result of the later translation into Greek. The earlier manuscript, which is considered to be more authentic, is too fragmentary to provide answers, though perhaps further excavation may %&$/§ \
+[https://talosprinciple.fandom.com/wiki/Book_of_osiris.wiki]
 
 ![alt text](images/XX_who_where_when.svg)
 
