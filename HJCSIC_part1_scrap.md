@@ -6,7 +6,9 @@
 
 ![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)
 
-Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be overlaid with rampant testosterone. The male disposition dominated, empires formed, and the fortunate allied to other fortunates. It was liked so much it got systemized and secreted by the Jewish ancestors. Eventually a repressed female disposition built-up and ~~repelled~~ forced an age of their own. What it has led to today is a system extraordinarily split and mechanized.
+Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be overlaid with rampant testosterone. The male disposition dominated, the fortunate males allied to other fortunate males, empires were seized. It was liked so much it got systemized and secreted by the Jewish ancestors. In time the female disposition became so repressed that they spitefully retaliated and forced an age of their own. Today it is a his-her savage snatching system that is extraordinarily split and mechanized (predesigned) that forces the social construct of the world.
+
+ What it has led to today is a system extraordinarily split and mechanized.
 
 * Today, the Jews implement it by rewarding *reaping* acts for an era of fifty years (i.e. taking---usually men).
 * Whet this has led to today is a system extraordinarily systemized where their males rule for fifty years followed by a female rule of fifty years.
