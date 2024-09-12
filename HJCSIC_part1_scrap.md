@@ -6,15 +6,14 @@
 
 ![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)
 
-Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be overlaid with rampant testosterone. The male disposition dominated, the fortunate males allied to other fortunate males, empires were seized. It was liked so much it got systemized and secreted by the Jewish ancestors. In time the female disposition became so repressed that they spitefully retaliated and forced an age of their own. Today it is a his-her savage snatching system that is extraordinarily split and mechanized (predesigned) that forces the social construct of the world.
-
- What it has led to today is a system extraordinarily split and mechanized.
+Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be overlaid with rampant testosterone. The male disposition dominated, the fortunate males allied to other fortunate males, empires were seized. It was liked so much it got systemized and secreted by the Jewish ancestors. In time the female disposition became so repressed that they viciouosly retaliated and forced an age of their own. Today it is dual male-female system of snatching that is extraordinarily split and mechanized (predesigned). It forces the social construct of the world.
 
 * Today, the Jews implement it by rewarding *reaping* acts for an era of fifty years (i.e. taking---usually men).
 * Whet this has led to today is a system extraordinarily systemized where their males rule for fifty years followed by a female rule of fifty years.
 
 * Some call this the "human condition".
 * Today, it is a large entity in forcing the social construct of the world. 
+* The Hebrews created the right (from the beginning) as an alternate inclusion. SPECULATION... prob. true
 
 **Doubling like all their ancestors before them**
 
