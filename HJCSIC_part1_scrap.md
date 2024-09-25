@@ -18,4 +18,4 @@ Civilization began as a natural order. 4100 years ago this began to change when 
 * Doubling like all their ancestors before them...
 * Safety leads to conservatism then bias.
 * Do the Jews double a giver, double their givers... a lazy way of paying attention to nature... thereby guaranteeing their survival?
-
+* When the fortunate reward the fortunate all rewards flow to the top. Eventually the fortunate cannibalize civilization, profit from the poor suffering.
