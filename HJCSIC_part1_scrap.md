@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-09-11 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
 
-* *Civilization is putting the needs of those that need it first, but to be a citizen is fantastical---we battle a hierarchy that offers free.*
+* *Civilization is putting the needs of those that need it first, but to be a citizen is hard ---we battle a hierarchy that offers free.*
 
 # How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
 
