@@ -21,6 +21,7 @@ Civilization began as a natural order. 4100 years ago this began to change when 
 * reaping and sowing add?
 * political left
 * Because the Jews have always controlled the path to inclusion they have got to make the rules.
+* Be wary of all higher in the hierarchy. The higher, male or female, what takers they too are.
 
 Right Guilts:
 1) Deferring Authority
