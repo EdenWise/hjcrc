@@ -18,8 +18,6 @@ Civilization began as a natural order. 4100 years ago this began to change when 
 * The Jews create the sowing group, accept it as inevitable, to deal with the resistance.
 * MENTION?: Christians!, Gods?
 * "Call an all out war"?
-* reaping and sowing add?
-* political left
 * Because the Jews have always controlled the path to inclusion they have got to make the rules.
 * Be wary of all higher in the hierarchy. The higher, male or female, what takers they both are.
 
