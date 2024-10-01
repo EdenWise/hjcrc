@@ -27,3 +27,11 @@ Right Guilts:
 1) Deferring Authority
 2) Secreting or keeping it silent
 3) "Revenge is a good life"
+
+How was the Serpent Crafty?
+[?] Allowing the political right to think that they fixed it?...
+[?] The faux heaven?
+[+] he let the females rule absent of telling the nobles... think this is part of it.
+[?] got them into a selfish war?
+[?] got them to take free (demoting Adam and Even, using them only as representatives)
+[+] Heaven became too obvious, the angel wife wanted to hide things...
