@@ -21,7 +21,8 @@ Today it can be summarized as a dual male-female system of selfish snatching tha
 * MENTION?: Christians!, Gods?
 * "Call an all out war"?
 * Because the Jews have always controlled the path to inclusion they have got to make the rules.
-* Be wary of all higher in the hierarchy. The higher, male or female, what takers they both are.
+* Be wary of the WQ, though female, what takers they are.
+* Discrimination
 
 Right Guilts:
 1) Deferring Authority
