@@ -23,12 +23,13 @@ Today it can be summarized as a dual male-female system of selfish snatching tha
 * "Call an all out war"?
 * Safety leads to conservatism then bias.
 
-Right Guilts:
+Political Right Sins:
 1) Deferring Authority
 2) Secreting or keeping it silent
 3) "Revenge is a good life"
+4) Accepting obscure knowledge and getting rewarded for it.
 
-How was the Serpent Crafty?
+How was the Serpent crafty to Adam and Eve (and other mortals)?
 [?] Allowing the political right to think that they fixed it?...
 [?] The faux heaven?
 [+] he let the females rule absent of telling the nobles... think this is part of it.
