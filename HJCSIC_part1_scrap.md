@@ -35,4 +35,4 @@ How was the Serpent crafty to Adam and Eve (and other mortals)?
 [+] he let the females rule absent of telling the nobles... think this is part of it.
 [?] got them into a selfish war?
 [?] got them to take free (demoting Adam and Even, using them only as representatives)
-[+] Heaven became too obvious, the angel wife wanted to hide things...
+[+] Heaven became too obvious, the angel wife wanted to hide things... so she allow A&E to think they fixed it. It was a fake heaven though, a temporary free.
