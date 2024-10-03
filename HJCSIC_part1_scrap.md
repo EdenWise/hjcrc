@@ -4,7 +4,7 @@
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be dominated by the male disposition. They followed fortune, allied to others doing well, and empires were seized. They became so excited they were **hard to sway**. Eventually the profitable male domination behavior risked being criticized (became too obvious) and some females (their wives, etc.) wanted to hide how they got their fortune. THEY OR THE SERPENT?
+![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be dominated by the male disposition. They followed fortune, allied to others doing well, became so excited they were hard to sway, and empires were seized. Eventually the profitable male domination behavior risked being criticized (became too obvious) and their beneficiaries (their wives, etc.) wanted to hide how they got their fortune. THEY OR THE SERPENT?...BOTH. So they forced an age of peace, a golden age
 * Cannibalism
 * It was so profitable it got systemized and secreted by the Jewish ancestors.
 * ~~Some time later the female disposition became so repressed that they retaliated viscerally and got a similar age.~~
@@ -33,6 +33,6 @@ How was the Serpent crafty to Adam and Eve (and other mortals)?
 [?] Allowing the political right to think that they fixed it?...
 [?] The faux heaven?
 [+] he let the females rule absent of telling the nobles... think this is part of it.
-[?] got them into a selfish war?
+[?] got them into a selfish **war**? started a controlled war
 [?] got them to take free (demoting Adam and Even, using them only as representatives)
-[+] Heaven became too obvious, the angel wife wanted to hide things... so she allow A&E to think they fixed it. It was a fake heaven though, a temporary free.
+[+] Heaven became too obvious, the *angel wife and/or serpent* wanted to hide things... so they gave Edenites (Adam and Eve) a temporary rule and allowed them to think they fixed it. It was a fake heaven though, a temporary free.
