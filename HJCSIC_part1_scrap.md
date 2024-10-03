@@ -32,7 +32,5 @@ Political Right Sins:
 How was the Serpent crafty to Adam and Eve (and other mortals)?
 [?] Allowing the political right to think that they fixed it?...
 [?] The faux heaven?
-[+] he let the females rule absent of telling the nobles... think this is part of it.
-[?] got them into a selfish **war**? started a controlled war
-[?] got them to take free (demoting Adam and Even, using them only as representatives)
-[+] Heaven became too obvious, the *angel wife and/or serpent* wanted to hide things... so they gave Edenites (Adam and Eve) a temporary rule and allowed them to think they fixed it. It was a fake heaven though, a temporary free.
+[+] Heaven became too obvious, the *angel wife and/or serpent* wanted to hide things... so they gave Edenites (Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was a fake heaven though, a temporary free.
+[+] Started a selfish war between less knowing nobles (men) and women.
