@@ -4,7 +4,7 @@
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be dominated by the male disposition. They followed fortune, allied to others doing well, became so excited they were hard to sway, and empires were seized. Eventually the amount of profiting the male dominated behavior created risked being criticized (or recognized as a pattern) and their beneficiaries (their wives, etc.) decided they had to hide their fortune. So they forced an age of peace, a golden age
+![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be dominated by the male disposition. Some were extreme cases: they seized fortune, allied to others doing well, became so excited they were hard to sway, and empires were taken. The male dominating behavior in these cases became so profitable they eventually risked being criticized (recognized as a problem) and their beneficiaries (their wives, etc.) decided they had to hide their fortune---mullify the people to avoid a retaliation. So they forced an age of peace, a golden age
 * It built to Cannibalism of civilization.
 * It was so profitable it got systemized and secreted by the Jewish ancestors.
 * ~~Some time later the female disposition became so repressed that they retaliated viscerally and got a similar age.~~
