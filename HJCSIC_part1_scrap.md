@@ -29,5 +29,5 @@ Political Right Sins:
 4) Accepting obscure knowledge and getting rewarded for it.
 
 How was the Serpent crafty to Adam and Eve (and other mortals)?
-[+] Heaven became too obvious, the *angel wife and/or serpent* wanted to hide things... so they gave Edenites (political right,Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was a faux heaven though, a temporary free.
+[+] Heaven became too obvious, the *serpent/and-or wives* wanted to hide things... so they gave Edenites (political right,Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was safety, a faux heaven though, a temporary free.
 [+] Started a selfish war between less knowing nobles (men) and women.
