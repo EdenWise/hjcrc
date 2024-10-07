@@ -4,33 +4,32 @@
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be dominated by the male disposition. Some were extreme cases: they seized fortune, allied to others doing well, became so excited they were hard to sway, and empires were taken. The male dominated behavior in these cases **became so profitable** by their beneficiaries it got recognized as endemic (**or civilization was so ravaged??**) by the serpent (their wives?). So the beneficiaries decided to hide their fortune and **forced** a golden age to restore people's faith.
+![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. 4100 years ago this began to change when human beings reached the top of the food chain. Because the checks on balance were disappearing civilization began to be dominated by the male disposition. Some were extreme cases: they seized fortune, allied to others doing well, became so excited they were hard to sway, and empires were taken. The male dominated behavior in these cases **became so profitable** by their beneficiaries it got recognized as endemic (**or civilization was so ravaged??**) by the serpent (their wives?). So the beneficiaries decided to hide their fortune and **forced** a golden age to restore people's faith. After which they started a male dominating age again. These ages developed over centuries and got systemized and secreted by the Jewish ancestors. Over the centuries both the age's behaviors have become more extreme: the male dominated age built to cannibalizing on civilization by directly going after the poor, and the golden age became **sex, drugs, and rock and roll**.
 
-it eventually risked being recognized as pervasive.
+Today it can be summarized as a dual male-female system of selfish snatching that is extraordinarily split, mechanized, and deadly---it forces itself into the social construct of the world. It is implemented by rewarding reaping (taking) acts for an era of fifty years (the first group, male-led and their followers, the political left) followed by rewarding sowing acts (giving) for an era of fifty years (the second group, female-led and their followers, the political right). The entire system is **secreted** through all of time.
 
-So their beneficiaries (the serpent, ~~their wives?~~...) decided they had to hide their fortune. So they created a golden age to restore people's faith. After which the male dominating behavior began again. Over the centuries both the age's behaviors have become more extreme. The male dominated age built to cannibalizing on civilization by directly going after the poor. These ages got systemized and secreted by the Jewish ancestors.
-
-* ~~Some time later the female disposition became so repressed that they retaliated viscerally and got a similar age.~~
-Today it can be summarized as a dual male-female system of selfish snatching that is extraordinarily split, mechanized, and deadly. It underlies the social construct of the world. They implement it by rewarding reaping (taking) acts for an era of fifty years (the first group, male-led and their followers, the political left) followed by rewarding sowing acts (giving) for an era of fifty years (the second group, female-led and their followers, the political right). The entire system is **secreted** through all of time. By the secrets, alternating support, and sometimes intent much confusion is caused to the people with less knowledge of it (lower in the hierarchy).
-
+* By the secrets, alternating support, and sometimes intent much confusion is caused to the people with less knowledge of it (lower in the hierarchy).
+* Promoted Mortals
 + The right keeps heaven from becoming too obvious.
 + Discrimination with the Hebrew code.
 + Be wary of the WQ. Female, can be on top too, what takers they are.
 + The Hebrews created the political right, accept it as inevitable, to deal with the resistance... create the female god too???
 * *Personal Salvation*... those that know the details...
 * Some call this the "human condition".
-* MENTION?: Christians!, Gods?
+* MENTION?: Christians!, Gods? (Immortal/Mortal)
 * Because the Jews have always controlled the path to *safety*... ~~they have got to make the rules~~.
 * Doubling (better known as halving?) like all their ancestors before them... Do the Jews double a giver, double their givers... a lazy way of paying attention to nature... thereby guaranteeing their survival? Follow those that help... cannibalism.
-<!-- * The first group's success becomes so addictive that they eventually begin cannibalizing on civilization. It has built to the Jews making misfortunates. -->
+<!-- * The first group's success becomes so addictive that they eventually begin cannibalizing on civilization. It has built to the Jews making mis-fortunate people. -->
 * "Call an all out war"?
-* Safety leads to conservatism then bias.
+* Safety is an *addiction* it leads to conservatism then bias.
+* ~~Some time later the female disposition became so repressed that they retaliated viscerally and got a similar age.~~
 
 Political Right Sins:
 1) Deferring Authority
 2) Secreting or keeping it silent
 3) "Revenge is a good life"
 4) Accepting obscure knowledge and getting rewarded for it.
+5) Spiritualism
 
 How was the Serpent crafty to Adam and Eve (and other mortals)?
 [+] Heaven became too obvious, the *serpent/and-or wives* wanted to hide things... so they gave Edenites (political right,Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was safety, a faux heaven though, a temporary free.
