@@ -1,4 +1,4 @@
-[^Information]: Version: 00_2024-09-31 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
+[^Information]: Version: 00_2024-10-09 ; Online: <https://tinyurl.com/HJCR1> <https://bit.ly/HJCSIC>
 
 *Civilization is putting the needs of those that need it first, but to be a citizen is fantastical task---we battle a hierarchy that offers free.*
 
