@@ -8,8 +8,8 @@
 
 Today it can be summarized as a dual male-female system of selfish snatching that is extraordinarily split, mechanized, and deadly---it forces itself into the social construct of the world. It is implemented by rewarding **reaping** (taking) acts for an era of fifty years (the first group, male-led and their followers, the political left) followed by rewarding sowing acts (giving) for an era of fifty years (the second group, female-led and their followers, the political right). The entire system is **secreted** through all of time.
 
-* By the secrets, alternating support, and sometimes intent much confusion is caused to the people with less knowledge of it (lower in the hierarchy).
 * Promoted Mortals
+* By the secrets, alternating support, and sometimes intent much confusion is caused to the people with less knowledge of it (lower in the hierarchy).
 + The right keeps heaven from becoming too obvious.
 + Discrimination with the Hebrew code.
 + Be wary of the WQ. Female, can be on top too, what takers they are.
