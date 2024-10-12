@@ -33,3 +33,4 @@ Political Right Sins:
 How was the Serpent crafty to Adam and Eve (and other mortals)?
 [+] Heaven became too obvious, the *serpent/and-or wives* wanted to hide things... so they gave Edenites (political right,Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was a temporary safety though, a faux heaven, a temporary free.
 [+] Started a selfish war between less knowing nobles (men) and women 9's.
+[+] To give females power. Likely because he wanted to avoid dealing with the men he did it subversively.
