@@ -20,19 +20,17 @@
 * MENTION?: Christians!, Gods, Immortal/Mortal.
 * Because the Jews have always controlled the path to *safety*...they have got to decide who gets included.
 * "Call an all-out *war*"? These eras have only become more extreme where at times they can be pitted against each other (while the Jews sit safely above it all).
-* Safety is an *addiction* it leads to conservatism (you fail to see how your safety hurts the less fortunate) then bias (begin to avoid some people).
-* ~~Some time later the female disposition became so repressed that they retaliated viscerally and got a similar age.~~
-* The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization. It has built to the Jews *making* mis-fortunate people.
-* Doubling (better known as halving?) like all their ancestors before them... Do the Jews double a giver, double their givers... a lazy way of paying attention to nature... thereby guaranteeing their survival? Follow those that help... cannibalism. Is better defined as dividing.
+* Safety is an *addiction* it leads to conservatism (one fail to see how their safety effects the less fortunate) then bias (begin to avoid certain people).
+* The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor, then creating the poor.
 
 Political Right Sins:
 1) Deferring Authority
 2) Secreting or keeping it silent
 3) "Revenge is a good life"
-4) Accepting obscure knowledge and getting rewarded for it.
+4) Accepting obscure knowledge and accepting inclusion for it.
 5) Spiritualism
 
 How was the Serpent crafty to Adam and Eve (and other mortals)?
 [+] Heaven became too obvious, the *serpent/and-or wives* wanted to hide things... so they gave Edenites (political right, Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was a temporary safety though, a faux heaven, a temporary free.
-[+] Started a selfish war between mortals and lesser gods.
+[+] Started a selfish war between mortals.
 [+] Gave females power. Likely because he wanted to *avoid dealing with the men* he did it subversively.
