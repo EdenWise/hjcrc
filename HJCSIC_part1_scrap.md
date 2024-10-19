@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-10-16 ; Online: <https://tinyurl.com/HJCR1> <https://bit.ly/HJCSIC>
 
-*Civilization is putting the needs of those that need it first, but to be a citizen is monumental task---we battle a hierarchy that offers free.*
+*Civilization is putting the needs of those that need it first, but to be a citizen is monumental task---we battle a hierarchy that offers **free**.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
@@ -31,5 +31,17 @@ How was the Serpent crafty?
 [+] Gave females power and rewarded them for selfishness on their own.
 [-] Started a selfish war between mortals.
 
+## I May Be Listened to Because...
+
+I have been given as a sacrifice to the Jews since I was born (just like Jesus). The basic rule is only included people ( those that know of heaven) get treated fairly, get a share of the rewards. Those that agree with giving people as sacrifices get "eternal life" (JN 3:16). I have been used as a tool by both political sides as a way to create policy (those events add on to their immortal rules, that selfish splitting). The neuronic bugs vastly effect my health, my ability, alter my knowledge, and feeling. Every person avoids me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I still hope to have a friend in my life. I wonder if their is any true help or the same jibberish I have heard all my life. I was born in 1970. I learned what I know now by living nearly every moment of my time learning, questioning, and reviewing the Jewish god system.
+
+## My Research Sources are...
+
+The research for this paper is from my experiences but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. The Bible does make sense if one learns the missing history, overcomes the graphic representations[^graphic], entire sections of rubbish, and a very deliberate, damaging, misrepresentation of history. (The Bible foregoes a lot of historical integrity by writing it revisionistically[^definition-revisionistic], backwriting it, so that they may make newer rules apply throughout.)
+
 [^effect]: This had the effect of fixing a number of immediate problems but creating a number of long-term all-female rule issues.
 [^wars]: to the people that follow the underwritees who can get in literal wars with their counterparts, and to those who lack knowing of this system.
+[^graphic]: Its graphicness can secret meanings that can only be tolerated by those who have abundant health (from supernatural safety).
+
+<!-- To do
+[^definition-politics]

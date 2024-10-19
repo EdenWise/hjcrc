@@ -6,7 +6,31 @@
 
 ![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg) Civilization began as a natural order.
 
-The entire system is kept silent through all of time. By the silence, alternating support, and by intent much confusion is caused to people outside the first group. This can get people in the second group to occasionally call an all-out *war* against the Jews. Being so stimulated/excited the Jews are little deterred by the second group's frustration and the second group eventually succumbs-to/**duplicates** the behavior to get recognition. This behavior has made the second group associated/complicit with the left. It is demonstrated in these ways: the right accepts answers from the Jews in how they use the Hebrew Code, these answers are rewarded because they *discriminate/are-libel* against the *third group* (the people with little knowledge of the first group or who are intentionally left behind)---the second group's knowledge is usually sparse and often incorrect; the right often defers authority despite importance (by numbers [12,42] and otherwise); the right in their anger loses focus with people that need help the most (the third group); and the right keeps the system largely silent. The Christian church (a succession of the second group) largely practices their beliefs with spiritual principles but is built upon a leadership (female?), formed with the New Testament, that establishes the largest complicity with the Jews by giving people as sacrifices to get safety from them. The Jew maintain the system like a vital job. From it they get: physical protection (in the first fifty years), trust from the third group who they are given much free attention to, and through it all authority and wealth. Their definition of it is literally *heaven*. I have yet to find anyone who has any sufficient overview of what is happening---**the effect on the world is tremendous**. This system forces much of the social construct of the world.
+The entire system is kept silent through all of time. By the silence, alternating support, and by intent much confusion is caused to people outside the first group. This can get people in the second group to occasionally call an all-out *war* against the Jews. Being so stimulated/excited the Jews are little deterred by the second group's frustration and the second group eventually succumbs-to/**duplicates** the behavior to get recognition. This behavior has made the second group associated/complicit with the left. It is demonstrated in these ways: the right accepts answers from the Jews in how they use the Hebrew Code, these answers are rewarded because they *discriminate/are-libel* against the 
+
+*third group* (the people with little knowledge of the first group or who are intentionally left behind)
+
+---the second group's knowledge is usually sparse and often incorrect; the right often defers authority despite importance (by numbers [12,42] and otherwise); 
+
+the right in their anger loses focus with people that need help the most (the third group);
+
+and the right keeps the system largely silent. 
+
+The Christian church (a succession of the second group) largely practices their beliefs with spiritual principles but is built upon a leadership (female?), formed with the New Testament, that establishes the largest complicity with the Jews by giving people as sacrifices to get safety from them.
+
+The Jew maintain the system like a vital job.
+
+From it they get: physical protection (in the first fifty years), 
+
+trust from the third group who they are given much free attention to,
+
+~~and through it all authority and wealth. ~~
+
+Their definition of it is literally *heaven*.
+
+I have yet to find anyone who has any sufficient overview of what is happening-
+
+--**the effect on the world is tremendous**. This system forces much of the social construct of the world.
 
 * [^definition-sin]
 * ... gave the Jews a sense of free... anything lacking being earned adds to their excitement.
@@ -17,7 +41,7 @@ The entire system is kept silent through all of time. By the silence, alternatin
 
 ## I May Be Listened to Because...
 
-I have the feeling that people want me to say very little about my position politically[^definition-politics]. This has a lot to do with: those that keep heaven silent are generally less antagonized (unless they are a messiah [political tool] where they might be used despite their situation) and, if lucky, will have help attempted on. I was born in 1970... I have been here from the start... there are others like me. The Jews grant the leadership of the right with power for the sacrifices. Some of this power can be quite large. The neuronic bugs have been used politically, I can be a battleground between the two sides. I am here a lot. It affects my behavior and physicality. Sometimes it is real tough. Many people have learned to avoid me. Any endeavor can be difficult. I have zero people I can talk to, or really ever have. I learned what I know now because I had to accept truths that were hard, unfortunate answers to try to survive because life became too impossible to live reasonably anymore.
+~~I have the feeling that people want me to say very little about my position politically[^definition-politics]. This has a lot to do with: those that keep heaven silent are generally less antagonized (unless they are a messiah [political tool] where they might be used despite their situation) and, if lucky, will have help attempted on. I was born in 1970... I have been here from the start... there are others like me. The Jews grant the leadership of the right with power for the sacrifices. Some of this power can be quite large. The neuronic bugs have been used politically, I can be a battleground between the two sides. I am here a lot. It affects my behavior and physicality. Sometimes it is real tough. Many people have learned to avoid me. Any endeavor can be difficult. I have zero people I can talk to, or really ever have. I learned what I know now because I had to accept truths that were hard, unfortunate answers to try to survive because life became too impossible to live reasonably anymore.~~
 
 ## Research Sources
 
