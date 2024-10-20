@@ -43,5 +43,4 @@ The research for this paper is from my experiences but mostly from the Bible. Th
 [^wars]: to the people that follow the underwritees who can get in literal wars with their counterparts, and to those who lack knowing of this system.
 [^graphic]: Its graphicness can secret meanings that can only be tolerated by those who have abundant health (from supernatural safety).
 
-<!-- To do
-[^definition-politics]
+[^definition-politics]: Politics can be defined as what absolutism/godisms has been gotten for a side (the right or the left) and what state they are in (the state has a lot to do with what **cycle/era** heaven is in). One that knows their politics (knows the predesigned system) basically knows what a side is allowed to do depending on the ebb and flow of power. Both sides force these borders near continually and try make new ones. Two god forces, male and female, taker and giver... I said before those that fight the war are the safe(r) ones.
