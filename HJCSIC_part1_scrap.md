@@ -21,7 +21,7 @@
  
 Political Right Faults:
 1) Deferring authority.
-2) Accepting protection from obscure knowledge. One way this happens is using the Hebrew Code to discriminate against the Eden group, the people of less knowledgeable... the Jews reward this.
+2) Accepting protection from obscure knowledge ("Don't look a gift horse in the mouth."). Another is using the Hebrew Code that discriminates against the non-represented third party (Eden)---the Jews reward this.
 3) Keeping heaven secret (silent). The leaders keep heaven from becoming too obvious.
 4) Spiritualism
 5) "Revenge is a good life"
@@ -33,7 +33,7 @@ How was the Serpent crafty?
 
 ## I May Be Listened to Because...
 
-I have been given as a sacrifice to the Jews since I was born (just like Jesus) in 1970. The basic rule is only included people (those that know of heaven) get treated fairly, get a share of the rewards. Those that agree with giving people as sacrifices get "eternal life" (JN 3:16). I have been used as a tool by both political sides as a way to refine their policies (immortal rules, that selfish splitting). Some of us are larger tools. The neuronic bugs vastly hamper my health, my ability, alter my knowledge, and change my feeling. Every person avoids me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I still hope to have a friend in my life. I wonder if their is any true help or the same gibberish I have heard all my life. I learned what I know now by living nearly every moment of my time learning, questioning, and reviewing the Jewish hierarchal system.
+I am a political prisoner of the Jews. I have been here since I was born (just like Jesus) in 1970. The basic rule is only included people (those that know of heaven) get treated fairly, get a share of the rewards. Those that agree with giving people as sacrifices get "eternal life" (JN 3:16). I have been used as a tool by both political sides as a way to refine their policies (immortal rules, that selfish splitting). Some of us are larger tools. The neuronic bugs vastly hamper my health, my ability, alter my knowledge, and change my feeling. Every person avoids me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I still hope to have a friend in my life. I wonder if their is any true help or the same gibberish I have heard all my life. I learned what I know now by living nearly every moment of my time learning, questioning, and reviewing the Jewish hierarchal system.
 
 ## My Research Sources are...
 
