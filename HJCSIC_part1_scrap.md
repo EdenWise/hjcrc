@@ -48,8 +48,8 @@ Political Right Faults:
 
 Unless we all go through it together the excitement that the Jews feel will continue...
 
-[^wars]: The political right ignorant of some inclusion and hurt by the reckless reaping of the left can get in literal wars with their political counterparts..
+[^wars]: The political right ignorant of some inclusion and hurt by the reckless reaping of the left can declare literal wars with their political counterparts..
 [^left-right]: Though the definition of political left and right has been around nearly as long as this system (religion) has, it is better defined today as political top and bottom.
 [^graphic]: Its graphicness can secret meanings that can only be tolerated by those who have abundant health (from supernatural safety).
 
-[^definition-politics]: Politics comes from the Jews. It is based on policy. There are two policies: male and female. They both last fifty years. Politics is following, enforcing, or adding to the policy of the era. Some policies are pretty consistent: pink (right), blood!?(left). Some are shared: Hasbro, Disney, Legos. Some make little sense: the right as gambling and racing; the left has government subsidized cell phones for the poor and government subsidized solar power installations. Most policy is on course: sugar and spice; puppy-dogs... These are Land of the Living values. The higher up the hierarchy the less important they become. Female Jews like the hits on Monday Night Football too.
+[^politics]: Politics comes from the Jews. It is based on policy. There are two policies: male and female. They both last fifty years. Politics is following, enforcing, or adding to the policy of the era. Some policies are pretty consistent: pink (right), blood!?(left). Some are shared: Hasbro, Disney, Legos. Some make little sense: the right as gambling and racing; the left has government subsidized cell phones for the poor and government subsidized solar power installations. Most policy is on course: sugar and spice; puppy-dogs... These male/female, land of the living values become less important with safety (the higher up the hierarchy). Female Jews like the hits on Monday Night Football too.
