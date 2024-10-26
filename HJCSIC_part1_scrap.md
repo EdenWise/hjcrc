@@ -10,11 +10,10 @@ Then they developed the female policy and it was also infectious (to many remain
 
 The "golden age" revolved to another male policy age to begin a cycle. 
 
-Long-term rule creates large policy problems that got immediate fixes by the switching or ages---the ages are so long though that few regular people recognized the problem.
+Long-term rule creates large one-policy problems that got immediate fixes by the switching or ages---the ages are so long though that few regular people recognized the problem. The switching to either policy makes its followers feel immediate fixes to large problems.
 
-The switching to either policy makes its followers feel immediate fixes to large problems. The ages over the centuries grew more extreme, became more systemized, and got secreted by the Jewish ancestors. Today people that know of the **system** seek protection by knowing its politics[^politics]. It is extraordinarily split, mechanized, and deadly[^wars]. It is implemented by rewarding male policy (generally taking) for an age of fifty years (the political left[^left-right]) followed by rewarding female policy (generally giving) for an age of fifty years (the political right). There is also a third party that lacks getting defined... The Christian church (a succession of the political right) largely practices their beliefs with spiritual principles but is built upon a leadership (formed with the New Testament) that gets safety with the Jews by giving people as sacrifices. The Jews maintain the system like a vital job. I have yet to find anyone who has a sufficient overview on what is happening.
+The ages over the centuries grew more extreme, became more systemized, and got secreted by the Jewish ancestors. Today people that know of the **system** seek protection by knowing its politics[^politics]. It is extraordinarily split, mechanized, and deadly[^wars]. It is implemented by rewarding male policy (taking) for an age of fifty years (the political left[^left-right]) followed by rewarding female policy (giving) for an age of fifty years (the political right). There is also a third party that lacks getting defined... The Christian church (a succession of the political right) largely practices their beliefs with spiritual principles but is built upon a leadership (formed with the New Testament) that gets safety with the Jews by giving people as sacrifices. The Jews maintain the system like a vital job. I have yet to find anyone who has a sufficient overview on what is happening. The Jew maintain the system like a vital job. I have yet to find anyone who has any sufficient overview of what is happening.
 
-* By the secrets, alternating support, and sometimes intent much confusion is caused to the people with less knowledge of it (lower in the hierarchy).
 + Be wary of the female god---an addiction it is to her too. Females like being on top just as much. Taking feels good.
 * *Personal Salvation*... those that know the detail get the rewards. "get saved"
 * Mention: Christians!, Gods immortal/mortal, the "human condition"?
@@ -24,7 +23,7 @@ The switching to either policy makes its followers feel immediate fixes to large
 * The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor, then creating the poor; the golden age: sex, drugs, and rock and roll; creating the poor for protection.
 + The female god was created by the serpent.
 + Describe how the Promoted Mortals (Adam and Eve) **mortals** reacted.
-* but create long-term one-policy issues
+* Their definition of it is literally *heaven*.
 
 How was the Serpent crafty?
 [+] Heaven became too obvious, the *serpent/and-or wives* wanted to hide things... so they gave Eden-ites (political right, Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was a temporary safety though, a faux heaven, a temporary free.
