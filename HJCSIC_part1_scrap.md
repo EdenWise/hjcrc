@@ -14,21 +14,20 @@ Long-term rule creates large one-policy problems that got immediate fixes by the
 
 The ages over the centuries grew more extreme, became more systemized, and got secreted by the Jewish ancestors. Today people that know of the **system** seek protection by knowing its politics[^politics]. It is extraordinarily split, mechanized, and deadly[^wars]. It is implemented by rewarding male policy (taking) for an age of fifty years (the political left[^left-right]) followed by rewarding female policy (giving) for an age of fifty years (the political right). There is also a third party that lacks getting defined... The Christian church (a succession of the political right) largely practices their beliefs with spiritual principles but is built upon a leadership (formed with the New Testament) that gets safety with the Jews by giving people as sacrifices. The Jews maintain the system like a vital job. I have yet to find anyone who has a sufficient overview on what is happening. The Jew maintain the system like a vital job. I have yet to find anyone who has any sufficient overview of what is happening.
 
-+ Be wary of the female god---an addiction it is to her too. Females like being on top just as much. Taking feels good.
++ Be wary of the female god---an addiction it is to her too. Females like being on top just as much---taking is liked by everyone.
 * *Personal Salvation*... those that know the detail get the rewards. "get saved"
-* Mention: Christians!, Gods immortal/mortal, the "human condition"?
+* Mention: Gods immortal/mortal, the "human condition"?
 * Because the Jews are *safely* above it all...they get to decide who gets included.
 * "Call an all-out *war*"? These eras have only become more extreme where at times those below the Jews can be pitted against each other.
-* Safety is coveted in nature. Even to be able to depend on it a little is an *addiction*. It leads to conservatism (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people).
-* The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor, then creating the poor; the golden age: sex, drugs, and rock and roll; creating the poor for protection.
+* Safety is coveted in nature. Even to be able to depend on it a little is an *addiction*. Having it leads to conservatism (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people).
+* The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor, then creating the poor; the golden age: eat, drink, and be merry, then creating the poor for protection.
 + The female god was created by the serpent.
 + Describe how the Promoted Mortals (Adam and Eve) **mortals** reacted.
 * Their definition of it is literally *heaven*.
 
 How was the Serpent crafty?
-[+] Heaven became too obvious, the *serpent/and-or wives* wanted to hide things... so they gave Eden-ites (political right, Adam and Eve) a temporary rule (made them representatives) and allowed them to think they fixed it. It was a temporary safety though, a faux heaven, a temporary free.
-[+] Gave females power and rewarded them for selfishness on their own.
-[-] Started a selfish war between mortals.
+[+] Heaven became too obvious, the serpent changed the rewards to females to hide things. They gave Eden-ites, Adam and Eve, a temporary rule (made them representatives) and allowed them to think they fixed it. It was a temporary safety though, a faux heaven, a temporary free.
+[-] Started a selfish war between mortals---lacks being the intent.
 
 ## I May Be Listened to Because...
 
