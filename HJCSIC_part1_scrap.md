@@ -35,13 +35,13 @@ I am a political prisoner of the Jews. I have been here since I was born (just l
 
 ## My Research Sources are...
 
-The research for this paper is from my experiences but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. The Bible does make sense if one learns the missing history, overcomes the graphic representations[^graphic], entire sections of rubbish, and a very deliberate, damaging, misrepresentation of history. There is a lot to learn. (The Bible foregoes a lot of historical integrity by writing it revisionistically[^definition-revisionistic], backwriting it, so that they may make newer rules apply throughout.)
+The research for this paper is from my experiences but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. The Bible does make sense if one learns the missing history, overcomes the graphic representations[^graphic], entire sections of rubbish, and a very deliberate, damaging, misrepresentation. There is a lot to learn. (The Bible foregoes a lot of historical integrity by writing it revisionistically[^definition-revisionistic], backwriting it, so that they may make newer rules apply throughout.)
 
 ## The Story of the Moral
 
 Political Right Faults:
 1) Deferring authority.
-2) Accepting protection from obscure knowledge ("Don't look a gift horse in the mouth."). Another is using the Hebrew Code that discriminates against the non-represented third party (Eden)---the Jews reward this.
+2) Accepting protection from obscure knowledge (i.e. "Don't look a gift horse in the mouth."). One example is using the Hebrew Code to discriminate against the non-represented third party (Eden)---the Jews reward this.
 3) Keeping heaven secret (silent). The leaders keep heaven from becoming too obvious.
 4) Spiritualism
 5) "Revenge is a good life"
