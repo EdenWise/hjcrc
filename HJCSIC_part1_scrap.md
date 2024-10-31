@@ -22,9 +22,10 @@ The Bible is back-written(revisionistic?[^revisionistic]) so newer rules apply t
 
 Political Right Faults:
 1) Deferring authority.
-2) Accepting protection from obscure knowledge (i.e. "Don't look a gift horse in the mouth."). One example is using the Hebrew Code in a way that discriminates against the third party. Even if a person lacks knowing the Hebrew Code's official meanings they will be rewarded by the Jews (usually with some selfishness added).
+2) Accepting protection from obscure knowledge, vanity, "Don't look a gift horse in the mouth.". One example is using the Hebrew Code in a way that discriminates against the third party. Even if a person lacks knowing the Hebrew Code's official meanings they will be rewarded by the Jews (usually with some selfishness added).
 3) Keeping heaven silent, "Revenge is a good life". The leaders keep heaven from becoming too obvious.
 4) Spiritualism
+5) Leaders fail to deal with (or realize) the Jews were re-writing history (to make political rules).
 
 Unless we all go through it together the excitement that the Jews feel will continue...
 
