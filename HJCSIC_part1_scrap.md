@@ -41,15 +41,12 @@ Unless we all go through it together the excitement that the Jews feel will cont
 [^revisionistic]: From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): [...] changing some accepted doctrine or view of history.
 
 * Describe how the Promoted Mortals (Adam and Eve) reacted. They gave Eden-ites, Adam and Eve, a temporary rule (made them representatives) and allowed them to think they fixed it. It was a temporary safety though, a faux heaven, a temporary free.
-* *Personal Salvation*... those that know the detail get the rewards, "get saved".
+* *Personal Salvation*... those that know the detail get the rewards, "get **saved**".
 * Mention: Gods immortal/mortal, the "human condition"?
 * Because the Jews are *safely* above it all... they get to decide who gets included.
-* Safety is coveted in nature. To even be able to depend on it a little is an *addiction*. Having it leads to conservatism (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people). Safety leads to corruption.
-* The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor, then creating traps to make people poor; the golden age: eat, drink, and be merry, then sacrificing the poor for protection.
+* Safety is coveted in nature. To even be able to depend on it a little is an *addiction*. Having it leads to conservatism (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people). Safety corrupts civilization.
+* The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor, then creating traps to make people poor. The golden age: eat, drink, and be merry, then sacrificing the poor for protection.
 * Their definition of it was literally *heaven*.
 * Be wary of the female god---an addiction it is to her too. Females like being on top just as much. Taking feels like success.
-~~* The female god was created by the serpent.~~
 
-How was the Serpent crafty?
-[+] Heaven became too obvious. The serpent changed the rewards to females to hide things.
-[-] Started a selfish war between mortals---lacks being the intent.
+Crafty: Heaven became too obvious. The serpent changed the rewards to females to hide things.
