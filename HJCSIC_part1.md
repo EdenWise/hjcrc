@@ -8,46 +8,20 @@
 
 The entire system is kept silent through all of time. By the silence, alternating support, and by intent much confusion is caused to people outside the first group. This can get people in the second group to occasionally call an all-out *war* against the Jews. Being so stimulated/excited the Jews are little deterred by the second group's frustration and the second group eventually succumbs-to/**duplicates** the behavior to get recognition. This behavior has made the second group associated/complicit with the left. It is demonstrated in these ways: the right accepts answers from the Jews in how they use the Hebrew Code, these answers are rewarded because they *discriminate/are-libel* against the 
 
-*third group* (the people with little knowledge of the first group or who are intentionally left behind)
-
----the second group's knowledge is usually sparse and often incorrect; the right often defers authority despite importance (by numbers [12,42] and otherwise); 
-
-the right in their anger loses focus with people that need help the most (the third group);
-
-and the right keeps the system largely silent. 
-
-The Christian church (a succession of the second group) largely practices their beliefs with spiritual principles but is built upon a leadership (female?), formed with the New Testament, that establishes the largest complicity with the Jews by giving people as sacrifices to get safety from them.
-
-The Jew maintain the system like a vital job.
-
-From it they get: physical protection (in the first fifty years), 
-
-trust from the third group who they are given much free attention to,
+the right in their anger loses focus with people that need help the most (the third group); trust from the third group who they are given much free attention to, focus away from the third party.
 
 ~~and through it all authority and wealth. ~~
 
-Their definition of it is literally *heaven*.
-
-I have yet to find anyone who has any sufficient overview of what is happening-
-
---**the effect on the world is tremendous**. This system forces much of the social construct of the world.
-
 * [^definition-sin]
-* ... gave the Jews a sense of free... anything lacking being earned adds to their excitement.
-* (gets them "saved") 
 * --despite the right's ill recognition of the impact of the sin and often thinking it helpful.
-* The Jews administrate the system (i.e. have created a lot of the right's power [through the code, etc.], completely ignorant to the right).
-* these sins the Jews reward with better inclusion---they perpetuate the system. 
 
 ## I May Be Listened to Because...
 
-~~I have the feeling that people want me to say very little about my position politically[^definition-politics]. This has a lot to do with: those that keep heaven silent are generally less antagonized (unless they are a messiah [political tool] where they might be used despite their situation) and, if lucky, will have help attempted on. I was born in 1970... I have been here from the start... there are others like me. The Jews grant the leadership of the right with power for the sacrifices. Some of this power can be quite large. The neuronic bugs have been used politically, I can be a battleground between the two sides. I am here a lot. It affects my behavior and physicality. Sometimes it is real tough. Many people have learned to avoid me. Any endeavor can be difficult. I have zero people I can talk to, or really ever have. I learned what I know now because I had to accept truths that were hard, unfortunate answers to try to survive because life became too impossible to live reasonably anymore.~~
-
 ## Research Sources
 
-The research for this paper is generally from the Bible. The Bible does make sense... if one learns the correct missing history and can discover the Jewish intent. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. Both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. The Jews have written the Bible to focus mostly on how to keep their system secret and convey their methodology. Historical integrity gets lost.
+Both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. The Jews have written the Bible to focus mostly on how to keep their system secret and convey their methodology. Historical integrity gets lost.
 
-It keeps secrets by being audacious, sometimes graphic, and by using confusion with sections of rubbish. Its graphicness can secret meanings that can only be tolerated by those who have abundant health (from supernatural safety). The Bible foregoes a lot of historical integrity by writing it revisionistically[^definition-revisionistic], backwriting it, so that they may make newer rules apply throughout. The beginning of the Bible is packed with details but because so much of the history is missing they are hard to figure out. 
+Its graphicness can secret meanings that can only be tolerated by those who have abundant health (from supernatural safety). The Bible foregoes a lot of historical integrity by writing it revisionistically[^definition-revisionistic], backwriting it, so that they may make newer rules apply throughout. The beginning of the Bible is packed with details but because so much of the history is missing they are hard to figure out. 
 
 Getting past these aversions one can discover the intent of the Bible and how it influences civilization. Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
 
