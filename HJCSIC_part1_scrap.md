@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-10-28; Online: <https://tinyurl.com/HJCR1> <https://bit.ly/HJCSIC>
 
-*Civilization is putting the needs of those that need it first, but to be a citizen is monumental task---we battle a hierarchy that has left humanity obsessed with free/pleasurably powered.*
+*Civilization is putting the needs of those that need it first, but to be a citizen is monumental task---we battle a hierarchy that has left humanity addicted to free.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
@@ -10,13 +10,11 @@ Civilization began as a natural order. 4100 years ago this began to change when 
 
 ## I May Be Listened to Because...
 
-I am a political prisoner of the Jews. I have been here since I was born (just like Jesus) in 1970. The basic rule is only included people (those that know of the system) get treated fairly, get a share of the rewards, "get "eternal life". I have been used as a tool by both political sides as a way to refine their policies (immortal rules, that selfish splitting). Some of us are large tools. The neuron-altering bugs vastly hamper my health, my ability, alter my knowledge, and change my feeling. My brain feels mixed up. People avoid me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I have yet to have a friend in live. I wonder what realistic help is available. Do people feel the pull of selfishness? I learned what I know now by living most of my life learning, questioning, and reviewing the Jewish hierarchal system.
+I am a political prisoner of the Jews. I have been here since I was born (just like Jesus) in 1970. The basic rule is only included people (those that know of the system) get treated fairly, get a share of society, "get "eternal life". I have been used as a tool by both political sides as a way to refine their policies (immortal rules, that selfish splitting). Some of us are large tools. The neuron-altering bugs vastly hamper my health, my ability, alter my knowledge, and change my feeling. My brain feels mixed up. People avoid me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I have yet to have a friend in life. I wonder what realistic help is available. Can feel the pull away from fairness? I learned what I know now by living most of my life learning, questioning, and reviewing the Jewish hierarchal system.
 
 ## My Research Sources are...
 
-The research for this paper is from my experiences but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. The Bible does make sense if one learns the missing history, overcomes the graphic representations[^graphic], entire sections of rubbish, and a very deliberate, damaging, re-writing of history.
-
-The Bible is back-written(revisionistic?[^revisionistic]) so newer rules apply throughout.
+The research for this paper is from my experiences but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent---institutions that have been around awhile usually provide a plan. Both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. The Bible does make sense if one learns the missing history, overcomes the graphic representations[^graphic], entire sections of rubbish, and a very deliberate, damaging, re-writing of history. (The Bible is back-written(revisionistic?[^revisionistic]) so newer rules apply throughout.) The beginning of the Bible is packed with details. The Bible was forced by the political right, their side of the story (except for Genesis 1), plus the third party they sometimes represent, the story of societal sliding and human sacrifices.
 
 ## The Story of the Moral
 

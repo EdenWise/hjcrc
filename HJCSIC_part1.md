@@ -19,13 +19,7 @@ the right in their anger loses focus with people that need help the most (the th
 
 ## Research Sources
 
-Both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. The Jews have written the Bible to focus mostly on how to keep their system secret and convey their methodology. Historical integrity gets lost.
-
-Its graphicness can secret meanings that can only be tolerated by those who have abundant health (from supernatural safety). The Bible foregoes a lot of historical integrity by writing it revisionistically[^definition-revisionistic], backwriting it, so that they may make newer rules apply throughout. The beginning of the Bible is packed with details but because so much of the history is missing they are hard to figure out. 
-
-Getting past these aversions one can discover the intent of the Bible and how it influences civilization. Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
-
-  , and the Bible is sort of the second group's of story (except for Genesis 1) the story of societal sliding and human sacrifices.
+Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
 
 ## Hebrew Code
 
