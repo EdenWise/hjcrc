@@ -1,14 +1,6 @@
-[^Information]: Version: 00_2024-08-27 ; Online: https://tinyurl.com/HJCR1 https://bit.ly/HJCSIC
-
-*As a citizen we should fear ourselves---for most of us, freedom-been-given/power-has-been-encouraged to use our personal-greatness/sexual-disposition.* | *Civilization is putting the needs of those that need it first.*
-
-# How the Judeo-Christian System Influences Civilization (Part 1) [^Information]
-
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg) Civilization began as a natural order.
-
 The entire system is kept silent through all of time. By the silence, alternating support, and by intent much confusion is caused to people outside the first group. This can get people in the second group to occasionally call an all-out *war* against the Jews. Being so stimulated/excited the Jews are little deterred by the second group's frustration and the second group eventually succumbs-to/**duplicates** the behavior to get recognition. This behavior has made the second group associated/complicit with the left. It is demonstrated in these ways: the right accepts answers from the Jews in how they use the Hebrew Code, these answers are rewarded because they *discriminate/are-libel* against the 
 
-the right in their anger loses focus with people that need help the most (the third group); trust from the third group who they are given much free attention to, focus away from the third party.
+the right in their anger loses **focus** with people that need help the most (the third group); trust from the third group who they are given much free attention to, focus away from the third party.
 
 ~~and through it all authority and wealth. ~~
 
@@ -17,21 +9,13 @@ the right in their anger loses focus with people that need help the most (the th
 
 ## I May Be Listened to Because...
 
-## Research Sources
-
-Those that are a part of the system project the Testaments as fair declarations with civilization. It falls below that standard by leaving out a lot of initial history, by being intentionally cryptic, and trying repulse interest[^Judeo-Christian-Definition].
-
-## Hebrew Code
-
-![](images/15_hebrew-code.svg)The Hebrew people use a code to share secrets with. It is hidden within ordinary language. The base meanings have *absolute* definitions.
+[^Judeo-Christian-Definition].
 
 ## The Secret of Heaven
 
-(The "Secret of Heaven" is my title. As far as I know it has been defined only here. I consider it an appropriate title to describe this occurrence in history.) The "Secret of Heaven" comes from before the Bible was written. The chance of understanding the Bible absent of knowing the "Secret of Heaven" is very small. How the "Secret of Heaven" was formed is part speculation, it is derived from my experience and my limited reading of *History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 3*[^HECSBAV3].
+(The "Secret of Heaven" is my title.[^HECSBAV3].
 
-![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven started because of an environmental threat. The area the system started in was the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). The area is surrounded by a lot of desert. Surviving in the area was risky at times (droughts, distance from safe land...). It could create fortunate men and desperate men, some rich and others fighting for their life. The residents became afraid of the desperate men's mood when their behavior became visceral[^definition-visceral]. Someone doing better (the ancient Hebrew) thought a desperate person particularly dangerous but decided to reward him for personal protection. He kept it silent because the desperate person's behavior affected others adversely. The desperate person felt a life-debt and protected his underwriter even beyond ethical boundaries. The ancient Hebrew decided to keep on rewarding him for these desperate acts. He felt very *intelligent*. The desperate man became more *visceral*---it grew to a feeling of being open-bounded, built to narcissism, then he became strong enough to define what "good"[^definition-good] was, lastly an insularity can build where abnormal experiences are required for him to find things interesting. These were men to be feared. Both men prospered from this, a feeling of obtaining *free* began. Other men that were doing well began to catch on. Silently, it spread in the area. The relationship between *intelligent* man and *visceral* man formed a symbiotic bond that came to be known as the "Secret of Heaven". The great Jewish two system was born. In Genesis 2 it **doubles** again.
-
-Harsh land, a few fortunate. One rich, another fighting for his life. The rich man sees a desperate man **sin** (e.g. steal some seeds). He confronts him and decides it is dangerous to argue with someone who is trying to save his life. The rich man knowing that even his fortune can be effected by the environment says to himself, "This would be a great person to have on my side." So, instead, he *rewards* him for the sin (e.g. allows him to use some irrigation water). Afterward, he decides to reward other sins of his as well (that can be gotten away with). The desperate man became big and powerful, someone to be feared. By rewarding him, the rich man was able to create <u>policy</u>. It turns out that supplementing the basic male trait (men liking taking) influenced male behavior in the area. This stimulated other fortunate men to reward likewise and an infestation of male-taking began. It lasted a long time.
+![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven started because of an environmental threat. The area the system started in was the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). 
 
 ## Bible Translation
 
