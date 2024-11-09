@@ -8,6 +8,17 @@
 		}
 	],
 	"settings": {
-		"cSpell.enabled": true
+		"cSpell.enabled": true,
+		// Intellisense disable.
+		"editor.quickSuggestions": {
+			"comments": "off",
+			"strings": "off",
+			"other": "off"
+		},
+		"editor.acceptSuggestionOnEnter": "off", // Enter newline preferred... or Tab.
+		"editor.quickSuggestionsDelay": 10,
+		"editor.wordBasedSuggestions": "off",
+		// "editor.autoClosingBrackets": false,
+		"editor.suggestOnTriggerCharacters": false
 	}
 }
