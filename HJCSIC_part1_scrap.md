@@ -15,34 +15,11 @@ I am a political prisoner of the Jews. I have been here since I was born (just l
 
 ## Research Sources
 
-The research for this paper is from the Bible and from my personal experiences. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent. Institutions that have been around awhile usually provide a plan---both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. Though the Testaments fail to be fair declarations with civilization, the Bible does provide insight on what this system is doing to civilization if one is willing to learn the Hebrew Code, the missing history, overcome the graphic representations[^graphic], bypass the entire sections of rubbish, and forgive a very deliberate, clobbering of history (the Old Testament is generically mislabeled to secret its system). A couple more things: the beginning of the Bible is packed with details; and the Bible was forced by the political right, their side of the story (except for Genesis 1), plus some of the third party they sometimes represent, the story of societal sliding and human sacrifices.
+The research for this paper is from the Bible and from my personal experiences. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent. Institutions that have been around awhile usually provide a plan---both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. Though the Testaments fail to be fair declarations with civilization, the Bible does provide insight on what this system is doing to civilization if one is willing to learn the ![](images/15_hebrew-code.svg)Hebrew Code[^Hebrew-Code], the missing history, overcome the graphic representations[^graphic], bypass the entire sections of rubbish, and forgive a very deliberate, clobbering of history (the Old Testament is generically mislabeled to secret its system). A couple more things: the beginning of the Bible is packed with details; and the Bible was forced by the political right, their side of the story (except for Genesis 1), plus some of the third party they sometimes represent, the story of societal sliding and human sacrifices.
 
-## Hebrew Code
+## Bible Translation---Genesis 1
 
-![](images/15_hebrew-code.svg)The Hebrew people use a code to share secrets with. It is hidden within ordinary language. The base meanings have *absolute* definitions.
-
-## The Story of the Moral
-
-Political Right Faults:
-1) Sacrifices.
-2) Deferring authority---especially during important situations.
-3) Overview forsaking, accepting protection from obscure knowledge, act like they know what they are talking about, vanity, "Don't look a gift horse in the mouth.". The political right's knowledge is sparse and often incorrect. One example is using the Hebrew Code in a way that discriminates against the third party. If the perpetuator uses the Hebrew Code in a way that is discriminating, the Jews will reward inclusion (requires audacity usually).
-4) Keeping the system silent, "Revenge is a good life". The leaders keep heaven from becoming too obvious.
-5) Spiritualism (substituting visceral-ness).
-6) Failing to deal with the Jews re-labeling their history.
-
-Unless we all go through it together the excitement that the Jews feel will continue... a feeling of free, an addiction.
-
-----
-
-[^wives]: Of the underwriting transferring from the husbands to the wives, though it fits with their procedure, I lack having enough experience or knowledge to confirm if it is true.
-[^betrayal]: To the narcissists there is only the taking---it is addicting. To stop it, the seer had to promise equal representation to the defiers. Civilization began to recover but learned some of what was done to them. They were hurt by the narcissists age so they altered their sacred system ("betrayed" likely what the narcissists said). || This started a long history of finger pointing. After a number of revolutions the seer having been forced to "... roam[] throughout the earth, going back and forth on it" intimidates the female god to give a sacrifice. [^debt]: The Jews sometimes give things (someone may even accidentally acquire a thing) and they will call it a debt even if the recipient lacks being told about it.
-[^switching]: The switching of policy has the effect of relieving its beneficiaries of long-term one-sided policy issues. But each policy lasts so long they create competition rather than cooperation.
-[^politics]: Politics comes from the Jews. It is based on policy. There are two policies: male and female (taking and giving). They both last fifty years. Politics is following, enforcing, or adding to the policy of the age. Some policies are pretty consistent: pink (right), blood!?(left). Some are shared: Hasbro, Disney, Lego. Some make little sense: the right as gambling and racing; the left has government subsidized cell phones for the poor and government subsidized solar power installations. Most policy is on course: sugar and spice; puppy-dogs... These male/female values are only valuable amoung the mainstream: the poor care little of pink, the female Jews like the hits on Monday Night Football. Even deeper, the catalyst is the messiah, the exemption. Whatever misfortune happens to that person, whatever need that person requests of a saved person and to be directly worked against, becomes the new rule.
-[^wars]: The political right ignorant of some inclusion and hurt by the reckless reaping of the left can declare literal wars with their political counterparts.
-[^left-right]: Though the definition of political left and right has been around nearly as long as this system (religion) has, it is better defined today as political top and bottom. I'll get more into this later.
-[^graphic]: Its graphicness can hide meanings that can only be tolerated by those who have abundant health (from supernatural safety).
-[^revisionistic]: From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): [...] changing some accepted doctrine or view of history.
+*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV).
 
 ## Notes
 
@@ -56,3 +33,27 @@ Unless we all go through it together the excitement that the Jews feel will cont
 * "eternal life"
 * Their definition of it was literally *heaven*.
 * Heaven became too obvious.
+
+[^wives]: Of the underwriting transferring from the husbands to the wives, though it fits with their procedure, I lack having enough experience or knowledge to confirm if it is true.
+[^betrayal]: To the narcissists there is only the taking---it is addicting. To stop it, the seer had to promise equal representation to the defiers. Civilization began to recover but learned some of what was done to them. They were hurt by the narcissists age so they altered their sacred system ("betrayed" likely what the narcissists said). || This started a long history of finger pointing. After a number of revolutions the seer having been forced to "... roam[] throughout the earth, going back and forth on it" intimidates the female god to give a sacrifice. [^debt]: The Jews sometimes give things (someone may even accidentally acquire a thing) and they will call it a debt even if the recipient lacks being told about it.
+[^switching]: The switching of policy has the effect of relieving its beneficiaries of long-term one-sided policy issues. But each policy lasts so long they create competition rather than cooperation.
+[^politics]: Politics comes from the Jews. It is based on policy. There are two policies: male and female (taking and giving). They both last fifty years. Politics is following, enforcing, or adding to the policy of the age. Some policies are pretty consistent: pink (right), blood!?(left). Some are shared: Hasbro, Disney, Lego. Some make little sense: the right as gambling and racing; the left has government subsidized cell phones for the poor and government subsidized solar power installations. Most policy is on course: sugar and spice; puppy-dogs... These male/female values are only valuable among the mainstream: the poor care little of pink, the female Jews like the hits on Monday Night Football. Even deeper, the catalyst is the messiah, the exemption. Whatever misfortune happens to that person, whatever need that person requests of a saved person and to be directly worked against, becomes the new rule.
+[^wars]: The political right ignorant of some inclusion and hurt by the reckless reaping of the left can declare literal wars with their political counterparts.
+[^left-right]: Though the definition of political left and right has been around nearly as long as this system (religion) has, it is better defined today as political top and bottom. I'll get more into this later.
+[^Hebrew-Code]: The Hebrew people (and many others today) use a code to share secrets with. It is hidden within ordinary language. The base meanings have *absolute* definitions.
+[^graphic]: Its graphicness can hide meanings that can only be tolerated by those who have abundant health (from supernatural safety).
+[^revisionistic]: From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): [...] changing some accepted doctrine or view of history.
+
+----
+
+## The Story of the Moral
+
+Political Right Faults:
+1) Sacrifices.
+2) Deferring authority---especially during important situations.
+3) Overview forsaking, accepting protection from obscure knowledge, act like they know what they are talking about, vanity, "Don't look a gift horse in the mouth.". The political right's knowledge is sparse and often incorrect. One example is using the Hebrew Code in a way that discriminates against the third party. If the perpetuator uses the Hebrew Code in a way that is discriminating, the Jews will reward inclusion (requires audacity usually).
+4) Keeping the system silent, "Revenge is a good life". The leaders keep heaven from becoming too obvious.
+5) Spiritualism (substituting visceral-ness).
+6) Failing to deal with the Jews re-labeling their history.
+
+Unless we all go through it together the excitement that the Jews feel will continue... a feeling of free, an addiction.
