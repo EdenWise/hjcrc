@@ -19,7 +19,7 @@ the right in their anger loses **focus** with people that need help the most (th
 
 ## Bible Translation
 
-**Genesis 1** *(Primary, Male-Policy, Reap)* ~~Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man *took* so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV).~~ Heaven was such an attraction it became systematic. A man would double a previous desperate man's sin and change one facet of it: day/night, water/sky, land/sea, sun/moon, **man/nature**. The effect it had on nature was large. ••more "good and evil"[^definition-good] was done••
+**Genesis 1** *(Primary, Male-Policy, Reap)* ~~Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man *took* so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV).~~ ~~Heaven was such an attraction it became systematic. A man would double a previous desperate man's sin and change one facet of it:~~ day/night, water/sky, land/sea, sun/moon, **man/nature**. The effect it had on nature was large. ••more "good and evil"[^definition-good] was done••
 
 **Genesis 2** But men taking all the time and being completely secretive caused a serious problem: heaven became obvious. So the women (the wives... of the noble men) caused a stir.
 

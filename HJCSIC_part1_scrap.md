@@ -19,7 +19,7 @@ The research for this paper is from the Bible and from my personal experiences. 
 
 ## Bible Translation---Genesis 1
 
-*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV).
+*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). The Old Testament is backwritten[^backwritten] here. Originally only good was created: heaven, day, water... (rather than: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature.)
 
 ## Notes
 
@@ -29,7 +29,6 @@ The research for this paper is from the Bible and from my personal experiences. 
 * Safety is coveted in nature. To even be able to depend on it a little is an *addiction*. Having it leads to conservatism, a dispersal of toleration (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people). Safety corrupts civilization.
 * The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor. The golden age: eat, drink, and be merry, then sacrificing the poor for protection.
 * Be wary of the female god---an addiction it is to her too. Females like being on top just as much. Taking feels like success.
-* (The Bible is back-written(revisionistic?[^revisionistic]) so newer rules apply throughout.)
 * "eternal life"
 * Their definition of it was literally *heaven*.
 * Heaven became too obvious.
@@ -42,7 +41,7 @@ The research for this paper is from the Bible and from my personal experiences. 
 [^left-right]: Though the definition of political left and right has been around nearly as long as this system (religion) has, it is better defined today as political top and bottom. I'll get more into this later.
 [^Hebrew-Code]: The Hebrew people (and many others today) use a code to share secrets with. It is hidden within ordinary language. The base meanings have *absolute* definitions.
 [^graphic]: Its graphicness can hide meanings that can only be tolerated by those who have abundant health (from supernatural safety).
-[^revisionistic]: From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): [...] changing some accepted doctrine or view of history.
+[^backwritten]: my word... making newer rules apply throughout. Possibly I could make revisionistic work. From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): changing some accepted doctrine or view of history.
 
 ----
 
