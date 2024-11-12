@@ -19,7 +19,11 @@ The research for this paper is from the Bible and from my personal experiences. 
 
 ## Bible Translation---Genesis 1
 
-*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). The Old Testament is backwritten[^backwritten] here. Originally only good was created: heaven, day, water... (rather than: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature.)
+*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). Originally only good was created: heaven, day, water... (rather than: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature). This is a small example of backwritting[^backwritten] here (MENTION GOOD AND EVIL BELOW?).
+
+## Genesis 2
+
+*Secondary, Female-Led, Giving/Sowing* 
 
 ## Notes
 
