@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-10-28; Online: <https://tinyurl.com/HJCR1> <https://bit.ly/HJCSIC>
 
-*Civilization is putting the needs of those that require them first but to be a citizen is monumental task, we battle a hierarchy that capitalizes on fortune.*
+*Civilization is putting the needs of those that require them first but to be a citizen is monumental task, we have been ignorantly corrupted by a hierarchy that capitalizes on fortune.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
@@ -45,6 +45,9 @@ Warning: The details described herein contain vivid selfish acts that created ho
 * Their definition of it ~~was~~ is literally *heaven*.
 * Heaven became too obvious.
 * Some people who profited from the age but learned of the ancestor's underwriting began to feel guilty.[^wives]. Eventually they collaborated and put pressure on the seer (the ancestor's administrator) to stop supporting the narcissists.
+* [^definition-sin]
+* [^Judeo-Christian-Definition]
+* [^definition-good]
 
 [^order-push]: Approaching the seer and pushing for order is a bit of speculation---the Bible only touches on this.
 [^wives]: Of the underwriting transferring from the husbands to the wives, though it fits with their procedure, I lack having enough experience or knowledge to confirm if it is true.

@@ -1,29 +1,4 @@
-The entire system is kept silent through all of time. By the silence, alternating support, and by intent much confusion is caused to people outside the first group. This can get people in the second group to occasionally call an all-out *war* against the Jews. Being so stimulated/excited the Jews are little deterred by the second group's frustration and the second group eventually succumbs-to/**duplicates** the behavior to get recognition. This behavior has made the second group associated/complicit with the left. It is demonstrated in these ways: the right accepts answers from the Jews in how they use the Hebrew Code, these answers are rewarded because they *discriminate/are-libel* against the 
 
-the right in their anger loses **focus** with people that need help the most (the third group); trust from the third group who they are given much free attention to, focus away from the third party.
-
-~~and through it all authority and wealth. ~~
-
-* [^definition-sin]
-* --despite the right's ill recognition of the impact of the sin and often thinking it helpful.
-
-## I May Be Listened to Because...
-
-[^Judeo-Christian-Definition].
-
-## The Secret of Heaven
-
-(The "Secret of Heaven" is my title.[^HECSBAV3].
-
-![](images/20_ages-of-civilization_heaven.svg)The Secret of Heaven started because of an environmental threat. The area the system started in was the Tigris-Euphrates rivers of present-day Iraq around 4100 years ago. This is where Abraham came from (Gen 11:28-31). 
-
-## Bible Translation
-
-**Genesis 1** *(Primary, Male-Policy, Reap)* ~~Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man *took* so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV).~~ ~~Heaven was such an attraction it became systematic. A man would double a previous desperate man's sin and change one facet of it:~~ ~~day/night, water/sky, land/sea, sun/moon, **man/nature**. The effect it had on nature was large. ••more "good and evil"[^definition-good] was done••~~
-
-~~**Genesis 2** But men taking all the time and being completely secretive caused a serious problem: heaven became obvious. So the women (the wives... of the noble men) caused a stir.~~
-
-**Genesis 2** *(Secondary, Female-Policy, Sow)* ~~"By the **seventh** day God had finished the work... so on the **seventh** day he rested from all his work." (Gen 2:2). Something is different here. Resting. Seventh. Genesis 2 starts off with the LORD ♀. Yep, *she*[^pronoun-female] contends the creator of plants, formed man. This doubling (Gen 2:5-7 from Gen 1:27-29) means there is a new leader in town. To the quick: there is a problem with the all-male heaven. Men reaping all the time causes a lot of butting heads... heaven becoming obvious. So a noble female (likely a wife of a god) sees how the mortal females have become desperate and talks to the serpent[^serpent]. The idea she sold him on was: that they could take a desperate man's wife and get her (Eve here) ~~to enforce policy through him. The males had their chance and to make someone else do it provided better protection. He agreed... ~~found it hard to argue with the raw mortal energy~~. Adam, a sprouting male god, is controllable. The LORD grooms him, gives him a farm---it makes him feel confident like a god. Gives him a wife (finds someone willing to steer him). ~~Adam and Eve were still of nature though "naked and they felt no shame". Key word: **Eden** (2:8).~~
 
 **Genesis 3** *(~~Primary,~~ Secondary, Male-Female-Policy, Reap)* In ancient Hebrew history the power structure is thus: there are a bunch of Desperates/Nobles; their Rewarders who like to keep very silent (If I remember correctly they are represented as a single entity, who they called Ea, later Hea [which is how heaven got its name]); and the Nine who would be like a mayor today---he got to decide who the nobles were (by creating floods [selfish spats] when was told were necessary). So the serpent (very powerful at the time) who has already decided to try female-policy, tempts Eve into taking the fruit (the polar/opposite of what the female LORD is allowed to do... the great Jewish two system). A god enactment is done by Eve recognizing the tree to be "good for food and pleasing to the eye" (Genesis 3:6 doubles Genesis 2:9); she sins by partaking of the fruit to "be like God" and because it is "desirable for gaining wisdom". She also gives some to Adam. They become above nature: "realized they were naked". The woman LORD chews them out (double-talk [saying one thing buy meaning the opposite]: congratulates them): the serpent (praise be him for our nobility) is to be above everybody; the enmity between the serpent and the woman LORD really means that they will be good friends; the female gods (like Eve) will rule over their husbands; the man will enjoy life and be lazy (will probably represent us too [kind of had to as the male gods generally think that only men rule]), and Adam just a bumbling follower must be kept from returning to Eden (Gen 3:22), protected by "cherubim and flaming swords" (akin to sons and daughters of Genesis 6:2, people to be feared). ••"Gaining wisdom" is (hu)man over nature, intellect or **visceral-ness**, safety solely by thinking (with the predesigned system)---a luxury for any animal. The reaping renews again when Eve then Adam partake of the fruit. The Hebrews to keep prosperous the using of naïve people, refer to the people of Eden almost silently. Key words: dust, dust, dust (14, 19).••
 
@@ -46,7 +21,7 @@ the right in their anger loses **focus** with people that need help the most (th
 * Became eventually: The women are going to flood too and do it better.
 * This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.
 * "friends (Job 2:11)"
-* (narcisstic, desperate)
+* (narcissistic, desperate)
 * it hides the flood
 * the right: the enablers, the finger-waggers
 * quotes as " or ' rather than ’ and ” ?!
