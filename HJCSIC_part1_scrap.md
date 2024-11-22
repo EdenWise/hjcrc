@@ -42,7 +42,6 @@ Warning: The details described herein contain vivid selfish acts that created ho
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
 * Some people who profited from the age but learned of the ancestor's underwriting began to feel guilty.[^wives]. Eventually they collaborated and put pressure on the seer (the ancestor's administrator) to stop supporting the narcissists.
-* [^definition-sin]
 * [^Judeo-Christian-Definition]
 * [^definition-good]
 
