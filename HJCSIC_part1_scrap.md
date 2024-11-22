@@ -42,8 +42,6 @@ Warning: The details described herein contain vivid selfish acts that created ho
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
 * Some people who profited from the age but learned of the ancestor's underwriting began to feel guilty.[^wives]. Eventually they collaborated and put pressure on the seer (the ancestor's administrator) to stop supporting the narcissists.
-* [^Judeo-Christian-Definition]
-* [^definition-good]
 
 [^wives]: Of the underwriting transferring from the husbands to the wives, though it fits with their procedure, I lack having enough experience or knowledge to confirm if it is true.
 [^betrayal]: To the narcissists there is only the taking---it is addicting. ~~To stop it, the seer had to promise equal representation to the defiers.~~ Civilization began to recover but learned some of what was done to them. They were hurt by the narcissists age so they altered their sacred system ("betrayed" likely what the narcissists said). || This started a long history of finger pointing. After a number of revolutions the seer having been forced to "... roam[] throughout the earth, going back and forth on it" intimidates the female god to give a sacrifice. [^debt]: The Jews sometimes give things (someone may even accidentally acquire a thing) and they will call it a debt even if the recipient lacks being told about it.
@@ -55,6 +53,8 @@ Warning: The details described herein contain vivid selfish acts that created ho
 [^HECSBAV3]: [History of Egypt, Chaldea, Syria, Babylonia, and Assyria, Vol. 3](https://www.gutenberg.org/files/17323/17323-h/17323-h.htm). Interesting: the original flood story (skip to "Men in the mean time became wicked") or on Librivox [Part 5](https://librivox.org/history-of-egypt-chaldea-syria-babylonia-and-assyria-vol-3-by-gaston-maspero/).
 [^graphic]: Its graphicness can hide meanings that can only be tolerated by those who have abundant health (from supernatural safety).
 [^backwrite]: my word... making newer rules apply throughout. Possibly I could make revisionistic work. From [Wiktionary](https://en.wiktionary.org/wiki/revisionistic): changing some accepted doctrine or view of history.
+
+[^Judeo-Christian-Definition]: The typical definition of religion (to mean spiritual practice with an ethereal god) lacks being appropriate here. The Judeo-Christian process to those in the know is a system rather than a religion. Religion was used to disguise it because of many similiar properties.
 
 ----
 
