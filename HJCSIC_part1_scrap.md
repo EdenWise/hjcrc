@@ -32,7 +32,9 @@ Warning: The details described herein contain vivid selfish acts that created ho
 
 ## Genesis 3
 
-The Hebrew hierarchy is structured such: a bunch of narcissistic men ("nobles" in their days),
+The Hebrew hierarchy is structured such: a bunch of narcissistic men ("nobles" in their days); nines (seer, serpent, Satan) are the administrators, organizers of the flood. As a single entity they originally went by "Ea" (which I believe later became "Hea" which is how Heaven got its name).
+
+Eve takes the fruit because it is "good and pleasing to the eye" (Gen 3:6 repeats Gen 2:9), to "be like God", and because it is "desirable for gaining wisdom". She encourages Adam to "sin"/antagonize too and they become above nature's law, "realized they were naked".
 
 ## Notes
 
