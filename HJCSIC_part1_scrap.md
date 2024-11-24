@@ -4,9 +4,7 @@
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
-~~the second group, the females learned they were required to deal with the base class.~~
-
-![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. This began to change when human beings reached the top of the food chain 4100 years ago. Civilization began to be dominated by the male disposition because the checks on balance were disappearing. Some males became narcissistic: they focused on personal safety, hoarded all that they could, and allied to other fortunate people. The ancestors of the Hebrews decided to underwrite them; the narcissists were kept ignorant of this knowledge to keep the ancestors safer. The narcissists became spoiled, grew immobile in their thinking, infected a number of people with their avarice, and seized dominions. ~~The narcissists were people citizens feared.~~ The underwriting lasted for a long age and the profit spread to a good number of people. Some people yearned to keep the **herd**-like ways. The narcissistic men felt them directly in their path. They made a power structure to suppress them, a quarantine.![alt text](images/13_power-structure.svg) It had a devastating effect on civilization.
+![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. This began to change when human beings reached the top of the food chain 4100 years ago. Civilization began to be dominated by the male disposition because the checks on balance were disappearing. Some males became narcissistic: they focused on personal safety, hoarded all that they could, and allied to other fortunate people. The ancestors of the Hebrews decided to underwrite them; the narcissists were kept ignorant of this knowledge to keep the ancestors safer. The narcissists became spoiled, grew immobile in their thinking, infected a number of people with their avarice, and seized dominions. ~~The narcissists were people citizens feared.~~ The underwriting lasted for a long age and the profit spread to a good number of people. Some people yearned to keep the **herd**-like ways. The narcissistic men felt them directly in their path. They made a power structure repressed/suppressed them.![alt text](images/13_power-structure.svg) It had a devastating effect on civilization.
 
 The male narcissists too busy acquiring, too excited, and failed to notice the people yearning for help (maybe would have hardly considered it a problem).
 
@@ -22,7 +20,7 @@ These actions eventually develop superficial altruism (giving, restoring humanit
 
 * Attack on Eden
 * Answers from top.
-* To disguise quarantines: the Hebrews repeat (double) someone else's antagonistic behavior or word against and Equal but change one facet of it (divide and deconstruct that person).
+* quarantines
 * [^sin] against the law of nature.
 
 ## Who I Am
