@@ -18,17 +18,17 @@ I am a political prisoner of the Jews. I have been under this since I was born (
 
 ## Research Sources
 
-The research for this paper is from my personal experience, my limited reading of the history of Chaldea[^HECSBAV3], but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent. Institutions that have been around awhile usually provide a plan---both the Jews and the Christians have described their plans in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. Though the Testaments fail to be fair declarations with civilization, the Bible does provide insight on what this system is doing to civilization if one is willing to learn the ![](images/15_hebrew-code.svg)Hebrew Code[^Hebrew-Code], the missing history, overcome the graphic representations[^graphic], bypass the entire sections of rubbish, and forgive a very deliberate, clobbering of history (the Old Testament is generically mislabeled to secret its system). A couple more things: the beginning of the Bible is packed with details; and the Bible was forced by the political right, their side of the story (except for Genesis 1), plus some of the third party they sometimes represent, the story of societal sliding and human sacrifices.
+The research for this paper is from my personal experience, my limited reading of the history of Chaldea[^HECSBAV3], but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent in their Testaments. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. While the Bible has been created to thwart general understanding it is incredibly insightful if: one is willing to learn the ![](images/15_hebrew-code.svg)Hebrew Code[^Hebrew-Code], the missing history, overcome the graphic representations[^graphic], bypass the entire sections of rubbish, and forgive a very deliberate, clobbering of representatives (the Old Testament is generically mislabeled to secret its perpetuators). A couple more things: the beginning of the Bible is packed with details; ~~and the Bible was forced by the political right, their side of the story (except for Genesis 1), plus some of the third party they sometimes represent, the story of societal sliding and human sacrifices.~~
 
-Warning: The details described herein contain vivid selfish acts that created horrid consequences. Please read with sympathy and consideration.
+Warning: The details described herein contain vivid selfish acts that created fatal consequences. Please read with sympathy and consideration.
 
 ## Bible Translation---Genesis 1
 
-*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). Originally only good was created: heaven, day, water... (rather than: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature). This is a small example of backwritting[^backwrite] here (MENTION GOOD AND EVIL BELOW?).
+*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good; by defending create evil. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). Much good and evil was created: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature. This is a small example of backwritting[^backwrite] here (MENTION GOOD AND EVIL BELOW?).
 
 ## Genesis 2
 
-*Secondary, Female-Led, Giving/Sowing* "By the **seventh** day God had finished the work... so on the **seventh** day he rested from all his work." (Gen 2:2). **It turns out both males and females can be narcissistic, created on the top of the food chain.** A new good is in town (LORD God female ♀) doubling, dividing a lot of what the male god did. Gods do a lot like their colleagues/brethren but being *gods*(being so smart, I suppose) they have know one better facet of it. The female good too creates the world, the Garden of Eden, the trees (Good and Evil, Life). Is a bit hurt by the male-led audaciousness and makes the first rule: "You are free to eat from any tree in the garden; but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die (Gen 2:16-17)". Created Eve from man. Adam and Eve were still of nature though "naked and they felt no shame". Key word: **Eden** (2:8).
+*Secondary, Female-Led, Giving/Sowing* "By the **seventh** day God had finished the work... so on the **seventh** day he rested from all his work." (Gen 2:2). **It turns out both males and females can be narcissistic, created on the top of the food chain.** A new god is in town (LORD God female ♀) doubling, dividing a lot of what the male god did. Gods do a lot like their colleagues/brethren but being *gods* (being so smart) they have know one better facet of it. The female good too creates the world, the Garden of Eden, the trees (Good and Evil, Life). Is a bit hurt by the male-led audaciousness and makes the first rule: "You are free to eat from any tree in the garden; but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die (Gen 2:16-17)". Created Eve from man. Adam and Eve were still of nature though "naked and they felt no shame". Key word: **Eden** (2:8).
 
 ## Genesis 3
 
@@ -40,13 +40,11 @@ Eve takes the fruit because it is "good and pleasing to the eye" (Gen 3:6 repeat
 
 * *Personal Salvation*... "get **saved**".
 * Because the Jews are *safely* above it all... they get to decide who gets included.
-* Safety is coveted in nature. To even be able to depend on it a little is an *addiction*. Having it leads to conservatism, a dispersal of toleration (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people). Safety corrupts civilization.
 * The first group's success becomes so **addictive** that they eventually begin cannibalizing on civilization---going after the poor. The golden age: eat, drink, and be merry, then sacrificing the poor for protection.
 * Be wary of the female god---an addiction it is to her too. Females like being on top just as much. Taking feels like success.
 * "eternal life"
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
-* Some people who profited from the age but learned of the ancestor's underwriting began to feel guilty.[^wives]. Eventually they collaborated and put pressure on the seer (the ancestor's administrator) to stop supporting the narcissists.
 
 [^repeated]: The system developed to repeating someone else's repression (against an Equal) and changing one facet of it (double, divide, and deconstruct herd mentality). The repetition helps disguise the original act. Today they have developed to have the appearance of being meritorious/ethical (e.g. "working out"...).
 [^smart]: The gaining of leadership the Bible says made her feel smart. And though the intent of the act was good, it had the consequences of bypassing the process of justice (accumulating evidence, discussion, and a trial by peers). She choose the path technically because a feeling of outwitting nature---it was a safer path.
@@ -77,3 +75,5 @@ Political Right Faults:
 6) Failing to deal with the Jews re-labeling their history.
 
 Unless we all go through it together the excitement that the Jews feel will continue... a feeling of free, an addiction.
+
+* Safety is coveted in nature. To even be able to depend on it a little is an *addiction*. Having it leads to conservatism, a dispersal of toleration (one fails to see how their safety effects the less fortunate) then bias (beginning to avoid certain people). Safety corrupts civilization.
