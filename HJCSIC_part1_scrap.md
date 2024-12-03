@@ -10,22 +10,9 @@
 ---
 
 * Double and get higher.
-* When god's behavior becomes extreme the Hebrews tell people to "Fear God".
-* The serpent encouraged selfishness.
-* The Jews try to make their history look planned here, but the truth is since the Jews keep heaven [the great Jewish two system] always silent, a progressive confusion begins early on the second group. The confusion has created a path for people that start near-sighted and ignorant of complicity but become desperate---a staging heaven to Judaism.
-* Became eventually: The women are going to flood too and do it better.
-* This directive (Gen 3:22) will develop to: that to become a god a person must do a sin that is unforgivable within civilization to get "saved"... it keeps them silent.
 * "friends (Job 2:11)"
-* (narcissistic, desperate)
-* it hides the flood
-* the right: the enablers, the finger-waggers
-* quotes as " or ' rather than ’ and ” ?!
-* Verbatim Character in templates fix.
-* favoring or divining?? divisive, partisan?
-* first-group (that sometimes get identified as the Jews)
 * plausible deniability
-* follow/trick
-* Since the Jews are responsible for the systems secrecy... There is only one system so everything the right does is false
+* There is only one system.
 
 ## Things I Know About the Bible
 
@@ -35,7 +22,7 @@
 
 ## 25 and 28 Please Please Tell Me Pyrite from the Jews (Rather Than The Saved Taking More...)
 
-The second system starts because it is a manifestation of biology. Takers hardly cared about givers. The first group probably numbered it because they always want to be in control of everything and the right seems to be okay with "bad at math". The second system usually defers priority, i.e. gives to the left first (12, 42...). Prioritizing seems to be tough for them: babies as sacrifices, looking pretty.... They already had their righteousness's like 52 and 82. But being outside of the control group, "bad at math".. they are left feeling, "How fair are we treated?" Still *wanting*. So when the Jews introduced 25 and 28 with the advent of the Christian Church[^25] (it is hopeful for me to think it was them that did this) the right soaked them up disregardless whether: if it was fair (same number of protections [87, 72...] the left has); or if they even knew what they meant (another pretty ring... for me?). Complicity.
+The second system started smaller physicality. The second system usually defers priority, i.e. gives to the left first (12, 42...). Prioritizing seems to be tough for them: babies as sacrifices, looking pretty.... They already had their selfish split: like 52 and 82. But being outside of the control group, "bad at math".. they are left feeling, "How fair are we treated?" Still *wanting*. So they invented 25 and 28 with the advent of the Christian Church[^25] (it is hopeful for me to think it was them that did this) the right soaked them up disregardless whether: if it was fair (same number of protections [87, 72...] the left has); or if they even knew what they meant (another pretty ring... for me?). Complicity.
 
 * As the Catholic Church once required payment for absolution of sin... Today absolution of sin, for a saved person, can be define by the saved person themselves. Able to cull the heaven-verse and able to volunteer oneself and act as one sees fit. They get to eradicate their own guilt... even call it justice.
 
