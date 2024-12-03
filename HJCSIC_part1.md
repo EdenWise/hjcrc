@@ -1,6 +1,6 @@
-[^Information]: Version: 00_2024-11-21; Online: <https://tinyurl.com/HJCR1> <https://bit.ly/HJCSIC>
+[^Information]: Version: 00_2024-11-21; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC>
 
-*To be a citizen is daunting duty. We have been subverted by people that are excited by capitalizing on fortune.*
+*To be a citizen is challenging duty---we have been subverted by people excited-by/fixed-on capitalizing fortune.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
