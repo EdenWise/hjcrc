@@ -4,6 +4,22 @@
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](images/05_ages-of-civilization_eden.svg)![](images/10_cycles-of-heaven.svg)Civilization began as a natural order. This began to change when human beings reached the top of the food chain 4100 years ago. Civilization began to be dominated by the male disposition because the checks on balance were disappearing. Some males became narcissistic: they focused on personal safety, hoarded all that they could, and allied to other fortunate people. The ancestors of the Hebrews decided to underwrite them. They kept the narcissistic men ignorant of this knowledge to keep themselves safer. The narcissists became spoiled, infected a number of people with their avarice, grew immobile in their thinking, and seized dominions. The profit from the underwriting spread to a good number of people and lasted for a long age. The citizens feared the narcissistic men and yearned to keep the *herd*-like ways. The narcissistic men felt them directly in their path. The seer (the ancestor's supervisor) dealt with this by underwriting leadership to those who suppressed acts of responsibility. Then he developed a power structure over these citizens.![alt text](images/13_power-structure.svg) It smothered civilization. It created people who felt misrepresented because the catalyst of the male narcissistic age was their physical size. A prosperous female felt belligerent and learned that suppressions defined leadership. She knew the seer and decided to repeat[^repeat] his many suppressions. By his own rule, the seer lost leadership to the female. The female leader then declares an ethical code and warned people away from avarice[^smart]. The seer feeling immutable, countered. Being "crafty" he made a new rule. He, the seer, was allowed to approach the most devastated citizens (where the ethical code helped the most), tempt them with selfishness, and offer inclusion (safety with the narcissistic men)[^friable] if they did so. Underwriting the most devastated citizens ravaged civilization from the bottom. The female leader, hardly to be outdone, regained leadership by fantasizing away civilization's values: there will be perpetual "enmity" between women and the seers, leadership forfeited for women, and the prosperous, female-friendly, people will have their higher status protected (Bible: prevented from them returning to their humbler origins [Gen 3:22]). This had the effect of creating another inclusion.
 
 Though E&A got tempted by the seer and betrayed civilization they get included in the female heaven.
