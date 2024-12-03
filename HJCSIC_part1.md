@@ -54,6 +54,10 @@ The Hebrew hierarchy is structured such: a bunch of narcissistic men ("nobles" i
 
 Eve takes the fruit because it is "good and pleasing to the eye" (Gen 3:6 repeats Gen 2:9), to "be like God", and because it is "desirable for gaining wisdom". She encourages Adam to "sin"/antagonize too and they become above nature's law, "realized they were naked".
 
+## Genesis 4
+
+Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rather than her kin. I believe they are quarantining her. Cain and Abel try to bribe Eve with "fruits" and "fat-portions" so that they can get to heaven (fat-portions probably wins because it is something other than the fruit like of the tree of good and evil). "Do what is right (3:7)", "sin is crouching at your door", "you must rule over it". The line that "Cain attacked his brother Abel and killed him" is a fooling, a trick. It says that those with Eve/LORD will emphasize the later definition (e.g. "brothers keeper")[^Story-of-the-Moral]. She too curses her male subjects (doubles the action... takes out the cursing) and still gets to "save" them *from Eden* (Gen 3:14-19). She also gives Cain protection, "... anyone who kills Cain will suffer vengeance **seven** times over".![](images/25_ages-of-civilization_seven.svg) Cain followed the directive where the god before put "cherubim and a flaming sword" and went around to the "east of Eden" (to the new heaven on the right). Lamech doubles the seven because he sees the trick, but something happened before:  Seer tempted E&A and gave temporary heavenly protection, LG made a new heaven for them.
+
 ## Notes
 
 * *Personal Salvation*... "get **saved**".
