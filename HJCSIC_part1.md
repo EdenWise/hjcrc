@@ -30,7 +30,11 @@ Warning: The details described herein contain vivid selfish acts that created fa
 
 ## Genesis 1
 
-*Primary, Male-Led, Taking/Reaping* Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good; by defending create evil. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). Much good and evil was created: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature. This is a small example of backwritting[^backwrite] here (MENTION GOOD AND EVIL BELOW?).
+*Primary, Male-Led, Taking/Reaping* 
+
+"In the beginning, God created the *heavens* and the *earth*
+
+Heaven originally was an all-male institution. It lasted a long time and Genesis 1 covers it all---in one giant swath. To the Hebrews, men by *taking*, for themselves, create good; by defending create evil. A rewarded desperate-man took so much that the Hebrews refer to him as a "God", "In the beginning *God* created the **heavens** and the **earth**" (Gen 1:1 NIV). Much good and evil was created: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature. This is a small example of backwritting[^backwrite] here (MENTION GOOD AND EVIL BELOW?).
 
 ## Genesis 2
 
