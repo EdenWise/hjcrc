@@ -59,7 +59,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
 
-[^ethics]: The underwriting spread selfish behavior among the people. It eventually became immorality. Some people call this sin. Simply it is living outside of nature's law.
+[^ethics]: The underwriting spread selfish behavior among the people. It grew to immorality. Some people call this sin. Simply it is living outside of nature's law.
 [^repeat]: The system developed to repeating someone else's repression (against an Equal) and changing one facet of it (double, divide, and deconstruct herd mentality). The repetition helps disguise the original act. Today they have developed to have the appearance of being meritorious/ethical (e.g. "working out"...).
 [^friable]: This safety only lasts as long as the seer sees need for it (generally only as long as the female has leadership).
 [^smart]: THer inclusion (being apart of the upper/safer class) the Bible says made her feel smart. It had the consequence of bypassing the process of justice (accumulating evidence, discussion, and a trial by peers) and is still enacted today . She choose the path technically because a feeling of outwitting nature---it was a safer path.
