@@ -502,18 +502,6 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="fonts_as_objects">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Lora;-inkscape-font-specification:Lora;display:inline;opacity:1;stroke-width:0.0496066"
-         x="199.3588"
-         y="65.500824"
-         id="text1"
-         inkscape:label="seer"><tspan
-           sodipodi:role="line"
-           id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Lora;-inkscape-font-specification:Lora;text-align:center;text-anchor:middle;stroke-width:0.0496066"
-           x="199.3588"
-           y="65.500824">seer</tspan></text>
       <g
          id="g35"
          inkscape:label="narcissistic men right">
@@ -522,7 +510,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="195.22635"
            y="71.34845"
-           id="text33"><tspan
+           id="text33"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan33"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -533,7 +522,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="201.70822"
            y="71.34845"
-           id="text34"><tspan
+           id="text34"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan34"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -544,7 +534,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="198.46729"
            y="73.022972"
-           id="text35"><tspan
+           id="text35"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan35"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -560,7 +551,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="195.22635"
            y="71.34845"
-           id="text36"><tspan
+           id="text36"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan36"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -571,7 +563,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="201.70822"
            y="71.34845"
-           id="text37"><tspan
+           id="text37"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan37"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -582,7 +575,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="198.46729"
            y="73.022972"
-           id="text38"><tspan
+           id="text38"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan38"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -598,7 +592,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="195.22635"
            y="71.34845"
-           id="text39"><tspan
+           id="text39"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan39"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -609,7 +604,8 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="201.70822"
            y="71.34845"
-           id="text40"><tspan
+           id="text40"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan40"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
@@ -620,13 +616,26 @@
            style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2032;stroke-dasharray:none;stroke-opacity:1"
            x="198.46729"
            y="73.022972"
-           id="text41"><tspan
+           id="text41"
+           inkscape:label="n"><tspan
              sodipodi:role="line"
              id="tspan41"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lora;-inkscape-font-specification:Lora;stroke-width:0.2032"
              x="198.46729"
              y="73.022972">n</tspan></text>
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Lora;-inkscape-font-specification:Lora;display:inline;opacity:1;stroke-width:0.0496066"
+         x="199.3588"
+         y="65.500824"
+         id="text1"
+         inkscape:label="seer"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Lora;-inkscape-font-specification:Lora;text-align:center;text-anchor:middle;stroke-width:0.0496066"
+           x="199.3588"
+           y="65.500824">seer</tspan></text>
     </g>
   </g>
 </svg>
