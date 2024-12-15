@@ -3,8 +3,8 @@
 
 ## VARIABLES
 #
-$FILE_MD  = "HJCSIC_part1.md"
-$FILE_DX  = "HJCSIC_part1.docx"
+$FILE_MD  = "HJCSIC.md"
+$FILE_DX  = "HJCSIC.docx"
 $REVISION = "00"
 $DATE     = Get-Date -UFormat "%Y-%m-%d"
 $YEAR     = Get-Date -UFormat "%Y"
@@ -37,7 +37,8 @@ pandoc.exe $FILE_MD `
 
 ## FONT TESTS
 #
-# Lora            9.3   too high!?
+# Lora            9.3   too high!? 414
+# Merriweather    
 # Georgia         8.5   in word, good normal font, a bit tight though
 # Roboto Slab     8.5   good font but a bit blocky
 # Constantia      8.0   odd size... a bit small!?
