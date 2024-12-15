@@ -4,7 +4,7 @@
 ## VARIABLES
 #
 $FILE_MD  = "HJCSIC.md"
-$FILE_DX  = "HJCSIC.docx"
+$FILE_DC  = "HJCSIC.docx"
 $REVISION = "00"
 $DATE     = Get-Date -UFormat "%Y-%m-%d"
 $YEAR     = Get-Date -UFormat "%Y"
@@ -26,7 +26,7 @@ pandoc.exe $FILE_MD `
   --to docx `
   --dpi=300 `
   --wrap=none `
-  --output $FILE_DX `
+  --output $FILE_DC `
   --reference-doc=template.docx
 
 ## GIT HELP
