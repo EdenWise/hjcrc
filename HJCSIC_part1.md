@@ -1,4 +1,4 @@
-[^Information]: Version: 00_2024-12-08; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC>
+[^Information]: Version: 00_2024-12-15; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC>
 
 *To be a citizen is challenging duty---civilization has been drugged by a hierarchy capitalizing fortune.*
 
