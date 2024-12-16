@@ -38,11 +38,12 @@ pandoc.exe $FILE_MD `
 ## FONT TESTS
 #
 # Lora            9.3   too high!? 414
-# Merriweather    
+# Merriweather    9.3
 # Georgia         8.5   in word, good normal font, a bit tight though
 # Roboto Slab     8.5   good font but a bit blocky
 # Constantia      8.0   odd size... a bit small!?
 # Crimson Text    8.0?  9.0 nice font but small?! Printing was scaled :(.
 # Noto Serif      7.0   blocky
 # EB Garramond    6.0
+# Others (screen tested): Domine A, Noto Serif B, Source_Serif_4 B
 
