@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-12-15; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC>
 
-*To be a citizen is challenging duty---a hierarchy exists thatpeople are encouraged to succumb to a hierarchy capitalizing fortune.*
+*To be a citizen is challenging duty---a hierarchy harasses capitalizing on fortune.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
