@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-12-15; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC>
 
-*To be a citizen is challenging duty---we are drugged because a hierarchy rewards capitalizing fortune.*
+*To be a citizen is challenging duty---we are pleasurably induced because a hierarchy rewards capitalizing fortune.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
