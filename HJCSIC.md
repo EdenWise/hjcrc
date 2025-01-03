@@ -20,6 +20,8 @@ I am a political prisoner of the Jews. I have been under this since I was born (
 
 The research for this paper is from my personal experience, my limited reading of the history of Chaldea[^HECSBAV3], but mostly from the Bible. The Bible, the most read book in the world, is where the Jews and Christian leaders document their intent. The Old Testament has been refined many times by the Jews because their system is extraordinarily profitable. While the Bible has been created to thwart general understanding it is incredibly insightful if: one is willing to learn the ![](images/15_hebrew-code.svg)Hebrew Code[^Hebrew-Code], the missing history, overcome the graphic representations[^graphic], bypass the entire sections of rubbish, and learn of a very deliberate, clobbering of representations (the Old Testament is generically mislabeled to secret its perpetuators). A couple more things: the beginning of the Bible is packed with details; and that the Bible is largely metaphorical (messages relating to the Hebrew Code) with scant references to history to feint accuracy.
 
+* [^backwrite]
+
 Warning: The details described herein contain vivid selfish acts that created fatal consequences. Please read with sympathy and consideration.
 
 ## Genesis 1
@@ -53,9 +55,9 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
 [^experience]: This comes from my personal experience. I have found that some Bible content can only be understood by those who have felt similar experiences.
-[^smart]: She forced her own inclusion and some other females largely with mentality. They were part of the upper/safer class and knew the narcissistic men. The Bible says these acts made them feel smart.
+[^smart]: ``BLANK`` She forced her own inclusion and some other females largely with mentality. They were part of the upper/safer class and knew the narcissistic men. The Bible says these acts made them feel smart.
 [^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today they have the appearance of being meritorious/ethical (e.g. "working out"...).
-[^betrayal]: To the narcissists there is only taking---it is addicting. Civilization recovered some but learned some of what was done to them. They were hurt by the narcissists age so they altered their sacred system ("betrayed" likely what the narcissists said). || This started a long history of finger pointing. After a number of revolutions the seer having been forced to "... roam[] throughout the earth, going back and forth on it" intimidates the female god to give a sacrifice. [^debt]: The Jews sometimes give things (someone may even accidentally acquire a thing) and they will call it a debt even if the recipient lacks being told about it.
+[^betrayal]: ``BLANK`` To the narcissists there is only taking---it is addicting. Civilization recovered some but learned some of what was done to them. They were hurt by the narcissists age so they altered their sacred system ("betrayed" likely what the narcissists said). || This started a long history of finger pointing. After a number of revolutions the seer having been forced to "... roam[] throughout the earth, going back and forth on it" intimidates the female god to give a sacrifice. [^debt]: The Jews sometimes give things (someone may even accidentally acquire a thing) and they will call it a debt even if the recipient lacks being told about it.
 [^switching]: The switching of policy has the effect of relieving its beneficiaries of long-term one-sided policy issues. But each policy lasts so long they create competition rather than cooperation.
 [^politics]: Politics comes from the Jews. It is based on policy. There are two policies: male and female (taking and giving). They both last fifty years. Politics is following, enforcing, or adding to the policy of the age. Some policies are pretty consistent: pink (right), blood!?(left). Some are shared: Hasbro, Disney, Lego. Some make little sense: the right as gambling and racing; the left has government subsidized cell phones for the poor and government subsidized solar power installations. Most policy is on course: sugar and spice; puppy-dogs... These male/female values are only valuable among the mainstream: the poor care little of pink, the female Jews like the hits on Monday Night Football. Even deeper, the catalyst is the messiah, the exemption. Whatever misfortune happens to that person, whatever need that person requests of a saved person and to be directly worked against, becomes the new rule.
 [^wars]: The political right ignorant of some inclusion and hurt by the reckless reaping of the left can declare literal wars with their political counterparts.
@@ -67,7 +69,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 
 ----
 
-[^Judeo-Christian-Definition]: The typical definition of religion (to mean spiritual practice with an ethereal god) lacks being appropriate for the Hebrew and for the Christians in the know. Religion was used to disguise it because it had man similar properties.
+[^Judeo-Christian-Definition]: ``BLANK`` The typical definition of religion (to mean spiritual practice with an ethereal god) lacks being appropriate for the Hebrew and for the Christians in the know. Religion was used to disguise it because it had man similar properties.
 
 ## The Story of the Moral
 
