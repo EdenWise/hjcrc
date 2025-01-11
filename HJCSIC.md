@@ -8,11 +8,12 @@ Civilization started as a natural order.
 When human beings reached the top of the food chain this changed.
 Civilization began to be dominated by the male disposition. 
 Some males became self-first, narcissistic (the checks on balance were disappearing). 
-The ancestors of the Hebrews decided to get safety by investing in them, underwriting them. 
+The ancestors of the Hebrews decided to underwrite them to get safety. 
 They kept the underwriting quiet for better protection. 
-The narcissists became spoiled and immobile in their thinking and dominions were created. 
+The narcissists became spoiled and immobile in their thinking.
+Dominions were created. 
 The selfishness spread to many people and they got good profit from it.
-Those dependent on the underwriting started the political left.
+Those who succumbed to the underwriting started the political left.
 The behavior became increasingly underwritten and some knew to seek it. The narcissists' dominions began to impact each other and the underwriting stalled. People still wanted inclusion so some people began deriding other people (the beginnings of the political right). The seer, the narcissist's supervisor, included them. The selfish behavior built so built a large poor, excluded, class. Eventually, it culminated to creating an ultimate derided person (a town fool...). The narcissists so excited followed and repeated his actions. His health became so poor that eventually a female had to rally for him. This action, so unique among the age, garnered a whole ethical movement. It lasted a fair time as well. But so rewarded, so disregarding did the narcissists become prompted the seer to eventually
 
 They infected people with their selfishness. A number of selfish people got included. The underwriting became saturated after a time. The people that still looked to be included started secretly defining some people as weak. They got included. It was a profitable age and it spread to most of the people. Of the few citizens who needed to speak, the seer (the narcissists supervisor) superimposed a suppressive structure over them. ~~A few citizens had to speak for their livelihood and pleaded to keep the ethical code[^ethics]. The narcissists became antagonistic to the feeling the talk pervaded. The seer (their supervisor),~~ to assure their fortune, ~~underwrote those who suppressed these citizens. The action superimposed a hierarchy on top of civilization.~~![alt text](images/05_civilization-superimposed.svg) The narcissists became so rewarded that they eventually began repeating**[^repeated]** the most suppressed misfortunes, following them. The selfishness became so prevalent it left one person fighting for his life. A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership.
