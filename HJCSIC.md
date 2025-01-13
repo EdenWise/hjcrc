@@ -16,6 +16,8 @@ Many people succumbed to the rewards and selfish behavior spread to many people.
 They got good profit from it. 
 Some sought inclusion with the underwriting. 
 This started the political left. 
+~~As the selfishness and underwriting increased some by fortune were less included~~
+As the selfishness and underwriting increased this led to the inclusion saturating (only)
 
 As the underwriting increased, the narcissistic men began to clash with one another. 
 The underwriting stalled. 
