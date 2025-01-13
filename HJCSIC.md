@@ -11,11 +11,12 @@ Some males became self-first, narcissistic, because the checks on balance were d
 The ancestors of the Hebrews decided to underwrite them to get personal safety. 
 They kept this knowledge silent largely, even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
-Dominions were created and selfish behavior spread to many people. 
+Dominions were created. 
+Many people succumbed to the rewards and selfish behavior spread to many people. 
 They got good profit from it. 
-
-Some succumbed to the rewards and sought inclusion with the underwritten men. 
+Some sought inclusion with the underwriting. 
 This started the political left. 
+
 As the underwriting increased, the narcissistic men began to clash with one another. 
 The underwriting stalled. 
 As time went on only the included could reasonably survive. Seeking inclusion became more and more necessary to survive. 
