@@ -15,13 +15,15 @@ Dominions were created.
 Many people disregarded civilization's needs and succumbed to the rewards. 
 Selfish behavior spread to many people. 
 They got good profit from it. 
-Some learned of the underwriting and began to support it to obtain inclusion. 
+Some learned of the underwriting and began to support it seeking inclusion. 
 This started the political left. 
 ~~As the selfishness and underwriting increased some by fortune were less included~~
 As the selfishness and underwriting increased this led to the inclusion saturating (fortunate factors can only apply to so many people). 
 The effect the underwriting had on the less fortunate was devastating. 
+It gradually led to increased misfortune, ignorant treatment
+Someone stood up. **She** did all this sin to get power...
 
-As the underwriting increased, the narcissistic men began to clash with one another. 
+~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
 The underwriting stalled. 
 As time went on only the included could reasonably survive. Seeking inclusion became more and more necessary to survive. 
 People still wanted inclusion so some people began deriding other people (the beginnings of the political right). The seer, the narcissist's supervisor, included them. The selfish behavior built so built a large poor, excluded, class. Eventually, it culminated to creating an ultimate derided person (a town fool...). The narcissists so excited followed and repeated his actions. His health became so poor that eventually a female had to rally for him. This action, so unique among the age, garnered a whole ethical movement. It lasted a fair time as well. But so rewarded, so disregarding did the narcissists become prompted the seer to eventually
