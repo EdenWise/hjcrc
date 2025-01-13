@@ -15,7 +15,7 @@ Dominions were created.
 Many people disregarded civilization's needs and succumbed to the rewards. 
 Selfish behavior spread to many people. 
 They got good profit from it. 
-Some learned of the underwriting and began to support it seeking inclusion. 
+The people that learned of the underwriting began to seek inclusion by supporting it. 
 This started the political left. 
 ~~As the selfishness and underwriting increased some by fortune were less included~~ 
 As the selfishness and underwriting increased this led to the inclusion saturating (fortunate factors can only apply to so many people). 
