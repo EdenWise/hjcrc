@@ -17,11 +17,14 @@ Selfish behavior spread to many people.
 They got good profit from it. 
 Some learned of the underwriting and began to support it seeking inclusion. 
 This started the political left. 
-~~As the selfishness and underwriting increased some by fortune were less included~~
+~~As the selfishness and underwriting increased some by fortune were less included~~ 
 As the selfishness and underwriting increased this led to the inclusion saturating (fortunate factors can only apply to so many people). 
 The effect the underwriting had on the less fortunate was devastating. 
-It gradually led to increased misfortune, ignorant treatment
-Someone stood up. **She** did all this sin to get power...
+It gradually led to rampant misfortune, mistreatment of the less fortunate. 
+Someone stood up. 
+**Her** husband was included too, but was newer. 
+She had a connection, a family member, who was less fortunate.
+**Because**  did all this sin to get power... 
 
 ~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
 The underwriting stalled. 
