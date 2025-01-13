@@ -12,18 +12,17 @@ The ancestors of the Hebrews decided to underwrite them to get personal safety.
 They kept this knowledge silent largely, even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 Dominions were created. 
-Many people disregarded civilization's needs and succumbed to the rewards. 
-Selfish behavior spread to many people. 
-They got good profit from it. 
+The narcissist's selfishness was infectious. 
+Many people disregarded civilization's needs and succumbed to the rewards/profit. 
 The people that learned of the underwriting began to seek inclusion by supporting it. 
 This started the political left. 
 ~~As the selfishness and underwriting increased some by fortune were less included~~ 
-As the selfishness and underwriting increased this led to the inclusion saturating (fortunate factors can only apply to so many people). 
+As the selfishness and underwriting increased this led to the rewards saturating (fortunate factors can only apply to so many people). 
 The effect the underwriting had on the less fortunate was devastating. 
-It gradually led to rampant misfortune, mistreatment of the less fortunate. 
+It gradually led to rampant misfortune, mistreatment the greater the misfortune was.  
 Someone stood up. 
 **Her** husband was included too, but was newer. 
-She had a connection, a family member, who was less fortunate.
+She had a connection, a family member, who was less fortunate. 
 **Because**  did all this sin to get power... 
 
 ~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
