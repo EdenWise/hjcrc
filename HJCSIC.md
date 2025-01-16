@@ -13,7 +13,7 @@ They did this for the profit and personal safety.
 They kept this knowledge silent largely, even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 Dominions were created. 
-The narcissist's selfishness infected many people. 
+The narcissist's selfishness infected most people. 
 They disregarded civilization's needs and succumbed to the rewards/profit. 
 The people that learned of the underwriting began to seek inclusion by supporting it. 
 This started the political left. 
