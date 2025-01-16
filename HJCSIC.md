@@ -6,16 +6,15 @@
 
 Civilization started as a natural order. 
 It got disrupted when human beings reached the top of the food chain. 
-Civilization began to be dominated by the male disposition. 
-Some males became self-first, narcissistic, because the checks on balance were disappearing. 
-The ancestors of the Hebrews underwrote them. 
-They did this for the profit and personal safety. 
-They kept this knowledge silent largely, even from the narcissistic men. 
+Civilization began to be dominated by the male disposition, some males became self-first/narcissistic because the checks on balance were disappearing. 
+The ancestors of the Hebrews decided to underwrite these men. 
+They did this to get profit and personal safety. 
+They kept this knowledge largely silent, even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 Dominions were created. 
 The narcissist's selfishness infected most people. 
-They disregarded civilization's needs and succumbed to the rewards/profit. 
-The people that learned of the underwriting began to seek inclusion by supporting it. 
+They disregarded civilization's needs and succumbed to the profit. 
+Some people started to underwrite to and sight inclusion for it. 
 This started the political left. 
 ~~As the selfishness and underwriting increased some by fortune were less included~~ 
 As the selfishness and underwriting increased this led to the rewards saturating (fortunate factors can only apply to so many people). 
