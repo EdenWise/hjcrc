@@ -8,7 +8,8 @@ Civilization started as a natural order.
 It got disrupted when human beings reached the top of the food chain. 
 Civilization began to be dominated by the male disposition. 
 Some males became self-first, narcissistic, because the checks on balance were disappearing. 
-The ancestors of the Hebrews decided to underwrite them to get personal safety. 
+The ancestors of the Hebrews underwrote them. 
+They did this to get profit and personal safety. 
 They kept this knowledge silent largely, even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 Dominions were created. 
