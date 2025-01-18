@@ -16,7 +16,7 @@ They got good profit from it.
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
 This started the political left. 
 Inclusion became more necessary to survive. 
-Over time, the selfish people rewarding the fortunate people created numerous disadvantaged people. 
+After a time of the selfish people rewarding the fortunate people, it created numerous disadvantaged people. 
 The least fortunate became severely disadvantaged and struggled for their lives. 
 One particular misfit became so disadvantaged a female was forced to react. 
 She was a family member. 
