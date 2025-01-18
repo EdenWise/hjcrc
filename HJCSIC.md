@@ -22,7 +22,10 @@ One particular misfit became so disadvantaged a female was forced to react.
 She was a family member. 
 She also had some inclusion. 
 She learned if she repeated[^repeated] the ridicules done to her offspring that she got respect from those that did them. 
-She did many ridicules, other people joined in and ridiculed like her, and she eventually got power.
+She did many ridicules, other people joined in and ridiculed like her, and she eventually got power. 
+She created an ethical code and warned people away from selfishness. 
+The less fortunate got help. 
+The seer (the ancestor's supervisor), so deific, got "crafty"
 
 
 ~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
