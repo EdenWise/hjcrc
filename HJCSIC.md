@@ -7,8 +7,8 @@
 Civilization started as a natural order. 
 When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
-For personal safety the ancestors of the Hebrews decided to underwrite/reward these men. 
-They kept this knowledge largely silent, even from the narcissistic men. 
+For personal safety the ancestors of the Hebrews decided to underwrite these men. 
+They kept this knowledge largely silent... even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 Dominions were created. 
 The narcissist's selfishness spread to many people. 
@@ -16,12 +16,13 @@ They got good profit from it.
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
 This started the political left. 
 Inclusion became more necessary to survive. 
-After some time of the selfish people rewarding the fortunate people, it created numerous disadvantaged people. 
+Over time, the selfish people rewarding the fortunate people created numerous disadvantaged people. 
 The least fortunate became severely disadvantaged and struggled for their lives. 
 One particular misfit became so disadvantaged a female was forced to react. 
 She was a family member. 
 She also had some inclusion. 
-She learned if she repeated[^repeated] the ridicules done to the misfit that she got respect from those that did them. 
+She learned if she repeated[^repeated] the ridicules done to her offspring that she got respect from those that did them. 
+She did many ridicules, other people joined in and ridiculed like her, and she eventually got power.
 
 
 ~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
