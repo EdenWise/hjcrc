@@ -8,13 +8,12 @@ Civilization started as a natural order.
 When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
 For personal safety the ancestors of the Hebrews decided to underwrite/reward these men. 
-They did this to get profit and personal safety. 
 They kept this knowledge largely silent, even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 Dominions were created. 
-The narcissist's selfishness infected most people. 
-They disregarded civilization's needs and succumbed to the profit. 
-Some people started to underwrite to and sight inclusion for it. 
+The narcissist's selfishness spread to many people. 
+They got good profit from it. 
+Some people intuited the underwriting and underwrote others to try and get inclusion. 
 This started the political left. 
 ~~As the selfishness and underwriting increased some by fortune were less included~~ 
 As the selfishness and underwriting increased this led to the rewards saturating (fortunate factors can only apply to so many people). 
