@@ -5,8 +5,8 @@
 # How the Judeo-Christian System Influences Civilization [^Information]
 
 Civilization started as a natural order. 
-It got upended when human beings reached the top of the food chain. 
-Civilization began to be dominated by the male disposition, some males became self-first/narcissistic because the checks on balance were disappearing. 
+When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
+Some males became self-first/narcissistic because the checks on balance were disappearing 
 The ancestors of the Hebrews decided to underwrite these men. 
 They did this to get profit and personal safety. 
 They kept this knowledge largely silent, even from the narcissistic men. 
