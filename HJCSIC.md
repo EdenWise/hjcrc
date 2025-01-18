@@ -18,13 +18,11 @@ This started the political left.
 Inclusion became more necessary to survive. 
 After some time of the selfish people rewarding the fortunate people, it created numerous disadvantaged people. 
 The least fortunate became severely disadvantaged and struggled for their lives. 
-One particular person became so disadvantaged a female was forced to react. 
+One particular misfit became so disadvantaged a female was forced to react. 
+She was a family member. 
+She also had some inclusion. 
+She learned if she repeated[^repeated] the ridicules done to the misfit that she got respect from those that did them. 
 
-It gradually led to rampant misfortune, mistreatment the greater the misfortune was.  
-Someone stood up. 
-**Her** husband was included too, but was newer. 
-She had a connection, a family member, who was less fortunate. 
-**Because**  did all this sin to get power... 
 
 ~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
 The underwriting stalled. 
@@ -82,10 +80,10 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
 
+[^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
 [^smart]: ``BLANK`` She forced her own inclusion and some other females largely with mentality. They were part of the upper/safer class and knew the narcissistic men. The Bible says these acts made them feel smart.
-[^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today they have the appearance of being meritorious/ethical (e.g. "working out"...).
 [^betrayal]: ``BLANK`` To the narcissists there is only taking---it is addicting. Civilization recovered some but learned some of what was done to them. They were hurt by the narcissists age so they altered their sacred system ("betrayed" likely what the narcissists said). || This started a long history of finger pointing. After a number of revolutions the seer having been forced to "... roam[] throughout the earth, going back and forth on it" intimidates the female god to give a sacrifice. [^debt]: The Jews sometimes give things (someone may even accidentally acquire a thing) and they will call it a debt even if the recipient lacks being told about it.
 [^switching]: The switching of policy has the effect of relieving its beneficiaries of long-term one-sided policy issues. But each policy lasts so long they create competition rather than cooperation.
 [^politics]: Politics comes from the Jews. It is based on policy. There are two policies: male and female (taking and giving). They both last fifty years. Politics is following, enforcing, or adding to the policy of the age. Some policies are pretty consistent: pink (right), blood!?(left). Some are shared: Hasbro, Disney, Lego. Some make little sense: the right as gambling and racing; the left has government subsidized cell phones for the poor and government subsidized solar power installations. Most policy is on course: sugar and spice; puppy-dogs... These male/female values are only valuable among the mainstream: the poor care little of pink, the female Jews like the hits on Monday Night Football. Even deeper, the catalyst is the messiah, the exemption. Whatever misfortune happens to that person, whatever need that person requests of a saved person and to be directly worked against, becomes the new rule.
