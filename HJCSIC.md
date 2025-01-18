@@ -24,14 +24,10 @@ She also had some inclusion.
 She learned if she repeated[^repeated] the ridicules done to her offspring that she got respect from those that did them. 
 She did many ridicules, other people joined in and ridiculed like her, and she eventually got power. 
 She created an ethical code and warned people away from selfishness. 
-The less fortunate got help. 
-The seer (the ancestor's supervisor), so deific, got "crafty"
+The less fortunate got attention and help. 
+An age of peace was prevailed. 
+The seer (the ancestor's supervisor), so self-deserving, got "crafty"
 
-
-~~As the underwriting increased, the narcissistic men began to clash with one another. ~~
-The underwriting stalled. 
-As time went on only the included could reasonably survive. Seeking inclusion became more and more necessary to survive. 
-People still wanted inclusion so some people began deriding other people (the beginnings of the political right). The seer, the narcissist's supervisor, included them. The selfish behavior built so built a large poor, excluded, class. Eventually, it culminated to creating an ultimate derided person (a town fool...). The narcissists so excited followed and repeated his actions. His health became so poor that eventually a female had to rally for him. This action, so unique among the age, garnered a whole ethical movement. It lasted a fair time as well. But so rewarded, so disregarding did the narcissists become prompted the seer to eventually
 
 They infected people with their selfishness. A number of selfish people got included. The underwriting became saturated after a time. The people that still looked to be included started secretly defining some people as weak. They got included. It was a profitable age and it spread to most of the people. Of the few citizens who needed to speak, the seer (the narcissists supervisor) superimposed a suppressive structure over them. ~~A few citizens had to speak for their livelihood and pleaded to keep the ethical code[^ethics]. The narcissists became antagonistic to the feeling the talk pervaded. The seer (their supervisor),~~ to assure their fortune, ~~underwrote those who suppressed these citizens. The action superimposed a hierarchy on top of civilization.~~![alt text](images/05_civilization-superimposed.svg) The narcissists became so rewarded that they eventually began repeating**[^repeated]** the most suppressed misfortunes, following them. The selfishness became so prevalent it left one person fighting for his life. A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership.
 
