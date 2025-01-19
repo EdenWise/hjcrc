@@ -22,7 +22,7 @@ One particular misfortunate became so disadvantaged a female was forced to react
 She was a family member. 
 She also had profited from selfishness, had gotten some inclusion. 
 She had an effect on his being relegated. 
-She learned if she repeated[^repeated] the ridicules done to her him that she got respect from those that did them. 
+She learned if she repeated[^repeated] the ridicules done to him that she got respect from those that did them. 
 She did many ridicules, and other people feeling a force in it, joined her. 
 She eventually got power. 
 She created an ethical code and warned people away from selfishness. 
