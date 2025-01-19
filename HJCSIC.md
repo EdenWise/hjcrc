@@ -21,14 +21,14 @@ The least fortunate became severely disadvantaged and struggled for their lives.
 One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
 She also had profited from the underwriting, had gotten some inclusion. 
-She living like this had an effect on his being relabeled. 
+She had an effect on his being removed. 
 She learned if she repeated[^repeated] the ridicules done to her kin that she got respect from those that did them. 
 She did many ridicules, and other people feeling a force in it, joined her. 
 She eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 The less fortunate got attention and help. 
 An age of peace prevailed. 
-The seer (the ancestor's supervisor), so self-deserving, got "crafty"
+The seer (the ancestor's supervisor), having been superseded for a time, so self-deserving, got "crafty"
 
 A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership. She shocked the seer and considered herself leader. She then created an ethical code and warned people away from selfish acquiring (they needed help because the men who were being narcissistic were getting the spoils---male physicality was increasingly rewarded). The seer, deific, "crafty", retaliated with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and when doing so, offer them inclusion with the narcissistic men.
 
