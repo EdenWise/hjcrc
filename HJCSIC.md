@@ -28,7 +28,8 @@ She eventually got power.
 She created an ethical code and warned people away from selfishness. 
 The less fortunate got attention and help. 
 An age of peace prevailed. 
-The seer (the ancestor's supervisor), having been superseded for a time, so self-deserving, got "crafty"
+The seer (the ancestor's supervisor) so self-deserving and having been superseded for a time got ruthless ("crafty" [Gen 3:1]). 
+Having been superseded for a time he
 
 She shocked the seer and considered herself leader. She then created an ethical code and warned people away from selfish acquiring (they needed help because the men who were being narcissistic were getting the spoils---male physicality was increasingly rewarded). The seer, deific, "crafty", retaliated with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and when doing so, offer them inclusion with the narcissistic men.
 
