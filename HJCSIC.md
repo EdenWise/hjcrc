@@ -22,16 +22,17 @@ One particular misfortunate became so disadvantaged a female was forced to react
 She was a family member. 
 She also had profited from the underwriting, had gotten some inclusion. 
 She had an effect on his being removed. 
-She learned if she repeated[^repeated] the ridicules done to her kin that she got respect from those that did them. 
+She learned if she repeated[^repeated] the ridicules done to her him that she got respect from those that did them. 
 She did many ridicules, and other people feeling a force in it, joined her. 
 She eventually got power. 
 She created an ethical code and warned people away from selfishness. 
-The less fortunate got attention and help. 
-An age of peace prevailed. 
-The seer (the ancestor's supervisor) so self-deserving and having been superseded for a time got ruthless (the Bible calls this "crafty" [Gen 3:1]). 
-He
+The less fortunate people got some help. 
+Men became more humble. 
+A more peaceful age prevailed. 
+The seer (the ancestor's supervisor) having been superseded for a time got ruthless (the Bible calls this "crafty" [Gen 3:1]). 
+So self-deserving, he created a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and for doing so, offer them inclusion with the narcissistic men. 
 
-She shocked the seer and considered herself leader. She then created an ethical code and warned people away from selfish acquiring (they needed help because the men who were being narcissistic were getting the spoils---male physicality was increasingly rewarded). The seer, deific, "crafty", retaliated with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and when doing so, offer them inclusion with the narcissistic men.
+The female capitulated
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
 
