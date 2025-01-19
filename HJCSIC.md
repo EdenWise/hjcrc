@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2024-01-10; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC> <https://raw.githubusercontent.com/EdenWise/hjcrc/refs/heads/main/HJCSIC.md>
 
-*To be a citizen is challenging duty---the hierarchy only includes people who capitalize on fortune.*
+*To be a citizen is challenging duty---the hierarchy includes people who only capitalize on fortune.*
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
