@@ -14,16 +14,17 @@ Dominions were created.
 The narcissist's selfishness spread to many people. 
 They got good profit from it. 
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
-This started the political left. 
+* This started the political left. 
 Inclusion became more necessary to survive. 
-After a time of the selfish people rewarding the fortunate people, it created numerous disadvantaged people. 
+After a time of the selfish people rewarding the more fortunate people, it created numerous disadvantaged people. 
 The least fortunate became severely disadvantaged and struggled for their lives. 
-One particular misfit became so disadvantaged a female was forced to react. 
+One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
-She also had some inclusion. 
-She had some cause in his situation. 
-She learned if she repeated[^repeated] the ridicules done to her offspring that she got respect from those that did them. 
-She did many ridicules, other people joined in and ridiculed like her, and she eventually got power. 
+She also had profited from the underwriting, had gotten some inclusion. 
+She living like this had an effect on his being relabeled. 
+She learned if she repeated[^repeated] the ridicules done to her kin that she got respect from those that did them. 
+She did many ridicules, and other people feeling a force in it, joined her. 
+She eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 The less fortunate got attention and help. 
 An age of peace prevailed. 
