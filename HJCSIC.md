@@ -30,7 +30,7 @@ The less fortunate got attention and help.
 An age of peace prevailed. 
 The seer (the ancestor's supervisor), having been superseded for a time, so self-deserving, got "crafty"
 
-A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership. She shocked the seer and considered herself leader. She then created an ethical code and warned people away from selfish acquiring (they needed help because the men who were being narcissistic were getting the spoils---male physicality was increasingly rewarded). The seer, deific, "crafty", retaliated with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and when doing so, offer them inclusion with the narcissistic men.
+She shocked the seer and considered herself leader. She then created an ethical code and warned people away from selfish acquiring (they needed help because the men who were being narcissistic were getting the spoils---male physicality was increasingly rewarded). The seer, deific, "crafty", retaliated with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and when doing so, offer them inclusion with the narcissistic men.
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
 
@@ -116,3 +116,5 @@ Unless we all go through it together the excitement that the Jews feel will cont
 * quarantines
 * smart: She disregarded that she had also profited from the age. It had the consequence of bypassing the process of justice/law-for-all-people (accumulating evidence, discussion, and a trial by peers) and is still enacted today . She choose the path technically because a feeling of outwitting nature---it was a safer path.
 * friable: This safety only lasts as long as the seer sees need for it (generally only as long as the female has leadership).[^friable]
+
+* A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership. 
