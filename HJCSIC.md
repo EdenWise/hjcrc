@@ -27,7 +27,7 @@ She did many ridicules, and other people feeling a force in it, joined her.
 She eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 The less fortunate people got some help. 
-Men became more humble. 
+Men became humbler. 
 A more peaceful age prevailed. 
 The seer (the ancestor's supervisor) having been superseded for a time got ruthless (the Bible calls this "crafty" [Gen 3:1]). 
 So self-deserving, he created a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and for doing so, offer them inclusion with the narcissistic men. 
