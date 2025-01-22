@@ -4,7 +4,8 @@
 
 # How the Judeo-Christian System Influences Civilization [^Information]
 
-Civilization started as a natural order.![alt text](images/01_ages-of-civilization_eden.svg) 
+Civilization started as a natural order. 
+![alt text](images/01_ages-of-civilization_eden.svg) 
 When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
 For personal safety the ancestors of the Hebrews decided to underwrite these men. 
@@ -16,21 +17,22 @@ They got good profit from it.
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
 *This started the political left.*
 Inclusion became more necessary to survive. 
-By the selfish people rewarding the more fortunate people, it created numerous disadvantaged people. 
+The selfish people rewarding the more fortunate people created numerous disadvantaged people. 
 Over time, the least fortunate became severely disadvantaged and struggled for their lives. 
 One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
-She also had profited from selfishness, had gotten some inclusion. 
-She had an effect on his being relegated. 
+She also had profited from the selfishness and had gotten inclusion. 
+She had an effect on his being ~~relegated~~ consigned. 
 She learned if she repeated[^repeated] the ridicules done to him that she got respect from those that did them. 
-She did many ridicules, and other people feeling a force in it, joined her. 
-She eventually got power. 
+She did many ridicules, encouraged other people to help by ridiculing, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 The less fortunate people got some help. 
 Men became humbler. 
 A more peaceful age prevailed. 
-The seer (the ancestor's supervisor) having been superseded for a time got ruthless (the Bible calls this "crafty" [Gen 3:1]). 
-So self-deserving, he created a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with selfishness, and for doing so, offer them inclusion with the narcissistic men. 
+She forced the ethical code until her death. 
+But the knowledge of this impetus was kept silent, embarrassed within her. 
+This caused the seer (the ancestor's supervisor) having been superseded for a time to get ruthless and "crafty" (Gen 3:1). 
+So addicted to the preferential life, so self-deserving, he created a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to define someone as inferior, and for doing so, offer them inclusion with the narcissistic men. 
 
 The female capitulated
 
