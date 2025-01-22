@@ -25,15 +25,15 @@ She had been underwrote.
 She had got some inclusion. 
 She had an effect on his position. 
 She noticed that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
-She did many ridicules, encouraged many (mostly females) to do likewise, and eventually got power. 
+She did many ridicule of him, encouraged many (mostly females) to do likewise, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
-Men became humbler. 
+~~Men became humbler. ~~
 She helped her family member and the less fortunate people. 
 A more peaceful age prevailed. 
 ~~She forced the ethical code until her death. ~~ 
-Her family member eventually died **or** the seer felt he could tempt people again. 
-This caused the seer (the ancestor's supervisor) having been superseded for a time to get deific. 
-He got "crafty" (Gen 3:1) with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to discriminate, and for doing so, offer them inclusion with the narcissistic men. 
+~~Her family member eventually died **or** the seer felt he could tempt people again. ~~
+The seer (the ancestor's supervisor) having been superseded for a time eventually became deific. 
+He created a "crafty" (Gen 3:1) new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to discriminate, and for doing so, offer them inclusion with the narcissistic men. 
 The consequences of this were devastating on civilization. 
 The female capitulated. 
 But the knowledge of this impetus was kept silent, embarrassed within her. 
