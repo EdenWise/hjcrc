@@ -22,8 +22,8 @@ Over time, the least fortunate became severely disadvantaged and struggled for t
 One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
 She also had profited from the selfishness and had gotten inclusion. 
-She had an effect on his being ~~relegated~~ consigned. 
-She learned if she repeated[^repeated] the ridicules done to him that she got respect from those that did them. 
+She had an effect on his misfortune. 
+She noticed that if someone repeated [^repeated] the ridicules done to him that they got respect from those that did them. 
 She did many ridicules, encouraged other people to help by ridiculing, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 The less fortunate people got some help. 
