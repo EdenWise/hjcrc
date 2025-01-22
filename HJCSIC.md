@@ -33,8 +33,9 @@ She forced the ethical code until her death.
 But the knowledge of this impetus was kept silent, embarrassed within her. 
 This caused the seer (the ancestor's supervisor) having been superseded for a time to get ruthless and "crafty" (Gen 3:1). 
 So used-to the preferential life, so self-deserving, he created a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with discrimination, and for doing so, offer them inclusion with the narcissistic men. 
-
-The female capitulated
+The consequences on the less fortunate were severe. 
+Civilization lost its glue. 
+The female capitulated. 
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
 
