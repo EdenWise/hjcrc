@@ -22,8 +22,8 @@ Over time the less fortunate became more disadvantaged and struggled for their l
 One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
 She had been underwrote. 
-She got some inclusion. 
-This had an effect on his position. 
+She had got some inclusion. 
+She had an effect on his position. 
 She noticed that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
 She did many ridicules, encouraged many (mostly females) to do likewise, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
