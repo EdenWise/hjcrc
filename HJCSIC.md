@@ -30,8 +30,8 @@ She created an ethical code and warned people away from selfishness.
 Men became humbler. 
 She helped her family member and the less fortunate people.
 A more peaceful age prevailed.  
-
-She forced the ethical code until her death. 
+~~She forced the ethical code until her death. ~~ 
+Her family member eventuall died **or** the seer felt he could tempt people again. 
 But the knowledge of this impetus was kept silent, embarrassed within her. 
 This caused the seer (the ancestor's supervisor) having been superseded for a time to get ruthless and "crafty" (Gen 3:1). 
 So used-to the preferential life, so self-deserving, he created a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them with discrimination, and for doing so, offer them inclusion with the narcissistic men. 
