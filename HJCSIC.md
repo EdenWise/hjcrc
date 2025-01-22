@@ -24,7 +24,7 @@ She was a family member.
 She also had profited from the selfishness and had gotten inclusion. 
 She had an effect on his misfortune. 
 She noticed that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
-She did many ridicules, encouraged many others to help by doing likewise, and eventually got power. 
+She did many ridicules, encouraged many (mostly females) to help by doing likewise, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 Men became humbler. 
 She helped her kin and the less fortunate people... a more peaceful age prevailed.  
@@ -35,6 +35,7 @@ So used-to the preferential life, so self-deserving, he created a new rule: he, 
 The consequences on the less fortunate were severe. 
 Civilization lost its glue. 
 The female capitulated. 
+The effect of this was devastating. 
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
 
