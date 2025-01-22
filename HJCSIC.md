@@ -15,19 +15,22 @@ They created dominions.
 The narcissist's selfishness spread to many people. 
 The people got good profit from it. 
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
-*This started the political left.*
+*This started the political left.* 
 Inclusion became more necessary to survive. 
 The underwriting of the more fortunate people created numerous disadvantaged people. 
 Over time the less fortunate became more disadvantaged and struggled for their lives. 
 One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
-She also had profited from the selfishness and had gotten inclusion. 
-She had an effect on his misfortune. 
+She had been underwrote. 
+She got some inclusion. 
+This had an effect on his position. 
 She noticed that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
-She did many ridicules, encouraged many (mostly females) to help by doing likewise, and eventually got power. 
+She did many ridicules, encouraged many (mostly females) to do likewise, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 Men became humbler. 
-She helped her kin and the less fortunate people... a more peaceful age prevailed.  
+She helped her family member and the less fortunate people.
+A more peaceful age prevailed.  
+
 She forced the ethical code until her death. 
 But the knowledge of this impetus was kept silent, embarrassed within her. 
 This caused the seer (the ancestor's supervisor) having been superseded for a time to get ruthless and "crafty" (Gen 3:1). 
