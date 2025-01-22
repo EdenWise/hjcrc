@@ -8,7 +8,7 @@ Civilization started as a natural order.
 ![alt text](images/01_ages-of-civilization_eden.svg) 
 When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
-For personal safety the ancestors of the Hebrews decided to **underwrite** these men. 
+For personal safety the ancestors of the Hebrews decided to underwrite[^underwrite-def] these men. 
 They kept this knowledge largely silent... even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 They created dominions. 
@@ -85,6 +85,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
 
+[^underwrite-def]: undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
 [^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
