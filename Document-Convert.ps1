@@ -1,23 +1,24 @@
-## DOCUMENT CONVERT FROM MARKDOWN TO DOCX (AND STAMP WITH VERSION)
+## DOCUMENT CONVERT FROM MARKDOWN TO DOCX
 #
 
-## VARIABLES
-#
-$FILE_MD  = "HJCSIC.md"
-$FILE_DC  = "HJCSIC.docx"
-$REVISION = "00"
-$DATE     = Get-Date -UFormat "%Y-%m-%d"
-$YEAR     = Get-Date -UFormat "%Y"
+$FILE_MD = "HJCSIC.md"
+$FILE_DC = "HJCSIC.docx"
+$EDITION = "00"
+$DATE    = Get-Date -UFormat "%Y-%m-%d"
 
-## DOCUMENT STAMP WITH VERSION
+## APPLY DATE TO DOCUMENT.
 #
-( Get-Content -Path "$FILE_MD" ) -replace `
-  "${REVISION}_$YEAR-[0-9][0-9]-[0-9][0-9]", "${REVISION}_$DATE" `
+Get-Content -Path "$FILE_MD" | ForEach-Object {
+  $_ -replace "$EDITION_[2][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]", "$EDITION_$DATE" `
   | Set-Content -Path "$FILE_MD"
+}
 
-## GIT STAMP WITH VERSION
+## APPLY TAG (AS DATE) TO GIT COMMIT.
 #
-git.exe tag --annotate "${REVISION}_$DATE" --message="${REVISION}_$DATE"
+$TAG_CURRENT = git.exe tag --points-at HEAD
+if ( $TAG_CURRENT -ne "$EDITION_$DATE" ) {
+  git.exe tag --annotate "$EDITION_$DATE" --message="$EDITION_$DATE"
+}
 
 ## CONVERT
 #
