@@ -8,13 +8,13 @@ $DATE    = Get-Date -UFormat "%Y-%m-%d"
 
 ## APPLY DATE TO DOCUMENT.
 #
-( Get-Content -Path "$FILE_MD" ) -replace "$EDITION_[2][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]", "$EDITION_$DATE" | Set-Content -Path "$FILE_MD"
+( Get-Content -Path "$FILE_MD" ) -replace "${EDITION}_[2][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]", "${EDITION}_$DATE" | Set-Content -Path "$FILE_MD"
 
 ## APPLY TAG (AS DATE) TO GIT COMMIT.
 #
 $TAG_CURRENT = git.exe tag --points-at HEAD
-if ( $TAG_CURRENT -ne "$EDITION_$DATE" ) {
-  git.exe tag --annotate "$EDITION_$DATE" --message="$EDITION_$DATE"
+if ( $TAG_CURRENT -ne "${EDITION}_$DATE" ) {
+  git.exe tag --annotate "${EDITION}_$DATE" --message="${EDITION}_$DATE"
 }
 
 ## CONVERT
