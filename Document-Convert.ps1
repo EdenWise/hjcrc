@@ -8,10 +8,7 @@ $DATE    = Get-Date -UFormat "%Y-%m-%d"
 
 ## APPLY DATE TO DOCUMENT.
 #
-Get-Content -Path "$FILE_MD" | ForEach-Object {
-  $_ -replace "$EDITION_[2][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]", "$EDITION_$DATE" `
-  | Set-Content -Path "$FILE_MD"
-}
+( Get-Content -Path "$FILE_MD" ) -replace "$EDITION_[2][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]", "$EDITION_$DATE" | Set-Content -Path "$FILE_MD"
 
 ## APPLY TAG (AS DATE) TO GIT COMMIT.
 #
