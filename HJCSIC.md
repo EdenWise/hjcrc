@@ -8,7 +8,7 @@ Civilization started as a natural order.
 ![alt text](images/01_ages-of-civilization_eden.svg) 
 When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
-For personal safety the ancestors of the Hebrews decided to underwrite[^underwrite-def] these men. 
+For personal safety the ancestors of the Hebrews decided to underwrite[^underwrite-def] them. 
 They kept this knowledge largely silent... even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 They created dominions. 
@@ -17,8 +17,8 @@ The people got good profit from it.
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
 *This started the political left.* 
 Inclusion became more necessary to survive. 
-The underwriting of the more fortunate people created numerous disadvantaged people. 
-Over time the less fortunate became more disadvantaged and struggled for their lives. 
+The underwriting of the narcissists created numerous people who were less fortunate. 
+Over time the less fortunate became  and struggled for their lives. 
 One particular misfortunate became so disadvantaged a female was forced to react. 
 She was a family member. 
 She had been underwrote. 
