@@ -12,7 +12,14 @@ $DATE    = Get-Date -UFormat "%Y-%m-%d"
 
 ## APPLY TAG (AS DATE) TO GIT COMMIT.
 #
-git.exe tag --annotate "${EDITION}_$DATE" --message="${EDITION}_$DATE"
+# $TAG_CURRENT = git.exe tag --points-at HEAD
+# $TAG_CURRENT = git.exe describe --exact-match --tags
+$TAG_CURRENT = git.exe show-ref --tags "${EDITION}_$DATE"
+if ( $TAG_CURRENT -ne "${EDITION}_$DATE" ) {
+}
+if ( -not $(git.exe tag --list "${EDITION}_$DATE") ) {
+  git.exe tag --annotate "${EDITION}_$DATE" --message="${EDITION}_$DATE"
+}
 
 ## CONVERT
 #
