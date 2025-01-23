@@ -18,25 +18,26 @@ Some people intuited the underwriting and underwrote others to try and get inclu
 *This started the political left.* 
 Inclusion became more necessary to survive. 
 The underwriting of the narcissists created numerous people who were less fortunate. 
-Over time the less fortunate became  and struggled for their lives. 
-One particular misfortunate became so disadvantaged a female was forced to react. 
+Over time the less fortunate's misfortune accumulated and they struggled for their lives. 
+It built to one particular misfortunate becoming so disadvantaged a female was forced to react. 
 She was a family member. 
-She had been underwrote. 
-She had got some inclusion. 
+But she choose to get profit in the age too. 
+And she had got some inclusion. 
 She had an effect on his position. 
 She noticed that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
 She did many ridicule of him, encouraged many (mostly females) to do likewise, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
-~~Men became humbler. ~~
 She helped her family member and the less fortunate people. 
 A more peaceful age prevailed. 
+The knowledge of her impetus was kept silent; she stayed reserved. 
+After some time, the seer (the narcissist's supervisor) recognized that people were becoming selfish again.
+
 ~~She forced the ethical code until her death. ~~ 
 ~~Her family member eventually died **or** the seer felt he could tempt people again. ~~
 The seer (the ancestor's supervisor) having been superseded for a time eventually became deific. 
 He created a "crafty" (Gen 3:1) new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to discriminate, and for doing so, offer them inclusion with the narcissistic men. 
 The consequences of this were devastating on civilization. 
 The female capitulated. 
-The knowledge of her impetus was kept silent, (embarrassed?) within her. 
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
 
