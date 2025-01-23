@@ -84,6 +84,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * "eternal life"
 * Their definition of it *is literally heaven*.
 * Heaven became too obvious.
+* There is an old vow: if we work directly against the least fortunate, the political left has to give us something (often defined by the political right itself).
 
 [^underwrite-def]: undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
 [^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
@@ -125,3 +126,5 @@ Unless we all go through it together the excitement that the Jews feel will cont
 * friable: This safety only lasts as long as the seer sees need for it (generally only as long as the female has leadership).[^friable]
 
 * A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership. 
+
+## Things
