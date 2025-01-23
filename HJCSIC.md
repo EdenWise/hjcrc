@@ -29,10 +29,11 @@ She did many ridicule of him, encouraged many (mostly females) to do likewise, a
 She created an ethical code and warned people away from selfishness. 
 She helped her family member and the less fortunate people. 
 A more peaceful age prevailed. 
-The knowledge of her impetus was kept silent; she stayed reserved. 
-After some time, the people began putting themselves first again. 
-The seer having been superseded for a time eventually became deific. 
-He created a "crafty" (Gen 3:1) new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to discriminate, and for doing so, offer them inclusion with the narcissistic men. 
+The knowledge of her impetus though was kept silent; she stayed reserved. 
+After some time, the people began forgetting about less fortunate people  
+This caused the seer (the narcissist's supervisor), having been superseded for a time, to get ruthless. 
+So used-to the preferential life, so self-deserving, he got "crafty" (Gen 3:1) with a new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to discriminate, and for doing so, offer them inclusion with the narcissistic men. 
+**is this crafty???, worth mentioning? crafty seems more "she" preventing people from returning to Eden**
 The consequences of this were devastating on civilization. 
 The female capitulated. 
 
