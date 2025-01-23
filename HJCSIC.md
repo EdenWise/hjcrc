@@ -30,11 +30,8 @@ She created an ethical code and warned people away from selfishness.
 She helped her family member and the less fortunate people. 
 A more peaceful age prevailed. 
 The knowledge of her impetus was kept silent; she stayed reserved. 
-After some time, the seer (the narcissist's supervisor) recognized that people were becoming selfish again.
-
-~~She forced the ethical code until her death. ~~ 
-~~Her family member eventually died **or** the seer felt he could tempt people again. ~~
-The seer (the ancestor's supervisor) having been superseded for a time eventually became deific. 
+After some time, the people began putting themselves first again. 
+The seer having been superseded for a time eventually became deific. 
 He created a "crafty" (Gen 3:1) new rule: he, a seer, was allowed to approach civilization's least fortunate citizens, tempt them to discriminate, and for doing so, offer them inclusion with the narcissistic men. 
 The consequences of this were devastating on civilization. 
 The female capitulated. 
