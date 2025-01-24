@@ -30,8 +30,8 @@ She encouraged others to do likewise.
 She eventually obtained leadership. 
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
-A more peaceful age prevailed. 
-
+A more peaceful age lasted for a bit but her son eventually died. 
+The impetus to help dissolved. 
 
 The knowledge of her impetus though was kept silent; she stayed reserved. 
 After some time, the people began forgetting about the less fortunate people. 
