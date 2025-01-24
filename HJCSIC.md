@@ -24,8 +24,8 @@ She was his mother.
 She followed the profit of the age. 
 She created some inclusion. 
 She had an effect on his position. 
-She noted that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
-She did many ridicules of him, encouraged others (mostly females) to do likewise, and eventually got power. 
+She began repeating[^repeating] the ridicules done to him noticing that she got respect from the people that did them. 
+She encouraged others to do likewise (mostly females), and eventually obtained leadership. 
 She created an ethical code and warned people away from selfishness. 
 She helped her family member and the less fortunate people. 
 A more peaceful age prevailed. 
@@ -84,7 +84,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * There is an old vow: if we work directly against the least fortunate, the political left has to give us something (often defined by the political right itself).
 
 [^underwrote]: Undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
-[^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
+[^repeating]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
 [^smart]: ``BLANK`` She forced her own inclusion and some other females largely with mentality. They were part of the upper/safer class and knew the narcissistic men. The Bible says these acts made them feel smart.
