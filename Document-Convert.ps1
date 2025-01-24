@@ -14,6 +14,7 @@ $DATE    = Get-Date -UFormat "%Y-%m-%d"
 #
 if ( -not $(git.exe tag --list "${EDITION}_$DATE") ) {
   git.exe tag --annotate "${EDITION}_$DATE" --message="${EDITION}_$DATE"
+  if ( $? ) { echo "Git: Tagged revision as: ${EDITION}_$DATE" }
 }
 
 ## CONVERT
