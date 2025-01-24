@@ -31,12 +31,10 @@ She eventually obtained leadership.
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
 A more peaceful age lasted for a bit but the stress shortened her son's life. 
-The knowledge of the impetus for the golden age was kept quiet (people wanting to preserve distinction and it dissolved). 
+The impetus for the golden age was kept quiet (people wanted to preserve distinction and it dissolved). 
+The seer (the narcissist's supervisor), having been superseded for a time, got vicious (the Bible calls this "crafty" [Gen 3:1]). 
+He repeated her visiting the less fortunate, tempted them to discriminate against another less fortunate, and for doing so, offer them inclusion with the narcissistic men. 
 
-
-The knowledge of her impetus though was kept silent; she stayed reserved. 
-After some time, the people began forgetting about the less fortunate people. 
-This caused the seer (the narcissist's supervisor), having been superseded for a time, to get real selfish (the Bible calls this "crafty" [Gen 3:1]). 
 He followed her helping the least fortunate citizens. 
 He *repeated* her offer of help and changed one facet of it: he tempted them to discriminate against a less fortunate, and for doing so, offer them inclusion (with the narcissistic men). 
 **is this crafty???, worth mentioning? crafty seems more "she" preventing people from returning to Eden**
