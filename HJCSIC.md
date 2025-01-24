@@ -33,9 +33,9 @@ She helped the less fortunate.
 A more peaceful age lasted for a bit but the stress shortened her son's life. 
 The impetus for the golden age was kept quiet (people wanted to preserve distinction and it dissolved). 
 The seer (the narcissist's supervisor), having been superseded for a time, got vicious (the Bible calls this "crafty" [Gen 3:1]). 
-He repeated her visiting the less fortunate, tempted them to discriminate against another less fortunate (**label people as lesser**), and for doing so, offer them inclusion with the narcissistic men. 
+He repeated her visits to the less fortunate, tempted them to label people as lessers (discriminate), and for doing so, offer them inclusion with the narcissistic men. 
 The tempted turned on those that were aiding them. 
-The female capitulated. 
+The help balked.  
 
 **is this crafty???, worth mentioning? crafty seems more "she" preventing people from returning to Eden**
 The consequences of this were devastating on civilization. 
