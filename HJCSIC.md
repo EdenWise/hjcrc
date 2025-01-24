@@ -33,13 +33,12 @@ She helped the less fortunate.
 A more peaceful age lasted for a bit but the stress shortened her son's life. 
 The impetus for the golden age was kept quiet (people wanted to preserve distinction and it dissolved). 
 The seer (the narcissist's supervisor), having been superseded for a time, got vicious (the Bible calls this "crafty" [Gen 3:1]). 
-He repeated her visiting the less fortunate, tempted them to discriminate against another less fortunate, and for doing so, offer them inclusion with the narcissistic men. 
+He repeated her visiting the less fortunate, tempted them to discriminate against another less fortunate (**label people as lesser**), and for doing so, offer them inclusion with the narcissistic men. 
+The tempted turned on those that were aiding them. 
+The female capitulated. 
 
-He followed her helping the least fortunate citizens. 
-He *repeated* her offer of help and changed one facet of it: he tempted them to discriminate against a less fortunate, and for doing so, offer them inclusion (with the narcissistic men). 
 **is this crafty???, worth mentioning? crafty seems more "she" preventing people from returning to Eden**
 The consequences of this were devastating on civilization. 
-The female capitulated. 
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
 
