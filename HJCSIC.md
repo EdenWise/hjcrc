@@ -8,7 +8,7 @@ Civilization started as a natural order.
 ![alt text](images/01_ages-of-civilization_eden.svg) 
 When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
-For personal safety the ancestors of the Hebrews decided to underwrite[^underwrite-def] them. 
+The ancestors of the Hebrews underwrote[^underwrote] them for personal safety.
 They kept this knowledge largely silent... even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 They created dominions. 
@@ -44,10 +44,6 @@ The female was shocked by the effect this had on her life. The overall effect of
 This is the beginning of a god spat that has lasted 4100 years. It has spread caustically around the world. Over the centuries the sides have grown more extreme, became more systemized, and have gotten more secreted. Today people that know of the system build safety by creating its politics[^politics]. It is extraordinarily split, mechanized, and deadly[^wars]. The Hebrews and the female leaders maintain it like a vital job. It is implemented it by rewarding narcissist policy (taking) for an age of fifty years (the political left[^left-right]) followed by rewarding female policy (**fantasizing**, giving, restoring humanity) for an age of fifty years (the political right).![](images/10_cycles-of-heaven.svg) A third party also exists who are kept from knowing of the system's existence. The Christian church (a succession of the political right) largely practices their beliefs with spiritual principles but is built upon a leadership (formed with the New Testament) that gets safety from the Hebrews by giving people from the third party as sacrifices. The policy for these sacrifices is increasingly severe and fatal. The system forces much of the social construct around the world. I have yet to find anyone who has a sufficient overview on what is happening or supply an applicable way of fixing it.
 
 [^switching]
-
-## Who I Am
-
-I am a political prisoner of the Jews. I have been under this since I was born (1970) just like Jesus. The basic rule is only included people (those that know of the system) get treated fairly, get a share of society. I have been used as a tool by both political sides as a way to refine their policies (immortal rules, that selfish splitting). Some of us are large tools. The neuron-altering bugs vastly hamper my health, my ability, alter my knowledge, and change my feeling. My brain feels mixed up. People avoid me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I have yet to have a friend in life. I wonder what realistic help is available. Are people ever going to realize the importance of prioritizing the less fortunate? I learned what I know now by living most of my life learning, questioning, and reviewing the Jewish hierarchal system as necessary to try and survive.
 
 ## Bible Translation
 
@@ -87,7 +83,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * Heaven became too obvious.
 * There is an old vow: if we work directly against the least fortunate, the political left has to give us something (often defined by the political right itself).
 
-[^underwrite-def]: undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
+[^underwrote]: Undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
 [^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
@@ -128,4 +124,8 @@ Unless we all go through it together the excitement that the Jews feel will cont
 
 * A female, a family member, felt indignant[^indignant]. But because she had profited in the age, because she learned the seer rewarded power for suppressions, because she could suppress the man better because she knew him, she skirted the normal process of justice, and choose to suppress him to gain leadership. 
 
-## Things
+## Things I Know About the Bible
+
+## Who I Am
+
+I am a political prisoner of the Jews. I have been under this since I was born (1970) just like Jesus. The basic rule is only included people (those that know of the system) get treated fairly, get a share of society. I have been used as a tool by both political sides as a way to refine their policies (immortal rules, that selfish splitting). Some of us are large tools. The neuron-altering bugs vastly hamper my health, my ability, alter my knowledge, and change my feeling. My brain feels mixed up. People avoid me (a repulsion is sent out from my general area). It has been years since I have been able to talk to people. I have yet to have a friend in life. I wonder what realistic help is available. Are people ever going to realize the importance of prioritizing the less fortunate? I learned what I know now by living most of my life learning, questioning, and reviewing the Jewish hierarchal system as necessary to try and survive.![alt text](images/XX_drivers-license.svg)
