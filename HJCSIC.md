@@ -13,10 +13,10 @@ They kept this knowledge largely silent... even from the narcissistic men.
 The narcissists became spoiled and immobile in their thinking. 
 They created dominions. 
 The narcissist's selfishness spread to many people. 
-The people got good profit from it. 
+Those people got good profit from it. 
 Some people intuited the underwriting and underwrote others to try and get inclusion. 
 *This started the political left.* 
-Inclusion became more necessary to survive. 
+People started needing inclusion as a means to survive. 
 The underwriting of the narcissists created numerous people who were less fortunate. 
 Over time the less fortunate's misfortune accumulated and they struggled for their lives. 
 It built to one particular misfortunate becoming so disadvantaged a female was forced to react. 
