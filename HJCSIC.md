@@ -14,21 +14,22 @@ The narcissists became spoiled and immobile in their thinking.
 They created dominions. 
 The narcissist's selfishness spread to many people. 
 Those people got good profit from it. 
-Some people intuited the underwriting and underwrote others to try and get inclusion. 
+Some people intuited the underwriting and began to do likewise to try and get inclusion. 
 *This started the political left.* 
 People started needing inclusion as a means to survive. 
 The underwriting of the narcissists created numerous people who were less fortunate. 
-Over time the less fortunate's misfortune accumulated and they struggled for their lives. 
-It built to one particular misfortunate becoming so disadvantaged a female was forced to react. 
-She was a family member. 
-But she choose to get profit in the age too. 
-And she had got some inclusion. 
+Over time the misfortunate accumulated and they struggled for their lives. 
+The misfortune built to one particular person becoming so disadvantaged a female was forced to react. 
+She was his mother. 
+But she choose the profit of the age too. 
+She acquired some inclusion. 
 She had an effect on his position. 
-She noticed that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
-She did many ridicule of him, encouraged many (mostly females) to do likewise, and eventually got power. 
+She noted that if someone repeated[^repeated] the ridicules done to him that they got respect from those that did them. 
+She did many ridicules of him, encouraged others (mostly females) to do likewise, and eventually got power. 
 She created an ethical code and warned people away from selfishness. 
 She helped her family member and the less fortunate people. 
 A more peaceful age prevailed. 
+
 The knowledge of her impetus though was kept silent; she stayed reserved. 
 After some time, the people began forgetting about the less fortunate people. 
 This caused the seer (the narcissist's supervisor), having been superseded for a time, to get real selfish (the Bible calls this "crafty" [Gen 3:1]). 
