@@ -30,8 +30,9 @@ She encouraged others to do likewise.
 She eventually obtained leadership. 
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
-A more peaceful age lasted for a bit but her son eventually died. 
-The impetus to help dissolved. 
+A more peaceful age lasted for a bit but the stress shortened her son's life. 
+The knowledge of the impetus for the golden age was kept quiet (people wanting to preserve distinction and it dissolved). 
+
 
 The knowledge of her impetus though was kept silent; she stayed reserved. 
 After some time, the people began forgetting about the less fortunate people. 
