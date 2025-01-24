@@ -2,7 +2,7 @@
 
 *To be a citizen is challenging duty---a hierarchy exists where inclusion requires capitalizing on fortune.*
 
-# How the Judeo-Christian System Influences Civilization [^Information]
+# The Judeo-Christian System and How It Influences Civilization [^Information]
 
 Civilization started as a natural order. 
 ![alt text](images/01_ages-of-civilization_eden.svg) 
@@ -15,20 +15,20 @@ They created dominions.
 The narcissist's selfishness spread to many people. 
 They got good profit from it. 
 Some people intuited the underwriting. 
-They began to underwrite as well to try and get inclusion. 
-People started needing inclusion as a means to survive. 
+They began to underwrite too so that they could get inclusion. 
+Inclusion became more necessary as a means to survive. 
 *This started the political left.* 
-The underwriting of the narcissists created numerous people who were less fortunate. 
-Over time the less fortunate accumulated.
-The selfishness accumulated and they struggled for their lives. 
-The misfortune built to one particular person becoming so disadvantaged a female was forced to react. 
+The underwriting created numerous people who were less fortunate. 
+The disadvantage accumulated and they struggled for their lives. 
+The discrepancy built to one particular person becoming so disadvantaged a female was forced to react. 
 She was his mother. 
-She followed the profit of the age. 
-She created some inclusion. 
+She had profited in the age. 
+She had gotten some inclusion. 
 She had an effect on his position. 
-She began repeating[^repeating] the ridicules done to him noticing that she got respect from the people that did them. 
-She encouraged others to do likewise (mostly females), and eventually obtained leadership. 
-She created an ethical code and warned people away from selfishness. 
+Noticing that respect could be obtained from the people that the did ridicules to him, she repeated[^repeated] their ridicules. 
+She encouraged others to do likewise. 
+She eventually obtained leadership. 
+From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
 A more peaceful age prevailed. 
 
@@ -87,7 +87,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * There is an old vow: if we work directly against the least fortunate, the political left has to give us something (often defined by the political right itself).
 
 [^underwrote]: Undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
-[^repeating]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
+[^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
 [^smart]: ``BLANK`` She forced her own inclusion and some other females largely with mentality. They were part of the upper/safer class and knew the narcissistic men. The Bible says these acts made them feel smart.
