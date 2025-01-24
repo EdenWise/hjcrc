@@ -27,8 +27,9 @@ She had an effect on his position.
 She began repeating[^repeating] the ridicules done to him noticing that she got respect from the people that did them. 
 She encouraged others to do likewise (mostly females), and eventually obtained leadership. 
 She created an ethical code and warned people away from selfishness. 
-She helped her family member and the less fortunate people. 
+She helped the less fortunate. 
 A more peaceful age prevailed. 
+
 
 The knowledge of her impetus though was kept silent; she stayed reserved. 
 After some time, the people began forgetting about the less fortunate people. 
