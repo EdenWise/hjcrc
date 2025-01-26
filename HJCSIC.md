@@ -28,12 +28,13 @@ She had an effect on his position.
 She noticed that respect could be obtained from those that the did the ridicules to him. 
 She repeated[^repeated] their ridicules. 
 She encouraged others to do likewise. 
-She eventually obtained leadership. 
+She eventually obtained *leadership*. 
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
 A more peaceful age prevailed. 
-The age lasted for awhile, as long as her son's stressed life held out. 
-The impetus was kept largely quiet... safe in their distinction. 
+The age lasted for awhile... as long as her son's stressed life held out. 
+The impetus he created was kept largely quiet. 
+They found it hard to foreswear their distinction. 
 The seer (the narcissist's supervisor), having been superseded for a time, got "crafty" (Gen 3:1). 
 He repeated her visits to the less fortunate, tempted them to label other people as weaker, and for doing so, offered them some inclusion with the narcissistic men. 
 The tempted turned on those that were aiding them. 
