@@ -25,7 +25,8 @@ She was his mother.
 She had profited in the age. 
 She had gotten some inclusion. 
 She had an effect on his position. 
-Noticing that respect could be obtained from the people that the did ridicules to him, she repeated[^repeated] their ridicules. 
+She noticed that respect could be obtained from those that the did the ridicules to him. 
+She repeated[^repeated] their ridicules. 
 She encouraged others to do likewise. 
 She eventually obtained leadership. 
 From this, she created an ethical code and warned people away from selfishness. 
