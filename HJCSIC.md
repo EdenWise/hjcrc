@@ -15,7 +15,7 @@ They created dominions.
 The narcissist's selfishness spread to many people. 
 They got good profit from it. 
 Some people intuited the underwriting. 
-They began to underwrite too so that they could get inclusion. 
+They began to underwrite too, pandering for inclusion. 
 Inclusion became more necessary as a means to survive. 
 *This started the political left.* 
 The underwriting created numerous people who were less fortunate. 
@@ -30,7 +30,8 @@ She encouraged others to do likewise.
 She eventually obtained leadership. 
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
-A more peaceful age lasted for a bit but the stress shortened her son's life. 
+A more peaceful age prevailed. 
+The age lasted for awhile, as long as her son's stressed life held out. 
 The impetus for the golden age was kept quiet (people wanted to preserve distinction and it dissolved). 
 The seer (the narcissist's supervisor), having been superseded for a time, got vicious (the Bible calls this "crafty" [Gen 3:1]). 
 He repeated her visits to the less fortunate, tempted them to label people as lessers (discriminate), and for doing so, offer them inclusion with the narcissistic men. 
