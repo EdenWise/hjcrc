@@ -32,7 +32,7 @@ She eventually obtained *leadership*.
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
 A more peaceful age prevailed. 
-The age lasted for awhile... as long as her son's stressed life held out. 
+The age lasted for a while... as long as her son's stressed life held out. 
 The source of the impetus (his suffering) was kept largely quiet. 
 They found it hard to give up their distinction. 
 The seer (the narcissist's supervisor), having been superseded for a time, noticed the selfishness return and got "crafty" (Gen 3:1). 
