@@ -12,12 +12,12 @@ The ancestors of the Hebrews underwrote[^underwrote] them for personal safety.
 They kept this knowledge largely silent... even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 They created dominions. 
-The narcissist's selfishness spread to many people. 
-They got good profit from it. 
+Their selfishness infected many people. 
+The people got good profit from it. 
 Some people intuited the underwriting. 
 They began to underwrite too, pandering for inclusion. 
 Inclusion became more necessary as a means to survive. 
-*This started the political left.* 
+This started the *political left*. 
 The underwriting created numerous people who were less fortunate. 
 The disadvantage accumulated and they struggled for their lives. 
 The discrepancy built to one particular person becoming so disadvantaged a female was forced to react. 
@@ -32,9 +32,9 @@ From this, she created an ethical code and warned people away from selfishness.
 She helped the less fortunate. 
 A more peaceful age prevailed. 
 The age lasted for awhile, as long as her son's stressed life held out. 
-The impetus for the golden age was kept quiet (people wanted to preserve distinction and it dissolved). 
-The seer (the narcissist's supervisor), having been superseded for a time, got vicious (the Bible calls this "crafty" [Gen 3:1]). 
-He repeated her visits to the less fortunate, tempted them to label people as lessers (discriminate), and for doing so, offer them inclusion with the narcissistic men. 
+The impetus was kept largely quiet... safe in their distinction. 
+The seer (the narcissist's supervisor), having been superseded for a time, got "crafty" (Gen 3:1). 
+He repeated her visits to the less fortunate, tempted them to label other people as weaker, and for doing so, offered them some inclusion with the narcissistic men. 
 The tempted turned on those that were aiding them. 
 The help balked.  
 
