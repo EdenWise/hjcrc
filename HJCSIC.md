@@ -2,7 +2,7 @@
 
 *To be a citizen is challenging duty---a hierarchy exists where inclusion requires capitalizing on fortune.*
 
-# The Judeo-Christian System and How It Influences Civilization [^Information]
+# How Judeo-Christian System Influences Civilization [^Information]
 
 Civilization started as a natural order. 
 ![alt text](images/01_ages-of-civilization_eden.svg) 
