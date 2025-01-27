@@ -15,11 +15,11 @@ They created dominions.
 Their selfishness infected many people. 
 The people got good profit from it. 
 Some people intuited the underwriting. 
-They began to underwrite too, pandering for inclusion. 
-Inclusion became more necessary as a means to survive. 
+They began to underwrite as well, pandering for inclusion. 
 This started the *political left*. 
-The underwriting created numerous people who were less fortunate. 
-The disadvantage accumulated and they struggled for their lives. 
+Inclusion became more necessary as a means to survive. 
+Numerous people became poor. 
+The disadvantages accumulated and they struggled for their lives. 
 The discrepancy built to one particular person becoming so disadvantaged a female was forced to react. 
 She was his mother. 
 She had profited in the age. 
@@ -32,11 +32,11 @@ She eventually obtained *leadership*.
 From this, she created an ethical code and warned people away from selfishness. 
 She helped the less fortunate. 
 A more peaceful age prevailed. 
-The age lasted for a while... as long as her son's stressed life held out. 
-The source of the impetus (his suffering) was kept largely quiet. 
+The age lasted for as long as her son's stressed life held out. 
+The impetus of the peaceful age (his suffering) was kept largely quiet. 
 They found it hard to give up their distinction. 
-The seer (the narcissist's supervisor), having been superseded for a time, saw some selfishness and got "crafty" (Gen 3:1). 
-He repeated their visits to the less fortunate, tempted them to label other people as weaker, and for doing so, offered them some protection under the narcissists. 
+The seer (the narcissist's supervisor), having been superseded for a time, noticed the selfishness and got "crafty" (Gen 3:1). 
+He repeated their visits to the less fortunate, tempted them to label other people as weaker, and for doing so, offered them some inclusion with the narcissistic men. 
 The tempted turned on those that were aiding them. 
 The help balked.  
 
