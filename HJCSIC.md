@@ -35,8 +35,8 @@ A more peaceful age prevailed.
 The age lasted for a while... as long as her son's stressed life held out. 
 The source of the impetus (his suffering) was kept largely quiet. 
 They found it hard to give up their distinction. 
-The seer (the narcissist's supervisor), having been superseded for a time, noticed the selfishness return and got "crafty" (Gen 3:1). 
-He repeated their visits to the less fortunate, tempted them to label other people as weaker, and for doing so, offered them some protection as part of a sub-realm. 
+The seer (the narcissist's supervisor), having been superseded for a time, saw some selfishness and got "crafty" (Gen 3:1). 
+He repeated their visits to the less fortunate, tempted them to label other people as weaker, and for doing so, offered them some protection under the narcissists. 
 The tempted turned on those that were aiding them. 
 The help balked.  
 
