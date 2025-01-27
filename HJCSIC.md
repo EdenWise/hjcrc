@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2025-01-24; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC> <https://raw.githubusercontent.com/EdenWise/hjcrc/refs/heads/main/HJCSIC.md>
 
-*To be a citizen is challenging duty---a hierarchy exists where inclusion requires capitalizing on fortune.*
+*To be a citizen is challenging duty---a hierarchy mandates capitalizing on fortune for inclusion.*
 
 # How Judeo-Christian System Influences Civilization [^Information]
 
@@ -40,7 +40,6 @@ He repeated their visits to the less fortunate, tempted them to label other peop
 The tempted turned on those that were aiding them. 
 The help balked.  
 
-**is this crafty???, worth mentioning? crafty seems more "she" preventing people from returning to Eden**
 The consequences of this were devastating on civilization. 
 
 The female was shocked by the effect this had on her life. The overall effect of her counter segregated her associates from the commoners (scuttled civilization): she (the female nines) and the fours will deter sympathy of the less fortunate to her associates; will deter female leadership to any they can; and promote "enmity" to women of the seer (I hardly think this is reciprocated, as claimed). With the seer shocked she began to underwrite some commoners who retaliated the people the seer corrupted. 
