@@ -1,6 +1,6 @@
 [^Information]: Version: 00_2025-01-24; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC> <https://raw.githubusercontent.com/EdenWise/hjcrc/refs/heads/main/HJCSIC.md>
 
-*To be a citizen is challenging duty---a hierarchy mandates capitalizing on fortune for inclusion.*
+*To be a citizen is challenging duty---a hierarchy exists that mandates fortune capitalization for inclusion.*
 
 # How Judeo-Christian System Influences Civilization [^Information]
 
@@ -20,7 +20,7 @@ This started the *political left*.
 Inclusion became more necessary as a means to survive. 
 Numerous people became poor. 
 The disadvantages accumulated and they struggled for their lives. 
-The discrepancy built to one particular person becoming so disadvantaged a female was forced to react. 
+Over an era, the discrepancy built to one poor person becoming so disadvantaged a female was forced to react. 
 She was his mother. 
 She had profited in the age. 
 She had gotten some inclusion. 
