@@ -25,7 +25,7 @@ She was his mother.
 She had profited in the age. 
 She had gotten some inclusion. 
 She had an effect on his position. 
-She used the high tongue
+  She used the high tongue using the high tongue to get things...
 She noticed that respect could be obtained from those that the did the ridicules to him. 
 She repeated[^repeated] their ridicules. 
 She encouraged others to do likewise. 
