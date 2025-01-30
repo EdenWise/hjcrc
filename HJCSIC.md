@@ -1,20 +1,20 @@
 [^Information]: Version: 00_2025-01-24; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC> <https://raw.githubusercontent.com/EdenWise/hjcrc/refs/heads/main/HJCSIC.md>
 
-*To be a citizen is challenging duty---a hierarchy exists that mandates fortune capitalization for inclusion.*
+*To be a citizen is challenging duty---a hierarchy exists that mandates "capitalizing on fortune" for inclusion.*
 
 # How Judeo-Christian System Influences Civilization [^Information]
 
 Civilization started as a natural order. 
 ![alt text](images/05_ages-of-civilization_eden.svg) 
-But civilization began to be dominated by the male disposition when human beings reached the top of the food chain.
+But civilization began to be dominated by the male disposition when human beings reached the top of the food chain. 
 They became self-first/narcissistic because the checks on balance were disappearing. 
 The ancestors of the Hebrews underwrote[^underwrote] them for personal safety. 
 They kept this knowledge largely silent... even from the narcissistic men. 
 The narcissists became spoiled and immobile in their thinking. 
 They created dominions. 
 Their selfishness infected many people. 
-These people profited well during the era. 
-Some people intuited the underwriting. 
+Many people profited generously from it. 
+Some of these people intuited the underwriting. 
 They began to underwrite as well and pandered for inclusion. 
 This started the *political left*. 
 Inclusion became more necessary as a means to survive. 
