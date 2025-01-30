@@ -5,7 +5,7 @@
 # How Judeo-Christian System Influences Civilization [^Information]
 
 Civilization started as a natural order. 
-![alt text](images/01_ages-of-civilization_eden.svg) 
+![alt text](images/05_ages-of-civilization_eden.svg) 
 But civilization began to be dominated by the male disposition when human beings reached the top of the food chain.
 They became self-first/narcissistic because the checks on balance were disappearing. 
 The ancestors of the Hebrews underwrote[^underwrote] them for personal safety. 
