@@ -6,7 +6,7 @@
 
 Civilization started as a natural order. 
 ![alt text](images/01_ages-of-civilization_eden.svg) 
-When human beings reached the top of the food chain civilization began to be dominated by the male disposition. 
+But civilization began to be dominated by the male disposition when human beings reached the top of the food chain.
 Some males became self-first/narcissistic because the checks on balance were disappearing. 
 The ancestors of the Hebrews underwrote[^underwrote] them for personal safety. 
 They kept this knowledge largely silent... even from the narcissistic men. 
