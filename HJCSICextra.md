@@ -1,3 +1,66 @@
+## Order of Events
+
+**Male (God), Heaven, Flood**
+
+1) Underwriting, mostly males, usually physically: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature.
+2) "mankind in our own image"... gods... male and female
+
+**Female (Lord God), Seven**
+
+1) Failed recognition of Flood.
+2) man created.
+3) three people: Edenites, gooD, eviL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Books that Help
 
