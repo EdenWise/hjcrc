@@ -2,14 +2,15 @@
 
 **Male (God), Heaven, Flood**
 
-1) Underwriting, mostly males, usually physically: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature.
-2) "mankind in our own image"... gods... male and female
+1) Underwriting
+2) male creation: heaven/earth, day/night, water/sky, land/sea, sun/moon, man/nature.
+3) "mankind in our own image"... gods... male and female
 
 **Female (Lord God), Seven**
 
-1) Failed recognition of Flood.
-2) man created.
-3) three people: Edenites, gooD, eviL.
+1) Failed seeing source of the underwriting...
+2) but female created this too: repeat-ish of male creation; agrees with what has been built...
+4) earth, man... three types of people: lifE (Edenites), gooD, eviL.
 
 
 
