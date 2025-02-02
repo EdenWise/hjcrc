@@ -60,7 +60,18 @@
 
 
 
+## Protocols of the Meetings of the Zionist Men of Wisdom --- Summary
 
+* Source: [Protocols of the Meetings of the Zionist Men of Wisdom](https://www.gutenberg.org/files/64977/64977-h/64977-h.htm)
+* "[The document] formulate[s] a strategic plan for united action of the Jews as a nation... [for] complete political and religious domination of the world.
+* "[The document] is the result of careful thought and mature deliberation"
+* "The strategic plan of action is Machiavellian... 'might is right'... 'subjugate all government to our super-government'..."
+* "...non-Jewish states is to be broken down by the fomenting of internal revolutions...pretended efforts to obtain greater freedom and privileges for certain classes of the people... Autocratic governments, which alone are strong, must be weakened in the first instance by the introduction of liberalism..."
+* "All wars must be 'shifted to an economic basis,'..."
+* "...  international rights are to be strengthened at the expense of the national rights..."
+* "... non-Jewish states are to be further weakened by promoting false and conflicting political policies... manipulation of the press, and by the gradual elimination of free speech."
+* "... states which are unwilling to make submission to the new Jewish power, there must be no hesitation in resorting to violence, cunning, hypocrisy, bribery, fraud, and treason, or to the seizure of the property of others."
+* "... destruction of industrial prosperity... destruction of industrial prosperity..."
 
 ## Books that Help
 
