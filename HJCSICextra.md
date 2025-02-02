@@ -9,8 +9,9 @@
 **Female (Lord God), Seven**
 
 1) Failed seeing source of the underwriting...
-2) but female created this too: repeat-ish of male creation; agrees with what has been built...
-4) earth, man... three types of people: lifE (Edenites), gooD, eviL.
+2) female feels she created this too, repeat-ish of male creation; agrees with what has been built...
+3) earth, man... three types of people: lifE (Edenites), gooD, eviL.
+4) Defines some people as lesser, mortals: Adam and Eve.
 
 
 
