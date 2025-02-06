@@ -1,6 +1,6 @@
 ## New Intro?
 
-Long ago the Hebrews began underwriting people (definition from the Oxford Dictionary paraphrased: support someone usually financially so as to guarantee their success)
+Long ago the Hebrews began underwriting people (definition from the Oxford Dictionary paraphrased: support someone usually financially so as to guarantee their success). It became very popular, powerful, and profitable. But such financing had horrible consequences: it blocks most forms of natural progression, and can lay havok to those who lack being a part of its system.
 
 ## Order of Events
 
