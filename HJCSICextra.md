@@ -1,6 +1,6 @@
 ## New Intro?
 
-Long ago the Hebrews began underwriting people (definition from the Oxford Dictionary paraphrased: support someone usually financially so as to guarantee their success). It became very popular, powerful, and profitable. But such financing had horrible consequences: it blocks most forms of natural progression and can leaves those outside its system struggling for survival. For 4100 years a war has gone on between addiction of the profited
+Long ago the Hebrews began underwriting people (support someone usually financially so as to guarantee their success [definition from the Oxford Dictionary paraphrased]). It became very popular, powerful, and profitable. But such financing has horrible consequences: it blocks most forms of natural progression and can leaves those outside its system powerless with cultural development. For 4100 years the rewards of the underwriting have become so addictive they have led the Hebrews to start wars and, later, avow world dominion. a war has gone on between addiction of the profited
 
 Those people can at times fight an all-out-war against the addicted to the rewards underwriting group.
 
