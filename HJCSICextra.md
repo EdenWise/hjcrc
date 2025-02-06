@@ -1,3 +1,7 @@
+## New Intro?
+
+Long ago the Hebrews began underwriting people (definition from the Oxford Dictionary paraphrased: support someone usually financially so as to guarantee their success)
+
 ## Order of Events
 
 **Male (God), Heaven, Flood**
