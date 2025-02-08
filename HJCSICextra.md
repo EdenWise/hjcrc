@@ -9,7 +9,7 @@ In fear, the ancestors of the Hebrews underwrote[^underwrote] these men to get p
 Afraid on community punishment, they kept this knowledge largely silent (even from the narcissistic men). 
 The narcissistic men grew very spoiled and immobile in their thinking. 
 They created dominions. 
-
+But underwriting has horrible consequences, largely it makes other people pander for such inclusion.
 
 - Long ago the Hebrews began underwriting people (i.e. support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
 - It became very popular, powerful, and profitable. 
