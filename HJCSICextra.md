@@ -8,6 +8,7 @@ These men, originally larger in size, would sometimes become self-first/narcissi
 In fear, the ancestors of the Hebrews underwrote[^underwrote] these men to get personal safety. 
 Afraid on community punishment, they kept this knowledge largely silent (even from the narcissistic men). 
 The narcissistic men grew even more spoiled and immobile in their thinking. 
+They created dominions. 
 
 
 - Long ago the Hebrews began underwriting people (i.e. support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
