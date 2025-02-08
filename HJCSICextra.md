@@ -1,5 +1,12 @@
 ## New Intro?
 
+
+Civilization started as a natural order. 
+![alt text](images/05_ages-of-civilization_eden.svg) 
+However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
+These men, originally larger in size, would sometimes become self-first/narcissistic because the checks on balance were disappearing. 
+Then, in fear, the ancestors of the Hebrews began underwriting these men to get personal safety. 
+
 Long ago the Hebrews began underwriting people (i.e. support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]). It became very popular, powerful, and profitable. But such financing has horrible consequences: it blocks most forms of natural progression---cultural development can come to a halt and leave those outside the underwriting powerless. For 4100 years the rewards of the underwriting have become so addictive they have led the Hebrews to rapturously reap, start wars, and avow world domination. A resistance has formed that has slowed the progression, but has committed horrendous acts attempting to defend itself. Worse the resistance has been underwritten itself and appears to lack any knowledge of its occurrence.
 
 
