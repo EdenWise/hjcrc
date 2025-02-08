@@ -7,7 +7,7 @@ However when human beings reached the top of the food chain, civilization began 
 These men, originally larger in size, would sometimes become self-first/narcissistic because the checks on balance were disappearing. 
 In fear, the ancestors of the Hebrews underwrote[^underwrote] these men to get personal safety. 
 Afraid on community punishment, they kept this knowledge largely silent (even from the narcissistic men). 
-The narcissistic men grew even more spoiled and immobile in their thinking. 
+The narcissistic men grew very spoiled and immobile in their thinking. 
 They created dominions. 
 
 
