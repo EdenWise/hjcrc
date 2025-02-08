@@ -87,7 +87,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * Heaven became too obvious.
 * There is an old vow: if we work directly against the least fortunate, the political left has to give us something (often defined by the political right itself).
 
-[^underwrote]: Undertake to finance or otherwise support or guarantee (something) [from the Oxford Dictionary].
+[^underwrote]: Support (someone) financially or otherwise so as to guarantee success [definition paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite).
 [^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
 [^indignant]: The Hebrews call this belligerent.
