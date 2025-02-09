@@ -6,13 +6,11 @@ Civilization started as a natural order.
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, men of fortune would sometimes become narcissistic (originally, physical size had much to do with it). 
 In fear, the ancestors of the Hebrews got personal safety by underwriting[^def-unwt] these men. 
-Afraid of community retribution, they also kept this knowledge silent (even from the narcissistic men). 
-*The effects of underwriting, over time, were very good for the underwriters: the narcissistic men grew very spoiled and immobile in their thinking; they created dominions, the narcissism infected many people, the underwriting spread, and (for many) it was a profitable age.* 
-This started the political left. 
-
-Underwriting people absent of community knowledge has the effect of making those outside the underwriting feel inferior. 
-The narcissistic men grew very spoiled and immobile in their thinking. 
-They created dominions. 
+Afraid of community retribution, they kept this knowledge silent (even from the narcissistic men). 
+*The effects of underwriting, over time, were very good for the underwriters: the narcissistic men grew very spoiled and immobile in their thinking; they created dominions, the narcissism infected many people, the underwriting spread, and it was a profitable age for many.* 
+This is how the political left started. 
+Underwriting though, done silently, has the effect of making those outside the underwriting feel excluded. 
+It creates an environment where they pander for inclusion. 
 But underwriting has horrible consequences, largely it makes other people pander for such inclusion.
 
 - Long ago the Hebrews began underwriting people (i.e. support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
