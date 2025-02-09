@@ -5,8 +5,8 @@ Civilization started as a natural order.
 ![alt text](images/05_ages-of-civilization_eden.svg) 
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, men of fortune would sometimes become narcissistic (originally, physical size had much to do with it). 
-In fear, the ancestors of the Hebrews got personal safety from these men by underwriting[^def-unwt] them. 
-Also in fear of community retribution, they kept this knowledge silent (even from the narcissistic men). 
+In fear, the ancestors of the Hebrews got personal safety by underwriting[^def-unwt] these men. 
+Afraid of community retribution, they also kept this knowledge silent (even from the narcissistic men). 
 Over time, underwriting created horrible o
 Underwriting people absent of community knowledge has the effect of making those outside the underwriting feel inferior. 
 The narcissistic men grew very spoiled and immobile in their thinking. 
