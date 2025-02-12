@@ -7,12 +7,15 @@ However when human beings reached the top of the food chain, civilization began 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
 In fear of them, the ancestors of the Hebrews underwrote[^def-unwt] them. 
 To protect themselves from community retribution, they kept this knowledge silent---even from the narcissistic men. 
-The effects of the underwriting, over time, were very rewarding for the underwriters; their personal safety grew as the narcissistic men became more spoiled and immobile in their thinking; dominions were created. 
+The effects of the underwriting, over time, were very rewarding for the underwriters. 
+Their personal safety grew as the narcissistic men became more spoiled and immobile in their thinking. 
+Dominions were created. 
 The underwriting spread and people became selfish---it was a profitable age for many. 
 *This age started the political left.* 
-Underwriting though, done silently, has the effect of making those outside the underwriting feel excluded. 
-It creates an environment where they pander for inclusion. 
-But underwriting has horrible consequences, largely it makes other people pander for such inclusion.
+Underwriting though, done silently, has the horrible effects on civilization. 
+Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
+People began fighting for inclusion. 
+
 
 - Long ago the Hebrews began underwriting people (i.e. support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
 - It became very popular, powerful, and profitable. 
