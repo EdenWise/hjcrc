@@ -8,10 +8,11 @@ Because the checks on balance were disappearing, fortunate men would sometimes b
 In fear of them, the ancestors of the Hebrews underwrote[^def-unwt] them. 
 To protect themselves from community retribution, they kept this knowledge silent---even from the narcissistic men. 
 The effects of the underwriting, over time, were very rewarding for the underwriters. 
-Their personal safety grew as the narcissistic men became more spoiled and immobile in their thinking. 
+As the narcissistic men became more spoiled and immobile in their thinking, their personal safety grew. 
 Dominions were created. 
-The underwriting spread and people became selfish---it was a profitable age for many. 
-*This age started the political left.* 
+The underwriting spread and it was a profitable age for many. 
+They became addicted to the rewards. 
+*This started the political left.* 
 Underwriting though, done silently, has the horrible effects on civilization. 
 Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
 People began fighting for inclusion. 
