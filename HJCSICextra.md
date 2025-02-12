@@ -13,12 +13,12 @@ Dominions were created.
 The underwriting spread and it was a profitable age for many. 
 They became addicted to the rewards. 
 *This started the political left.* 
-Underwriting though, done silently, has the horrible effects on civilization. 
+Underwriting though, done silently, has horrible effects on civilization. 
 Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
 People began fighting for inclusion. 
 
 
-- Long ago the Hebrews began underwriting people (i.e. support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
+[^def-unwt]: Support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
 - It became very popular, powerful, and profitable. 
 But such financing has horrible consequences: it blocks most forms of natural progression---cultural development can come to a halt and leave those outside the underwriting powerless. For 4100 years the rewards of the underwriting have become so addictive they have led the Hebrews to rapturously reap, start wars, and avow world domination. A resistance has formed that has slowed the progression, but has committed horrendous acts attempting to defend itself. Worse the resistance has been underwritten itself and appears to lack any knowledge of its occurrence.
 
