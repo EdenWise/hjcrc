@@ -1,18 +1,19 @@
-## New Intro?
-
+## New Intro
 
 Civilization started as a natural order. 
 ![alt text](images/05_ages-of-civilization_eden.svg) 
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
 In fear of them, the ancestors of the Hebrews underwrote[^def-unwt] them. 
-To protect themselves from community retribution, they kept this knowledge silent---even from the narcissistic men. 
-The effects of the underwriting, over time, were very rewarding for the underwriters. 
-As the narcissistic men became more spoiled and immobile in their thinking, their personal safety grew. 
+They kept this knowledge silent (even from the narcissistic men largely) to protect themselves from community retribution. 
+The effects of the underwriting were very rewarding (power, popularity, and profit). 
+The narcissistic men became more spoiled and immobile in their thinking. 
 Dominions were created. 
-The underwriting spread and it was a profitable age for many. 
+The underwriting spread. 
+It was a profitable age for many. 
 They became addicted to the rewards. 
 *This started the political left.* 
+Rewards, though, failing to be earned, have destructive consequences to a citizen's behavior.  
 Underwriting though, done silently, has horrible effects on civilization. 
 Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
 People began fighting for inclusion. 
