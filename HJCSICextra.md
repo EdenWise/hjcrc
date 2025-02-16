@@ -7,31 +7,27 @@ Because the checks on balance were disappearing, fortunate men would sometimes b
 In fear of them, the ancestors of the Hebrews underwrote/subvented them. 
 Underwriting means to "Support someone financially or otherwise so as to guarantee success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
 The people who had money liked the effects of the underwriting. 
+The underwriting spread. 
+The underwriters were very rewarded. 
 Their personal protection grew. 
 Their influence spread. 
 Their status increased. 
 The profit was plentiful. 
-The underwriting spread to a number of people. 
 They became *addicted* to the rewards. 
 This is how the *political lef*t started. 
-
-The effects of the underwriting were very rewarding. 
-
-There is a problem that arose with the underwriting: it blocked and sometimes halted natural progress. 
+There is are problems, though, that arose with the underwriting. 
+Chiefly, it blocked and sometimes halted natural progress. 
 It limited the number of people involved. 
-
 The narcissistic men became spoiled and immobile in their thinking. 
-Dominions were created. 
+They had created dominions. 
+The underwriters kept this knowledge silent to protect themselves from community retribution. 
+People's selfishness's grew looking to get underwritten. 
 
-They kept this knowledge silent to protect themselves from community retribution. 
-
-People became selfish looking to get underwritten. 
-
-Rewards, though, failing to be earned, have destructive consequences to a citizen's behavior.  
 Underwriting though, done silently, has horrible effects on civilization. 
 Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
 People began fighting for inclusion. 
 
+Rewards, though, failing to be earned, have destructive consequences to a citizen's behavior.  
 
 [^def-unwt]: Support someone financially or otherwise so as to guarantee a success [definition paraphrased from the Oxford Dictionary]).
 - It became very popular, powerful, and profitable. 
