@@ -6,17 +6,30 @@
 
 Civilization started as a natural order. 
 ![alt text](images/05_ages-of-civilization_eden.svg) 
-But civilization began to be dominated by the male disposition when human beings reached the top of the food chain. 
-They became self-first/narcissistic because the checks on balance were disappearing. 
-The ancestors of the Hebrews underwrote[^underwrote] them for personal safety. 
-They kept this knowledge largely silent... even from the narcissistic men. 
-The narcissists became spoiled and immobile in their thinking. 
-They created dominions. 
-Their selfishness infected many people. 
-Many people profited generously from it. 
-Some of these people intuited the underwriting. 
-They began to underwrite as well and pandered for inclusion. 
-This started the *political left*. 
+However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
+Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
+In fear of them, the ancestors of the Hebrews underwrote/subvented them. 
+Underwriting means to "Support someone financially or otherwise so as to guarantee success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
+The people who had money associated with the underwriting. 
+The underwriting spread. 
+The underwriters were very rewarded. 
+Their personal protection grew. 
+Their influence spread. 
+Their status increased. 
+The profit was plentiful. 
+They became *addicted* to the rewards. 
+This is how the *political lef*t started. 
+
+Rewards, though, failing to be earned have consequences on civilization. 
+Chiefly, it reflects and sometimes halts natural progress. 
+It limits the number of people involved. 
+The narcissistic men become fantastical, spoiled, and immobile in their thinking. 
+Dominions get created. 
+People outside the underwriting become confused (the underwriting was kept silent to protect themselves from community retribution). 
+Over time, the people became selfish, needing to get underwritten to reasonably survive. 
+
+For 4100 years the rewards of the underwriting have become so addictive they have led the Hebrews to rapturously reap, start wars, and avow world domination. A ~~resistance~~ has formed that has slowed the progression, but has committed horrendous acts attempting to defend itself. Worse the resistance has been underwritten itself and appears to lack any knowledge of its occurrence.
+
 Inclusion became more necessary as a means to survive. 
 Numerous people became poor. 
 The disadvantages accumulated and they struggled for their lives. 
