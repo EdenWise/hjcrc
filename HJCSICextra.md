@@ -5,11 +5,15 @@ Civilization started as a natural order.
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
 In fear of them, the ancestors of the Hebrews underwrote[^def-unwt] them. 
-The effects of the underwriting were very rewarding (personal-protection, influence, status, profit...). 
-The underwriting spread. 
-The profit spread to a number of people. 
+Underwriting means to "Support someone financially or otherwise so as to guarantee a success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
+The effects of the underwriting were very rewarding. 
+The underwriting spread to a number of people. 
+Their personal protection grew. 
+Their influence spread. 
+Their status increased. 
+The profit was plentiful. 
 They became *addicted* to the rewards. 
-*This started the political left.* 
+This is how the *political lef*t started. 
 
 The narcissistic men became spoiled and immobile in their thinking. 
 Dominions were created. 
