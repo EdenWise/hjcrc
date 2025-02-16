@@ -22,7 +22,7 @@ It limits the number of people involved.
 The narcissistic men became fantastical, spoiled, and immobile in their thinking. 
 They created dominions. 
 People outside the underwriting become confused (the underwriting was kept silent to protect themselves from community retribution). 
-Over time, the people needed to get underwritten to reasonably survive. 
+Over time, the people became selfish, needing to get underwritten to reasonably survive. 
 
 Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
 People began fighting for inclusion. 
