@@ -8,7 +8,7 @@ Civilization started as a natural order.
 ![alt text](images/05_ages-of-civilization_eden.svg) 
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
-In fear of them, the ancestors of the Hebrews underwrote/subvented them. 
+In fear of them, the ancestors of the Hebrews underwrote[^def-subvent] subvented them. 
 Underwriting means to "Support someone financially or otherwise so as to guarantee success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
 The people who had money associated with the underwriting. 
 The underwriting spread. 
@@ -100,6 +100,7 @@ Eve is the "LORD" here. Cain, Abel, and Seth are probably associates of Eve rath
 * Heaven became too obvious.
 * There is an old vow: if we work directly against the least fortunate, the political left has to give us something (often defined by the political right itself).
 
+[^def-subvent]: As a term, underwriting, is better known, but the term subvent fits better. 
 [^underwrote]: Support (someone) financially or otherwise so as to guarantee success [definition paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite).
 [^repeated]: The system developed to repeating someone else's suppression and changing one facet of it. The repetition helps disguise the original act. Today many have the appearance of being ethical for greater disguise (e.g. "working out"...).
 [^ethics]: The underwriting spread selfish behavior among the people. When it becomes disregarding, it became sin (living outside of nature's law).
