@@ -8,9 +8,9 @@ Civilization started as a natural order.
 ![alt text](images/05_ages-of-civilization_eden.svg) 
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
-In fear of them, the ancestors of the Hebrews underwrote[^def-subvent] subvented them. 
+In fear of them, the ancestors of the Hebrews underwrote[^def-subvent] them. 
 Underwriting means to "Support someone financially or otherwise so as to guarantee success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
-The people who had money associated with the underwriting. 
+The people who had money liked the assuredness with the underwriting. 
 The underwriting spread. 
 The underwriters were very rewarded. 
 Their personal protection grew. 
