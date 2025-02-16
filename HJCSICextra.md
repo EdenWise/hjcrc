@@ -6,7 +6,7 @@ However when human beings reached the top of the food chain, civilization began 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
 In fear of them, the ancestors of the Hebrews underwrote/subvented them. 
 Underwriting means to "Support someone financially or otherwise so as to guarantee success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
-The people who had money liked the effects of the underwriting. 
+The people who had money associated with the underwriting. 
 The underwriting spread. 
 The underwriters were very rewarded. 
 Their personal protection grew. 
@@ -15,15 +15,15 @@ Their status increased.
 The profit was plentiful. 
 They became *addicted* to the rewards. 
 This is how the *political lef*t started. 
-There is are problems, though, that arose with the underwriting. 
-Chiefly, it blocked and sometimes halted natural progress. 
-It limited the number of people involved. 
-The narcissistic men became spoiled and immobile in their thinking. 
-They had created dominions. 
-The underwriters kept this knowledge silent to protect themselves from community retribution. 
-People's selfishness's grew looking to get underwritten. 
 
-Underwriting though, done silently, has horrible effects on civilization. 
+Rewards, though, failing to be earned have consequences on civilization. 
+Chiefly, it blocks and sometimes halts natural progress. 
+It limits the number of people involved. 
+The narcissistic men became fantastical, spoiled, and immobile in their thinking. 
+They created dominions. 
+People outside the underwriting become confused (the underwriting was kept silent to protect themselves from community retribution). 
+Over time, the people needed to get underwritten to reasonably survive. 
+
 Chiefly, it creates the feeling to those outside the underwriting of being excluded. 
 People began fighting for inclusion. 
 
