@@ -1,31 +1,33 @@
 [^Information]: Version: 00_2025-01-24; Online: <https://bit.ly/HJCSIC_MW> <https://bit.ly/HJCSIC> <https://raw.githubusercontent.com/EdenWise/hjcrc/refs/heads/main/HJCSIC.md>
 
-*To be a citizen is challenging duty---a hierarchy exists that mandates people capitalizing on fortune for inclusion.*
+*To be a citizen is challenging duty---a hierarchy exists that mandates people capitalizing on fortune for inclusion.* 
 
-# How Judeo-Christian System Influences Civilization [^Information]
+a hierarchy controls the rewards over natural evolution
+
+# Judeo-Christianity's Influence on Civilization[^Information]
 
 Civilization started as a natural order. 
 ![alt text](images/05_ages-of-civilization_eden.svg) 
 However when human beings reached the top of the food chain, civilization began to be dominated by the male disposition. 
 Because the checks on balance were disappearing, fortunate men would sometimes become narcissistic (originally, physical size had much to do with it). 
 In fear of them, the ancestors of the Hebrews underwrote[^def-subvent] them. 
-Underwriting means to "Support someone financially or otherwise so as to guarantee success [paraphrased from the Oxford Dictionary](https://www.oed.com/search/dictionary/?scope=Entries&q=underwrite). 
-The people who had money liked the assuredness with the underwriting. 
+To underwrite, means to is a commitment to support something (usually a person), financially or otherwise, so as to guarantee its success. 
+It was good for people that needed immediate answers. 
+They liked its effects. 
 The underwriting spread. 
-The underwriters were very rewarded. 
+The underwriters became very rewarded. 
 Their personal protection grew. 
 Their influence spread. 
 Their status increased. 
 The profit was plentiful. 
-They became *addicted* to the rewards. 
-This is how the *political lef*t started. 
+This is how the *political left* started. 
 
 Rewards, though, failing to be earned have consequences on civilization. 
-Chiefly, it reflects and sometimes halts natural progress. 
+Chiefly, it deflects and sometimes halts natural progress. 
 It limits the number of people involved. 
-The narcissistic men become fantastical, spoiled, and immobile in their thinking. 
+Also, the narcissistic people that are underwrote became *addicted* to the rewards... spoiled, and immobile in their thinking. 
 Dominions get created. 
-People outside the underwriting become confused (the underwriting was kept silent to protect themselves from community retribution). 
+The people that lack knowing of the underwriting become gradually put out, more desperate to impress others, and confused (the underwriting was kept silent to protect themselves from community retribution). 
 Over time, the people became selfish, needing to get underwritten to reasonably survive. 
 
 For 4100 years the rewards of the underwriting have become so addictive they have led the Hebrews to rapturously reap, start wars, and avow world domination. A ~~resistance~~ has formed that has slowed the progression, but has committed horrendous acts attempting to defend itself. Worse the resistance has been underwritten itself and appears to lack any knowledge of its occurrence.
